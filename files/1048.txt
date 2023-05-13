@@ -1,0 +1,68 @@
+
+About Logistics UK
+ Logistics UK, formerly the Freight Transport Association is one of the biggest business groups in the UK, representing the entire industry with members from the road, rail, sea, and air industries, as well as the buyers of freight services such as retailers and manufacturers whose businesses depend on the efficient movement of goods.
+ An effective supply chain is vital to Keep Britain Trading, directly impacting over 7 million people employed in making, selling and moving the goods that affect everyone everywhere. With Brexit, technology and other disruptive forces driving changes in the way goods move across borders and through the supply chain, logistics has never been more important to UK PLC.
+ Job Summary
+ Design, create, test and document new and amend moderately complex solutions in accordance with agreed development and security standards and processes.
+ The Full Stack Developer will work closely with the Product Owners and testers in small scrum teams to deliver the highest quality products in a timely and cost-effective manner, and also work with the Product Owners, business users, testers and first line support teams in day to day development and support activities.
+ Responsibilities
+
+Work within the various project teams developing Logistics UK’s bespoke systems.
+Design, code, test & maintain Logistics UK’s bespoke systems.
+Estimate development efforts.
+Assist in analysing and resolving defects and issues.
+Work as part of a small SCRUM team & take part in Scrum Ceremonies.
+To provide 3rd line support for in house applications.
+Take part in code reviews.
+Developing systems according to Logistics UK’s development policy and in accordance with its Security guidelines.
+Use of Azure DevOps as a Microsoft lifecycle management tool to record bugs, user stories and tasks.
+Use of Git within Azure DevOps for source control of all code project.
+Use of Microsoft’s Azure DevOps to create automated builds/releases.
+Take part in out of hours releases.
+
+Requirements
+ Essential:
+
+Performs at SFIA plus Level 3 or above.
+Proficient in designing, coding, testing & maintaining moderately complex systems.
+Passion and aptitude for both coding and creating enterprise level solutions.
+Proficient in Microsoft development technologies including C#, ASP.NET Core & Web API.
+Proficient in JavaScript including one of AngularJS or React.
+Proficient in Azure Microservices.
+Familiar with SQL.
+Familiar with Unit Testing including NUnit.
+Familiar with creating and amending Azure DevOps pipelines.
+Proficient with Visual Studio IDE.
+Be open to new ideas and flexible to change in processes and technology.
+Proficient using source control using Git.
+Familiar in Version control and branching strategies (preferably GIT).
+Strong troubleshooting skills.
+Passion for continuing education and improving code quality through interaction with others, using e learning tools and going on away days to suppliers and seminars.
+Strong time management skills with a history of meeting commitments.
+Ability to work effectively in a team environment often under pressure.
+Good verbal and written communication skills.
+
+Preferred:
+
+Proficient use of Version control using Azure DevOps and proficient in branching strategies.
+Familiar with Agile/Lean development including Scrum and Kanban.
+Proficient with Azure DevOps.
+Familiar with how to develop secure applications by avoiding common pitfalls and an understanding of the OWASP top 10.
+Familiar with Azure DevOps and how to create automated builds and releases.
+Demonstrates an understanding of the dynamics of being a trade association.
+Bachelor’s degree in computer science or related subject preferred.
+
+Benefits
+
+25 Days Holiday Plus Bank Holidays
+Christmas Working Arrangement
+Contributory Stakeholder Pension Scheme or Auto Enrolment
+Life Assurance (3 x Annual Salary)
+BUPA Health Cash Plan
+Contractual Sick Pay
+Health Assured - Free Confidential Employee Assistance Programme
+Annual Salary Review
+Employee Referral Scheme
+Values Award Recognition Scheme
+Clear Grading Structure for Progression
+

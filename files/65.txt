@@ -1,0 +1,73 @@
+
+
+Overview of BNY Mellon: 
+BNY Mellon is a global financial services company focused on helping clients manage and service their financial assets, operating in 35 countries and serving more than 100 markets. BNY Mellon is a leading provider of financial services for institutions, corporations and high-net-worth individuals, providing superior asset management and wealth management, asset servicing, issuer services, clearing services and treasury services through a worldwide client-focused team. 
+
+Overview of S.T.A.R.T Program: 
+BNY Mellon’s S.T.A.R.T program provides aspiring students with a well-rounded internship experience, providing an inside look into what it’s like to work for a global financial services organization that has been innovating and serving clients since 1784. S.T.A.R.T interns will be provided with a best-in-class experience, engaging Agile Projects while providing first-hand knowledge of our culture, people, business and impact within the marketplace. S.T.A.R.T interns will participate in a robust technical experience in JavaScript, Python, CSS, Java, and more. 
+
+Role : 2022 Student Technology, Agile & Readiness Training (S.T.A.R.T) Program - Software Developer 
+Start Date : June 2022 
+Duration : 10 weeks 
+Location : London & Manchester, United Kingdom 
+
+Candidates should be available to start the graduate program in June 2022. 
+
+Eligibility 
+
+
+To be eligible, you will be required to be a second-year student and on course for a 2:1 in your degree. 
+Technology or related degree is essential. This could include, but not limited to Computer Science, Mathematics, Data Analytics, Software Developments, Network Engineering, AI/Robotics Information Technology or other. 
+You will be focused, motivated and ready to hone your technical skills while increasing your understanding of Banking & Financial Services. 
+
+
+What can you expect? 
+
+
+Meaningful work assignments 
+Networking opportunities with peers and executives 
+Exposure to different areas of the business 
+Professional Learning Opportunities 
+Problem-solving, communications and time management training 
+Comprehensive professional etiquette and financial services fundamentals training 
+Understanding of BNY Mellon’s commitment to diversity and inclusion. 
+
+
+
+Program Overview 
+
+
+10-week (TBC) summer internship assignment within an identified line of business or division of BNY Mellon that combines learning with skill development through practical work and projects 
+Orientation/onboarding and virtual training curriculum 
+Career development and networking support from a host of senior mentors, business stakeholders and a dedicated program manager. 
+
+Program Highlights 
+
+
+Selective & small program size by design to increase personal attention and support; 
+Participants can further develop their technical and business acumen skills/expertise to enhance abilities and build networks across the organization; 
+Robust onboarding and training curriculum designed specifically for summer analysts 
+Full commitment from top-level management to make our program the premier internship/talent pipeline program within the financial services industry 
+Opportunity to apply for one of our full-time pipeline leadership programs, please see below 
+
+
+Post-Program Opportunities 
+
+
+Upon successful completion of the S.T.A.R.T program there are potential full-time employment opportunities that our S.T.A.R.T interns may apply for, subject to performance and business requirements 
+This includes, the Emerging Leaders Program (ELP), Operations Campus Analyst Program (OCAP) and Software Engineering & Technology University Program (S.E.T.U.P) and full-time direct hire roles. 
+
+Developer Primary Responsibilities: 
+
+
+Provides application software development services or technical support in relatively straightforward projects. Understands and follows the Software Development Life Cycle. Prepares and executes test plan and test data and records test results. 
+According to standard procedures writes new programs, working with basic application system designs and specifications and utilizing standard procedures and techniques. May create database queries used to retrieve data from data warehouse and performs data calculations, consolidation, and summarization. May also work on front end development. Creates additional logic leveraging standard report writer functions or application coding. Formats report output according to standard procedures 
+Designs and codes programs. Creates test transactions and runs tests to find errors and revise programs as necessary. Documents installation and operating procedures. 
+Independently codes and then interfaces with senior level developers/architects to code, test and implement application programs 
+Proposes innovative, creative technology solutions. 
+
+BNY Mellon is an Equal Employment Opportunity Employer
+ 
+
+ BNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals With Disabilities/Protected Veterans. 
+Our ambition is to build the best global team – one that is representative and inclusive of the diverse talent, clients and communities we work with and serve – and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums.

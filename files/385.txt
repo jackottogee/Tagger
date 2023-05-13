@@ -1,0 +1,62 @@
+YPS - Frontend Engineer (UK Only, Remote) 
+
+ Who Are We? 
+YourParkingSpace.co.uk (YPS) is the leading UK shared economy platform for parking. With hundreds of thousands of customers throughout the UK, YPS enables property owners to lease their parking spaces (either on a short-term or long-term basis) to earn additional revenue, whilst enabling drivers to find and pre-book parking more conveniently and more cost-effectively. Additionally, the business is the UK’s fastest-growing direct operator of car parks. This evolving model is rapidly cementing our position as the go-to business for car park operations. 
+
+ With a rapidly growing team, ongoing international expansion, recent multi-million-pound investment and hugely exciting commercial opportunities landing daily and a team of competent and hard-working colleagues, you will be joining the organisation at an extremely exciting moment in its history. 
+
+
+Role & Responsibilities:
+
+
+Work alongside a team of 2-4 front-end engineers.
+Evaluate and point out areas that we can improve in the various code bases.
+Work in an agile, collaborative environment with fellow engineers and product managers to create the best multiple platform software.
+Work towards short, mid and long-term team goals.
+Provide estimates, and contribute to planning and coordination of engineering activities.
+Ensure that quality issues and defects are appropriately identified, documented, tracked, and resolved.
+Work towards various KPIs defined by the Frontend Lead.
+Participate in the design process to understand, analyse and influence the application/service/system.
+Identify the risks and appropriate test coverage to validate new features.
+Present testing results and progress to the team lead.
+Use Jira to create tickets relating to technical implementation.
+Analyse and identify the issues found during testing, working with other engineers and/or the product team to diagnose them.
+Understand the business aspects, as well as the ways the customers are using the system, and check if the system is performing as it should be.
+Participate in meetings with the Engineering, QA, and Product teams.
+Engage with a spirit of collaboration across teams and individuals.
+ The Right Person? 
+
+
+Passion for learning and supporting colleagues.
+Keen eye for detail.
+Passion for code standards and ensuring code is consistent throughout the code base.
+Experience in writing clear, concise, and well-documented code.
+Team player, independent, out-of-the-box thinker, and self-learner.
+The ability to work in a dynamic environment which can be changed frequently.
+Good interpersonal, written, and oral communication skills in English.
+JavaScript ES6+ (minimum 2 years).
+Experience with Jira.
+Working in an Agile (Scrum) methodology.
+Working within a fast-paced environment.
+Minimum 4 years commercial experience.
+Ability to be able to communicate positively and handle conflict in a professional and tactful manner.
+Confidence in decision making and the ability to give meaningful advice towards an end goal.
+Working knowledge of Vue.js and Nuxt.js (desirable).
+Writing unit tests (desirable).
+Mobile-first development (desirable).
+Creating, and giving feedback on pull requests (desirable).
+ What you’ll get 
+
+
+Fully remote working
+24 days annual leave + this increases after 3 years, with one extra day added each year (maximum 3 additional days)
+Birthday off
+Bi-annual performance & salary reviews
+Enhanced maternity and paternity leave
+Learning and Development opportunities
+Volunteering and fundraising for our chosen charity
+Monthly parking credit, as well as free parking at the office
+Gym membership
+Mental health and well-being support
+Cycle to work and tech scheme
+Working in a company where there are no limits! If you work hard and want to achieve big things, this is the place for you

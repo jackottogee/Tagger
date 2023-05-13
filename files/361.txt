@@ -1,0 +1,47 @@
+Lit Fibre is an innovative & exciting full-fibre infrastructure company, poised to grow rapidly in targeted regions in the UK. Founded by a highly experienced, proven team with over 25 years of experience building FTTP networks in the UK, we are driven to deliver a future-proof quality network, that’s built to last. The company is ambitious and fast-paced, able to grow at speed and become a prominent provider in this expanding sector. We are like-minded individuals who are motivated by the opportunity to help the development of the business, to create and innovate in an ever-evolving environment.
+We seek an enthusiastic and talented Software Engineer who will be primarily responsible for supporting the development of our ever-expanding core components which are mostly in C#. These components are used across the different systems including customer website, Salesforce, custom software, delivery, devops and data team. All of these are vital to the smooth running of the company. This role will also have exposure to our mobile app development.
+This position reports into the Lead Software Architect and is a key role in our tech team - your input will be highly valued as we continue on our exciting journey!
+Requirements and Responsibilities
+
+The ability to get on with tasks without supervision.
+Help with the business analysis stage and make suggestions of how to implement some of the work.
+Research new technologies coming out and show the team for possible use on our systems.
+Be part of an expanding software team and take part in software planning sessions.
+
+Essential Experience and Skills
+
+C# or Python
+Git
+Rest APIs
+experience of No SQL dbs for e.g. Mongo, Raven etc
+JavaScript
+
+Desired Experience and Skills
+
+React.js
+Cloud infrastructure (Azure, AWS etc)
+Node.js
+SQL
+Xamarin (Mobile apps)
+Any GIS experience
+
+We offer a competitive package including 30-days holiday plus bank holidays, private health insurance and much more.
+Please send over your CV if you would like to find out more information and have an informal chat.
+Job Type: Full-time
+Salary: £35,000.00-£45,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Employee discount
+Life insurance
+Private medical insurance
+Sick pay
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote

@@ -1,0 +1,114 @@
+
+
+
+About Wintermute
+
+
+
+ At Wintermute our mission is to enable, empower and advance the truly decentralized world for more transparent and efficient markets and products.
+  
+
+
+ We do this by providing liquidity algorithmically across most trading venues in crypto, supporting all major centralized and decentralized trading venues, AMMs, RFQs, aggregators and chains. Wintermute is also offering best-in-class OTC products to crypto native as well as traditional financial institutions.
+  
+
+
+ Wintermute is actively participating in the building and development of the blockchain ecosystem through investments from Wintermute Ventures, partnerships and co-development with upcoming protocols and incubation of own projects. We act as official liquidity providers for a large number of the world’s highest profile blockchain projects.
+  
+
+
+ Wintermute is a hyper-growth highly profitable business with a very ambitious vision and roadmap. We manage billions of dollars in assets and trade more than $5B/day. We are backed by Lightspeed, Pantera Capital, Sino Global Capital, Blockchain.com Ventures, Avon Ventures by Fidelity Investments, DeFi Alliance and other top tier investors. We are run as a technology company, not a financial service provider, and we build our culture around core values of ambition, collaboration, entrepreneurship, transparency and meritocracy.
+   
+
+
+
+
+Working at Wintermute
+
+
+
+ We are looking for a Software Engineer specializing in Python who is passionate about building products/applications that people find useful and enjoy using. At Wintermute you will have an opportunity to grow and make direct impact on trading by developing and improving all the parts of the trading applications, while also getting advice and guidance from very experienced developers and traders, including the founders. You will get a lot of independence and responsibility right away, and you'll learn at an unprecedented speed.
+  
+
+
+ No legacy systems, no corporate bureaucracy, no multiple levels of approvals. It is up to you to make an impact. You will work alongside exceptionally sharp colleagues, learn how to write fail-safe code and improve performance and scalability of GUI and other applications, a real challenge and a rare opportunity!
+  
+
+
+ What will you work on
+
+
+
+ This role will involve working on QT based Python trading applications. A great advantage of this position is that it is varied, and it is also up to you to shape it in the direction that matches your talents and company needs. Projects may include building a brand-new trading GUI (for internal use), upgrading existing applications, designing a completely application from scratch. We will share more technical details in the interviews.
+  
+
+
+
+    You will work very closely with traders and trading platform developers. You’ll have an opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and to understand algorithmic crypto currency trading.
+  
+
+
+ We are open to experience from both personal and work-related projects. Interest in algorithmic trading is a plus.
+  
+
+
+
+Hard Skills requirements
+
+
+ Advanced knowledge of Python 3
+ Familiarity with Linux on desktops and servers
+ Experience building high-performance GUI applications (e.g., the ones working with a very large volume of live data)
+ Experience implementing client-server systems in Python
+ Understanding concepts of asynchronous IO
+ Some familiarity with C++ would be an advantage
+ Quantitative/reasoning skills
+
+
+
+
+
+
+Wintermute Offer 
+
+
+A unique opportunity to work on very interesting projects, get the level of responsibility and ownership that would be unlikely at any other project or trading firm
+ A unique opportunity to join one of the strongest and most successful technology teams globally
+ Great company culture: informal, non-hierarchical, ambitious, highly professional yet collaborative and entrepreneurial 
+A cool office in central London with a sci-fi touch
+ We support significant flexibility in regards to working from home and working hours; however, we require hard/smart work and >60% work from the office; we are unable to accept remote candidates
+ Aligned incentive structure: a significant part of your compensation is similar to that of owners - significant performance-based variable pay and the best thing - your contribution directly impacts both and the upside is unlimited
+ We offer standard perks too, like pension, private health insurance and free food, but that’s probably not the right reason to join us
+ We offer UK work permits and help in relocation
+
+
+
+
+
+
+Write to us if you
+
+
+ Love coding, love problem solving, and love seeing your products work
+ Love building things
+ Are curious about algorithmic trading and financial markets
+ Are determined, ambitious yet humble, willing to work hard and learn on the way
+ Like meritocracy and being judged by what you deliver
+ Like working like an owner and not like a 9-to-5 or contractor mentality
+ Like working in the team environment (not fully remote), at least half-time working from our London office (COVID restrictions allowing)
+
+
+
+
+
+
+Tips for a successful application
+
+
+ Only apply to us if you are genuinely interested or curious about this role; this is not for someone who is just looking for "a job"
+ Write us a short, honest, and direct message if you'd like to apply. Tell us about why you are interested in GUI/Front End development at Wintermute specifically. Do not send us generic copy paste applications, we are looking for authentic people who share our interests, values and ambitions!
+ We are able to arrange a UK visa sponsorship for the right candidates
+
+
+
+

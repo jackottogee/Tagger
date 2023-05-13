@@ -1,0 +1,57 @@
+
+
+Would you like to a career in a supportive, collaborative and innovative company?
+ Do you enjoy working as part of an enthusiastic, passionate, and collaborative team?
+
+
+ Join our IT Systems team
+ IT systems play a pivotal role in Softcat's success. As our business grows and evolves it is essential, we have a set of reliable, scalable yet flexible systems that can drive us forward.
+
+
+ Success. The Softcat Way.
+ Softcat is a £1billion+ pa turnover technology solutions business and trusted partner to names like Apple, Microsoft and Adobe. Offering a growing portfolio of services including software licensing, cyber security and IT infrastructure, we give our technical teams the tools and support to make exciting things happen. This is where to achieve more for your career.
+
+ Grow our business by hiring top talent
+ As a Developer you will join our Business Systems Team as we look to take our existing practices, solutions and use of technology to the next level.
+
+
+ As FullStack Developer, you'll be responsible for:
+
+Supporting the Solution Architects by inputting into the solution design process
+Developing a range of solutions across our web application, database, and middleware estate
+Joining daily stand ups and sprint planning / review sessions
+Testing – unit testing and peer review
+Ensuring that all development aligns with High Level Designs / Business Requirements
+
+
+
+ What we need from you
+
+Experience in C#, MVC including RESTful API development and consumption with JSON
+.NET Core
+Experience within SOA/API Architecture
+Entity Framework
+T-SQL
+Systems integration development
+Web Services development and consumption
+
+Note: this is a fixed term contract - or a day rate contract
+
+
+ Work in a way that works for you
+ We recognise that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns:
+
+Hybrid working
+Working flexible hours - flexing the times you start and finish during the day
+Flexibility around school pick up and drop offs
+
+
+
+ Working with us
+ Wherever you work, we want you to experience the freedom and autonomy to realise your potential. You will feel supported by a team that celebrates individuality, encourages different perspectives, and embraces every background.
+
+
+ Join us
+ To become part of the success story, please apply now
+ As part of our commitment to supporting, attracting and retaining the best diverse talent, Softcat is proud to partner with organisations like WORK180, My G Work and Black Young Professionals. Work 180 endorse employers that demonstrate on-going support for women at work, including offering benefits and policies that best support female employees. My G Work support us in our aim of attracting more LGBTQ+ talent. The BYP network support us in diversifying our talent pool by tapping into the black professional community.
+

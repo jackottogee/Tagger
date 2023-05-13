@@ -1,0 +1,88 @@
+ABOUT US
+Medisoft is the UK’s foremost supplier of electronic records for ophthalmology and our vision is to transform the practice of ophthalmology by means of advanced technology.
+Our systems support every aspect of ophthalmic assessment and treatment. They provide paperless working to allow instant access to patient information from any location, allowing clinicians to deliver better, safer care and rapid audits of clinical outcomes.
+Our main product, Medisoft Ophthalmology, is used routinely at over 150 hospitals worldwide to help clinical teams assess vision defects and save sight.
+Our innovative Electronic Medical Record (EMR) system, mediSIGHT®, is used by around 70 organisations. mediSIGHT® will replace Medisoft Ophthalmology as Medisoft’s flagship product, consolidating over 20 years of product development and user feedback. mediSIGHT® is localised for a number of European markets and is live in three languages currently; English, French and German.
+ABOUT YOU
+We are looking for a driven and enthusiastic person who is a natural communicator with an eye for detail, and an inquisitive, tenacious nature. Good technical ability and a proven aptitude for problem-solving are essential. You will have a key role on projects for new customers, those migrating to mediSIGHT from our older product, and existing customers implementing additional modules.
+The role requires:
+
+Working with customers’ IT teams to architect a SQL-based system implementation to achieve a proportionate balance of resilience, performance, security, maintainability against cost and effort
+At least intermediate-level T-SQL coding expertise,
+Experience of administration of Windows Server, Active Directory, Share and Folder Permissions
+Experience of configuring and troubleshooting TCP/IP networking
+Proven ability to interpret error messages, diagnose problems and coordinate complex resolutions (e.g. due to bad data, software bug, or infrastructure issue)
+Leading technical workstreams, with confidence to plan and carry-out actions, request resources, ensuring completion to quality and to schedule
+Evaluation of existing implementations, identifying incompatibilities with new products and manage the addressing of any gaps
+Working with customer integration teams to agree, implement and test data flows between systems
+Desire to use, enhance and create team processes and documentation
+Clear, accurate and assured written and verbal communication skills
+Ability to manage a changing workload with a range of importance and urgency
+Confidence to admit gaps in knowledge and to ask for information or guidance
+Collaboration with software design and engineering teams to satisfy customer requirements
+An ability to function in an environment of high complexity with limited guidance
+
+Experience or knowledge of the following would be an advantage:
+
+Hands-on experience of software implementation projects, from planning and evaluation through to BAU handover and lessons learned
+Containerisation using Docker
+Implementing or maintaining managed IT services, especially those hosted in Azure using APIs or SQL services, and automated deployment concepts and technologies
+Installation and configuration of web services in IIS, utilising certificates
+Hypervisors, and high-availability server and database architecture
+SQL Server configuration and performance investigation
+Understanding and editing XML
+A strong knowledge of web application architecture
+A background in software development, or advanced scripting/automation, e.g. using Powershell
+Healthcare IT, including HL7
+
+We don’t expect specific knowledge of ophthalmology, but we’re looking for a quick learner who will become committed to our product, our market, and how we can improve the practice of specialist eye care. Personal development is a priority for Medisoft, and we encourage our team to develop their skills.
+The role is based at our offices in Leeds (with a hybrid-working model), but occasional travel may be required.
+PACKAGE
+To attract and retain the very best talent we offer a generous package, which includes:
+
+Full time, permanent role (37.5 hours)
+Hybrid working - our flexible model requires a minimum of one day per week in the office, on average over the course of each month.
+Modern offices a short walk from Leeds Train Station
+Flexible working; core hours 10:00 – 3:00
+Free on-site gym
+Pension contributions
+Annual Team Tour
+Referral bonus scheme
+Personal development and training opportunities
+Incremental annual leave entitlement
+Buy/Sell Annual Leave Policy
+Cycle & Travel to work schemes
+
+If you think you can bring something special to our award-winning team, please apply with your current CV anda covering letter explaining what you feel you could bring to our team.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£44,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Discounted or free food
+Flexitime
+Gym membership
+Referral programme
+Sick pay
+Work from home
+
+Schedule:
+
+Day shift
+Flexitime
+Monday to Friday
+
+Ability to commute/relocate:
+
+Leeds: reliably commute or plan to relocate before starting work (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Hybrid remote in Leeds
+Application deadline: 12/05/2023Reference ID: SIS2023Flexitime

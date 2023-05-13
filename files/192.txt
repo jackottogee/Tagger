@@ -1,0 +1,36 @@
+
+In short
+ Zedify is shaking things up in the logistics sector by transforming the way first and last mile deliveries are done in cities. Our unique system for consolidated, zero emission deliveries ensures consumers get their items how and when they want, and is helping to create healthier, more liveable cities.
+
+We’re looking for Java/SpringBoot developers to work on our core technologies that are driving our mission.
+We’re innovating the whole delivery process and the tech team have the enviable role of building the software to delight our customers and provide great tools for our teams.
+We have an exciting road map and work in a collaborative, product led and customer focused team where you support others and are supported in turn.
+
+You’ll share our ideals on sustainability and ethics, have a positive attitude and be motivated to make an immediate impact. We’re a small business with big ambitions and you’ll relish the challenges and opportunities that come with this.
+ We work hard to create a workplace where everyone feels welcomed and included and treated fairly and respectfully. We believe this creates the best environment for individuals to contribute to our mission and realise their full potential. We embrace diversity and welcome applications from all members of the community.   
+The job
+ We are looking for an experienced java developer to join our small but growing tech team to help build out our core product which underpins activities to support deliveries by cargo bike.
+ The core system uses Java with Spring Boot with VueJS as our frontend. Our webapps are deployed to GCP using bitbucket pipelines. We also have a mobile app developed in Dart using Flutter.
+
+You'll work closely with the other developers and with the wider team. There is much opportunity to learn new technologies and skills in this work as we bring in new components and build up the system further.
+ Who we’re looking for
+ You’ll want to make a difference and be part of a wider team that’s excited about making our cities more liveable. Disappearing into a large organisation or doing the same thing every day doesn't appeal.
+ Your core skillset should ideally include: 
+
+3+ years of Java/Spring Boot experience and a desire to learn Vue.js,
+or 5+ years of Vue.js experience and a desire to learn Java/Spring Boot
+Work well in a highly collaborative environment where all team members are treated as equals
+Have experience with TDD or at minimum experience writing Unit tests
+Are comfortable with exploring unknown problem spaces and coming away with learnings to share with your peers 
+
+Desirable skills include:
+
+Experience with Dart/Flutter and/or Kubernetes
+Experience in the logistics sector
+
+The role can be completely remote or hybrid to suit (UK only please). We have an office in Cambridge and some occasional visits to hubs and to Cambridge will be needed although this will be rare.
+ You'll have a positive outlook and be a great team player, willing to change and adapt your work and approach to get the best results for Zedify. You'll be excited by our purpose and motivated by our impact.
+ What to expect from us
+ If you are looking for a mission-focused business in a start-up environment then Zedify may be the right place for you. You’ll get autonomy to make decisions straight away and your input will quickly make an impact and help ensure more deliveries are made with zero emissions, creating the healthier and more liveable cities of the future.
+ If you think this sounds exciting, we'd love to hear from you. Send us your cv and details of what you can bring to the team. Tell us why you are interested in this particular position and why Zedify feels like the right place for you.
+ We're committed to your ongoing professional development and you'll have time in work to attend relevant training. We can offer a competitive salary, flexible working, an EV/Bicycle salary sacrifice scheme alongside a great team culture to work with. We look forward to hearing from you!

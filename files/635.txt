@@ -1,0 +1,39 @@
+
+A growing company, ready to transform an already unique and industry-leading application. We offer a creative, agile and collaborative environment, where you can contribute to build real improvements and use your problem solving skills to be part of our disruptive plans to shape the industry.
+ This is a mainly a home based role, however, you should occasionally expect to be able to travel to our office based in Sheffield on a regular basis. There is also an option to work from our offices if you prefer this to home based work.
+ You will be a person who has worked in or has an interest in software or tech and is good at speaking with people from different backgrounds with ease. We are a friendly team and have a positive philosophy aimed at building a product which helps people and makes an impact on everyone's life.
+
+ Essential duties and responsibilities
+
+
+ Design, develop, and maintain software applications for the SaaS platform
+Collaborate with cross-functional teams, including product managers, designers, and other engineers, to deliver high-quality software products
+Write clean, maintainable, and efficient code PHP Laravel framework
+Conduct code reviews and provide feedback to other engineers
+Troubleshoot and debug issues in production systems
+Develop and maintain documentation for software systems
+Keep up-to-date with emerging trends and technologies in software engineering
+
+
+ Knowledge, skills and abilities
+
+
+
+Strong understanding of software development principles and best practices.
+PHP framework experience
+Proficient in PHP programming language and Laravel framework
+Knowledge of database technologies, such as SQL and NoSQL
+Understanding of software design patterns and architectures
+Familiarity with front-end technologies such as HTML, CSS, and JavaScript
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+Ability to write clean, maintainable, and efficient PHP Laravel code
+Experience with agile software development methodologies
+Strong debugging and troubleshooting skills
+Ability to work independently or in a team environment
+Ability to manage multiple tasks and priorities
+Ability to learn and adapt to new technologies and programming languages
+Ability to take ownership of PHP Laravel projects and deliverables
+Ability to work in a fast-paced and dynamic environment
+
+

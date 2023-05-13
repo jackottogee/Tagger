@@ -1,0 +1,61 @@
+Software Engineer
+£40,000 - £50,000
+Manchester (2 days in the office, 3 remote)
+Full Time – Permanent
+Company Overview:
+Dizplai are a growing, international creative tech business that partners with the biggest names in broadcast and sports, such as Sky, BT Sport, CBS, DAZN, and Manchester City. Our platform enables the integration of social media, messaging, and interactivity directly into the live broadcast. Our award-winning work can be seen on our website: https://dizplai.com/case-studies/. We are seeking a talented Full Stack Software Engineer to join our Technology team and help us make live broadcasts more interactive and user-friendly.
+Job Description:
+As a Software Engineer at Dizplai, you will be working alongside a creative team of developers to continuously improve and evolve products and services. In this role, you will be responsible for building and developing bespoke interactive applications and collaborating with other developers, designers, and stakeholders to ensure project success. You will take full ownership of new feature development and be proactive in identifying and resolving potential issues before they become incidents.
+Key Responsibilities:
+● Develop and improve bespoke interactive applications
+● Collaborate with other developers, designers, and stakeholders to ensure project success
+● Take full ownership of new feature development
+● Stay up to date with emerging technologies and programming trends
+● Be proactive in identifying and resolving potential issues before they become incidents
+Requirements:
+● Proven development experience using web frameworks, ideally with proficiency in JavaScript and at least a working knowledge of Node.js / Vue.js
+● Experience working with cloud-based environments such as AWS / Google
+● Strong analytical, programming, and problem-solving skills
+● Experience developing with Java
+● Ability to create and manage databases in a Linux environment
+● Proficiency in developing, deploying, and integrating apps in a Linux environment with knowledge of automation and scripting
+● Understanding of broadcast and streaming technologies
+Benefits:
+In recognition of your hard work, you will be entitled to the following benefits:
+● Company pension scheme
+● 25 days holiday per year + Bank Holidays
+● Contribution towards mobile phone and home broadband
+● Employee assistance program
+● Hybrid working - split your time between the office and home
+● Great office working environment in the creative centre of Manchester, Ancoats
+● Regular team social experiences
+At Dizplai, we have a great team with a wholesome company culture that emphasizes work-life balance, open communication, and helping each other proactively and enthusiastically. If you want to take your career to the next level while working for a company that cares about its employees and the world around them, please reach out to us today!
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£50,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Employee discount
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+Yearly bonus
+
+Ability to commute/relocate:
+
+ Manchester: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Hybrid remote in ManchesterFlexitime

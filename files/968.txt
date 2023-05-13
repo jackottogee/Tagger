@@ -1,0 +1,48 @@
+
+ServiceNow Junior Developer Knutsford
+
+  Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+  
+ As a Barclays ServiceNow Developer, you will be responsible to design and implementation of ServiceNow’s solutions. This role will work with the IT Service Management leadership, IT service owners, process owners and various service delivery groups to develop technical solutions that satisfy the business needs of the bank
+  
+ We are currently operating in a hybrid working environment, meaning that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. Please discuss the detail of the working pattern options for the role with the hiring manager.
+  
+
+What 
+will you be doing?
+ • Building technical solutions based on client's needs and process requirements
+  
+
+Delivering solutions using Agile software development processes
+Have some understanding of the “as is processes” and deliver toolset changes based on upcoming process changes
+Performing customisation or development of enhancement requests for existing ITSM/ITOM tools and processes
+Experience of end to end development activities for a specific enhancement or project as an individual contributor
+Work closely with BA’s, Architects, Testing team and process teams
+Identifying areas of process and tooling improvement and provide solutions to ensure tool is protected in process, security and performance aspects
+You will be working closely with vendor resources to meet development deadlines in case of larger projects
+
+
+
+What we’re looking for:
+ • Experience of ServiceNow web services and APIs, expertise in JavaScript, with working knowledge of Active Directory, LDAP, SSO , and Workflow Configuration
+  
+
+Knowledge of web applications, networks, protocols and email (SMTP, POP3) and working knowledge of relational databases
+Experience with Web Technologies (XML, HTML, JavaScript, Web Services, etc)
+Exposure to the follow key modules in ServiceNow is required: Incident/Problem/Change, CMDB, Discovery, Knowledge and Service (Request) Catalogue
+
+
+
+Skills that will help you in the role:
+ • ServiceNow Service Portal
+  
+
+ServiceNow IntegrationHub
+Knowledge of UI & UX concepts
+Ability to engage with stakeholders of relevant business areas
+
+
+Where will you 
+be working?
+ You will be based in Radbroke, Knutsford. The Barclays Technology Campus just outside Manchester is our tech command centre and a vital strategic powerhouse behind our global operations. The campus is set in a 64 acre self-contained site, in a beautiful green environment and it offers unrivalled facilities for work and for play. We have an onsite gym, as well as outdoor tennis, football and cricket areas, as well as onsite restaurant and coffee shops.
+ 

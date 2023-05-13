@@ -1,0 +1,78 @@
+
+
+
+
+
+Position Summary
+
+Futures First – UK, seeks an Experienced Software Developer in C++ with a strong background in derivative markets and FIX protocol to join our team. The ideal candidate should have a minimum of 5 years of experience in C++ programming and have a deep understanding of the derivative markets and FIX protocol. The Software Developer will work closely with other development teams and in-house financial market teams to design, develop, and implement efficient code for various components of the team’s low latency, high throughput production markets and research system.
+
+
+
+Job Profile
+
+
+
+
+         Design and implement a high frequency derivative markets participation platform that connects to multiple exchanges around the globe. This involves reading price information, analyzing the same and then send and manage multiple orders.
+         
+
+
+         Optimize the computational efficiency of existing algorithms to drive higher performance.
+         
+
+
+
+
+
+
+         Support, maintain, and enhance existing and new product functionality for derivative markets participation in a real-time, multi-threaded, multi-tier server architecture environment to create high / low level design for concurrent high throughput, low latency software architecture
+         
+
+
+         Collaborate with research and derivative markets participation teams to understand their requirements and translate them into technical solutions
+         
+
+
+         Work in a fast-paced environment and manage multiple priorities
+         
+
+
+         Keep abreast of new technologies and industry developments to continually enhance technical skills and knowledge
+         
+
+
+
+
+Requirements
+Education Qualifications
+
+Bachelors/Masters in Engineering, IT or Computers 
+
+Work Experience
+
+A minimum 5 years of solid modern C++ development experience and the ability to understand, write, review and debug multithreaded code is required 
+Proven experience in multi-threaded applications with a focus on performance is required 
+Experience in the trading industry (specifically market data & algorithmic trading) is strongly preferred 
+A strong background in data structures, threading and object-oriented programming. 
+
+Skill Set
+
+Strong working knowledge of Linux 
+Experience with scripting languages such as Python is a plus 
+Brilliant detail oriented problem-solving abilities as well as multi-tasking ability. 
+Passion for innovation and building systems from the ground up 
+Ability to work directly with stakeholders, understand their requirements and turn around with solutions fairly quickly 
+Develop, implement and maintain FIX protocol messaging 
+Participate in code reviews and ensure adherence to coding standards and best practices 
+
+
+
+
+       Compensation – As per market standard.
+      
+
+
+
+
+

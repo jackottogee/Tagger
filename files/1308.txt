@@ -1,0 +1,36 @@
+
+Software Engineering Manager (Node Golang TypeScript Scala Cloud) *Hybrid / London* to £130k
+ 
+Are you looking for a highly impactful and rewarding Software Engineering Manager role where you can use your skills to help students around the world receive life-changing education?
+ 
+Successful technology company that provides digital educational services to students and teachers globally is seeking a Software Engineering Manager to join their team.
+ 
+Benefits:
+
+ Up to £130k salary
+ Hybrid working (4 days a week remote)
+ 25 days holiday, private medical insurance, and restaurant & shop discounts
+
+ 
+Your Role:
+ As a Software Engineering Manager, your main role will be to lead and coach a high performing team of engineers who design, develop, and deliver new features and services for the core products and AWS estate, with the aim of providing a massively scalable, secure microservice orientated service for teachers and students worldwide. You will be responsible for the day-to-day management of the team, design and architectural decisions, and will remain hands-on coding, tackling highly complex and interesting problems.
+ 
+The company have created a hugely successful digital learning platform that is used by over 50,000 freelance teachers and students worldwide, enabling them to arrange lessons quickly and efficiently, pay for courses, and video stream lessons to students internationally. The team have also implemented AI and Machine Learning technologies to understand how each individual student learns and create tailor made learning plans.
+ 
+Office / WFH:
+ Based in London, you will be joining a technology driven company within a friendly and supportive team. The company are passionate about providing exceptional education to students and support several causes and cutting-edge research projects that improve the way people learn.
+ 
+Requirements:
+
+ You have experience managing multiple types of software engineering teams that have used multiple programming languages
+ You are open minded on tech and experience with the company's tech stack is highly desirable (Node.js, Golang, Scala, TypeScript)
+ You are flexible moving around different engineering teams if required
+ You have experience managing highly scalable systems that have performance reliability challenges
+ You have a good appreciation for how to manage live systems
+ You have excellent leadership and coaching capabilities
+ You have a genuine passion for software and coding
+
+ 
+As a Software Engineering Manager, you can expect to earn a competitive salary (up to £130k) plus benefits.
+ 
+Apply today or call to find out more about this Software Engineering Manager role.

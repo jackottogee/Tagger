@@ -1,0 +1,92 @@
+
+
+
+
+
+
+Software Engineer
+ As a member of our motivated, highly collaborative Scrum Team you will help us to develop the company’s industry standard application using state of the art Web Technologies. The widely used legacy application is used both by our R&D engineers and customers to develop, evaluate and test u-blox highly configurable GNSS receivers used by our customers for tracking, location services, automotive and IoT product solutions.
+     
+ Working on such a product is equally challenging and rewarding. Are you up for it?
+     
+ The role is available in Thalwil and Reigate.
+     
+
+Your Responsibilities 
+
+Develop software as part of a heterogenous Scrum team. Getting involved with the whole product lifecycle and in all aspects of the product development 
+Develop new and improve existing features
+ Improve the functionality, usability, architecture and quality of the software
+ Work closely with team members as well as stakeholders to achieve the best possible outcome
+
+Your Skills and Experience
+
+Programming language and tools knowledge: 
+       
+TypeScript/JavaScript
+ React frameworks (e.g. Redux)
+ HTML/CSS
+ Version control software (preferably git).
+ Continuous Integration system (preferably GitLab or Jenkins).
+ Experience with Automated testing methods and tools
+ 
+Critical thinker and problem-solving skills and strong focus on quality
+ You are a pro-active and flexible team player with the ability and motivation to work as part of a Scrum team
+ Ability to work, learn, organize independently and support your colleagues
+ Willingness to travel occasionally within Europe for a few days per year
+ At least 3 years of experience in software engineering
+ Fluent in written and spoken English
+ Higher education in relevant field
+
+Bonus Points
+
+Electron, Webpack, Asynchronous programming (e.g.: RxJS)
+ Experience in TDD, automated integration and regression testing
+ Network and IPC programming
+ Scrum and Agile methodologies
+ Cloud development (e.g. AWS, Azure or Google Cloud)
+ GNSS experience
+
+
+What are your perks? 
+
+A multicultural and international company with over 50 different nationalities 
+Project-based activities working with colleagues distributed across the globe
+ A start-up and innovation mindset while in the process of scaling-up processes and efficiencies
+ Up to 40% remote work & flexible working hours
+ Training and career growth opportunities
+ Company Short and Long term incentives
+ Nice location on the Zurich lake side, 15 min away from Zurich with public transport 
+Sport activities, “Friday beers”, barbecue, and an amazing roof terrace
+ Between 25 and 30 days of vacation a year, employee insurance contribution taken over by employer and additional contribution from the company to the pension fund, participation to public transport costs
+
+
+Learn more about u-blox and its mission by watching 
+this video
+
+
+Learn more about your future working environment within our Positioning Product Center 
+here!
+ 
+
+ We see diversity as a strength and promote a culture of inclusion among our employees. Our varied backgrounds, ideas and experiences are critical to our success. We strive to become a strong learning organization and are committed to provide our employees with equal opportunities regardless of differences such as gender, race, ethnicity, generations, belief. 
+    
+
+
+
+
+
+
+
+Applications Close Date
+
+
+
+
+ Contact
+
+    Are you interested in this challenging position within an international work environment in a successful company? Apply now! You will be working with a motivated team in an exciting technology. 
+   
+ We are looking forward to receiving your application.
+  
+

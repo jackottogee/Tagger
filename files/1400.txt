@@ -1,0 +1,40 @@
+
+Senior Software Engineer (Elasticsearch)
+
+Cambridge - Hybrid Working
+
+£75,000 - £85,000 + 28 Days Holiday, Private Healthcare, Pension, Flexible Working
+
+ This is an excellent opportunity for a talented Senior Software Engineer with experience of Elasticsearch to join an industry leading software company in a highly technical and varied role.
+ 
+ The company are a well-known leading software company who create a range of software tools for electronics applications. They have international offices all over the world and are currently recruiting for their newly formed business unit.
+ 
+ In this role you will play a key part in the newly formed business unit by taking hands-on ownership in shaping the product and ensuring that high standards are maintained. You will implement, tune and develop Elasticsearch and deploy applications to AWS/Azure using cloud-first system design and infrastructure.
+ 
+ The ideal candidate will have proven experience as a Software Engineer working with Python/Golang/C#.NET. You will have strong knowledge of Elasticsearch including working with multiple programming paradigms and languages and experience working with AWS/Azure. Any experience with GraphQL, RESTful APIs and ReactJS is advantageous but not required.
+ 
+
+The Role:
+
+
+Play a key part in the newly formed business unit by taking hands-on ownership
+Implement, tune and develop Elasticsearch
+Deploy applications to AWS/Azure using cloud-first system design and infrastructure
+Based in Cambridge, hybrid working (2/3 days a week in office)
+
+
+ The Person:
+
+
+Proven experience as a Software Engineer working with Python/Golang/C#.NET
+Experience with Elasticsearch including working with multiple programming paradigms and languages
+Any experience with GraphQL, RESTful APIs and ReactJS is advantageous but not required
+Must be commutable to Cambridge or willing to relocate
+
+ Reference Number: BBBH185654
+ 
+ To apply for this role or for to be considered for further roles, please click "Apply Now" or contact Ryan McIntyre at Rise Technical Recruitment. 
+ 
+ This vacancy is being advertised by Rise Technical Recruitment Ltd. The services of Rise Technical Recruitment Ltd are that of an Employment Agency. 
+ 
+ Rise Technical Recruitment Ltd regrets to inform that our client can only accept applications from engineering candidates who have a valid legal permit or right to work in the United Kingdom. Potential candidates who do not have this right or permit or are pending an application to obtain this right or permit should not apply as your details will not be processed.

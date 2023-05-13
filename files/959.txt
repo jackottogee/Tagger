@@ -1,0 +1,39 @@
+
+Ilir Sela started Slice with the belief that local pizzerias deserve all of the advantages of major franchises without compromising their independence. Starting with his family's pizzerias, we now empower over tens of thousands of restaurants with the technology, services, and collective power that owners need to better serve their digitally minded customers and build lasting businesses. We're growing and adding more talent to help fulfil this valuable mission. That's where you come in.
+ The Challenge to Solve
+ Backend engineers at Slice design, implement, and run in production the foundational platforms that power our applications.Your code will power services that connect pizza makers with an increasing number of pizza eaters.
+ The Role
+ In this role, you will help refine the direction of the backend team and build large scale platforms optimised for durability, latency, and fault tolerance. We're building from the ground brand new greenfield APIs, the future of scalability at Slice and the way we generate customers. You will become a resident expert of services at Slice, and help drive adoption and innovation of those services to help consumer facing engineering teams. You will be reporting directly to the new Director of Core Services.
+ The Team
+ Your day-to-day team would include a collaborative group of Golang, Python and Ruby Engineers, working remotely and/or in-person at our offices in New York City and Belfast. The backend team is the foundational layer in which others build and rely on. The team would be building and exposing APIs internally and externally. You will become a member of a rapidly growing team responsible for creating new, innovative services.
+ The Winning Recipe  
+We're looking for creative, entrepreneurial engineers who are excited to build world-class products for small business counters. These are the core competencies this role calls for:
+
+3+ years of industry experience building high quality code and services
+Backend experience in one or more languages (preferably Go, but knowledge of Ruby and Python is a big plus)
+You care about simple designs and performance
+A builder's mindset. This team is in its early days and has the opportunity to shape the new future of services at Slice
+Ownership over your solutions and autonomy in implementing them
+Enthusiasm for working with new technologies
+
+The Extras
+
+ Working at Slice comes with a comprehensive set of benefits, but here are some of the unexpected highlights:
+
+Access to medical, dental, and vision plans
+Flexible working hours
+Generous time off policies
+£200 per annum employee wellbeing allowance
+Market leading maternity and paternity schemes
+Discounts for local pizzerias (of course)
+
+The Hiring Process
+ Here's what we expect the hiring process for this role to be, should all go well with your candidacy. This entire process is expected to take 1-3 weeks to complete and you'd be expected to start on a specific date.
+
+Application
+30 minute introductory meeting
+30 minute hiring manager meeting
+Pairing Interview & Technical Interview
+Offer!
+
+Pizza brings people together. Slice is no different. We're an Equal Opportunity Employer and embrace a diversity of backgrounds, cultures, and perspectives. We do not discriminate on the basis of race, colour, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law. We are also proud members of the Diversity Mark NI initiative as a Bronze Member.

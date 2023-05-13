@@ -1,0 +1,77 @@
+Serial Affinity Ltd is looking to appoint a SQL Server DBA/Developer to join our team on a Full-Time basis at their Tech HQ in Finnieston, Glasgow.
+Offering a unique opportunity for an individual with prior experience seeking new challenges and broad database administration responsibility. The successful candidate will be responsible for monitoring, maintenance and operational support of our entire portfolio of databases including AlwaysOn High Availability. Maintain reliability, stability and data integrity of the databases. Provide support in the administration, backup, integrity and security of various SQL databases. Responsible for database tasks from software upgrades and fielding support requests, to troubleshooting. Continually assess, improve, and optimize our current database environment.
+Key Responsibilities:
+Will work with Database Administrator, Development, Infrastructure, and Management teams across all environments to ensure that the SQL Server database maintenance tasks are performed as desired, including but not limited to the following:
+
+Monitor performance of database systems resources and query throughput
+Optimize SQL Code as necessary
+Monitor and maintain database storage resources
+Monitor and maintain database backups, index rebuild/defragment, and database statistics
+SQL Server Installation, Upgrades, Migrations and Configuration
+Install database software service packs and cumulative updates as necessary
+Maintain database documentation as required
+Maintain and administer database security access
+Perform database Ad-hoc backups and restores
+Troubleshoot and resolve database connectivity issues
+Follow change management processes to implement database configuration changes
+Follow problem management processes to troubleshoot and resolve recurring issues
+Proactively monitor and respond to MSSQL database alerts.
+
+Essential Skills, Competencies, Experience and Relevant Qualifications:
+
+2 years experience as a database administrator in SQL Server environment
+2 year experience in T-SQL, DTS, SSIS package development
+1 years of SQL Server database development / programming
+Experience of administering SQL Server 2017 databases
+Experience with Monitoring & Diagnostic tools
+
+Bachelor's Degree (BS/BA) or equivalent combination of education and experience.
+Further experience and technical accreditations such as below would also be highly desirable:
+
+AlwaysOn High Availability SQL Servers
+Certification from Microsoft in Database Administration.
+Experience with other database technologies such as PostgreSQL would be beneficial
+
+It is imperative that the candidate has excellent self-motivation and communication skills with the ability to build good working relationships.
+Days & Hours to be worked:
+Mon – Friday
+37.5 Hrs Flexible working
+Required core hours:
+10am – 12 noon
+2pm – 4pm
+Salary:
+40-45k per annum dependent on experience.
+Benefits:
+
+Flexible working hours.
+Cycle to work scheme.
+Company pension scheme.
+Private medical insurance.
+Smart/Casual dress.
+Subsidised gym membership.
+Annual training & development budget
+
+Please note we do not require any agency assistance on this position.
+Job Type: Full-time
+Salary: £40,000.00-£45,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Employee discount
+Gym membership
+Life insurance
+Private medical insurance
+Referral programme
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in GLASGOW
+Reference ID: SADBA1

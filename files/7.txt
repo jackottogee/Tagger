@@ -1,0 +1,50 @@
+Vue Developer
+Pulse.io
+Hybrid Remote/Office
+Competitive Salary
+Pulse.io, part of our ONQOR Group, are currently recruiting for a Vue Developer to join the team responsible for developing our cutting-edge Predictive Sentiment Analytics tool.
+We are a Private Equity backed start-up with ambitious plans to launch our product in a way that revolutionises the marketing technology industry. To do this, we require strong talent to enable us to get the product shipped in a timely and cost-effective manner, with plans for rapid growth and expansion over the course of the next 5 years.
+Pulse will initially be designed for Marketing enhancements, leveraging Google Cloud's extensive suite of ML & AI capabilities
+Overview:
+The new frontend Vue developer will be joining a small but quickly growing team to complete on the current application scope and future application features.Their day to day will be focusing on building new application features using the existing components and maintaining good app structure as well as maintaining and optimising existing components.
+Where needed new component pages and layouts will need to be built to a high code and visual quality and documentation provided and maintained.
+Skill set:
+Vue.js, nuxt.js, node.js, scss
+chart.js , plotly, d3js
+Experience building large scale web applications.Knowledge of GCP.
+Key Requirements:
+Extensive knowledge of Vue lifecycle hooks, methods, pages, layouts, store and structure.
+Extensive experience with POST methods and async functions.
+Extensive knowledge of object oriented programming.Extensive knowledge of css and css preprocessing tools.
+Good knowledge of git.Good knowledge of node.js
+Key Responsibilities:
+Working with UX/UI Backend and data teams on new application feature sprints.Maintaining code base and documentation to application specifications.Retrieving large JSON data sets and displaying this data in complex frontend graphs.Retrieving and setting user data to the application database securely.Engaging in meetings and contributing ideas, solutions, opinions and knowledge.
+If you are looking for an opportunity to be part of a highly ambitious and fast growing team, please apply now for immediate consideration!
+Job Types: Full-time, Permanent
+Salary: Up to £60,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Flexitime
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Commission pay
+
+Ability to commute/relocate:
+
+London: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+Back-end development: 3 years (required)
+
+Work Location: Hybrid remote in LondonFlexitime

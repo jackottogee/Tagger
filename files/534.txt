@@ -1,0 +1,41 @@
+
+Our people work differently depending on their jobs and needs. From hybrid working to flexible hours, we have plenty of options that help our people to thrive.
+This role is based in the United Kingdom and as such all normal working days must be carried out in the United Kingdom.
+
+Join us as a Quantitative Developer
+
+
+ This is an opportunity to take on an exciting, new career challenge, working within our python-based platform, SODA, to develop analytical tools
+ You’ll be able to build and maintain a wide network of stakeholders of varying degrees of seniority
+ It’s a chance to have a tangible effect on our function, put your existing skills to the test and advance your career
+
+
+ What you'll do
+
+ You'll be joining our Quantitative Desk Analytics team, who're responsible for providing desk-aligned quantitative expertise across our trading businesses and capital management unit, and will perform analysis, build models and deliver front-end tools.
+
+ With your focus on capital optimisation, you'll provide models and tools to better manage our capital and play an integral role in how we measure and manage our capital usages, from pre-trade analysis to complex portfolio optimisation tools.
+
+ You’ll also:
+
+
+ Review and ensure delivery turnaround time, accuracy and quality as per agreed service level agreements
+ Take all reasonable steps to ensure quant activities are in line with our policies covering conduct, operational, and regulatory risks
+ Support existing model development solutions and contribute to the ongoing development activities
+ Define and deliver unit tests, construct software and perform integration and regression testing
+ Help with the design and management of the toolkit to make sure we deliver robust and user-friendly apps
+
+
+ The skills you'll need
+
+ To join us in this role, you'll have a Masters or Doctoral degree in a STEM subject from a premier academic institution and experience of working within a quant dev or pure dev role. A mathematical or technical background and experience of derivative pricing models would be advantageous.
+
+ Furthermore, you'll need:
+
+
+ Experience of delivering web services and user interfaces, such as Jupyter and Dash
+ Excellent problem-solving, computing and analysis skills
+ Great programming skills, specifically in Python
+
+If you need any adjustments to support your application, such as information in alternative formats or special requirements to access our buildings, or if you’re eligible under the Disability Confident Scheme please contact us and we’ll do everything we can to help.
+

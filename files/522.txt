@@ -1,0 +1,34 @@
+Technology is changing the way we work in every sector by digitalising and simplifying processes, this business is no different.
+At the forefront of the sector, my client is leading the creation of this technology and are taking over the market with their product that has been developed for over a decade.
+To continue leading, they need a Full Stack Engineer to build the next generation of their platform using Vue.js and Laravel. You will assist the team in planning and architecting new features on the AWS based infrastructure, but no two days will be the same.
+What do we need from you?
+
+PHP experience
+React, Angular, Vue.js or another MVC JavaScript framework
+Good experience with TDD and Git
+
+What can we offer you?
+
+Unlimited holidays
+Flexible working hours and remote working
+Annual company retreat, discounts scheme etc.
+£50 L&D or wellbeing voucher every month (they’re a certified Best Places to Work for Wellbeing!)
+
+Working with the best tools on some of the most advanced platforms in the industry, the list goes on for reasons that you should join them - so apply to find out more!
+Job Types: Full-time, Permanent
+Salary: Up to £60,000.00 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Work Location: RemoteFlexitime

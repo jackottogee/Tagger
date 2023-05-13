@@ -1,0 +1,64 @@
+
+ Company Description
+  CGG (www.cgg.com) is a global technology and HPC leader that provides data, products, services and solutions in Earth science, data science, sensing and monitoring. Our unique portfolio supports our clients in efficiently and responsibly solving complex digital, energy transition, natural resource, environmental, and infrastructure challenges for a more sustainable future.
+ Our expertise, specialized HPC and digital technologies support advanced and secure cloud-based workflows, expert geoscience data transformation and AI, machine learning and data science services. Today, our HPC supports over 700 users with 300 petaflops of compute power.
+
+
+
+ Job Description
+  We are looking for enthusiastic and talented Software Developers to join our team!
+ Reporting to the Programming Supervisor, you will develop and maintain the 3D data visualization tools, components, and technologies that are used for high-end geophysical data analysis. You will work to create functional and efficient application interfaces and build and release processes. You will participate in design discussions, development, and deployment in large scale state-of-the-art computing facilities across the world with a geographically dispersed developer team and user base.
+ As a Software Developer, you will collaborate with like-minded and highly qualified Researchers and Software Engineers to gather requirements, perform analysis, and design and deploy scalable visualization applications. You are expected to have a thorough understanding of technical concepts required for graphical software engineering and deployment and should be able to navigate and quickly understand complex code and systems.
+ As an integral member of our global development team, we highly encourage the contribution of ideas and drive in the generation of new concepts, to maintain our outstanding leadership position for technology and service delivery in the marketplace.
+
+
+
+ Qualifications
+  Educated to a BSc/BEng, Master’s degree or higher in Computer Science or another field with a programming emphasis, or relevant work experience
+ Key Skills & Competencies
+
+ C/C++ fluency / OpenGL/GLSL fluency
+ Object-oriented programming / API design experience
+ Debugging / profiling / optimizing experience
+ Experience with full life-cycle of development, including product release
+ Innovative mindset
+ Highly motivated and eager to learn
+ Strong communication and problem-solving skills
+
+ Preferred:
+
+ Experience with cross-platform / large scale software development
+ Experience with GUI libraries, specifically Qt
+ Experience with Linux Operating System Kernels and multi-threaded programming
+ Strong 3D math skills (linear algebra, vector math)
+ Familiar with Python/C++11/STL
+
+ Additional Information
+  Why work at CGG?
+
+ Competitive salary commensurate with experience
+ Highly attractive bonus scheme
+ Initial 22 days annual leave with future increases
+ Company pension with generous employer contribution
+ Wellbeing Unmind app – puts you in control of your mental health
+ A flexible benefits platform with numerous discount schemes - gym membership, restaurants, cinema tickets, and much more!
+ Regular social club events, spontaneous reward events throughout the year
+ Cycle purchase scheme
+ Flexible Private Medical & Dental care programmes
+
+ We are Flexible
+
+ Flexible Working – through our hybrid working scheme, we offer a flexible blend of home and office working
+ Bank Holiday Swap - our holiday swap program allows you to change it for another day of your choice!
+ Buy & Sell Holiday Programme - you can buy extra holiday, sell unused holiday or even save it up!
+ Relaxed dress code policy
+
+ Learning and Development
+ At CGG, you will have the space to grow at the pace of your passion and explore the opportunities available to those who dare and deliver.
+ Our culture of learning and complementary approach to supported or self-guided career development, enables the design of tailored courses to suit specific needs our employees to aid personal growth in areas related to technical, commercial and personal skills, via an extensive suite of CGG developed courses, managed through our own Learning Hub.
+ We Care about the Environment
+ We encourage and actively support a strong sense of community, through volunteering and various company initiatives, as well as a strong company commitment to protecting our environment through sustainable solutions, energy saving and waste reduction enterprises.
+ #LI-Hybrid
+ #LI-BN1
+
+ We see things differently. Diversity fuels our innovation, we value the unique ways in which we differ, and we are committed to equal employment opportunities for all professionals.

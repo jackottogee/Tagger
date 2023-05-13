@@ -1,0 +1,86 @@
+Software Developer (Java)
+We are Lightfoot, a high-growth technology company based just outside Exeter that is trying to make a difference worldwide, one driver at a time.
+We help businesses and private motorists improve performance and safety. Our technology has been proven to reduce fuel use and emissions rates by 10-20%, and at-fault accidents and wear and tear by 40-50%.
+Our technology connects to your vehicle’s on-board computer and uses the live data it produces to analyse how efficiently you are driving. It’s similar to the way performance is analysed in Formula 1. Lightfoot turns all that data into simple feedback for you – the driver – so you know when you’re pushing your vehicle too far and can bring it back to maximum efficiency.
+We’re a fun-loving bunch who are growing at an astonishing rate. We’ve moved into a brand-new, state-of-the-art office near Exeter and are excited to keep growing the Lightfoot family with like-minded, passionate individuals.
+Job Outline
+As a Software Developer, you will join our Engineering team focussed on server-side systems, including processing large datasets and implementing bespoke functionality. The successful candidate will be experienced with real-time data processing and optimisation, take a cautious approach towards data integrity, enjoy working as part of a team, and thrive from seeing the results of their work safely deployed into production environments.
+Responsibilities
+· Key contributions to the innovative Lightfoot products
+· Ownership of key server processes and services
+· Deployment and upkeep of relevant services
+· Ensuring low-debt, defensive, and secure solutions
+Desired qualifications, skills and experience
+· Experience using Java is essential
+· Experience reading and writing to large SQL/mySQL databases is essential
+· Experience using C++ is beneficial
+· Experience and familiarity with cloud platforms is beneficial
+· Experience with containerisation and orchestration (Docker, Kube) is beneficial
+· Knowledge of service-oriented architecture is beneficial
+· Experience of the full SDLC is beneficial
+· Previous DevOps experience is beneficial
+· Familiarity with building unit and regression tests is beneficial
+Personal characteristics
+· Customer-centric approach, internal and external
+· Attention to detail
+· Defensive stance regarding production environments and data
+· You will support and represent our core values: To Care, To Deliver, To Innovate
+· Ability to communicate effectively with other developers and customers
+· Comfortable working in a fast-paced collaborative environment with a large degree of autonomy
+· Initiative
+· Sense of humour
+Salary & Benefits
+· Salary £40,000 - £50,000
+· Employee annual bonus scheme
+· 24 days leave entitlement plus Bank Holidays
+· Extra day off for your birthday (this can be taken 2 weeks either side of your actual birthday)
+· Relaxed culture at Winslade Park, with free onsite parking, if onsite
+· Holiday buy back scheme
+· Company pension
+· Life Assurance
+· Health plan & Dental plan (after probation period)
+· A Lightfoot device for all employees
+Location
+· There is the opportunity for fully-remote or hybrid working (office & home working). Office space based on the outskirts of Exeter.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£50,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Employee discount
+Free parking
+Life insurance
+On-site parking
+Private dental insurance
+Private medical insurance
+Referral programme
+Sick pay
+Store discount
+Wellness programme
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Yearly bonus
+
+Ability to commute/relocate:
+
+Exeter, EX5 1FY: reliably commute or plan to relocate before starting work (preferred)
+
+Experience:
+
+writing to large SQL/mySQL databases: 2 years (preferred)
+Java: 2 years (preferred)
+
+Work authorisation:
+
+United Kingdom (preferred)
+
+Work Location: Hybrid remote in Exeter, EX5 1FY

@@ -1,0 +1,51 @@
+
+About The Role
+ We are looking to recruit a highly motivated, friendly and supportive IT Developer to join our busy team, building, enhancing and supporting browser-based software and backend solutions.
+ The role will provide development capability to ensure the smooth running and operation of the services delivered by the software team.
+ On a day-to-day basis, you will be:
+
+Engaging with business stakeholders, functions, and the wider Technology team to understand business requirements and design solutions which, in turn help to improve performance, efficiency, or quality.
+Writing solid, scalable, maintainable, and testable code with MS SQL, C #.NET and .NET Core.
+Producing accurate estimates for change requests and project deliverables.
+Participating in Daily Stand ups and other Scrum ceremonies as required.
+Defining test requirements, writing test scripts, and carrying out testing.
+Providing 3rd line support to the Service Desk as necessary.
+Other tasks as deemed necessary by the Software Development Manager.
+
+Skills, qualifications and/or experience required: (Please refer to Job description for specific duties)
+ You should also have experience in a similar role or be able to demonstrate experience and knowledge with an enthusiasm for technology and coding. You should be able to analyse and solve technical problems and have good communication and people skills with a focus on customer service.
+ You must have
+
+3+ years experience in a development role using the Microsoft stack.
+Expert in in MS SQL, C #.NET and .NET Core.
+Experience of using Microsoft Azure to build and deploy web applications.
+Understanding of Agile/Scrum methodologies.
+An understanding of using version control (e.g. GIT) and branching strategies.
+Prior use of Microsoft PowerBI is desirable.
+Familiarity with CI/CD or TDD tools is also desirable.
+Good communication skills to discuss the requirements effectively with both the client and development teams.
+
+
+The benefits of joining Compass Fostering
+
+Career Development - We offer many career paths, recognising hard work & supporting you into senior roles.
+Competitive Salary - using structured pay grades based on your training and experience.
+Wellbeing – Access to therapeutic wellbeing sessions with our Therapeutic Services team.
+Bonuses – receive £200 service award on your two-year anniversary, plus up to £500 special recognition service for outstanding practice.
+Discounts & Awards - Access to our health and wellbeing support platform. Receive cashback for various medical and wellbeing appointments and treatments with our MediCash scheme, as well as the chance to win up to £150 in vouchers every month from our REACH Awards.
+Life Assurance Scheme - 3 x annual salary after successful completion of your probation review.
+Increased Holiday – 27 days increasing gradually to 30 days after 4 years’ service. 
+
+
+
+The Compass Community values equality and diversity across our workforce and aims to ensure our staff community is reflective of the diversity of the children and young people within our care. In support of this commitment we welcome applications from individuals of Black, Asian and ethnic minority backgrounds.
+
+
+
+
+  #CFLP
+ 
+ About Us Compass Fostering is a part of our wider community, providing fostering, residential, educational, and therapeutic services for the young people in our care. 
+  We are a progressive, child-centred service, putting the wellbeing of our children and young people at the front and centre of everything we do.
+ We are proud to offer good and outstanding services in all of our regions across England and Wales, championing our staff teams who help us towards these outcomes.
+ Compass are a values-based children’s service, meaning that everything we do is underpinned by our REACH approach. It stands for Resilience, Education, Acceptance, Child-centred and Holistic; it’s a framework based on resilience theory, attachment theory and aspects of social pedagogy. We believe that this helps us to provide bespoke, consistent therapeutic care for each child, whilst supporting our staff and foster carers to ensure every young person has the best possible future.

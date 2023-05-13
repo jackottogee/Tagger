@@ -1,0 +1,148 @@
+
+About the Appello Group 
+
+
+We are committed to transforming lives through technology enabled care services, blending the expertise in our monitoring centre with the latest digital technology being created by ourselves and our partners. As the UK's largest telecare monitoring and digital equipment provider, we support over 300,000 vulnerable people in our communities to live safer, happier, and more enriched lives.
+
+ Our journey of supporting housing, health and social care dates back to 24th June 1988 when we took our first emergency call from our Head Office in New Milton, Hampshire. With a team of just five employees, we were pioneers for emergency monitoring within the housing sector. Over the next decade our business grew considerably as did our team.
+
+ The Appello Group now consists of many brands, including, Appello and Careline365, all are equally pivotal in our continued growth and commitment to improving the safety and wellbeing of our communities.
+
+ Today, we operate from multiple locations across the UK, with offices in Hampshire, Wiltshire, and Norfolk, and a team of remote workers all over the UK.
+
+
+
+Position: 
+SIP Developer - Hybrid (Bracknell) 
+Up to £50,000pa dependant on experience 
+Monday - Friday 9am -5pm
+
+ Appello are looking for an accomplished developer, with excellent technical skills and experience or keen interest in the design and development of SIP-based solutions using tools such as Freeswitch. You should be experienced in designing and delivering SIP based solutions and devising integration strategies and solutions for customer safety critical environments and have a working knowledge of ODP (Open Development Platform).
+
+ You must have a passion for your chosen specialist areas and be actively striving to improve your skills, both at work and in your personal interests. You can expect to thrive in a demanding technical environment that offers challenging and rewarding development work and derive a sense of satisfaction from in getting the job done and delivering business value.
+ Requirements: 
+The ideal candidate will have the following requirements ....
+
+ Technical design and delivery of enhancements to Appello’s core product offering and hosted services.
+
+
+
+ "Hands on" development and technical leadership and the mentoring of less experienced developers. Provide technical direction and support to expand Appello’s product offering and expertise to the development team and the rest of the business.
+
+
+
+ Participate in all stages of the development lifecycle of the product, including requirements gathering, functional and technical designs, as well as programming and testing.
+
+
+
+ Act in a client-facing capacity as and when the need arises.
+
+
+
+ Offer second line assistance to the client support team, and in so doing, resolve client reported issues in a responsive and timely manner.
+
+
+
+ Identify bottlenecks and bugs, and devise solutions to these problems
+
+
+ Experience 
+Essential 
+
+SIP Telephony
+Client/Server architectures
+IP Networking technologies
+
+Desirable 
+
+Web development
+RDBMS
+Cloud technologies especially AWS
+Working knowledge of ODP (Open Development Platform)
+CentOS Linux – admin/config
+NodeJS and event-based programming
+
+Personal Attributes
+ Essential
+
+Ability to produce quality technical documentation and user guides as required
+Champion of company standards
+Leads by example
+Self motivated with a need to complete tasks
+Open, honest and trustworthy
+Positive ‘can do’ attitude
+Flexible approach to workload and deadline pressures
+A willingness to learn new skills and technologies
+Ability to prioritise / multitask
+Organised and imaginative in problem solving
+An awareness of the big picture
+
+Desirable
+
+ Strong communication skills especially when dealing with clients and including presentation skills
+
+
+ Qualifications & Training 
+Essential 
+
+3 years in a software product development environment – preferably in IP telephony.
+Ability to design and build mission critical solutions that are highly resilient, fault tolerant and scalable.
+
+Desirable 
+
+Ideally a degree in a related computer or networking discipline or suitable industry experience.
+
+
+ Skills & Special Knowledge 
+Essential 
+
+Understanding of IP telephony technologies and call routing
+VoIP SIP and RTP Telephony protocols
+NodeJS and asynchronous programming
+IP routing, TCP/UDP, Multicast
+Working knowledge of HTML/CSS/Javascript
+Security and authentication standard methodologies
+Audio and video codecs, and their common issues
+Configuration Management and automation
+Cloud-based infrastructures
+
+Desirable 
+
+Web development – HTML/CSS/Javascript
+RDBMS - MariaDB/MySQL
+Cloud technologies
+
+DHCP, DNS, TLS, SQL, IPv4/IPv6, SNMP
+ FreeSWITCH, GitHub, VMware-NSX
+ TR-069, Redis, OAuth
+ Open Source CRM
+
+SIP over UDP/TCP/TLS/WebRTC/RTP/SRTP/SDP
+Experience with large VoIP production environments
+ACD Routing
+
+
+ Other information: 
+Appello Perks what we can offer you ...
+
+25 days annual leave
+We offer you discounts on everything from groceries and shopping through to holidays, insurance, days out, restaurants and more
+24/7 employee assistance programme
+Family and friends’ discounts on our services & products
+Pension Scheme, up to 4% Company matched
+Discretionary Company Sick Pay
+Life assurance 2x annual salary
+Private Medical Insurance - Personal Cover
+
+
+
+ Ready to join our team?
+ To apply, you'll need to do the following:
+
+ Upload CV (Word doc or PDF files only) to include educational background information and work experience
+
+
+ We are committed to equal opportunities and welcome applicants regardless of religious beliefs, political opinion, race, sex, marital status, age or disability.
+ If you require assistance to participate in the recruitment process, for example due to disability, please contact the Careers Team on 01425 626337.
+
+ APPIND

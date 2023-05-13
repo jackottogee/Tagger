@@ -1,0 +1,71 @@
+Please note, in the first instance this is an in-office role.
+We're an established Energy Storage (Battery) Manufacturer based in the heart of Stoke-on-Trent, offering energy storage solutions from small-scale residential all the way to grid-scale HV systems.
+We know that a strong Development team is the key to our continued (exponential) growth, and we're looking to double this function in the coming months to support an increasing number of installations of our products and providing additional support to one of the UK’s largest renewable energy installers.
+As such, a fantastic opportunity has arisen for a Front End/Mobile Developer to join us and help us scale to the next level.
+Our app and fantastic portal is truly one of our system's unique selling points. It empowers our users to monitor and control their home energy storage system to ensure maximum self sufficiency of renewable generation and be less reliant upon the grid, all in a super user friendly format.
+We're developing the next-generation of battery charging software. It handles the charging of our energy storage system in a better way than the existing state-of-the-art solutions, whilst also integrating with some of largest energy suppliers in the country.
+About the role:
+As an experienced Developer, you'll know no two days are the same, but generally you can expect to be:
+
+Improving user experience
+Innovating and adding new features
+Listening to our users and improving our internal tooling and processes
+Deploying our mobile apps, updates and new versions
+Testing solutions on willing user groups
+Beginning to scale-up our systems as we roll out our offerings to some impressive clientele
+
+We're looking for:
+This list is by no means exhaustive, as we know a passion to grow and develop in a team of collaborative Developers is the most important quality we're looking for. It'll be a bonus for us if you can tick yes to the following, however:
+
+A passion for the environment
+An interest in working in app/front-end solutions
+A desire to progress into our Tech Lead role for the Frontend platforms
+Open-minded and love learning new technologies
+An interest in working with platforms and the interface between code, platforms and humans
+A inate enthusiasm for making the user experience simple
+A solid experience with Dart/Flutter, Html/JS
+
+Why work with us?
+In a world which feels pretty uncertain right now, there couldn’t be a better time to join the thriving energy battery storage industry as it charges from strength to strength. We’re currently based in Fenton whilst our state of the art, bespoke premises (complete with slide!) are completed in Longport. In return for your hard work, this is what we bring to the cable:
+
+Regular performance-based salary reviews
+The opportunity to earn 2 generous bonuses each year (a profit share scheme and a performance-based bonus too)!
+Access to a fully electric Company vehicle after 6 months *
+Cycle to work scheme
+The ability to buy up to 5 additional days holiday per year *
+Regular Company events, shows and exhibitions
+Work in a fun, relaxed environment with a smart/casual dress code, and free Company branded workwear provided
+Want to stretch your legs, call to check on the kids, or just take your mind off work? On top of your lunch break, 2 x paid 15-minute daily breaks away from your desk are encouraged
+Plenty of opportunities to progress and grow and bags of continuous professional development
+Discounts available on our products *
+Access to a workplace pension scheme
+Join our team of foodies, with free tea and coffee provided onsite with regular snacks thrown in too!
+
+* Terms apply
+Schedule: Like the great Dolly Parton sang, we’re working 9 to 5 Monday – Friday, with occasional weekend coverage (37.5 hours per week). You’ll always know when you’re working, no shifts here!
+Salary: From £40,000.00
+Job Type: Permanent
+Job Types: Full-time, Permanent
+Salary: From £40,000.00 per year
+Benefits:
+
+On-site parking
+Profit sharing
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Loyalty bonus
+Performance bonus
+
+Ability to commute/relocate:
+
+Stoke-on-Trent, ST4 2TE: reliably commute or plan to relocate before starting work (required)
+
+Work authorisation:
+
+United Kingdom (required)

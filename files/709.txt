@@ -1,0 +1,61 @@
+Odoo/Python Developer
+Here at Glo we've been living and using Odoo for some years and our customers are starting to love it also. As such we need some more Odoo skills in house to help deliver these great solutions. If you know Odoo or Python and are quick to adapt to new challenges and want to get stuck into one of the fastest growing Odoo partners in the UK then come have a chat.
+We are fully remote so as long as you have a good internet connection, are proactive and work well in a team then you should be a great fit!
+**It is imperative that your English is perfect (both written and verbal). You need to be in the UK OR EU TIMEZONE ONLY, as hours need to be flexible to facilitate team working based on UK customer base.
+What we are looking for:
+
+Software development - 4+ years
+Python & JavaScript experience - 2+ years
+Odoo (ORM, Workflows, Report Engine, BI, AI) - Ideal but not essential
+PostgreSQL DB experience (or similar)
+Docker, Kubernetes experience
+
+What we value from our team:
+
+Customer focus: What you develop should wow customers and is core to the operations of their business, so always have this in mind. It is key to our success.
+Motivated: We love enthusiasm and effort, willingness to learn and generate happy customers
+Honest: Above all, honesty and openness is a core part of our team ethic and how we manage our customers
+
+About The Role
+
+You will be responsible for the development and support of a wide range of modules and features in Odoo, for our customers.
+You will be part of an experienced team, working across various projects in different stages of the product lifecycle
+You will be fully remote, so regular communication and updates with the team are key to successful projects
+Tasks are allocated based on skill and experience, with plenty to pick up and learn from, to enhance your skillset
+Ensure customers are up to date and supported to ensure they get the most out of their Odoo and any new feature or training requirement
+
+Responsibilities
+
+Assisting with the specification, building, testing and supporting of customer systems in Odoo
+Investigating and resolving issues raised by customers
+Developing in line with Glo process to ensure quality and care of customer systems
+Contributing to improvements and enhancements for customer systems
+
+Skills enhancement opportunity:
+
+Python
+Kubernetes / Docker (possible others)
+Automated Testing
+Workflows and UI design
+ERP system development & Odoo certification
+JavaScript, JSON, XML, EDI….the list could go on
+
+If you're interested please drop us a CV and answer the following questions -
+
+What is your home setup like?
+What is your expected or hoped for salary or contracting rate? (Ideally, we're looking for a UK based employee that we will salary but are happy to discuss other options with the right person.)
+Could you please provide info on your current / last Odoo (or similar) project (a direct link would be great) and explain what impact you directly had on this project?
+What is your preferred OS and browser and why?
+
+Job Types: Full-time, Permanent
+Salary: From £20,000.00 per year
+Benefits:
+
+Casual dress
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote

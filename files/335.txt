@@ -1,0 +1,54 @@
+Description 
+
+
+Role Summary and:
+ We are looking for a software engineer to be part of our technical team that develops land warfare training systems. As a software engineer, you will be a part of a world-class team of engineers & designers that are passionate about building ground-breaking, lovable products. 
+
+ This is an opportunity to enter a dynamic and challenging world of developing simulators and gaming systems for military and civilian use, to play a significant role at the cutting edge of technology, to lead in a challenging environment where a variety of training and simulation systems are developed. 
+
+ Responsibilities 
+
+
+The Software Engineer is responsible for: - 
+
+
+
+Design and implementation of sub-system emulations.
+Design and implementation of interface, monitoring and control applications.
+Deriving software requirements and tasks from system level requirements.
+Conducting integration between third-party and our software.
+Problem solving during tests and trials.
+Any additional tasks to ensure the success of the role and support to the Business Unit and Engineering Function.
+Any additional tasks to ensure the success of the role and support to the Business Unit.
+ In line with our Baseline Security requirements, candidates will be asked to provide evidence of identity & eligibility to work in the UK. 
+
+ Person Specification 
+
+ Role Aspect Role Competencies 
+
+ Essential Skills 
+
+ and Experience · Experience with object-oriented languages – C# & C++. · Experience with developing on a Windows Operating system. · Knowledge in networks (UDP, TCP, Multicast/Broadcast, ect’). · Competent in problem solving and analytical techniques in a methodical and logical manner to solve development and integration challenges. · Software Tools – Git, Microsoft Visual Studio, Microsoft Office. · Producing technical progress reports and test/trials reports. 
+
+ Desirable Skills 
+
+ Experience · Experience with BISimulations VBS4 simulation host. · Software Tools – Jira, WireShark, Dependency Walker. · Experience in development of Interface Control Documents (ICD) and in implementing interfaces from an ICD. · Experience in development of UI (User Interface) based applications. · Experience in Training and Simulation. · Experience Integration and acceptance testing. · Experience working in Agile Methodology. 
+
+ Education · Bachelor’s degree - Software, Electronic or Systems Engineering. 
+
+ Travel 
+
+ Requirements · Essential travel to additional sites within the UK as and when required, occasional international travel 
+
+ Benefits 
+Salary – Competitive salary on offer 
+Private Medical Insurance 
+Health Assessments 
+Healthcare Cash Plan (UK Healthcare) 
+Pension – Auto-enrolment to pension scheme after 3 months – 4% employee and 4% company contribution. The company will match contributions up to 5%. Increases with length of service: 
+Life Assurance – 4x Times Salary 
+Cycle To Work Scheme – Salary sacrifice scheme 
+Employee Assistance Programme 
+Benefits Portal 
+Annual Performance & Pay Review – Performance and salary reviews annually 
+Enhanced Holidays – 33 days per year (including bank holiday’s)

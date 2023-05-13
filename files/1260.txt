@@ -1,0 +1,11 @@
+
+.NET Developer - Global Technology Brand - Birmingham
+ (Tech stack: .NET Developer, .NET 7, ASP.NET, C#, VB.NET, VB, WPF, React, Angular 14, Microservices, Azure, Web API 2, Entity Framework, Agile, Programmer, Full Stack Engineer, Architect, .NET Developer)
+ Our clients fascinating story dates back to 1981; today they have fast become one of the most instantly recognised technology brands across the globe. Their success has been built upon their reputation for developing revolutionary .NET software products that utilise cutting edge technologies.
+ Having recently allocated a £2 billion annual R&D budget to fuel the invention of products, solutions and new technologies they are looking to expand their award winning .NET software development team. We are seeking .NET Developer candidates with experience of either web application development (.NET Core / ASP.NET MVC, C# or VB.NET) or winforms / WPF (C# or VB.NET) development. Additional skills in SQL Server are required. Our client will provide you with training into: .NET 7, WPF, MVVM, Prism, JavaScript, React, Angular 14, Microservices, MongoDB, Vue.js, TypeScript, Azure, AWS, Web API 2, Entity Framework, Node.js, Elasticsearch, Agile, TDD, BDD, Scrum, Kanban and SQL Server 2022.
+ You will follow the firms official career progression programme. This is coupled with 18 days of dedicated technical training per year, bi-annual pay reviews and trips to Microsoft Ignite.
+ Our client offers a truly refreshing working environment including a free juice bar, casual dress, background music while you work, flexible working hours and home working.
+ Location: Birmingham, UK / Remote Working
+ Salary: £30,000 - £60,000 + Bonus + Pension + Benefits
+ Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+ NOIRUKNETREC NOIRUKREC

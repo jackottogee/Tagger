@@ -1,0 +1,132 @@
+Vuba is a Beverley based manufacturer of resin products for Trade and DIY customers, such as resin bound driveways and epoxy art resin. Vuba's award winning and patented products are distributed worldwide. Vuba has grown from a small business in 2009 to a forecasted revenue of £17 million in 2023.
+Job Description
+Due to continued, significant, business growth at Vuba, we are now looking for a UK based Shopify & Web Developer to join the Vuba team in Beverley, East Yorkshire. The position would ideally suit someone with a creative mind, up to date knowledge of Shopify, HTML5, CSS3 and JavaScript with a can do problem solving attitude.
+This role will be developing our eCommerce platform, utilising primarily Shopify Plus. The successful applicant will be responsible for creating appealing visual content on our fully responsive website. This role would suit someone with CMS experience, a passion for Web Design, a creative mindset. Someone who has the ability and drive to investigate, research and solve problems through persistence and tenacity.
+We will support you to learn and develop your skills. You’ll work as part of a team, and individually, creating web content to make our online shopping experience a class leading user experience for our B2B and B2C customers throughout the UK, Europe and US.
+Key Responsibilities
+
+Design and develop a new Shopify website for our main Vuba brand
+
+
+Design and develop new Shopify websites for our other brands
+
+
+Investigating and troubleshooting problems
+
+
+Creating new visually appealing web pages and sections
+
+
+Creating and modifying templates for a CMS or web development framework
+
+
+Interpreting graphic or interaction designs in HTML, CSS, JavaScript, and other tools
+
+
+Programming interaction with JavaScript or utilising libraries
+
+
+Maintaining/installing plugins and integrations
+
+
+Delivering easy to use CMS customisation options for the marketing team
+
+
+Testing cross-browser, cross-platform, and cross-device compatibility
+
+
+Testing for compliance to specified standards such as accessibility
+
+
+Understand, Plan, Develop, Test and Document Web implementations
+
+
+Conducting observational user testing or reviewing designs against usability heuristics
+
+Required Skills
+
+Proven experience as a Shopify developer with at least 2 years’ experience
+
+
+Solid experience with modern HTML, (S)CSS, JS (ES6+) and source control (GIT), deployment processes and dev-ops
+
+
+Solid experience and understanding of Shopify’s APIs (GraphQL and REST)
+
+
+Fluency in working with third party APIs
+
+
+A deep knowledge of the Shopify app ecosystem – and when to use and not use apps to solve a problem
+
+
+Ability to write clean, reusable and extensible code and tests to high standards
+
+
+Exceptional analytical and problem-solving skills
+
+
+Keeping well documented, efficient code and ensuring a clear audit trail of communication
+
+
+Ability to break down business requirements into logical steps and provide accurate estimates for implementation
+
+
+Time management skills - the ability to accurately record time spent against tasks
+
+
+Ability to work with minimal supervision with an ability to plan and prioritise your own time and workload alongside the management team to ensure all deadlines and deliverables are met on time and to the required standard
+
+
+Ability to support and mentor other team members both in the development team and the wider team also
+
+
+Have excellent communication skills with the ability to communicate effectively and create rapport with colleagues, clients and management
+
+
+Provide positive contributions to a team-working environment, in relation to ideas, providing support to colleagues, building strong working relationships with colleagues, understanding internal roles and responsibilities
+
+
+Able to work in a fast paced, dynamic environment and to use high levels of initiative to deliver results
+
+Desirable skills
+
+Experience with other e-commerce platforms such as Magento
+
+
+Experience with GraphQL
+
+
+Experience with Liquid
+
+
+Prior experience with site go lives and migrations
+
+
+Experience with React.js / Vue.js / Jamstack and Headless CMS is a bonus
+
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£45,000.00 per year
+Benefits:
+
+Company events
+Employee discount
+On-site parking
+
+Schedule:
+
+Day shift
+Overtime
+
+Ability to commute/relocate:
+
+Beverley, East Riding of Yorkshire: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+Proven experience as a Shopify developer: 2 years (required)
+modern HTML, (S)CSS, JS (ES6+): 1 year (required)
+source control (GIT), deployment processes and dev-ops: 1 year (required)
+
+Work Location: In person
+Application deadline: 28/04/2023Reference ID: Shopify & Web DeveloperExpected start date: 01/05/2023

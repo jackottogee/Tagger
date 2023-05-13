@@ -1,0 +1,45 @@
+
+
+Hybrid / Remote Working
+
+
+The Role
+
+ This is an exciting opportunity for an experienced C# developer to join a market leader in the private healthcare sector.
+  You will be working across the full stack as part of a team. Building, integrating and maintaining bespoke healthcare applications.
+ 
+
+Who are we looking for?
+
+ You will have demonstrable experience of having been part of a team delivering well-structured software solutions using .NET technologies, ideally with MVC Web API.
+ 
+
+Key skills
+
+
+
+5 years+ experience in a delivering high quality software
+Experience and understanding of best practices for code design and design patterns
+Ability to work in a highly collaborative matrix environment and to use your technical experience and skill to influence colleagues.
+Agile experience in scrum and/or kanban
+
+
+ Experience of;
+
+
+.NET Core
+ASP.NET MVC Core
+WebAPI
+Microsoft .Net 4.x
+HTML/CSS
+Javascript frameworks
+
+Desirable skills;
+
+
+Azure DevOps
+Blazor or similar framework
+Azure (eg app services / functions
+
+If you would like to be considered for this role, please 
+Apply Now!

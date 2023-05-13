@@ -1,0 +1,89 @@
+
+
+Introduction
+ In this role, you'll work in one of our IBM Consulting Client Innovation Centres (Delivery Centres), where we deliver deep technical and industry expertise to a wide range of public and private sector clients around the world. Our delivery centres offer our clients locally based skills and technical expertise to drive innovation and adoption of new technology.
+  
+ A career in IBM Consulting is rooted by long-term relationships and close collaboration with clients across the globe.
+   You'll work with visionaries across multiple industries to improve the hybrid cloud and AI journey for the most innovative and valuable companies in the world. Your ability to accelerate impact and make meaningful change for your clients is enabled by our strategic partner ecosystem and our robust technology platforms across the IBM portfolio, including Software and Red Hat.
+  
+ Curiosity and a constant quest for knowledge serve as the foundation to success in IBM Consulting. In your role, you'll be encouraged to challenge the norm, investigate ideas outside of your role, and come up with creative solutions resulting in ground-breaking impact for a wide network of clients. Our culture of evolution and empathy centres on long-term career growth and development opportunities in an environment that embraces your unique skills and experience.
+  
+ We offer: 
+  
+
+Regular and frequent promotion and progression opportunities to ensure you can drive and develop your career with us
+Feedback and checkpoints throughout the year; no one off annual reviews here
+A multitude of training opportunities from classroom to e-learning, mentoring and coaching programs as well as the chance to gain industry recognized certifications 
+Diversity & Inclusion as an essential and authentic component of our culture through our policies and process as well as our Employee Champion teams and support networks
+A culture where your ideas for growth and innovation are always welcome
+Internal recognition programs for peer-to-peer appreciation as well as from manager to employees
+Tools and policies to support your work-life balance from flexible working approaches, sabbatical programs, 1 month paid paternity leave, 16 weeks fully paid maternity leave and an innovative maternity returners scheme
+More traditional benefits, such as 25 days holiday, a gym discount scheme, online shopping discounts, an Employee Assistance Program, a group personal pension plan of an additional 5% of your base salary paid by us monthly to save for your future
+
+
+ Your Role and Responsibilities
+ As a Software Developer you'll participate in many aspects of the software development lifecycle, such as design, code implementation, testing, and support. You will create software that enables your clients' hybrid-cloud and AI journeys.
+  
+ You'll have the opportunity to work with the latest technologies, ensuring the applications delivered are high performing, highly available, responsive, and maintainable.
+  
+ Your primary responsibilities include:
+  
+ Analyze, validate and propose improvements to existing failures, with the support of the architect and technical leader.
+ Involvement in every step of the process, from design, development, testing release changes and troubleshoot where necessary, providing a great customer service.
+ Drive key discussions with your stakeholders and analyze the current landscape for opportunities to operate and code creative solutions.
+
+ #UKCIC23
+  
+
+Required Technical and Professional Expertise
+
+
+ Good Javascript programming skills
+ Strong knowledge of Vue or React 
+Good debugging/logging knowledge including server monitoring & log files
+ Good SQL or SQL Developer/Database knowledge
+ Good understanding of UI purposes/functionality
+ Jira/Confluence/Project tracking
+ Application Monitoring/Protective Monitoring
+
+
+ Preferred Technical and Professional Expertise
+
+
+
+
+
+
+ About Business Unit
+ The Client Innovation Centre (CIC) is an innovative and exciting part of IBM. A fast-paced and dynamic business built to deliver high-value technical services to world renowned clients. All of our employees work in a consultancy environment on a variety of exciting projects across a range of sectors. Every project has its own unique working environment - this enables our employees to build their experience, skillset and network. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems?
+ 
+
+
+
+ Your Life @ IBM
+ In a world where technology never stands still, we understand that, dedication to our clients success, innovation that matters, and trust and personal responsibility in all our relationships, lives in what we do as IBMers as we strive to be the catalyst that makes the world work better.
+   Being an IBMer means you’ll be able to learn and develop yourself and your career, you’ll be encouraged to be courageous and experiment everyday, all whilst having continuous trust and support in an environment where everyone can thrive whatever their personal or professional background.
+ Our IBMers are growth minded, always staying curious, open to feedback and learning new information and skills to constantly transform themselves and our company. They are trusted to provide on-going feedback to help other IBMers grow, as well as collaborate with colleagues keeping in mind a team focused approach to include different perspectives to drive exceptional outcomes for our customers. The courage our IBMers have to make critical decisions everyday is essential to IBM becoming the catalyst for progress, always embracing challenges with resources they have to hand, a can-do attitude and always striving for an outcome focused approach within everything that they do.
+ Are you ready to be an IBMer?
+
+
+
+ About IBM
+ IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+  
+ Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business. 
+  
+ At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+ 
+
+
+
+ Location Statement
+ IBM wants you to bring your whole self to work and for you this might mean the ability to work flexibly. If you are interested in a flexible working pattern, please talk to our recruitment team to find out if this is possible in the current working environment.
+ 
+
+
+
+ Being You @ IBM
+ IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+ 

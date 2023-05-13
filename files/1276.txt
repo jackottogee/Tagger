@@ -1,0 +1,25 @@
+
+Backend Software Engineer / Developer (C# .Net Kubernetes Cloud) *Hybrid WFH* to £110k
+ Are you a technologist seeking a role where you can work with and introduce the latest technologies, whilst continually learning and progressing your career?
+ You could be joining a technology driven Hedge Fund in an impactful role.
+ As a Backend Software Engineer you will work with software engineering teams across the business and ensure they have the best tools and technologies to do their job to the best possible standard. You'll work with other developers to understand their processes and help them improve efficiency, advising them on best practice and enhance the developer experience.
+ WFH Policy: 
+You'll be working with accomplished software developers, systems engineers and data scientists in a complex environment, collaboratively problem solving to engineer best in class systems; based in fantastic offices in a vibrant area of London with in-house gym and steam room, games room with pool tables and dart boards, library and free high quality catering (breakfast, lunch, dinner) from the onsite chef with flexibility to work from home two days a week. 
+Requirements:
+
+ You have strong C# serverside experience including multi-threading and .Net Core
+ You have experience with Kubernetes, AWS, IaC, Terraform
+ You have a good knowledge of software engineering best practices and the full development lifecycle
+ You have a good knowledge of DevOps and automation
+ You're collaborative and pragmatic with great communication skills
+
+ Salary & benefits:
+ As a Backend Software Engineer / Developer you will earn a competitive salary (to £110k) plus bonus and benefits including:
+
+ Significant bonus
+ Pension
+ Private medical care and wellness days
+ Training and conference budget to support your personal development
+
+ Apply now to find out more about this Backend Software Engineer / Developer (C# .Net Kubernetes AWS) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

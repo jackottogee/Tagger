@@ -1,0 +1,48 @@
+
+
+OGT is a leading global provider of clinical and diagnostic genomic solutions. We create products that enable researchers and clinical decision makers to reach the right care decisions for each patient, every time. By working with partnerships with our customers, we strive to unlock the future of genetic clinical care.
+ Are you looking for a change in your career, are you an ambitious, talented and a motivated individual? This could be the role for you!
+
+An opportunity has arisen in our Oxford-based Research & Development team for a Software Developer. Reporting to our Head of Software Development, you will play an integral role in the development of software for internal and external customers, advancing OGT’s expertise in microarray and NGS analysis and contributing to the overall success of the Computational Biology Team. You will act as champion and owner of results in your area of responsibility.
+ Your duties will include:
+
+Development of software for internal and external customers
+Providing second-line technical support for external customers. This may include training, change requests or technical advice
+Working alongside the Head of Software Development to ensure that the implemented software features are closely aligned with agreed requirements
+Observing all required steps of software release cycle process including software testing and handover of supporting documentation to the OGT marketing team
+Working closely with other Computational Biology team members to deliver projects on time and to ensure that the IT infrastructure is robust and SOPs are up-to-date
+Contributing to data analysis optimisation by working closely with other CompBio team members. Contributing to the success of the Computational Biology team, working together on process improvement and on establishing new approaches and techniques
+Advancing OGT’s expertise in microarray and NGS analysis
+Investigating and driving performance enhancements for the software
+Contributing to data processing of internal or external project data including investigation of novel or 3rd party approaches.
+
+What we’re looking for in you:
+
+Be qualified to a minimum of BSc, up to MSc, or equivalent in Computer Science
+Demonstrable experience applying Object-Oriented design principles to the development of Java desktop or web applications
+Be an effective communicator both in writing and verbally
+Be a strong team player, well organised and with good time management skills
+Knowledge of web development technologies including HTML, CSS, JavaScript.
+Have demonstrable skills in deploying and managing applications in a cloud environment (desirable)
+Exposure to relational database design theory and SQL, and its application using a common RDBMS, such as SQL Server and MySQL (desirable)
+Experience developing applications using the Spring framework (desirable)
+Understanding of Java persistence tools such as Hibernate, JPA and JDBC (desirable)
+Ability to develop unit tests for components or complete applications (desirable)
+GUI design and development experience (desirable)
+Awareness of Agile development methodology (desirable).
+
+In return you will receive: 
+
+Competitive salary
+Pension Scheme (10% non-contributory)
+Private Health Insurance
+Private Dental Insurance
+Group Income Protection
+Group Life Assurance
+25 days holiday plus UK bank holidays
+High Street Discount Scheme.
+
+
+Application is via CV & a one-page covering letter outlining your suitability for the role, salary expectations and notice period
+ Please note that we will need to establish your right to work during the recruitment process.
+

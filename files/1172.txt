@@ -1,0 +1,25 @@
+
+Sword Codify (part of Sword Group) design, build, and support software applications for mobile, web and desktop platforms. We’ve completed hundreds of successful projects over the last 20 years – helping our customers build internal bespoke systems or bringing new commercial software products to life. We're experts in Microsoft .NET and take an engineered approach to creating secure, efficient and adaptable software.
+We have big plans for the future and are looking for a new Software Engineering Team Lead. This position will suit you if you have 10 years or more relevant experience as a software engineer and/or have experience managing other software engineers.
+The key responsibilities of this role are:
+
+Be the line manager for a team of 4 – 7 other software engineers of varied experience,
+Act as project lead for the projects the team are working on, managing financial performance, reporting to the Operations Lead,
+Manage support contracts for systems your team supports, ensure SLA targets are met,
+Manage work schedule for your team,
+Contribute technically as an experienced software engineer.
+
+Requirements
+ We build mobile, web and desktop apps using a Microsoft technology stack. Here are some of the technologies that you can expect to work with:
+
+.NET (6/7) and .NET Framework 4.8,
+C# and TypeScript/JavaScript,
+Xamarin Forms / MAUI for iOS and Android,
+Blazor, ASP.NET, HTML and CSS,
+WPF and Windows Forms.
+
+Benefits
+ You’ll join our team of over 25 software engineers who build new applications and support existing ones, with offices in Aberdeen and Glasgow. We take an engineer-led approach to our projects which means that you are fully involved in decisions throughout. You'll also be in regular contact with our customers so good communication skills are essential too.
+ We are a close-knit team who support one another. We take a team approach to projects and encourage all staff to ask for and offer help, regardless of their level of experience. As everyone involved in our projects is technical, we have strong technical leadership throughout the company. We believe in a good work-life balance and set up our projects to succeed from the outset. This means that overtime hardly ever happens (and when it does it truly is optional). We encourage the social side of work by allocating the last half hour of Fridays for socialising and have regular get togethers outside of work.
+
+You'll be paid a competitive salary and enjoy great staff benefits. Once you've settled in, you can tailor your working hours around our core hours of 10am-4pm. As part of the application process we'll set you a small programming challenge – it shouldn't take long to complete. If you're like us, you'll enjoy the challenge and the chance to show us your skills!

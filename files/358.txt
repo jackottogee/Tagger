@@ -1,0 +1,28 @@
+We are seeking a skilled .NET C# engineer to join our dynamic team of developers. Our ideal candidate has experience in functional programming and consuming third-party data from APIs.
+As a .NET C# Engineer, you will be responsible for developing high-quality software solutions that meet our clients' needs. You will work closely with our team of developers, project managers to understand project requirements and deliver solutions that exceed expectations. Your primary responsibilities will include:
+
+Developing functional programming code that is maintainable, scalable, and efficient.
+Integrating third-party data from APIs into our software solutions.
+Collaborating with cross-functional teams to troubleshoot and debug software issues.
+Contributing to the development of best practices, coding standards, and software development methodologies.
+
+Qualifications:
+
+Bachelor's degree in Computer Science or related field
+Minimum of 3 years of experience in .NET C# software development
+Experience in functional programming with languages such as F# or Haskell
+Experience with API integration and third-party data consumption
+Strong problem-solving and analytical skills
+Strong communication and collaboration skills
+
+Job Type: Temporary contractContract length: 1 month
+Salary: From £440.00 per day
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+.NET: 6 years (required)
+
+Work Location: Remote

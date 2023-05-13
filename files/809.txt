@@ -1,0 +1,78 @@
+Software Engineer
+Working hours: Monday to Friday, 9:00am to 5:00pm
+Location: This role is based predominantly within our Staffordshire office however this does also require you to travel to client premises on an occasional and programme requirements basis to undertake software modifications, commissioning, or meetings.
+This role reports to the Senior Software Engineer.
+Primary duties
+· Programming of:
+
+PLCs
+PACs
+HMIs
+
+· Production of Design Documentation
+· Testing of the full system utilising the developed software
+· Commissioning of the integrated system on customer sites
+· Providing software support to other department within the business such as Service
+· Troubleshooting Orbital systems in the field and offering appropriate support.
+· Supporting other members of the team where possible with technical issues or questions.
+· Effectively maintain development/design records in line with the Orbital QA system
+Secondary duties
+· Provide support and assistance to other engineering disciplines within the design team.
+· Attend design working group meetings
+Essential skills, experience and qualifications
+· Excellent verbal and written communication skills
+· Experience of IE61131-3 programming languages.
+
+o ST (Structured Text) Orbitals language of choice
+o FBD (Function Block Diagram)
+o SFC (Sequential Function Chart)
+o LLD (Ladder Logic)
+
+· Experience of the complete software/systems design lifecycle.
+· In depth Knowledge of network / serial communications protocols and hardware.
+· Experience/knowledge of Project Lifecycle.
+Desirable skills, experience and qualifications
+· Knowledge of C&I Engineering.
+· Knowledge of HTML, PHP, or JavaScript.
+· Knowledge of National Grid design standards.
+· Knowledge of Operational Technology Cyber Security
+· Experience with the following hardware platforms
+
+OPTO22 PAC’s
+Mitsubishi GXWorks3 (iQ-R series PLC platform)
+
+Job Types: Full-time, Permanent
+Salary: Up to £40,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Free parking
+Life insurance
+On-site parking
+Sick pay
+
+Schedule:
+
+Holidays
+Monday to Friday
+No weekends
+Overtime
+
+Ability to commute/relocate:
+
+Stone, Staffordshire: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Certificate of Higher Education (preferred)
+
+Experience:
+
+PLC: 5 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person

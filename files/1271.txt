@@ -1,0 +1,41 @@
+
+Software Engineer
+
+Cambridge - Hybrid Working
+
+£75,000 - £85,000 + 28 Days Holiday, Private Healthcare, Pension, Flexible Working
+
+ This is an excellent opportunity for a talented Software Engineer to join in industry leading software company in a highly technical and varied role where you will shape the newly formed business unit.
+ 
+ The company are a well-known leading software company who create a range of software tools for electronics applications. They have international offices all over the world and are currently recruiting for their newly formed business unit.
+ 
+ In this role you will design and implement changes to the API powering the new business unit. You will roll out deployments to AWS/Azure and be responsible for the 24/7 availability of the platform. 
+ 
+ The ideal candidate will have proven experience in a similar role and strong knowledge of C#.NET and .NET Core and experience working with AWS/Azure. Any experience with GraphQL, Elasticsearch, Python and Golang is advantageous but not required.
+ 
+ This is a fantastic opportunity for a motivated Software Engineer to join an international company in a role where you will have a major impact on the business.
+ 
+
+The Role:
+
+
+Design and implement changes to the API powering the new business unit
+Roll out deployments to AWS/Azure and be responsible for the 24/7 availability of the platform
+Based in Cambridge, hybrid working (2/3 days a week in office)
+
+
+ The Person:
+
+
+Strong knowledge of C#.NET and .NET Core
+Experience with AWS/Azure
+Any experience with GraphQL, Elasticsearch, Python and Golang is advantageous but not required
+Must be commutable to Cambridge or willing to relocate
+
+ Reference Number: BBBH185648
+ 
+ To apply for this role or for to be considered for further roles, please click "Apply Now" or contact Ryan McIntyre at Rise Technical Recruitment.
+ 
+ This vacancy is being advertised by Rise Technical Recruitment Ltd. The services of Rise Technical Recruitment Ltd are that of an Employment Agency.
+ 
+ Rise Technical Recruitment Ltd regrets to inform that our client can only accept applications from engineering candidates who have a valid legal permit or right to work in the United Kingdom. Potential candidates who do not have this right or permit or are pending an application to obtain this right or permit should not apply as your details will not be processed

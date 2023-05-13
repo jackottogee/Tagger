@@ -1,0 +1,56 @@
+Software Developer
+Idox Software
+NI/hybrid
+Idox Cloud, Hillsborough, County Down
+About the role
+We are seeking to recruit a talented and highly motivated Software Developer to join our growing Development team. We deliver bespoke web applications and mobile apps based around the customer’s specific needs.
+Formerly known as Tascomi, our Hillsborough team are now proud to be part of the Idox Group and are leading many initiatives in digital transformation for Local Government, with talented Developers being a core element within these projects.
+This is a team which is passionate about technology. We love what we do, and we are keen to enrich the team further with this hire. In particular, this is an opportunity to play a significant role in the future direction and development of our product range, and you will be expected to work on your own initiative and bring fresh ideas to our collaborative team.
+For this reason, to join us you should already have an understanding of hardware, structure and databases through to front end, OO design and UX/UI, and gain, fast track opportunity to work on high quality, sustainable solutions, which bring tangible benefits to civic life. Please look at our website to get a feel of the contribution you’ll be making as part of the Idox team: https://www.idoxgroup.com
+Key responsibilities:
+As a Software Developer you will:
+· Develop our products using a variety of web and mobile technologies to deliver user-focused front-ends and maintainable back-ends
+· Influence the future development of the products
+· Use continuous agile methodologies to deliver quality software
+· Collaborate with our customers and delivery team to maintain our customer focused reputation
+· Be a key team member on significant projects
+To be successful, you’ll need to bring:
+· 2+ years development experience
+· 2+ years cloud computing experience
+· Work experience with PHP HTML, CSS & Javascript
+· 2+ years AWS or similar cloud platform experience
+· Clear understanding of OO concepts and design e.g PHP, Java, C#, Python
+· Knowledge of Relational and NoSql databases
+· Strong problem-solving skills
+· Excellent written and verbal communication.
+Additional desirable qualities:
+· Mobile Development
+· PHP
+· Version Control (Git/SVN)
+· Javascript libraries such as React, Angular, JQuery.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£50,000.00 per year
+Benefits:
+
+Flexitime
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Application question(s):
+
+Current notice period?
+Salary expectations?
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+AWS or similar cloud platform: 2 years (required)
+cloud computing: 2 years (required)
+
+Work Location: In personFlexitime

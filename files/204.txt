@@ -1,0 +1,32 @@
+Job title - Full Stack Developer 
+Location- Warwick 
+
+Contract length: 6 months initially 
+Day Rate- circa £450 per day 
+
+ Randstad Sourceright, a leading provider of RPO & MSP Recruitment Services is currently recruiting for a Full Stack Developer to join a leading Renewable Energy business with offices across the UK and Europe. 
+
+
+The Role:
+ As the Full Stack Developer you’ll be working on 2 specific projects involving DLL code as well as developing a new Asset Management tool enhancing customer and sales teams interaction. 
+
+
+The Responsibilities:
+ You will part of a team designing and implementing cloud-based solutions 
+Analyse requirements, architect, design and develop cloud-based backend and web-frontend, using state of the art technologies 
+Integrate cloud services in existing tool landscape 
+Collaborate with peer organisations, quality assurance and end users to produce cutting-edge software solutions 
+Troubleshoot code level problems quickly and efficiently 
+Become part of an internationally distributed team of developers and engineers 
+
+ Your qualifications 
+
+ Bachelor’s (or higher) Degree in Computer Science 
+You have more than five years with real world programming experience 
+You are highly experienced in c#, .net core, VB.Net, JavaScript, SQL, REST API, Python, MVC Visual Studio and AWS 
+1 - 2 years of experience with AWS foundational cloud services for storage, computation, event processing, messaging, data processing, and analytics 
+You bring excellent analytical skills, initiative, and problem-solving attitude along 
+You have experience of working in an agile team and excellent communication skills 
+You are fluent in English 
+
+ If this isn’t the role you’re looking for right now, please visit our contractor portal below where you will see all of our live roles and communities to join:

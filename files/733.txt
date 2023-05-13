@@ -1,0 +1,64 @@
+
+
+
+The role
+ The React Native Developer will be working as part of our iOS/Android App development team, which is responsible for supporting existing and building new apps for PrettyLittleThing. As a React Native Developer you will have strong analytical, problem solving and conceptual skills, teamed with an excellent knowledge of latest technologies and have a tangible input into our product development. The Developer will drive our work forward, improve performance and stability of our systems and develop software engineering best practice across the organisation. All our Developers share their knowledge and mentor upcoming talent.
+
+ Your team
+ In Tech, we’re proud to support every brand and every function. We’re a digital-first company that is totally cloud-native. We embrace change and future-proof the business, delivering critical customer-facing and internal stakeholder facing systems. Everything from colleague tech to front-end websites and apps, buying and merchandising tooling and all that’s in-between, we take care of it. Our ideas support and drive the Group’s agenda.
+
+ What you'll be doing
+
+Able to use established design patterns and techniques.
+Writes clean idiomatic code adhering to industry recognised coding standards.
+Adds appropriate logging and monitoring needed to help with debugging.
+Writes unit/functional/end2end tests with adequate coverage, independently.
+Owns the implementation of the solution to the assigned task.
+Code is easy to understand, change, and maintain.
+Proactively improves components, modules, services, systems, and codebases they encounter.
+Adds domain specific metrics to help understand application performance.
+Considers and tests edge-cases.
+Spots opportunities to improve testing.
+Chooses the right data structure for what needs to be solved.
+Implements changes within components, modules, services, systems, or codebases that require a deep level of domain knowledge.
+Writes code that serves as an example for other engineers.
+Defines appropriate testing metrics and targets.
+Understands and implements the most appropriate forms of test coverage for different scenarios.
+Spots inefficient or incorrect uses of the language or bad patterns.
+Makes major contributions to library code and core services.
+Detailed knowledge of the core libraries or APIs for their primary language.
+Implements distributed systems consisting of multiple interacting services.
+Handles complex user flows and error cases.
+
+
+
+
+More about you
+ As a React Native Developer you will act as the first point of contact for any queries about your language or area of the codebase. You will ensure that you keep up to date with the latest language versions and what they offer, apply this where appropriate. You will mentor junior team members on best practices about your language, latest updates & versions, coding styles. You will offer major contributions to testing across multiple applications and their connecting technologies, identifies bottlenecks. You will help introduce new frameworks, languages, tools, drives adoption of them when suitable. You will also contribute to external technologies or libraries that we depend on, such as opening issues, contributing to active discussions and issues, while solving real business problems. You will seek to drive the overall team’s testing architecture to tests complex flows. Uses non-functional testing tools.
+
+ Why join us
+
+Free parking
+25 days holiday
+Discretionary Bonus Scheme
+Company shares schemes - including a ' Save As You Earn' scheme
+40% staff discount (including PLT, Boohoo, Boohoo MAN, Nasty Gal, Coast, Warehouse, Misspap)
+Monthly social events (including pay day drinks, Employee Appreciation Day etc.)
+Salary sacrifice pension scheme with 5% employer contribution
+Flexible working hours
+Cycle to work scheme
+Childcare support through the Government
+Health cash plan
+Personal development opportunities to learn and grow at work
+
+
+
+
+Equal opportunities
+ Here at PLT we not only embrace diversity we celebrate it! We are proud to be an equal opportunities employer and we’re continuing to build an inclusive environment for our employees. We know we are better together, and we will continue to build a team that represents a variety of skills, perspectives, and backgrounds.
+
+ Reasonable Adjustments
+ PLT want to give everybody the chance to perform their best whether that is during an interview or whilst at work. Should you require any reasonable adjustments please let the talent team know.
+ #LI-REMOTE #LI-GS1 #PLT
+
+

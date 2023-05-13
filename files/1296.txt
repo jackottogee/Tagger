@@ -1,0 +1,25 @@
+
+Full Stack Engineer (Python Django JavaScript) *Remote / Cambridge* to £100k
+ 
+Are you a tech savvy Full Stack Engineer looking for a senior level and impactful role?
+ 
+You could be joining a growing team whose breakthrough technology is changing the way people develop software. The core product is a highly complex debugging tool sold into a broad client base including large technology companies, banks, and finance organisations.
+ 
+Your Role: 
+As a Full Stack Engineer, you'll be designing, developing, and maintaining a web-based application that will allow the company's flagship products to be delivered to customers and monitored in the field. You'll be utilising a range of technologies and tools including Django, Python, and JavaScript, working on a combination of existing web-based applications and new projects. 
+
+WFH & Office:
+ This role can be fully remote or if you prefer you can be based in the Cambridge office where you'll be part a relaxed and informal working environment. You will need to go into the Cambridge office 1 / 2 days every quarter.
+ 
+Requirements:
+
+ You have strong Python development skills and good knowledge of frameworks such as Django, Celery, Flask, or similar
+ You have very good JavaScript skills
+ You have a good understanding of PaaS (Platform as a Service) infrastructure
+ You have experience working in Linux environments
+ You have excellent communication and collaboration skills
+
+ 
+As a Full Stack Engineer, you can expect to earn a competitive salary (up to £100k) plus benefits.
+ 
+Apply today or call to have a confidential discussion about this Full Stack Engineer (Python JavaScript) role.

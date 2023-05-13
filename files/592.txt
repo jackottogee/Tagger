@@ -1,0 +1,52 @@
+
+Job title: Software Engineer
+ Location: London, Edinburgh or Bristol (including hybrid)
+ Salary: £50,000 - £80,000
+ Kaluza wants to power a world where net-zero is within everyone's reach, by building the platform that will accelerate a sustainable, affordable and resilient energy transition. It's a huge challenge, but often the toughest problems are the most rewarding to solve.
+ Since launching in 2019, Kaluza's technology has been empowering some of the biggest energy suppliers to better serve millions of customers.
+ From revolutionising billing to smart electric vehicle charging, our real-time cloud platforms transform supplier operations, reducing cost to serve and boosting engagement. And most importantly, they enable suppliers' customers to drive decarbonisation with smart, low carbon technologies.
+
+
+
+
+Where in the world of Kaluza will I be working?
+
+
+
+
+
+You'll be working on Kaluza's Flexibility platform. Designed to be the nervous system connecting energy retailers, grid operators, and consumers, Flex will aid us in creating the distributed, consumer-centric, dynamic energy system of the future. Bridging the gap between distributed renewable generation and smart devices, it helps consumers shift their energy consumption to times when there's more renewable energy. This not only saves them money, but enables society as a whole to meet the challenge of decarbonising transport and residential heating/cooling. We're also supporting this vital shift by building the innovative technology behind unique, market-leading customer propositions like Vehicle to Grid and Charge Anytime Energy Plan with our energy retailer partners.
+ You'll be joining the Kaluza Technology community. We're a large team of both data-led and product focused Software and Production Engineers, pushing the boundaries of technology and working at an extraordinary scale. As a collective we strive for engineering greatness and by ensuring best practices across the board of the community.
+ To find out more about what it's like to work in our Kaluza Technology Community, check out our Tech Blog here:
+ https://medium.com/kaluza-tech
+
+
+
+
+
+What will I be doing?
+ We have multiple roles available, and hence there's some flexibility about exactly which team you might be working in. Based on your skills and experience and where you see the next step in your career, we'll work together with you to find the best match.
+ If you're more inclined to the backend, then you could be working in one of a number of areas, from integrating new electric vehicles to the Flex platform through to building out the interfaces to enable retailers to offer flexible propositions to their end customers (such as Charge Anytime for OVO Energy)
+ If you're able to work across the full stack then you could be working alongside data scientists and other backend engineers on the core optimisation engine and the user interfaces that sit on top.
+ Is this the job for me?
+ You're the right person for us if…
+
+You're a hands-on engineer with expertise in at least one programming language - if your experience doesn't match our stack exactly then don't worry, we hire based on software engineering talent, not language-specific skillset. Interested in us? We're interested in you!
+You have built or contributed to a variety of systems, ideally in different technologies
+You have knowledge of the best engineering practices and continuous delivery
+You are genuinely passionate about developing products that will positively impact over a million people and also our environment
+You love working in teams and collaboratively building features that impact customers
+You are motivated by owning products, from inception to continuous improvement
+You believe strongly in test automation, continuous delivery and working with best agile practices
+You seek learning opportunities to deepen your expertise or broaden your knowledge
+
+Kaluza Values
+ Here at Kaluza we have five core values that guide us as a business:
+ We're on a mission, We build together, We're inclusive, We get it done, We communicate with purpose.
+ Our values are not words on a wall — they are at the heart of our culture. They are how we make decisions and how we treat each other. They are concrete and clear, and reflect what we as people, and as a business, really care about.
+ Kaluza's vision is to power a world where net-zero is within everyone's reach. Would you be interested in joining us to help achieve this?
+ We want the best people
+ At Kaluza, we empower our people to have choices around where and when they work - flexible working arrangements can be discussed for all of our roles. Please speak to the Talent Acquisition team for more info.
+ We're keen to meet people with varied backgrounds - our view is the more inclusive we are, the better our work will be. We want to build teams which represent a variety of experiences, perspectives and skills, and we recognise talent on the basis of merit and potential.
+ We understand some people may not apply for jobs unless they tick every box. If you're excited about joining us and think you have much of what we're looking for, even if you're not 100% sure… we'd love to hear from you.
+ Learn more about working in Kaluza on our careers page and LinkedIn.

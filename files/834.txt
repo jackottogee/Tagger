@@ -1,0 +1,45 @@
+
+Spire Global is a space-to-cloud analytics company that owns and operates the largest multi-purpose constellation of satellites. Its proprietary data and algorithms provide the most advanced maritime, aviation, and weather tracking in the world. In addition to its constellation, Spire's data infrastructure includes a global ground station network and 24/7 operations that provide real-time global coverage of every point on Earth.
+
+
+ The Role:
+ This is an entry level position in an expanding team with significant opportunities to get exposure to a wide variety of software tasks and up and coming technologies. You will work closely with satellite technicians and engineers, creating automated test solutions to support the assembly, integration and test of flight ready spacecrafts. Writing ground side test code and resolving real time escalations from the Glasgow cleanroom are two of many aspects that make up the Junior Software Engineer role at Spire. This is an exciting opportunity for a highly motivated individual who thrives working in a high-performance team as well as on individual tasks. The candidate will also be expected to be comfortable with hands-on hardware after specific training has been provided.
+
+
+ Responsibilities:
+
+Core systems: Designing and developing code used to fully test our satellites. Making improvements to our existing codebase to enhance functionality, usability, robustness, performance, writing and testing new code to integrate new technology.
+Supporting the Manufacturing team with any software test requests that occur during the production life of a satellite. This will also cover any software escalations the manufacturing team may occur during their testing.
+Satellite application platform: Writing tests for the automated execution of tasks on the satellite to meet manufacturing requirements or changing testing needs.
+Creating Documentation. Writing detailed resolutions for common software escalations to enable other team members to follow. 
+Process Improvements. Generate ideas and provide input to other teams on common software bottlenecks that feed into continuous improvements.
+
+
+
+ Basic Qualifications/Experience:
+
+Developing code with any of: Python, Bash, C, C++, Java etc.
++1 year experience with a modern software language 
+Experience using GitHub or a similar tool 
+Code debug and peer review 
+Good problem-solving skills 
+Good communications skills 
+Good attention to detail and analytical skills
+
+
+
+ Preferred Qualifications/Experience:
+
+Experience using Python to implement test automation.
+Experience using Pytest or similar Python package for test automation.
+Experience working with Linux OS 
+Understanding of development tools like Git, Github, and CI/CD tools. 
+Experience working with Docker 
+Experience working with Jira
+
+
+
+ Spire is Global and our success draws upon the diverse viewpoints, skills and experiences of our employees. We are proud to be an equal opportunity employer and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or veteran status.
+
+
+ #LI-DC1

@@ -1,0 +1,48 @@
+Job Title: Software Developer (Remote)
+Electrika Ltd is seeking a Junior Software Developer to join our team and contribute to the development of our innovative Product Information Management system, OneTimePIM.
+Responsibilities:
+
+Collaborate with our team of skilled developers in building and enhancing the OneTimePIM platform
+Utilize your software development expertise to find creative solutions and drive improvements
+Contribute to the success of our diverse clientele, including Blue Chip companies
+
+Requirements:
+
+Some experience in software development whether commercial, at University or own projects on Github
+Passion for creating exceptional software
+Resourcefulness and dedication to problem-solving
+Eagerness to learn, grow, and adapt in a fast-paced environment
+
+Technical Stack used at Electrika Ltd:
+
+TypeScript/JavaScript and C#
+Front-end technologies: Angular, Angular Material, and NGRX
+Back-end and database technologies: ASP.NET Core, .NET Core, Microsoft Azure, Microsoft Azure SQL Server, and Microsoft Azure DevOps Server
+API integrations with WooCommerce, Magento, and Shopify
+
+Benefits:
+
+Opportunity to rapidly advance your skills by working with a team of accomplished developers
+Remote work, providing the flexibility to work from home
+Join a well-established software company with a rich history and a strong presence in the electrical industry
+
+About Electrika Ltd and OneTimePIM:
+Founded in Manchester, UK in 1992, Electrika Ltd is a privately held software company specializing in high-quality e-catalogues for manufacturers and powerful estimating and ordering tools for electrical contractors, wholesalers, and specifiers.
+OneTimePIM, an advanced Product Information Management (PIM) system, emerged from Electrika Ltd's need to manage large volumes of product data for leading electrical manufacturers. OneTimePIM extends beyond Electrika's core business to serve manufacturers and retailers in various industries. By simplifying product information management, OneTimePIM streamlines the process of importing, editing, and sharing product data and digital assets.
+Join our team of developers in expanding OneTimePIM's capabilities and making a lasting impact in the software development industry. Apply now!
+Job Type: Full-time
+Salary: £20,000.00-£24,000.00 per year
+Benefits:
+
+Company pension
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

@@ -1,0 +1,31 @@
+This is a rare opportunity to play a leading role in developing modern software with a high-performing and friendly software team.
+Please note that you must live or be planning to live within an hour's travel of Bath and have an existing right to work in the UK.
+HGEM is the leader in its field, working with many well-known hospitality businesses for 20 years to help them measure and improve their operation through customer data. Our headline platform, The Hub, was awarded Restaurant & Bar Tech Product of the Year. We have a mobile app which is used by thousands of mystery guests every week. And we have an exciting range of green field projects in our administration platform. All these systems are based on React and/or React Native.
+We are looking for an experienced React engineer (at least 3 years) to take a leading role in the development of our new platform, which is already under way.
+Our developers work in an agile environment and are empowered to be creative. Great support is provided in terms of business analysis, testing and infrastructure, and you'll get to know the business-facing teams who support our users. If you would like to really make a difference and enjoy collaborating with others in a team without barriers, then we'd love to hear from you.
+Our office is based in the centre of Bath and we need applicants to be within a commutable distance, but we support hybrid and remote working.
+ESSENTIAL SKILLS & EXPERIENCEReact (or equivalent such as Vue, Angular)Visual Studio CodeTypeScript or JavaScriptTesting frameworksSource control (Git)
+DESIRABLE SKILLS & EXPERIENCEAzure DevOps or AWSReact Native
+Job Types: Full-time, Permanent
+Salary: £46,000.00-£54,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Gym membership
+Profit sharing
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Application question(s):
+
+What attracted you to this role?
+
+Work Location: Hybrid remote in BATH
+Reference ID: DB02-SE

@@ -1,0 +1,59 @@
+
+ Company Description
+  Publicis Sapient is a digital transformation partner helping established organizations get to their future, digitally-enabled state, both in the way they work and the way they serve their customers. United by our core values and our purpose of helping people thrive in the brave pursuit of next, our 20,000+ people in 53 offices around the world combine experience across technology.
+
+
+
+ Job Description
+  Publicis Sapient is looking for a NodeJS Architect to join our team of bright thinkers and doers. The Manager drives the translation and construction of a client's business problems into innovative technology solutions by creating and owning the technical vision of the project and ensuring that the vision is achieved with a high level of quality. They are also responsible for mentoring and coaching people and providing technology- related thought leadership.
+ You will be implementing software on hyper-scaled Public Cloud Platforms and troubleshooting an optimising Continuous Delivery pipeline. You will be contributing ideas and part of a collaborative team that delivers premium quality software applications and services.
+ Your Impact:
+
+ Drive the design, planning, and implementation of multifaceted applications, giving you breadth and depth of knowledge across the entire project lifecycle
+ Combine your technical expertise and problem-solving passion to work closely with clients, turning complex ideas into end-to-end solutions that transform our clients’ business
+ Work closely with client stakeholders to understand requirements, provide technical advice and demonstrate progress through regular show-and-tells
+ Constantly innovate and evaluate emerging technologies and methods to provide scalable and elegant solutions that help clients achieve their business goals
+
+ Key Skills :
+
+ Hands-on programming experience in NodeJS
+ Expert knowledge of NodeJS or Typescript (As per role)
+ Knowledge of JavaScript Programming
+ Well versed with programming tools like VS Code or other code editors, Github, ESLint
+ Design, develop and implement unit and component testing
+ Experience in RESTful API development
+ Designing and building microservices
+ Experience in Public Cloud Platforms – GCP (Google Cloud), AWS and/or Azure
+ Proven experience as a Developer, with a successful track record of designing and implementing quality software products
+ Working on enterprise grade products – scalability, performance, security, testing
+ Collaborate well across the team and coach and mentor junior engineers in the team
+ Work closely with client stakeholders to understand requirements, provide technical advice and demonstrate progress through regular show-and-tells
+
+ Set yourself apart with:
+
+ 10+ years of experience in Node.Js
+ Understanding and experience with building cloud native applications
+ Exposure to Kafka, Scala, Docker, Cloud Pub-sub
+ Good knowledge of Kubernetes
+ A good understanding of CI/CD pipelines
+ Excellent database experience working with both SQL and NoSQL databases including SQL Server & MySQL
+ Understanding of various infrastructures (on-premise, cloud)
+
+
+
+
+ Qualifications
+  Bachelor’s/Master’s Degree in Computer Engineering, Computer Science, or a related field.
+ Additional Information
+ 
+
+ As a Nodejs Manager at Publicis Sapient, you will help to realize high-end technology solutions for our clients
+ You will guide the development, design, user interface, technology integration, and site architecture
+ You will engage in business development, as well as in building and maintaining client relationships
+ Benefits of Working Here:
+ Comprehensive private healthcare covering pre-existing conditions
+ Life insurance
+ Dental insurance
+ 33 days holiday including bank holidays
+ Free and delicious coffee served by our very own in-house baristas
+

@@ -1,0 +1,69 @@
+
+You are a problem solver who collaborates with our customers & teams to develop innovative solutions to tricky issues.
+ You are good at aligning with existing workflows and understanding the benefits and limitations of the technology choices you make. You will be able to advocate for new ideas and tools you have experience using. 
+ Problems are best solved in groups so teamwork and company culture are crucial to the way we work. You will be used to working with other team members across disciplines and communicating transparently in the open.
+ Knowledge & Experience
+
+ Strong experience with a cloud infrastructure provider (i.e. AWS or Azure)
+ Experience with IaC tools - we use Terraform and Terragrunt
+ Experience with container orchestration - Docker
+ Strong stakeholder management experience
+ Understanding of monolithic, microservice & serverless architectures
+ Excellent troubleshooting skills and ability to apply a methodical approach to fixing issues
+
+
+ Ability to competently use terminals 
+Experience with scripting (Python and Bash) and writing configuration markup
+
+
+ Experience with integrating monitoring tools in the CI/CD pipeline
+
+ Responsibilities & Contributions
+ Your day-to-day experience will be: 
+
+Structuring IaC projects to deliver reusable modules to multiple tenants
+ Supporting the engineering team in developing, deploying and maintaining the service
+ Creating and maintaining CI/CD pipelines using various vendor platforms and services
+ Using metric & alerting tools to monitor infrastructure and proactively detect issues
+ Providing well-formulated documentation for technical processes & project propositions
+
+ We’ll expect you to
+
+ Seek out new technologies and approaches within our projects, working to implement them with customers as appropriate
+ Show empathy towards your colleagues and be generous with teaching & knowledge sharing
+ Be able to switch between cloud providers
+ Be agile, make bets and move quickly. We like to test our assumptions early on, and we’ll empower you to make those decisions
+ Challenge your skills and be proactive about learning new things - there’s so much more to explore!
+
+ Nice to have
+ These are some of the things we think an exceptional candidate should have, but we’re not expecting everyone to have them. If you’re working towards any of them we’d love to hear about your journey! 
+
+
+
+Industry qualifications, certifications or a degree 
+Experience across multiple cloud infrastructure providers 
+Engineering background
+ Appreciation of infrastructure security concepts
+ More extensive programming experience 
+Understanding of RESTful or GraphQL APIs
+ Understanding of gRPC and synchronous messaging protocols
+ Understanding of asynchronous messaging
+
+ What do we offer?
+
+ An amazing place to work with talented colleagues 
+Forward-thinking leadership team, always open to new ideas and ways of working
+ An attractive salary and pension
+ High level of independence and flexibility
+ 25 days’ holiday, plus bank holidays with the ability to buy and sell up to 5 holiday days per year
+ Private healthcare for you and your family, along with access to mental health support
+ Team lunches, drinks and socials 
+Flexible working
+ Discounted gym membership
+ Cycle to work scheme
+ Working with high profile clients
+ Challenging, impactful projects
+ Professional learning and development
+ The ability to learn new skills through certification and training programmes
+
+ When you join WORTH, you will be part of a highly energetic, fast-growing organisation that helps organisations with creating the best digital solutions become smarter and more future proof. Our people enjoy a collaborative, agile, international work environment, lots of space to do things your way and fun events and activities. If you like working with curious, funny, high-performing colleagues, WORTH is the place for you.

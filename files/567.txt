@@ -1,0 +1,29 @@
+What are we looking for? 
+Arden & GEM CSU is searching for a talented individual to support our Application Development Team. The team’s core developments are implemented using based Microsoft based technologies with the main focus being on delivering web based systems for the NHS. 
+The applicant will have substantial experience developing .NET based web systems and should be familiar with working in the Azure Cloud. 
+
+
+The ideal skills will be as follows:
+
+
+ASP.Net Core, MVC, C#, JavaScript, HTML 5, CSS, Responsive Design, SQL Server, Azure Dev Ops, Angular, PowerShell, REST API Development, Azure, Unit Testing, XML
+ The developer should be independent and will be expected to work to the standards and policies defined by the development team. 
+Based in Leicester/Warwick but currently with home working arrangements, the successful candidate will form a key part of a dynamic Systems, Application and Reporting Team, delivering a high quality, responsive and efficient service, supporting customer objectives through delivery of Business Information Solutions. 
+
+ The post is to perform the duties associated with that of a Systems and Applications Developer for the Business Intelligence function. To design, build and maintain applications to deliver Business Information Solutions to our customers. This role is critical to support key decision makers to monitor performance, enhance service planning and lead to better delivery of services across a wide spectrum of needs and settings. 
+
+ Arden & GEM is one of the largest Commissioning Support Units in the country. Our customers include more than 60 Clinical Commissioning Groups (CCG), NHS England, local authorities, and a range of care providers. 
+
+ With offices throughout the Midlands, North West and South East we cover a core geographic patch that extends to Greater Manchester in the north and Essex in the south. Our services are built on a strong foundation of experienced people who build great relationships, a commitment to NHS values and a thorough understanding of our clients and the challenges they face. 
+
+ We provide real value to our customers by working at scale, creating the synergies and innovation that ultimately drives improved patient outcomes and makes commissioning resources work harder. 
+
+ Our cornerstones are quality, value, innovation, and complete customer focus. 
+
+
+
+The post holder will support the Software Development Lead to ensure effective service delivery and the delivery of priorities for the Systems, Application and Reporting Team.
+To provide additional software development support, participate and contribute in peer code reviews and strive to improve quality, clarity and performance of the system developed by all Software Developers in the team.
+Will attend all operational meetings as required
+Will support the implementation of forward-thinking optimally performant solutions that provide efficient and cost effective applications.
+Will support the implementation of initiatives to drive service efficiencies and process change and transact these through into operational processes.

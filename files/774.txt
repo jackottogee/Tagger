@@ -1,0 +1,61 @@
+
+Main Purpose of the Job: 
+The API Developer is responsible for designing and implementing data flows, business logic and associated APIs to ensure that data is reliably available to stakeholders on time and to the highest quality. 
+The API Developer will work with peers across the CTO group, collaborate with business stakeholders and other technical teams to provide end-to-end data capabilities, ensuring Dense Air’s tactical and strategic business objectives are met.
+ The API Developer will be responsible for migrating, developing and managing server-less cloud-native back-end services and be open to the principles of “API-first” development strategies.
+ The API Developer will manage proxying of the APIs via the cloud-native API gateway.
+ Key Responsibilities:
+
+Working with technical peers, design software that optimizes Dense Air’s cloud footprints. 
+Manage configuration and deployment of APIs through the API gateway, adopting openAPI v3.
+Continually monitor API usage patterns and provide feedback into software optimization, improvement and new features. 
+Ensure the appropriate tests and documentation are produced for legacy and newly developed services.
+Ensure that data governance and information security is included in all solutions by design. 
+Design and build software that is flexible, scalable, maintainable and of high quality. 
+Participate in the full development life cycle, including agile ceremonies and code reviews.
+Development should be done in tandem with good revision control practices, adopting best practices.
+
+Education and Experience:
+
+ Five years working in software development, with a focus on data, in a medium or large sized organisation.
+
+
+ Strong knowledge of software programming languages such as C#, .Net Core and Python
+
+
+ Experience of RESTful API development and be experienced with or open to “API-First” development practices
+
+
+ Experience using Apigee or equivalent API gateway highly preferable.
+
+
+ Experience of working within a Google Cloud ecosystem 
+
+
+Understanding of DevOps, CI-CD pipelines, automated testing frameworks, TDD, BDD and CDD principles and other associated software engineering best practices. 
+
+
+Technical degree in Computer Science, Computer Engineering or relevant field preferable.
+
+ Personal Qualities
+
+ Outstanding problem solver and team player.
+
+
+ Passionate about providing best-in-class data to our stakeholders. 
+
+
+Able to document designs with strong attention to detail.
+
+
+ An excellent planner able to schedule and prioritise work and react positively to issues occurring.
+
+
+Enthusiastic about development, sharing experience and best practice and able to write clear and maintainable software. 
+
+
+Able to present information in a concise way to stakeholders.
+
+
+ Equality and Diversity
+ Dense Air is an equal opportunities employer. We have a diverse and inclusive culture, respecting everyone regardless of age, disability, gender reassignment, marriage and civil partnership, pregnancy and maternity, race, religion or belief, sex, sexual orientation, trade union membership (or non-membership).

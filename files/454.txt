@@ -1,0 +1,58 @@
+
+Sytner Group is seeking a talented software engineer to join our team. As a software engineer, you will be responsible for designing, developing, and maintaining software solutions that drive our business forward.
+ This is an exciting time in Sytner's software journey and we have multiple upcoming projects ranging from a new generation of responsive websites to micro-service based solutions and mobile applications. As well as new projects, we enhancing and maintain our existing portfolio of software applications to ensure that they continue to deliver a great experience to the thousands of users in our dealerships and beyond.
+ If you’d like to be a part of the journey, let us know.
+ Skills
+
+C# ASP.Net MVC (4+/Core)
+Entity Framework (or similar ORM)
+JQuery, AJAX, HTML and CSS
+Service Oriented or Micro-service architectures
+Git and Continuous Delivery systems an advantage
+Ability to interact and communicate effectively with all levels of staff.
+Experience working in an Agile or Lean environment
+
+Key Responsibilities
+
+Engage with Business Analysts to refine the business requirements for applications and projects.
+Develop, document, and automate tests according to acceptance criteria.
+Develop, support and maintain existing in-house systems.
+Keep abreast of technical and industry developments and ensure existing systems are kept up to date with latest development frameworks and server technologies
+Work effectively driven within a team environment, contributing and implementing standards and processes.
+
+Current Technologies and Initiatives:
+
+ASP.Net Core 2.0
+MVC and Single Page Web Applications
+ASP.NET Web API
+Mobile Application Development
+Automated Builds and Unit Testing
+Automated UI and API testing
+Docker and Kubernetes
+Azure Web Apps, Azure AD and Cosmos DB
+Micro-service Oriented Architecture
+
+Why Sytner?
+ Sytner Group are delighted to provide an industry-leading benefits package.
+ We are passionate about continuous improvement and building an environment where everyone feels valued, appreciated and able to reach their full potential.
+
+Enhanced Holiday Entitlement – 33 days inc. bank holidays
+Industry-leading Maternity, Paternity and Adoption Pay
+Career Development
+Recognition of Long Service every 5 years
+Discounted Car Schemes
+High Street Discounts
+Discounted Gym memberships
+Cycle to work scheme
+One day a year paid voluntary / community work
+Business social events
+
+At Sytner, our values and the way we behave are important to us. We have a working environment where we value and respect every individual's unique contribution, supporting our colleagues to thrive and achieve their full potential.
+ We are committed to creating an equitable environment and welcome applications from individuals, regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion and/or belief.
+ As part of our commitment to Diversity and Inclusion, you have the right to ask for changes / adjustments to job interviews and the recruitment process.
+ For more information around reasonable adjustments and the recruitment process please click here.
+ Unsure? Read on…
+ We represent over 23 of the world's most prestige vehicle brands, across our 140 UK dealerships.
+
+   We pride ourselves on ‘Developing Talent and ‘Building Careers’ and our colleagues recently scored Sytner Group an outstanding 89% on our colleague engagement survey.
+ 

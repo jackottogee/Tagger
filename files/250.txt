@@ -1,0 +1,59 @@
+Full Stack Engineer
+Description
+We are on the look out for a Full Stack Developer with expertise in TypeScript, NestJS, and ReactJS. As a Full Stack Developer, you will be responsible for developing and maintaining web applications using modern web technologies. The role is ideal for someone who has experience in building enterprise grade systems which are robust, scalable, highly performant and secure, and are open to learn the latest cutting edge technologies and patterns.
+Responsibilities:
+
+Develop and maintain web applications using NestJS as a server framework and ReactJS as a client library.
+Collaborate with designers and stakeholders to develop web applications that meet business requirements.
+Write high-quality, maintainable code using TDD methodology.
+Refactor monolithic legacy PHP code into Node.js microservices.
+Optimize web application performance and improve user experience.
+Implement and maintain high load systems
+Participate in code reviews and provide feedback to improve code quality.
+Maintain code integrity, quality and responsiveness of software tools.
+
+Requirements
+
+5+ years of professional experience in Full Stack Development.
+Strong knowledge of TypeScript, NestJS and ReactJS as frameworks.
+Familiarity with database technologies such as MySQL, PostgreSQL, or MongoDB.
+Good knowledge PHP and Java languages
+Proficiency in TDD methodology.
+Experience with GCP services or AWS services
+Experience with high load systems, pub/sub, caching policies, security, streams, and reactive programming.
+Excellent problem-solving and analytical skills with the ability to work independently and in a team environment.
+Good communication and collaboration skills.
+Experience with GraphQL nice to have but not a requirement.
+
+Benefits
+
+Vibrant modern multi city office spaces including barista, pool table, table tennis, and down time facilities.
+Hybrid/remote work arrangements.
+Bi-Monthly company wide social and team building activities.
+Lunch Vouchers.
+Training and development opportunities
+Pension scheme.
+Private medical and dental insurance
+
+Why join us?
+We are a collaborative, forward-thinking, innovative team and work on cutting edge tech. We are passionate about what we do and the products that we create. We offer a competitive salary, unlimited training and amazing perks as well as a flexible superstar environment.
+Job Type: Full-time
+Salary: £40,000.00-£60,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Discounted or free food
+Flexitime
+Private medical insurance
+Work from home
+
+Schedule:
+
+Flexitime
+
+Supplemental pay types:
+
+Yearly bonus
+
+Work Location: RemoteFlexitime

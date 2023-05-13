@@ -1,0 +1,97 @@
+
+Description
+
+
+ Want to be part of a team delivering game-changing products?
+
+
+
+  We are looking for a 
+  Software Developer to join us at an exciting time as we transfer our world-leading technology from R&D to manufacture and bring our products to market. You will have an unrivalled opportunity to develop cutting edge technology, working with a modern technology stack and high quality code base. You will work closely with our talented scientists and engineers to deploy game-changing products in multiple industries.
+  
+
+
+  As a valued member of our small and creative software team, you will have the opportunity to apply your skills and creativity to significantly impact company technology.
+  
+ Our team works across the range of company’s existing and future products to support the company’s mission of transforming Radiology. This role will be focused on the development and testing of software for non-destructive evaluation (NDE) products.
+ 
+
+
+The Company
+
+
+
+  Adaptix Limited is transforming radiology through the development of innovative fast-acquisition, low-flux, deployable Digital Tomosynthesis 3D X-ray with applications across a multitude of global markets.
+  
+
+
+  AdaptixNDE is taking this technology into the future of non-destructive evaluation (NDE) for Aerospace composites, Metal Additive Manufacturing and the Electronics supply chain. Computed Tomography 3D X-ray is too prohibitive because of high-cost (and running/maintenance cost), -weight, -power, and slow-speed, so AdaptixNDE is offering 3D internal visualisation at the point of diagnostics earlier in manufacture and through-life with a consistent digital output facilitating Digital Twins and NDE4.0.
+ 
+
+
+Candidate Profile
+
+ As our ideal candidate, you have a minimum qualification of an undergraduate degree in engineering or science-based discipline. We would welcome applications from people who are accustomed to working in open agile environments, have confidence to make design decisions, take ownership of the execution of their work and show a collaborative approach to development.
+ 
+ Key Responsibilities
+
+ Main duties and responsibilities:
+
+
+Prototyping image processing algorithms in Python
+Creating/maturing tools to automatically analyse images from our systems inspecting electronics and composites
+Developing and testing control software for X-ray devices
+Performing the full range of collaborative software development activities according to industry best practice including specification, design, coding, reviewing and testing
+Generating Intellectual Property
+
+
+ Skills, Knowledge and Expertise
+
+ Skills:
+
+
+Ability to write clean Modern C++ code
+Proficiency in Python development, including libraries for image processing
+Experience of thinking through image analysis problems
+Problem-solving skills with a mathematical aptitude
+Familiarity with frameworks for deep learning, e.g., PyTorch (desired)
+Effective communication with an eagerness to learn from, and share knowledge with, colleagues
+
+
+Experience:
+
+
+Scoping work, making design decisions and completing tasks within budget and to deadline
+Software development and testing applied to scientific/technical problems
+Part of the development team building a complete software product
+Image processing techniques
+
+
+Apply Now
+
+
+
+  This is a permanent full-time role based at our at our commercial offices in Oxfordshire. Compensation is competitive and commensurate with experience.
+  
+
+
+  Please note the closing date, however should we find a suitable candidate before this date, the position may be filled earlier. Please note that we are unable to provide sponsorship for visa applications for this role.
+  
+
+
+  If you feel that you would excel in this role we would be delighted to hear from you!
+ 
+ About Adaptix
+
+   Adaptix is transforming radiology by bringing to market an addressable Flat Panel X-ray Source (FPS) with integrated power supply and controls. Adaptix is a developer of addressable distributed arrays for X-ray generation.
+ 
+
+
+
+   Our patent-protected technology enables fast movement-free 3D imaging at a significantly lower dose than CT. The FPS is designed to allow 3D image formation by means of tomosynthesis using existing generations of Detectors and Workstations, allowing a system price point similar to that of current 2D systems.
+ 
+
+
+
+   Our vision is that our technology will enable 3D X-ray imaging to be cheaper, more widely available and truly portable throughout the world’s clinics and hospitals.
+ 

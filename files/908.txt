@@ -1,0 +1,65 @@
+Software Developer - Manchester
+Salary: £40,000 - £60,000
+A fantastic Software Developer opportunity has arisen to join Medical Data Solutions and Services (MDSAS). We are an award-winning and expanding software development company specialising in the development and support of national and international healthcare solutions.
+Our work gives you the opportunity to input directly into projects that make a real positive difference to patients’ lives. At MDSAS your career development will benefit from our policy of adopting the latest technologies available for software development with learning resources provided.
+If you are successful you will become a key part of the development team with a very varied role, with the opportunity to be involved in the projects/applications for the full life-cycle from initial discussion to implementation.
+Along with colleagues in the Software Development Team, you will be working in a Microsoft development environment and will be actively involved in full stack development of bespoke web-based applications.
+About you:
+
+Enjoy learning new skills and using the best tools for the job
+Strong ASP.NET web development experience
+Ability to work in a team & independently and multi-task effectively
+Demonstrated understanding of projects from the perspective of both client and business
+Related degree qualification or equivalent experience
+
+What you will be doing as our Software Developer:
+
+Developing software solutions in a team using Agile methodology
+Deploying solutions to in-house infrastructure and Azure
+Maintaining the systems once they are up and running
+Recommending improvements to existing applications as necessary
+
+Development tools and skills of our Software Developer
+Essential:
+
+Web development using C#, ASP.NET, Javascript
+T-SQL
+MS-SQL Server
+
+Very Desirable:
+
+.NET Core, Razor Pages, Blazor, Bootstrap
+Experience of Agile / Scrum environment
+Cypress UI testing
+Azure DevOps Pipelines
+IIS
+
+Desirable:
+
+CI/CD
+Git version control
+
+Benefits:
+
+Remote working supported
+Pluralsight and training schemes / mentoring
+Salary £40-60k depending on experience
+7% pension
+27 days per year holiday exc. bank holidays - plus additional bonus birthday
+
+The job is available to UK residents only
+No Agencies please.
+Two-stage interview process with a short skills test. Job offer subject to DBS, reference and qualification check. Please quote job reference MDSAS-331 on application.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£60,000.00 per year
+Benefits:
+
+Additional leave
+Company pension
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote

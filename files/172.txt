@@ -1,0 +1,60 @@
+Software Developer
+Location: Hull Office/Remote Working/Hybrid
+Contract: Permanent, Full Time
+Salary: 24,000 - £36,000 PA
+SmarterPay are a Bacs approved software and supplier and Bureau, Salesforce ISV Partners, Sage ISV Partners and a PCI DSS Level 1 Payment Gateway. Fast becoming the UK’s preferred payment provider, we specialise in payment solutions for Direct Debit/Credits and card payments for cloud-based CRM systems, billing platforms and accounting systems.
+We are looking for an experienced and dedicated Software Developer with industry experience to join our growing team and work closely with clients on a variety of exciting Agile and Scrum projects.
+Core Responsibilities:
+
+Work on a wide range of projects including bespoke customer system development, internal system updates and product upgrades
+Focus on front-end and user interface development.
+Test developed functionality
+Assist the Support team with change requests or bugs sent from client feedback
+Be able to read and create debug/troubleshooting
+Produce required documentation including project specifications, user manuals and testing/implementation plans
+Have a basic understanding of all SmarterPay products and services
+
+Technologies to be used in role:
+
+ASP.net MVC and Razor Pages.
+C#
+Web Services – SOAP and REST.
+XML and JSON.
+Databases such as SQL and MySQL.
+HTML, CSS, Javascript and jQuery
+
+Skills/Knowledge:
+
+Over 2 years industry experience
+Strong front-end development knowledge.
+Ability to create and maintain professional and modern front-end user interfaces.
+Knowledge ranging from ASP.net MVC, CSS frameworks such as Bootstrap and Tailwind and additional technologies to generate dynamic modern user interfaces.
+High level communications skills
+Ability to work on individual and team projects
+Strong customer service skills
+Great attention to detail
+Self-motivated and able to manage own time and workload
+
+To apply, please send your CV and cover letter to recruitment@smarterpay.com
+Job Types: Full-time, Permanent
+Salary: £24,000.00-£36,000.00 per year
+Benefits:
+
+Flexitime
+Life insurance
+Unlimited paid holidays
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+COVID-19 considerations:n/a
+Experience:
+
+ASP.NET: 1 year (preferred)
+C#: 1 year (preferred)
+
+Work Location: Hybrid remote in Hull
+Application deadline: 05/05/2023Reference ID: Software DeveloperFlexitime

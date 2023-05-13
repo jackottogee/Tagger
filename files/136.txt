@@ -1,0 +1,144 @@
+
+Your mission
+
+
+ About AppFox
+ 
+
+
+ We are a fast-growing team that develops innovative, cutting-edge software that makes a difference. AppFox is the product team at Automation Consultants responsible for building cutting edge software and apps that transform leading collaboration tools. Our apps are used by over 1,500 companies worldwide to make a difference to their business. Our customers include globally recognised brands such as Deloitte, Goldman Sachs and Mercedes-Benz.
+ 
+
+ The Role
+ 
+
+
+ Working as part of our development team, you will perform Full Stack development across a range of products. As well as supporting and improving our existing applications, you will also generate new ideas for the team and produce new products.
+ 
+
+
+
+
+  Responsibilities and Duties:
+ 
+
+
+ Perform front and back-end development on products and applications 
+Assist in the design of new products, and interfaces in existing products – e.g. Optro Market
+ Share knowledge and new methods with the team 
+Software testing (unit and front-end)
+ Get involved with the management of infrastructure (AWS, Docker)
+ Ongoing training and accreditations in the latest tools and technologies 
+Implement bug fixes to existing products
+ Represent the team at numerous international events
+
+
+ Your profile
+ 
+
+  Qualifications and Skills:
+ 
+
+
+
+
+
+
+     Essential
+    
+
+
+
+
+
+     Nice to have
+    
+
+
+
+
+
+
+
+     Experience using a variety of programming Languages, frameworks and tools including at least two of the following; Java, JavaScript, Python, C, C#, C++, SQL or Groovy
+    
+
+
+
+
+
+     Experience of using or administering Atlassian software such as Jira, Trello and Confluence.
+    
+
+
+
+
+
+
+
+     A Computer Science based degree with a 2:1 minimum
+    
+
+
+
+
+
+     Experience working with public Cloud solutions, such as AWS, Azure or GCP.
+    
+
+
+
+
+
+
+
+     Significant knowledge of algorithms and data structures
+    
+
+
+
+
+     Demonstrable personal development projects – e.g., GitHub and Open Source
+    
+
+
+
+
+
+
+
+
+     The passion for development, with the desire to collaborate with the team and generate new ideas
+    
+
+
+
+
+
+
+Why us?
+
+
+   We know that here at Automation Consultants, our team members are the best in the industry. So, we do everything we can to take care of them. We offer ongoing training and professional development, tailored to the individual’s ambitions, as well as creating a team that learn from one another. We offer challenging projects within a supportive team and believe that your skills should always be growing
+ 
+
+
+ Salary and Benefits: £35,000 - £40,000 Per Annum
+ 
+
+
+ 33 days holiday (including bank holidays)
+ Private Healthcare
+ Dental Insurance
+ Enhanced Maternity & Paternity plans
+ Pension Scheme
+ Dedicated ongoing training plan and budget
+ Flexible working hours and environment
+ Access to the Electric Car Scheme
+ Automation Consultant's Cycle to Work Scheme
+ Top Spec Machine and access to virtual test lab
+ Onsite gym, showers, yoga lessons and more.
+ A subscription to Perkbox (dozens of offers, discounts, free gadget insurance, 2 for 1 cinema tickets, etc.)
+ Regular company-wide events, team social events, including Hackathons and competitions
+
+ Automation Consultants are a leading, dynamic and forward-thinking company in the technology industry. We work with a number of companies across the UK, delivering industry recognised automation solutions, software development and technical support. We are a fast-growing company currently recruiting in a number of roles. We pride ourselves on our contemporaneity and innovation and welcome applications from ambitious, energetic and driven individuals.

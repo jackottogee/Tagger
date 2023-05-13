@@ -1,0 +1,74 @@
+
+Here at the Guardian, we believe the open exchange of information, ideas and opinions has the power to change the world for the better. Our independent journalism holds power to account across the globe and brings information that's suppressed into the public domain.
+We value and respect all differences in all people (seen and unseen) at the Guardian. We aspire to have inclusive working experiences and an environment that reflects the audience we serve, where our people have equal access to career development opportunities, their voices are heard and can contribute to our future. The Guardian actively encourages applications from BAME candidates.
+We’re looking for an Associate Full Stack Developer to join our growing team.
+You can learn more about our Engineering culture here.
+About the Role
+
+You’ll be coding on the frontend and backend of one of our systems in order to make an impact towards your team's objectives 
+You’ll be working in a cross-functional team, which is empowered to rapidly iterate and release new features 
+You won’t be coding in isolation - our culture is strongly collaborative, whether pair programming with other developers or working closely with editorial and commercial colleagues 
+You’ll be encouraged to grow - we support moving between teams and roles in order to learn new skills and technologies in whatever direction you choose 
+
+About You
+
+You’ll have experience using frontend and backend web technologies following modern development practices
+You’ll have experience in a Software Development role with evidence of fluency in any programming language
+You’re a creative and passionate person who loves web technologies, you’ll be excited by the opportunity to shape the future of digital journalism
+
+You can see the full job description here.
+We strive for transparency in remuneration. The salary for new Full Stack Developers at The Guardian is £36,200 per annum.
+Flexible Working
+We are a remote-friendly company.
+We see real value in face-to-face collaboration and we also understand the benefits of working remotely and the flexibility this offers.
+In particular, we want to build diverse and inclusive teams, where everyone can do their best work.
+Different roles carry different expectations, and for the role for which you’re applying, we’d typically expect to see you in the office, on average, two days per month. If you want to come in a lot more than that, that’s great too.
+We also support a variety of flexible working requests.
+Benefits at the Guardian
+Culture & Wellbeing We want everyone to feel like they belong at the Guardian and we champion diversity of thought. Our various employee forums provide a platform to use their voice to foster an inclusive workplace.
+You will also have the opportunity to hear unique insight from our journalists in our morning conference, a live discussion on the news story of the day.
+We offer great tools to help you prioritise your wellbeing including free yoga and pilates. These run alongside our corporate gym membership and cycle to work scheme.
+Learning and Development We encourage personal and professional growth. Employees have access to a broad range of tools and solutions, and we are happy to support the pursuit of professional qualifications through vocational courses and apprenticeships.
+Our Working Environment We take pride in our surroundings and are pleased to offer versatile meeting rooms and colourful communal areas. We have a brilliant canteen that caters to breakfast, lunch and dinner, with views overlooking Regent’s Canal. Our multi-faith prayer room provides privacy for those who require a safe space when in the office. Also, coming soon, the Yellow room, a dedicated space for expressing if you are breastfeeding.
+Additional Benefits & Policies We offer 30 days annual leave per annum, plus an additional 5 day holiday purchase scheme. Our pension scheme is generous; if you contribute 5% then we will contribute 8-12% (depending on your age). We believe in giving back, which is why employees are given 2 volunteering days annually and the option of payroll giving. Season ticket loans are also available.
+You are entitled to life cover, income protection, healthcare, sick pay and eye tests. You can also opt in to dental insurance.
+We have enhanced maternity, paternity, adoption and shared parental leave policies in place. We also support our employees by offering an IVF, menopause, baby loss, and trans equality policy.
+How to Apply
+To apply, please upload your latest CV and a cover letter which outlines why you’d love to take on this role, and why you’re a great match for what we’re looking for.
+Please note, applications without a cover letter will not be considered.
+The closing date for applications is Wednesday 3rd May.
+Our Associate Full Stack Developer interview process involves 2 stages: 1. Face to face interview 2. Pairing test
+We are currently running the interview process remotely.
+Please let us know if there are any changes we could make to the application process to make it easier and more comfortable for you. Contact Rose Mustard - rosemary.mustard@theguardian.co.uk so we can work with you to support you throughout your application.
+You must be eligible to work in the UK at the time of your application.
+About Us We welcome applicants with a diverse set of backgrounds, different lived experiences and different perspectives. A diverse team means we can better reflect and engage our global audience.
+We believe in hiring the best people from the widest pool, fostering a culture where people’s voices can be heard and our employees look forward to coming to work.
+
+
+
+
+
+Job Number
+
+
+KIN0002MT
+
+
+Location
+
+
+Kings Place
+
+
+Business Area
+
+
+Engineering
+
+
+Employment Type
+
+
+Full-time
+
+

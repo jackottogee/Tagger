@@ -1,0 +1,43 @@
+
+ An opportunity has arisen with my client for an C++ Software Engineer to join them on a 12-month contract. The role will be suitable for a highly capable Software Engineer to join their Bristol team to develop solutions for the next generation of design air defence systems. 
+ 
+
+Role: C++ Software Engineer
+ 
+Pay: £65.00 Per Hour Via Umbrella Company
+ 
+Location: Bristol 
+ 
+Contract: 12 Months 
+ 
+Hours: Monday - Friday, 37 hours per week - Full time onsite
+ 
+Security Clearance: Security Clearance Required 
+ 
+
+Responsibilities:
+
+ To work with my client to develop their evolving products whilst maintaining their enviable reputation for safety, performance and dependability.
+  This is a very hands-on role and requires the continued design and development of Command and Control architectures, and the instantiations for future products. Perfect for a Software Engineer who is proactive and takes the initiative.
+ 
+
+Skills/Experience: 
+
+
+A strong background in software engineering, its realisation and system wide impact.
+Experience of working in C++
+Collaborative, open approach to development and have the ability to work well in a team and maintain momentum during development.
+
+
+ Other skills of interest include:
+
+
+Experience of working across the entire software development process from engaging with requirement authorities to automated target integration and proving, supported with effective documentation
+Experience of new tools, techniques and approaches that might enable us to evolve our processes to improve our efficiency and sustainability
+Experience in other languages such as Ada, QT
+Knowledge of DDS middleware and Real Time Operating Systems
+Knowledge of standards such as DefStan 00-55, DO-178C or IEC61508 and restricted coding standards such as MISRA C++
+
+ If you are interested in applying for this position and you meet the requirements, please send your updated CV to: Melanie Cave at Line Up Aviation
+  Line Up Aviation has carved its own place in the recruitment of Aviation and Aerospace personnel all over the world for more than 30 years. We work with some of the industry's best-known companies who demand the highest standard of applicants.
+  "Follow @LineUpAviation on Twitter for all of our latest vacancies, news and pictures from our busy UK Head Office. Interact with us using the #LineUpAviation tag at anytime! Thank you for your follow!"

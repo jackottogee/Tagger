@@ -1,0 +1,82 @@
+Designed, engineered, and manufactured in the UK, Indra offers the best smart charging products on the market using pioneering, patented technology. With industry leading reliability, Indra’s high-quality, high-performance EV smart chargers are easy to install and operate; and are already in use in thousands of home and commercial locations worldwide. Its products are not only smart for customers, but also deliver maximum results for the grid and minimum impact on the environment.
+Indra was founded in 2013 on a mission to create the smartest way to power EVs (electric vehicles). With its design, R&D, engineering, and manufacturing operations based in Malvern, this British company has fast become a leading EV and smart energy technology business. It is creating tomorrow’s sustainable energy ecosystem today through the use of pioneering technology that integrates the car, the home and the grid.
+Indra has designed a range of innovative EV chargers that offer more convenient, reliable, cheaper and sustainable EV charging capability. The company has also developed the first viable bi-directional V2G (vehicle to grid) charger which allows power to flow both ways, enabling users to control the flow of energy to where it’s most needed. This revolutionary technology means customers are able to access energy when needed and at its cheapest and most sustainable, and it also assists the grid in balancing energy load and demand.
+By working with carefully selected professional installer networks, Indra’s high-quality, high-performance products are easy to install and operate; and are already in use in thousands of home and commercial locations worldwide.
+Benefits available to Indra’s employees include:
+· 5% matched Pension
+· 25 days annual holiday allowance in addition to bank holidays
+· 1 day annual volunteering leave
+· Quarterly Team Building events
+· Social events
+· Wellbeing, Health & Safety and Green Forums
+· Employee referral reward scheme
+· Long service reward scheme
+· Discretionary bonus
+· Benefits Platform (includes cycle2work scheme, retail discounts, eye test voucher, employee assistance programme, health cash plan etc)*
+· Monthly wellbeing allowance*
+· Enhanced Maternity/Paternity pay
+· Mental Health First Aiders
+· Company Car scheme*
+*Available to employees who have completed their successful probation period.
+The company reserves the right to change these benefits at any time.
+KEY RESPONSIBILITIES
+
+Developing embedded software for next generation smart energy products for Electric Vehicles and Home Integration
+
+
+Developing software for internal production \ subcontractor test equipment
+
+
+Mentoring junior engineers as well as helping to scale a new team and ensuring best practices
+
+
+You’ll be expected to help lead and participate in code reviews and generate the appropriate levels of documentation
+
+KEY COMPETENCIESQualifications
+· HND or Degree-qualified with 5+ years related experience preferably within consumer product development.
+Essential Skills
+· C++ (11)
+· Scripting Python / Bash
+· TDD / Unit Testing / Static Analysis
+· Embedded Real Time Systems (RTOS and bare metal systems)
+· Git \ GitHub \ GitFlow
+Desirable Skills
+· C
+· High Reliability - MISRA C \ C++ \ DO-178B etc
+· Networking (IoT \ TCP\IP, network certification \ security)
+· Low level communications protocols (CAN \ I2C \ SPI \ UART etc)
+· Wireless communications (GSM \ 3G \ 4G \ Wifi \ Bluetooth etc)
+· Power Line Communications
+· Linux Desktop
+· Embedded Linux OS \ buildroot \ Yocto \ cmake \ UBoot
+· Embedded Development boards (BeagleBone, Raspberry Pi)
+· Docker
+· Google Cloud Storage
+· CI - Jenkins \ CircleCI
+· Hardware design experience (in particular PIC and ARM processors)
+· Relevant degree
+· Chartered engineer
+· Evidence of contribution to relevant open source projects or other demonstrable genuine experience/interest in technology outside
+· Experience with Agile methodologies
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£60,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Cycle to work scheme
+Free parking
+On-site parking
+Referral programme
+Store discount
+Wellness programme
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Malvern: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Malvern

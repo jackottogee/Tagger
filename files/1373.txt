@@ -1,0 +1,19 @@
+
+This UK-based cyber security software house have high-profile clients around the globe.
+ Upon joining this exciting, growing software house, you will gain an opportunity to work in various different teams throughout the business, in order to find out where your skills are best-suited.
+ You will be working with developers at the top of their game, creating software mainly with Java and C# in the .Net environment. Training will be offered to a high level via pair programming within each of the teams and you will become an expert in software design patterns, refactoring and writing clean and maintainable code.
+ Responsibilities:
+
+Cyber security software development, mainly with Java and C# .Net
+Test-driven development
+Solutions architecture
+Working within a fast-paced agile environment, with daily morning meetings
+Software design
+Refactoring
+Time is allowed to spend on personal development
+
+
+Expecting or obtained a first-class (or equivalent) degree in computer science, software engineering or related.
+Minimum three A's at A Level (or equivalent).
+Demonstrable passion for software development.
+

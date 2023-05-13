@@ -1,0 +1,44 @@
+
+ We are not your standard bank, we are an innovation hub. We are part of the team that launched Chase as a new UK bank in 2021, and are now starting on a new initiative with big ambitions. More details will be provided during the interview but for now we can enthusiastically say: It's challenging, it's high stakes, it's fun! 
+ 
+ Our team is at the heart of building this new venture, focused on developing products that put the customer at the centre. We have created a new organisation with diverse professionals that come from a wide set of skills, backgrounds and experiences, including top big tech companies, blockchain innovators and FinTech unicorns. 
+ 
+ Team members have broad autonomy to collaborate and work in a cross-functional way and we value your opinion in every matter. Our inclusive culture is hugely important to us and we are looking for intellectually curious, compassionate people who would like to expand their skills whilst working on a new exciting venture for the firm.
+ 
+ We are about bringing new products to market that solve real world problems for real life customers, not just innovation for the sake of innovation. We are human first; we love working with each other, and we need personal connections and in-person bonding. We find we are happier, more motivated and more productive this way.
+ 
+ If this sounds like something that you would like to be a part of we'd encourage you to read on and apply, even if the job description isn't an exact match for you, we can promise to review your application and let you know if there is anything that might be suitable in the future! 
+  What we do 
+ 
+Use domain modeling techniques to allow us to build best in class business products. 
+Structure software so that it is easy to understand, test and evolve. 
+Build solutions that avoid single points of failure, using scalable architectural patterns. 
+Develop secure code so that our customers and ourselves are protected from malicious actors. 
+Promptly investigate and fix issues and ensure they do not resurface in the future. 
+Make sure our releases happen with zero downtime for our end-users. 
+See that our data is written and read in a way that's optimized for our needs. 
+Keep an eye on performance, making sure we use the right approach to identify and solve problems. 
+Ensure our systems are reliable and easy to operate. 
+Keep us up to date by continuously updating our technologies and patterns. 
+What we expect 
+ 
+Identifies problems, proposes solutions, suggests what's best to focus on. Sees themselves as a problem solver. Contributes to the problem at hand, even when outside their area of speciality. 
+Co-location is important to us and we are spending 3-4 days a week in the office at this formative stage of the project, but we will review at later phases . 
+A desire to teach others and share knowledge. We aren't looking for hero developers, more for team players. 
+Adjusts quickly to changing priorities and conditions. Copes effectively with complexity and change. Learns and unlearns technologies and patterns quickly. Comfortable in uncharted waters. 
+Can see the long term. Won't sacrifice the future for the present. Chooses technologies and approaches based on the end goals. 
+High standards. Expects personal performance and team performance to be nothing short of the best. 
+Does not cut corners ethically. Earns and maintains trust. 
+Does what's best for the company, rather than what's best for themselves or their team. 
+Able to take the initiative and shape their own path. 
+Has a pragmatic and iterative approach to achieving our long term goals 
+Technologies we use 
+ 
+We primarily use Jvm based languages ( Java/Kotlin) but we also have parts of the platform that use other languages as needed. 
+We look to use Open source when it makes sense and build ourselves when it doesn't. 
+We are entirely cloud native and want to build a truly multi-cloud solution. 
+We look at each problem independently and pick the right technology to solve it. 
+We aren't afraid to try new things but we always remember that we are looking to build something to last, and we focus on solving real world problems for real life customers. 
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

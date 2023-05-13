@@ -1,0 +1,72 @@
+Who we are:
+Jisp is an award-winning start up tech company that delivers best-in-class mobile marketing, shopping, and payment solutions via our app. This is an exciting time to join the team as we begin the delivery of our ambitious new strategy including targeting other areas of the globe! As we grow, we provide the opportunity for all our employees to grow with us and climb the career ladder. We offer all our employees a very attractive benefits package including a total of 35 days paid leave and consistently reward excellent work.
+Who we are looking for:
+Alongside being curious and passionate about tech and software engineering, we need somebody with the following skillsets:
+
+Proficient in relational (SQL) databases, and an understanding of how to interact with them.
+An analytical mindset and excellent problem-solving skills
+Previous experience working in data analytics, using tools such as Grafana
+Defining test requirements, writing test scripts, and carrying out testing.
+Experience using Git Bash would be advantageous.
+Undertake functional testing and validation of developed code, documentation, and training materials.
+Understand customer requirements and translate into technical requirements.
+Competency in C# and .NET Core (nice to have).
+Competency in Python (nice to have).
+Write clean, fluent, maintainable code that is well-aligned with business requirements (nice to have).
+Previous development experience in a professional environment building software (nice to have).
+
+Key Duties Include:
+· Querying databases daily with a problem-solving attitude to work.
+· Developing company use of Grafana using SQL and building reports, with a focus on data insight and its application across our solution.
+· Providing support to the internal teams as necessary, including both hardware and software such a developing in house tools.
+· Testing and confirmation of code, documenting materials and processes.
+· Hands on approach to work with a strong work ethic and independence to make things more efficient and data driven.
+· Building internal tools using C# and/or Python.
+· Working alongside the development team to deliver and build new features and quality assure existing functions, using Jira.
+About you:
+· Good interpersonal skills to communicate with the team and understand end-users needs.
+· Ability to analyse/handle complex issues and propose effective solutions.
+· Team player who enjoys sharing information and adaptable in their working.
+· Solution-focused, service-oriented and proactive looking to define a role for themselves and become crucial to our daily operations.
+· Have a reliable professional conduct and be approachable.
+· A strong problem solver who can think outside of the box to resolve issues.
+Benefits:
+· Salary £27k + (salary dependent on experience and considered for the right applicant)
+· Paid time off: 23 Days Holiday, bank holidays, 1 duvet day, 1 staff improvement day, 1 summer BBQ day, half day for Christmas Party, half day on Christmas Eve.
+· 30 days WFH allowance per year
+· Pension scheme/ Company pension
+· Share Options scheme
+· Fuel contribution - up to £500 per year (for eligible employees who live over 6 miles from Head Office)
+· Discretionary annual bonus
+· Casual dress
+· Wellness programme
+· Sick Pay
+· Company events & team days
+· Free fruit & drinks
+· Training (both for your specific job and to progress your career)
+Please send a cover letter upon submission for this role as to why you believe you would be a good fit for Jisp in this role.
+Job Types: Full-time, Permanent
+Salary: From £27,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Discounted or free food
+Free or subsidised travel
+Sick pay
+Wellness programme
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Yearly bonus
+
+Ability to commute/relocate:
+
+Alton: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person

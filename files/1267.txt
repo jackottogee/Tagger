@@ -1,0 +1,33 @@
+
+Backend Java Developer (SOLID Cloud Concurrency Microservices) *Remote / UK* to £100k
+ 
+Are you a talented technologist who has a good understanding of Java? Do you want to be part of a well-funded and immersive technology start-up whose intuitive 3D design and collaboration tool enables designers to bring their ideas to life?
+ 
+What's in it for you?
+
+ Up to £100k salary
+ Remote working from anywhere across the UK / Europe
+ Very generous holiday allowance
+ Personal development and wellbeing budgets
+ Team meet-ups abroad!
+ Enhanced parental leave
+
+ 
+The role:
+ As a Backend Java Developer, you'll be part of a talented and professional engineering team distributed across Europe who are responsible for designing and developing large scale distributed systems that support real-time, multi-user interactions in an immersive 3D product. You will play an important role in enhancing, designing, and developing scalable backend systems in Java to support low latency interactions across multi-platform applications including desktop, mobile, tablet, and AR/VR. The company will encourage you to have ownership, continually learn, and make an impact, with flexibility in terms of where and when you work.
+ 
+WFH policy:
+ The company has offices based in central London however, you can work remotely from anywhere across the UK or Europe.
+ 
+Requirements:
+
+ You hold a degree in computer science or a STEM subject 2:1 and above
+ You have a software engineer background using one of the following languages: Java (ideally), C#, C++, Golang
+ You understand best coding and industry practises including SOLID
+ You have experience with distributed systems
+ You have excellent communication and collaboration skills
+
+ 
+As a Backend Java Developer you can expect to earn a competitive salary (up to £100k) plus benefits.
+ 
+Apply today or call to find out more about this Backend Java Developer role.

@@ -1,0 +1,52 @@
+
+Introduction
+
+
+We are looking for a Software Engineer to work across a range of technologies and provide support to solutions for MOD and NATO systems. My client is open to Junior candidates or candidates who have recently finished a Grad Scheme, as long as you have a few key skills that are mentioned in the description below.
+ This is a remote working role, however on-site work in my clients Southwest London office will be required once or twice a month.
+ My client are a leading global defence organisation who supply their customers with world class software engineering solutions for a number of complex systems. Candidates must be eligible to hold a SC Security Clearance to be considered for this opportunity. 
+
+
+Key responsibilities
+
+
+
+Design, build, deliver and support critical customer systems
+Assist with the set up and design of a project's software and hardware development environment, and CI/CD pipeline
+Complete work packages on schedule and within budget
+Build up technical knowledge of existing products and any new product and project developments
+
+
+
+
+
+Skills & experience
+
+
+
+Experience in design, development, test and integration of software.
+Experience in one of the following: Java, C or C++.
+Understanding of Service-Oriented and Web-Oriented Architectures.
+Knowledge or experience in software configuration management, such as Git/BitBucket.
+Keen to learn a broad range of technologies and languages.
+
+
+
+Additional benefits
+
+
+
+Travel Benefits
+Pension Scheme
+Paid Leave
+Holiday Buy and Sell
+Employee Performance Recognition Program
+Employee Incentive Program
+Employee Referral Award Program
+
+Our client is committed to providing a diverse and inclusive workplace and welcomes applications from all backgrounds. 
+RECOMMEND A FRIEND: If you have professional friends/colleagues who would be interested in one of our roles and our excellent levels of service too, we'd like to recognise your recommendations with a 'thank you' of our own. For every colleague you refer who then starts a role through Datasource either Contract or Permanent, we will send you £250 of Love to Shop Gift Vouchers!
+ You will be required to hold a minimum of SC Clearance. If you do not hold an active SC clearance, please familiarise yourself with the vetting process before applying.
+ (c) Copyright Datasource Computer Employment Limited 2023.
+
+

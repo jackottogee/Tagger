@@ -1,0 +1,79 @@
+We are seeking a Software Developer (.NET) to join a leading software development company based in Dorset. This key role is to directly support the Technical Director to scope, implement and deliver on a variety of internal tasks ranging from the use of technologies to product development. The role will require supporting legacy systems using a VB.NET code base and programming new developments using C#. The role will be remote working but with an occasional requirement to attend our new and vibrant Bournemouth office. We enable our friendly and supportive team to work in a flexible and remote environment using the latest technology, whilst ensuring that communication channels are always available.
+Known for innovation and creative excellence for the past 20 years, Rocktime is an exciting, progressive business, proud to include notable brands across industry sectors as well as government and larger local authorities. With a strong reputation and an impressive portfolio, we have built a diverse array of complex projects spanning: Product Development, Bespoke Web Based Applications, Marketing Websites, E-commerce and Tailored Hosting.
+Our Culture is based on a flexible approach to work, a friendly and enjoyable atmosphere, underpinned by a genuine desire to produce the best work as a team.
+Joining as a passionate Software Developer (.NET), this role is a demanding one but will be hugely rewarding for the right candidate.
+Role Requirements:
+
+Entity Framework
+C#.NET or VB.NET
+MS SQL
+MVC
+Linq
+Visual Studio
+Object Orientated Design
+HTML
+CSS
+SCSS
+Javascript
+jQuery
+
+You must have:
+
+A real passion for digital technology
+A keen eye for detail
+Problem-solving skills
+Working as a team player
+Self-motivated with drive and ambition
+
+An advantage:
+
+Dependency Injection
+Selenuim
+An understanding of responsive web design and mobile first best practices
+A degree in a computer science subject at 2:1 or above is considered an advantage
+
+Communication:
+
+You will be required to attend occasional client meetings
+You will be required to talk to clients on the phone
+You will require good conversational skills in English
+
+Some of our Benefits:
+
+Bonus scheme
+Flexible working within core hours
+Office or remote working
+Casual dress code
+Additional holiday which further increase with length of service
+
+This position is subject to a satisfactory DBS check.
+Get in touch by sending your CV and telling us a bit about yourself. We’d love to hear from you!
+Due to high demand, if you do not hear from us within 28 days, please consider that you have been unsuccessful on this occasion. Rocktime is an equal opportunities employer. No agencies, please.
+Job Types: Full-time, Permanent
+Salary: Up to £40,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Experience:
+
+VB.NET: 3 years (required)
+C#: 3 years (required)
+Commerical: 3 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

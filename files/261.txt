@@ -1,0 +1,82 @@
+
+Software Developer (Full Stack)
+
+ Would you like to develop innovative digital applications to solve our greatest energy transition challenges?
+
+ Are you a Full Stack Developer looking for an inspiring opportunity to grow?
+
+ Join our Software Team within Pre-Commissioning & Maintenance (P&M) 
+You will be working on software applications for life cycle project management within the Energy Technology sector. Our team develops high performing, scaling, innovative applications.
+ We collaborate with system engineers, product owners and subject matter experts to create unique products. You will participate in the Baker Hughes Software Alliance community such as UX Design, Data Science, Agile Practitioners.
+
+ Here's what you can expect in this role:
+
+ Global cloud based applications hosted in Azure
+ Data Lakes, Data Warehousing and Business Intelligence
+ AI & Machine Learning
+ Mixed & Augmented Reality for field operations
+ IIOT, Telemetry and Sensor integration
+ Advanced Mobile, Desktop and Web Applications
+
+
+ As a Software Developer (Full Stack), you will be responsible for:
+
+ Developing exceptional applications for our business
+ Writing clean, scalable code using C#/Type Script programming languages
+ Developing end-to-end applications using Angular/.net
+ Developing technical interfaces, specifications, and architecture with strong attention to detail
+ Applying software development life-cycle principles and methodologies such as Agile and Kanban, to continuously improve our code and processes
+ Improving code quality and deployment processes, enhancing CI/CD pipelines
+
+ Fuel your passion
+
+ To be successful in this role you will:
+
+ Have a Bachelor’s Degree in Software Engineering or a related Technology discipline or show equivalent, demonstrable work experience
+ Demonstrate experience with Back-End development frameworks such as C# / .net
+ Demonstrate experience with Front-End development frameworks such as Angular, React, Vue
+ Display knowledge of Relational/NoSQL databases such as SQL Server, PostgreSQL, Cosmos DB
+ Show experience in developing Object-Oriented software using standard practices such as unit testing
+ Display knowledge of tooling such as Git and GitHub, and cloud services
+ Have experience of working in an agile environment and knowledge of Continuous Integration and Deployment
+ Have excellent communication and presentation skills, be a team player
+
+
+ Work in a way that works for you
+ We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns:
+
+ Working remotely - occasionally from home or any other work location
+ Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive
+
+
+ Working with us
+ Our people are at the heart of what we do at Baker Hughes. We know we are better when all of our people are developed, engaged and able to bring their whole authentic selves to work. We invest in the health and well-being of our workforce, train and reward talent and develop leaders at all levels to bring out the best in each other.
+
+ Working for you
+ Our inventions have revolutionized energy for over a century. But to keep going forward tomorrow, we know we have to push the boundaries today. We prioritize rewarding those who embrace change with a package that reflects how much we value their input. Join us, and you can expect:
+
+ Contemporary work-life balance policies and wellbeing activities
+ Comprehensive private medical care options
+ Safety net of life insurance and disability programs
+ Tailored financial programs
+ Additional elected or voluntary benefits
+
+
+ About Us
+ With operations in over 120 countries, we provide better solutions for our customers and richer opportunities for our people. As a leading partner to the energy industry, we're committed to achieving net-zero carbon emissions by 2050 and we're always looking for the right people to help us get there. People who are as passionate as we are about making energy safer, cleaner and more efficient.
+
+ Join Us
+ Are you seeking an opportunity to make a real difference in a company with a global reach and exciting services and clients? Come join us and grow with a team of people who will energize and inspire you!
+ Baker Hughes Company is an Equal Opportunity Employer. Employment decisions are made without regard to race, colour, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+
+ About Us:
+
+   We are an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet.
+ 
+
+ Join Us:
+
+   Are you seeking an opportunity to make a real difference in a company that values innovation and progress? Join us and become part of a team of people who will challenge and inspire you! Let’s come together and take energy forward.
+  
+ Baker Hughes Company is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+ 

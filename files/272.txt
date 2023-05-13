@@ -1,0 +1,36 @@
+
+Job Title: JavaScript Developer (React) 
+Location: Remote (Ideally based in Liverpool)
+ Salary: £55,000
+ Key Skills: React, React.JS, Redux, Webpack, RestFul, API GIT, GITHUB, UI, UX
+
+
+ The Company
+ A growing Financial Company based in the North West with over 10 years of experience in the industry is looking for a JavaScript Developer (React) to join their team on a remote basis. The business has a key focus on designing and developing digital solutions for large financial clients throughout the UK: With a big focus on designing bespoke requirements.
+
+
+ JavaScript Developer (React) Overview:
+ As a JavaScript Developer (React) you will champion the development for the Business Solutions team, acting as the technical lead for projects, migrations, and development. You will work alongside the Solutions team, understanding requirements, and developing solutions to match. You day-to-day responsibilities will include:
+
+Main focus Architecture.
+Key focus on the frontend of the web application.
+JavaScript evangelism – advising more development opportunities on the most suitable solutions.
+Support the full lifecycle of projects.
+Mentoring junior members of the team.
+Working closely with technical and non-technical stakeholders.
+
+
+
+ Skills / Experience required for the JavaScript Developer (React) Role:
+
+At least 5 years’ experience in development.
+Strong knowledge of React, Redux, Resful API’s and Webpacks.
+Previous experience working on Web Applications.
+Experienced working on the frontend.
+Must be able to interphase with both sales and technical staff.
+Must be able to clear a financial background check.
+
+
+
+ If you are a JavaScript Developer with experience in the financial sector, a good high-level understanding Redux, or if you are a Full stack developer with wanting to move into a React role, please don’t hesitate to apply!
+

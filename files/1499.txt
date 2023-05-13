@@ -1,0 +1,29 @@
+
+
+Exciting Java Developer contract opportunity working for International Bank
+ Excellent day rate contract opportunity working on Low Latency applications
+
+About Our Client
+ Our client is a leading investment bank striving for excellence in it's technology division. Additionally, it is a company that operates across 80 countries with more than 20,000 employees.
+Job Description
+ The successful Java Developer - High Frequency / Low Latency will; 
+
+ Work as part of the globally distributed development team
+Application development and support
+Ensure code/design quality
+Automated tests development
+Production rollout and support
+Code/functionality documentation
+
+The Successful Applicant
+ The successful Java Developer - High Frequency / Low Latency will have; 
+
+ Minimum 8 years' experience of professional development in Java
+Understanding of design patterns
+Experience in working with high frequency/low latency data processing systems
+Experience with high volume data processing systems
+Understanding algorithm complexity
+Experience in designing and developing low latency, high performance applications
+
+What's on Offer
+ Our client is offering an attractive day rate for a 6 month contract within a financial services global banking environment working in Glasgow.

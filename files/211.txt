@@ -1,0 +1,78 @@
+
+Since 1999, Fasthosts has been designing new ways to give customers everything they need to manage and control their online space and we’ve become one of the leading internet technology businesses in the UK. We’re a team of tech-focus innovators, offering the latest innovations across our range of services including domain names, shared web hosting, business-class email, dedicated & virtual servers, cloud hosting, secure online storage, and online backup.
+ We are a technology company with extremely strong and broad technology competencies and our Development teams are made up of great people! When you work with Fasthosts, you will work with a friendly, supportive, and highly knowledgeable group of people with experience across a variety of stacks, with people who embody a Tech forward mentality, and we will give you the opportunity to work on a variety of interesting and progressive projects.
+ We are offering a hybrid working model (⅔) to provide the work/life balance that we have all come to appreciate, with the support and equipment to ensure you have everything you need to work effectively. Coupled with a competitive salary and great benefits, Fasthosts is a great place to work!
+ So what’s the job?
+ You will be joining one of our four autonomous software development teams producing and supporting the systems that run our business and products. This is very much a hands-on role and you will have great freedom to help shape the future of our products.
+ Working through the full Software Development lifecycle, you will work closely with various teams and stakeholders including the Product Team and Marketing, and will give your insight and expertise, and through clean coding and a passion for what you do ensure everything does what it should, and our projects are delivered successfully.  
+We are looking for mid-level/ Advanced or Senior Developers to work with out teams and help us keep moving Fasthosts forward.
+ What will you get up to?
+
+Deliver successful software development projects, including backend, middle, and frontend components
+Work with product owners to refine project requirements
+Meet the requirements of projects as they have been defined
+Implement non-functional requirements as part of the overall design and delivery
+Build rock-solid scalable solutions across a wide range of technologies
+Design with consideration to wider system architecture 
+Perform lifecycle management activities
+
+What about the team?
+ The Development and associated teams are made up of trusted, passionate, forward-thinking, highly knowledgeable, friendly, and all-round great people! In this role, you will report to the Development Manager and work alongside developer colleagues, software architect, dedicated UX designer, and QA engineer. You will also work directly with Product Owners to clarify requirements, recommend solutions, design architectures, then ultimately code the product using suitable technologies.
+ Our team operates in a relaxed and friendly atmosphere. Everyone takes ownership of their individual work and learning, while benefitting from a great team spirit where everyone works together to support, collaborate and learn. In our Software teams, you will never feel isolated – help will always be available.
+ What experience do you need under your belt?
+ First things first - We don't expect you to know everything! We work across a variety of stacks and across new and old technology so knowing everything would be an outright miracle.
+ What we are looking for is a Developer that is passionate about solving problems and keeping up-to-date with the latest technologies and Best Practice, and want to share it with your colleagues and the world.
+ Tech-wise, see below for a list of what you need, what would be useful, and what else we can offer you exposure to in the role.
+ Essential Skills:
+
+PHP
+JavaScript (Typescript)
+
+Desirable Skills:
+
+C#
+Vue.JS
+
+You will also work with the following:
+
+Python
+Docker
+Kubernetes
+OpenShift
+Go (Golang)
+Gitflow
+Scrum Framework
+CI/CD
+Automated Testing
+JIRA/Confluence
+Data Schema Design Principles
+The full Software Development Lifecycle (SDLC)
+
+(Training and coaching is provided on these if needed)
+ But what about you?
+ It’s as much about you as it is about us. We welcome anyone who pushes themselves and wants to be challenged every day. We value what each person brings to the table, from amazing ideas to great work attitudes. That’s why it’s only fair that we give as much as we receive. We offer loads of benefits to support your health (both physical and mental) and your work/life balance. We also encourage individual growth with tailored development plans.
+ More benefits include (but are by no means limited to):
+
+27 days annual leave + bank holidays
+Hybrid working policy
+Contributory pension scheme
+Private healthcare and Life assurance
+Employee assistance programmes
+Cycle to work scheme
+Free parking close to our offices in a vibrant city centre location
+Free soft drinks, fruit and excellent coffee available in our multiple break rooms.
+
+And of course the fun stuff! When you spend so much time with your colleagues we want to make sure you have the benefit of social events, summer and Christmas parties, fitness groups, running teams and so much more.
+ 
+
+
+INTERESTED?
+ So, like the sound of working at Fasthosts? We don’t blame you, we think it’s pretty great too! Send us your application and if we think you might fit the bill a member of our recruitment team will be in touch for an initial call to talk about what to expect next.
+
+ We can’t wait to hear from you!
+ 
+
+
+As an equal opportunities employer, Fasthosts is committed to the equal treatment of all current and prospective employees and does not condone discrimination on the basis of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.
+ 
+We aspire to have a diverse and inclusive workplace and strongly encourage suitably qualified applicants from a wide range of backgrounds to apply and join Fasthosts.

@@ -1,0 +1,56 @@
+
+Software Developer - JavaScript
+ ENG-012
+ Job Description
+ Purpose Summary 
+Causeway is looking for an experienced JavaScript Developer to help define our cloud platform. You’ll be working within a team looking to improve the quality of experiences for our customers within the construction industry. You’ll need to share our passion for responsive solutions, optimised for user efficiencies and greatest speed, and providing the best accessible experiences for all our users.
+ We are looking for someone to be an integral part of our team, sharing your knowledge and expertise to improve our products and the experiences for all our users.
+ The key areas of responsibilities for the JavaScript Developer include: 
+
+Design, code, test and debug technical solutions including complex components, ensuring that quality standards are achieved.
+Provide legacy product support (fixing defects) in older technologies, including active involvement in moving the legacy product forwards into newer web technologies.
+Write clean, well-designed code, following best practice.
+Estimate effort required to accomplish requirements and ensure that schedules are met.
+Collaborate with other team members to help specify, design and develop software, meeting product requirements. 
+Identify process deficiencies and propose and implement solutions and improvements.
+Ensure that technical product is developed accurately, based on best practice standards, within budget and on time and support the business objectives.
+Work with the Infrastructure team to ensure that data security standards are met at all times.
+Ensure that technical implementation is technically sound, defect rates are minimised and products are inexpensive to maintain and support.
+Communicate frequently with Tech Lead, Agile Delivery Lead and Development Director (when required).
+
+ Skills, Experience and Qualifications 
+Essential Skills:
+
+ 5 years' experience developing web-based applications both front and back end. You will be able to produce quality code as well as offer an opinion on code before it goes into production
+Exposure to the following JavaScript frameworks – Angular, Node.JS
+You should be comfortable with writing optimised queries, identifying and testing indexes to ensure the high performance of our app using MongoDB
+Cloud experience with AWS, Azure or GCP
+In-depth understanding of the entire web development process (design, development, and deployment)
+A passion for building highly testable, effective and maintainable systems
+BSc degree (or similar) in Computer Science or relevant field
+High dexterity in speed and quality with the tools of your trade
+In-depth knowledge of Agile process and it’s principles
+
+ Competencies:
+
+ You’ll be inspired by improving customers satisfaction around your product releases.
+You will have excellent stakeholder management & interpersonal skills.
+Excellent planning and organisational skills.
+Excellent time management, prioritisation and the ability to remain calm and objective under pressure.
+A self-starter, with a can-do approach and willingness to learn.
+Knowledge of and curiosity about technology and its impact on design solutions.
+Expert communication skills and the ability to get buy-in on ideas within a large organization.
+Ability to collaborate with different people/teams.
+Knowledge of responsive design and the benefits of a mobile first approach.
+Experience of the construction industry would be an advantage.
+Experience on high traffic complex systems, apps and website would be an advantage.
+
+ Company Values: 
+
+Ensure that the company values are reflected in your own work and behavior
+
+ Be Curious
+ Own It
+ Work Together
+ Be Proud
+ Wow Everyone

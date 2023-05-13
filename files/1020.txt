@@ -1,0 +1,78 @@
+Who are we?
+MISSION is a collective of Creative and MarTech Agencies led by entrepreneurs who encourage an independent spirit. Employing 1,000 people across 27 locations and 3 continents, the Group successfully combines its diverse expertise to produce Work That Counts ™ for our Clients, whatever their ambitions. Creating real standout, sharing real innovation and delivering real growth for some of the world's biggest brands.
+The Internal Development Team
+We are a small but ambitious development team, working specifically on developing new internal software as well as maintaining and advancing existing systems. As member of this team, you’ll be making a real difference to the business by designing, developing and maintaining high quality software.
+The Role
+We have an opportunity for a talented web developer familiar with using C#, SQL, and react to join MISSION group, based in our North Devon office.
+Reporting into our Principal Developer, we are looking for a confident self-starter, who is highly motivated and a team player. You will have demonstratable experience of developing data driven software with a polished finish.
+The role will involve:
+
+Working with the Principal Developer to design, develop, deliver and maintain new software
+Working with the Project Manager to take user requirements and translate into functional software design
+Interpreting user requirements to build effective and useable web applications
+Working along-side the Senior Test Analyst to ensure stable and robust functionality
+Reviewing work with the internal team and demonstrating initial builds during user team reviews
+Continual improvement and maintenance and third line of the recently developed job costing, timesheet and reporting system
+
+What will I need?
+Languages
+
+C# (including LINQ, reflection & unit testing)
+SQL
+HTML & CSS
+JavaScript
+
+Frameworks
+
+ASP.net MVC
+Entity framework
+React
+
+Design
+
+UX experience
+Eye for a good finish
+
+We would love if you also had experience of Git and Selenium, however this is not a necessity and full training will be provided where needed.
+And in return…
+
+25 days’ holiday, increasing to 29 after 2 years’ service + Plus Bank Holidays
+Company pension scheme, with enhanced Employer contributions after 1 years’ service
+Medical Cash Plan – including employee assist programme, contributions to dental, optical, physio etc.
+Employee Discount Scheme – an online platform for all staff offering a variety of discounts at various shopping outlets, gyms etc
+Electric Car Purchase Scheme, via Salary Sacrifice
+Outstanding training and progression, including access to LinkedIn Learning and The Mission Group Learning Management System
+Company Christmas closure
+Cycle To Work scheme
+Mission Share Purchase Scheme
+
+We are proud to be a Disability Confident Committed (Level 1) Employer. As a Disability Confident Committed Employer we have committed to; ensure our recruitment process is inclusive and accessible, communicating and promoting vacancies, offering an interview to disabled people who meet the minimum criteria for the job and anticipating and providing reasonable adjustments as required.
+Job Types: Full-time, Permanent
+Salary: Up to £45,000.00 per year
+Benefits:
+
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Barnstaple, EX32 0RX: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+What salary are you looking for?
+
+Experience:
+
+C#: 1 year (preferred)
+
+Licence/Certification:
+
+Driving Licence (preferred)
+
+Work authorisation:
+
+United Kingdom (preferred)

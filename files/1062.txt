@@ -1,0 +1,35 @@
+
+Software Developer (Controls System)
+ Science and Technology Facilities Council  Salary: £31,931 to £34,709 per annum (dependent on skills and experience). A Specialist Allowance of up to £3,000 per annum is also available for this role. Benefits: 30 days holiday + 8 bank holidays + 2.5 privilege days + exceptional defined average salary pension + excellent work life balance Hours: Full time Contract Type: Open Ended. Location: Science and Technology Facilities Council, Rutherford Appleton Laboratory Harwell, Oxfordshire
+ Come and do the kind of computing that got you into technology in the first place. Work with cutting-edge tech and world-leading scientists and engineers. And harness the power of some of the country's most advances supercomputers to tackle work that improves daily life in the UK and far beyond.
+ Put simply, come and discover the impact you can make when you're equipped, encouraged and inspired to perform to your very best.
+ About ISIS
+ The ISIS Neutron and Muon Source is located at the Rutherford Appleton Laboratory in the UK and is used for ground-breaking research in material and biological sciences. The particle accelerators are operated from our main control room (MCR), permanently staffed by a crew of experienced operators. The MCR crew and other ISIS specialists use the software our team develops to control and supervise hardware across the ISIS accelerators, enabling scientists to perform their outstanding research.
+ About us
+ The ISIS Controls Group is responsible for control and monitoring of a huge variety of hardware across ISIS. In the software applications section, we:
+
+ Create software interfaces to that hardware,
+ Build user interfaces for the ISIS crew and equipment owners,
+ Archive and monitor data from control systems and our own services,
+ Apply machine learning to the data we gather to improve ISIS operations
+ The accelerator and targets at ISIS are migrating to the EPICS open-source distributed control system. At the same time we are also moving to a new system architecture based on containers and Linux. These are our biggest projects and have generated opportunities for a wide variety of new development work.
+
+ About you
+ In this role you can expect to:
+
+ Craft and maintain novel applications, as well as upgrade some legacy applications, to support the new control system and associated software stack.
+ Participate in collaborations with other accelerators and science facilities around the world to keep ISIS at the forefront of accelerator controls development.
+ Support us in keeping the ISIS accelerator controls system operational, including bug fixing and integration of new features into existing applications.
+
+ Employee Benefits
+ We are offering a permanent position with a whole host of benefits including:
+
+ 30 days holiday (in addition to 10.5 bank holidays and privilege days).
+ Flexible or hybrid working hours.
+ An excellent defined average salary pension scheme.
+ Employee shopping/travel discounts.
+ Excellent learning and development opportunities.
+
+ We ask some of the biggest questions in the universe, to answer some of the biggest challenges in the world. Together, our scientists, technologists, engineers and business support team explore the unknown across every field you could think of. And they turn what they find into work that changes the world around us.
+ What could you achieve with the world-leading facilities and experts of one of Europe's largest research organisations by your side? Join us and discover what's possible.
+ Closing Date: Monday 8th May 2023

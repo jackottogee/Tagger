@@ -1,0 +1,37 @@
+Location: We operate a hybrid working model and fully support flexibility with colleagues already based across the UK working from home and linked to one of our core locations in Newport, London, Titchfield (Fareham), Manchester, Edinburgh or Darlington.
+Salary: £24,836 - £29,086 (London: £27,696 - £32,186)
+Working Patterns: All our vacancies are offered as a flexible option of Full time, Part time, Flexible working, Job Share or Compressed Hours
+Closing Date: 11:55 pm on Thursday 11th May 2023
+NOTE: To be considered for the role you MUST complete the application process on Civil Service Jobs. Indeed applications alone will NOT put you in contention.
+Would you like to progress your software career in an organisation that invests in the development of every colleague, works on exciting high-tech projects and encourages you to work around your life, not live around your work?
+We are looking for a Junior Software Engineer to come and join our community of over 170 Software Engineers here at the Office for National Statistics. Specifically, this role sits within the Common ONS Repository for Data (CORD) team; a team responsible for providing BAU DevOps support to the largest database within the ONS - a time series processing system used to produce the national accounts/ Economical stats for England and Wales/ Critical Factors/ GDP/ Inflation & Trade.
+Working in a team of junior & senior engineers, you'll be fully supported in developing the skills to ensure effective, professional development of software solutions within a multi-disciplinary team. You'll gain awareness of security, deliver effective testing and get involved in code reviews, fault fixing and the full SDLC - designing, coding, testing, correcting and documenting complex programs with supervision from our senior engineers.
+You'll need a good understanding of the key principles of modern software development standards, and able to help fault-fixing, carry out infrastructure maintenance tasks under instruction and help contribute to the design of system components. You'll also need some awareness of the challenges of integrating components into existing systems, and the design, build & testing of interfaces between systems.
+We expect you to have experience in some of the following technologies/actions:
+Javascript, Java, Python, Git, Oracle SQL/PLSQL, Flask, Jinja, Design & execution of test cases, fix faults, design & test code, R
+You will be given full support to develop ability in those you are unfamiliar with.
+To be sent the link to apply, as well as full details on the role, candidate & benefits pack, click apply!
+In return we offer you:
+✔Hybrid working in an organisation voted top in the UK for work-life balance
+✔A market leading pension scheme - our employer contribution rate is around 27%
+✔A choice of working patterns *for every role*: full-time, part-time, job-share, compressed hours.
+✔Maternity, adoption or shared parental leave of 26 weeks full pay (subject to qualifying criteria)
+✔Upskilling Opportunities - Staff development is taken seriously with your right to learn protected and invested in through courses, certifications and e-learning provided or paid for by ONS!
+✔Employee Assistance Programmes
+✔Diversity Network Groups
+✔Mental Health Allies
+✔Civil Service Sports and Social club
+✔Generous holiday allowance – 25 days annual leave, rising to 30 days after 5 years service in addition to 9 public holidays
+✔25 days annual leave, rising to 30 days after 5 years service in addition to 9 public holidays
+To be sent the link to apply, as well as full details on the role, candidate & benefits pack, click apply!
+NOTE: To be considered for the role you MUST complete the application process on Civil Service Jobs. Indeed applications alone will NOT put you in contention.
+Job Types: Full-time, Part-time
+Salary: £27,696.00-£32,186.00 per year
+Schedule:
+
+Day shift
+Monday to Friday
+No weekends
+
+Work Location: In person
+Application deadline: 11/05/2023Reference ID: 284624

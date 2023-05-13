@@ -1,0 +1,25 @@
+
+About The Role
+ PD&MS Group have a great opportunity for a Junior Power BI Developer to join our growing Digital Solutions team.
+ Reporting to the IT Manager you will be responsible for designing and developing reports using Power BI. Work with data analysts and PD&MS stakeholders to understand their reporting needs and develop visually appealing and insightful reports that provide meaningful insights.
+ About You
+ The successful candidate would ideally have the following skills:
+
+Design of data models to support the reporting needs of the organisation
+Troubleshooting and optimizing existing reports to improve their performance and usability
+Integrating data from various sources into Power BI.
+Ability to collaborate and work closely with other developers, data analysts, and business stakeholders
+Microsoft Certified (Data Analyst Associate.)
+Microsoft Certified (Azure Data Engineer Associate.)
+SQL Server Certification.
+Tableau Desktop Specialist.
+Experience using Power BI to create effective data visualisations and reports would be advantageous
+Good understanding of data modelling concepts
+Demonstrable experience working with SQL databases and technologies such as DAX and Excel
+
+About Us Our Company delivers small, medium and large sized brownfield engineering and construction projects to both onshore and offshore facilities within the UKCS, and beyond.
+  In addition to our Oil & Gas delivery stream we are leading the way in the Low Carbon Energy Sector, as well as providing opportunities in Energy Transition and Cleantech sectors.
+ 
+ We strongly believe in our core values, the PD&MS GENES, which defines who we are and what we do on a daily basis, the way we deliver and what our company stands for. Each Gene is underpinned by our safety message “without compromise to safety or quality”, safety and quality do not stand alone as company values because they are integrated into everything we do.
+ 
+ We are proud to be an equal opportunity employer and value inclusion and diversity. We welcome applications from all persons regardless of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran or disability status.

@@ -1,0 +1,45 @@
+Back-End DeveloperMargate/Remote£40,000 - £50,000Full-time, Permanent
+If you are experimental, team player, knowledgeable, advisory and quality-oriented, this is the role for you.
+We are currently seeking a talented Back-End Developer to join our client's team. Our client is a leading eCommerce company that is rapidly expanding, and they require an experienced Back-End Developer to assist in the development of their platform.
+Responsibilities
+
+Responsible for back-end development of the company's websites
+Partner with external agency to integrate with current development process
+Quickly develop understanding of current tech stack and deliver future platform aspirations
+Work closely with in-house front-end developer and product owner
+Design, develop, and maintain eCommerce platform using modern PHP frameworks
+Ensure seamless integration of back-end with eCommerce platform
+Implement Bloomreach CMS and eCommerce platform integrations for customer shopping experience
+Develop and maintain APIs and microservices for a scalable and flexible platform
+Optimize platform performance, test and debug code to ensure high-quality and error-free platform functionality
+
+Required
+
+Bachelor's degree in Computer Science or related field
+At least 3 years of experience in back-end web development using PHP, strong proficiency in modern PHP frameworks, experience with headless eCommerce platforms and APIs, strong knowledge of databases, experience with microservices architecture and containerization using Docker, familiarity with version control systems, excellent problem-solving and analytical skills, strong communication and collaboration skills, ability to work independently and as part of a team
+Desired experience: commercial experience with Bloomreach, experience with agile management tools, test-driven development
+
+In return, our client offers a competitive salary package, a dynamic and fast-paced work environment, and the opportunity to work with a talented team of professionals. If you are a self-driven, proactive thinker with a passion for digital and the ability to adapt, with the drive to solve complex problems in imaginative and creative ways, we encourage you to apply for this exciting opportunity.
+Due to the high volume of applicants applying for all roles, we can only reply to candidates with the most relevant skills and experience. If you have not heard back from us within 48 hours of your application, please assume that you have been unsuccessful on this occasion.
+Do not hesitate to contact us about this or any other roles.
+Westin Par values diversity and promotes equality. No terminology in this advert is intended to discriminate against any of the protected characteristics that fall under the Equality Act 2010.
+Candidates must be eligible to live and work in the UK. For the purposes of the Conduct Regulations 2003, when advertising permanent vacancies we are acting as an Employment Agency
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£50,000.00 per year
+Benefits:
+
+Company pension
+Employee discount
+Free parking
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Margate, Kent: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Remote
+Reference ID: JD/CT/11255

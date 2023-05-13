@@ -1,0 +1,44 @@
+
+
+
+
+Requisition ID 
+533330
+
+
+
+
+
+
+
+
+Medidata: Power Smarter Treatments and Healthier People
+ Medidata is leading the digital transformation of life sciences, creating hope for millions of patients. Medidata helps generate the evidence and insights to help pharmaceutical, biotech, medical device and diagnostics companies, and academic researchers accelerate value, minimize risk, and optimize outcomes. More than one million registered users across 1,900+ customers and partners access the world's most trusted platform for clinical development, commercial, and real-world data. Medidata, a Dassault Systèmes company, is headquartered in New York City and has offices around the world to meet the needs of its customers. Discover more at www.medidata.com and follow us @medidata.
+ Our Team:
+ You will work on Medidata's next generation of SaaS-based clinical trial management applications, deployed on AWS and you will play an important role in developing our new platform. Our philosophy here is that if you demonstrate the right team focus and proactive attitude, on the back of a solid foundation in application engineering, we will train and invest in you to develop your experience in our platform technologies.
+ You will join our Medidata Rave CTMS team: https://www.medidata.com/en/products/ctms. You will report to the Product Engineering manager for Rave CTMS. Our development team is located in Hammersmith, London.
+ The Rave CTMS platform provides efficient monitoring of clinical studies with integrated workflows. It improves the Clinical Research Associate experience, aids proactive decision-making, and reduces risk and costs, to increase study performance, patient safety, and time to market for the drug/device. Put another way, it's saving lives. This product is used by over 1,000 pharmaceutical companies, biotech, medical device firms, academic medical centres and contract research organisations around the world.
+ Who we’re looking for:
+
+Passionate about application Development. 
+Ability to work in a dynamic and geographically distributed team. 
+Self-starter and eager to engage in high-impact, challenging Engineering problems while raising the standards of quality of the product. 
+Experience programming in Java 11+ and JEE frameworks like Spring / MIcronaut/ QUarkus 
+Strong with Object Oriented design concepts 
+Experience working in a microservice ecosystem and developing cloud-based web applications. 
+TDD/BDD Experience. 
+Data querying abilities in SQL(MySQL/Postgres) 
+Knowledge of basic security concepts, such as authentication, authorisation, and auditing. 
+Experience with Github, Travis. 
+Thrive in a dynamic and diverse team culture. 
+
+Requirements:
+
+Bachelor's degree - or equivalent work experience 
+Experience with design patterns, data structures and algorithms. 
+
+#LI-MC1
+
+Equal Employment Opportunity In order to provide equal employment and advancement opportunities to all individuals, employment decisions at Medidata are based on merit, qualifications and abilities. Medidata is committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants without regard to race, color, religion, gender, sex (including pregnancy, childbirth or medical or common conditions related to pregnancy or childbirth), sexual orientation, gender identity, gender expression, marital status, familial status, national origin, ancestry, age, disability, veteran status, military service, application for military service, genetic information, receipt of free medical care, or any other characteristic protected under applicable law. Medidata will make reasonable accommodations for qualified individuals with known disabilities, in accordance with applicable law.
+ 
+

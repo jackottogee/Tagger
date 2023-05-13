@@ -1,0 +1,16 @@
+
+This role is a remote first position but the successful candidaite hired but be based in the UK. 
+
+Full stack developer required for a fast-growing data analytics SaaS company on a permanent basis. The successful candidate hired will be a key member within the development team mostly working with existing clients and products, helping create and deliver creative solutions through innovative tech. As part of the clients growing company, you will get to work on exciting new products and tech, with plenty of opportunities to learn, develop and be part of something fast-paced and cutting-edge. 
+
+Skills required: 
+
+Experience with full software development life-cycle, and excellent knowledge of both .NET fundamentals and C# 
+Proficiency in JavaScript / TypeScript (ES6 or newer, Typescript 2.7 or newer) and at least 1 year of experience developing backend services with Node.JS. 
+Experience with some front-end framework, especially with React, and alternatively Angular. 
+Knowledge on cloud-based services (serverless computing, message bus, databases, etc.) preferably with AWS. 
+Experience on test-driven development and unit testing frameworks (NUnit for C#, Jest for Typescript, etc.) is a must. 
+
+
+If you are currently on the market or exploring new exciting opportunities then please apply now for immediate consideration and to find out more about how your skills can make a difference to this growing company!
+

@@ -1,0 +1,47 @@
+About
+We are a venture capital firm with a wholly innovative approach to investing. Where many funds rely solely on the decision-making of a fund manager, our fund is based on 3 years of proprietary analysis to optimise the growth potential for our investors.
+Who we're looking for
+Are you looking for something a bit different? A challenge?
+The Access Fund, our primary product, is an investment fund with a difference. Where most funds only invest in 6 to 10 companies per year and use gut instinct to make those choices, we use data analysis and invest in 50+ companies per year. This makes for a very interesting technical problem and that's only half of our systems.
+We use a lot of Node and Mongo with a little splash of Lambda and a coating of Vue. It all works but needs retooling into something more efficient and sustainable. You will work to structure and plan out the best way forward for the whole system and then get stuck into making that a reality. This is no small task but it is also the opportunity to shape the systems and, ultimately, be a big part of the company.
+We can offer a great deal of support on the back end and more generally but you will be the company expert on the front end so you'll need to know your stuff (we use Vue). We are a small team so being self sufficient, having the confidence to ask questions and being happy to discuss matters with non-developers is a must.
+Responsibilities
+
+Designing, developing, and testing UI for web applications
+Accurately translate user and business needs into functional frontend code
+Working with backend development to optimise code base
+
+Qualifications
+
+2+ years' experience in frontend development
+Experience with JavaScript (ES6+), Node, Mongo, Vue, Typescript, and git
+Knowledge of backend would be a plus but primary focus is on frontend
+
+Benefits:
+
+Work from home (the whole team is remote)
+25 days annual leave and we close over christmas
+Company options
+Fund performance fee sharing
+
+Job Types: Full-time, Permanent
+Salary: £50,000.00-£55,000.00 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: RemoteFlexitime

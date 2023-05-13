@@ -1,0 +1,138 @@
+
+
+
+Job title:
+
+
+   Software Engineer - Emissions Reduction (6 months)
+  
+
+
+
+Ab
+out Us:
+
+
+   We are a global technology company, driving energy innovation for a balanced planet.
+ 
+
+
+
+
+  At SLB we create amazing technology that unlocks access to energy for the benefit of all. That is our purpose. As innovators, that’s been our mission for 100 years. We are facing the world’s greatest balancing act- how to simultaneously reduce emissions and meet the world’s growing energy demands. We’re working on that answer. Every day, a step closer.
+ 
+
+
+
+
+  Our collective future depends on decarbonizing the fossil fuel industry, while innovating a new energy landscape. It’s what drives us. Ensuring progress for people and the planet, on the journey to net zero and beyond. For a balanced planet.
+  
+
+
+
+
+Location:
+ Abingdon, UK
+ 
+
+
+
+
+
+Summary:
+
+
+   We are in the search of a talented and enthusiastic software engineer intern to work in a small team responsible for the end-to-end delivery of a new solution to help Oil and Gas operators to manage and reduce their methane emissions. You will work on a fast pace agile environment, frequently running experiments to validate assumptions, where your contributions and decisions will have a direct impact on outcomes.
+ 
+
+
+
+
+  Intern’s will be challenged to find practical solutions to real industry challenges with the support of a team of experts. It’s a unique insight into the science, data, engineering, and more that are not only driving SLB, but also pushing the boundaries of what’s possible in our industry. The solution will touch several fronts such as data ingestion, storage, processing, monitoring and reporting.
+ 
+
+
+
+
+  You will have the opportunity to work on many facets of the product front end, back end, infrastructure, design and operations. So, you may expect to face plenty of challenges and there will be many opportunities to learn, adapt, and grow.
+ 
+
+
+
+
+
+Relationships:
+
+
+   Reports to Software Engineer in the team
+ 
+
+
+
+
+
+Responsibilities:
+
+
+
+
+
+  You will be integrated into the team’s task board and allocated tasks which progress will be reviewed in our daily team meetings. Your task will touch different parts of the system, sometimes requiring you to get familiar with a new language. The focus of your tasks will be:
+ 
+
+
+
+
+Work with python / Go to develop our data ingestion and processing pipelines using Spark
+Work with Azure Tech stack to build and manage our data infrastructure
+Unit testing the code you will develop
+Identify ways to improve data reliability, data integrity, system efficiency and quality
+Perform deployment activities
+Work with a mentor to learn and understand requirements and translate them to actionable user stories.
+
+
+
+
+
+
+Technologies:
+
+
+Kubernetes, Dockers, Istio
+Azure, Azure DevOps
+Deltalake, SQL, Cosmos
+Python, Go, Angular, Spark, TypeScript
+Agile methodologies
+Unit Testing
+Source control versioning
+
+
+
+
+
+
+Educational Requirements:
+
+
+Studying towards a Masters in Computer Science or related field.
+
+
+
+
+
+
+BlueFlex:
+
+
+
+
+
+  We are open to flexible, hybrid working with a combination of on-site & home working days.
+ 
+
+
+
+
+  SLB is an equal employment opportunity employer. Qualified applicants are considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or other characteristics protected by law.
+ 
+

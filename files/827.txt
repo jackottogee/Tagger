@@ -1,0 +1,23 @@
+
+ Are you an experienced full stack .Net developer looking for your next role?
+ 
+ We have partnered with an award-winning Insight Agency who are looking for an experienced developer to help expand their capabilities and proprietary solutions.
+ 
+ You will be getting involved in the full lifecycle of the applications including design, implementation, deployment and support. Seeing the immediate impact of your work.
+ 
+
+Skills Required:
+
+
+Excellent knowledge of C#
+Experience in designing and developing .NET applications.
+Experience in front end Javascript (ideally React)
+SQL Server Knowledge
+Experience in maintaining Web-Hosting environment (Azure) and DevOps infrastructure.
+
+Why Apply:
+ Offering a salary in the region of £50,000 with a wide range of employee perks and benefits. 28 Days holiday plus your birthday off!
+ 
+ Also offering a hybrid working pattern with 3 days a week in the St Albans office.
+ 
+ If you believe you meet the requirements above and would like to be considered for the role, please get in touch!

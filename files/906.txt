@@ -1,0 +1,87 @@
+
+Job Title Full Stack Developer 
+Reporting to Head of Product 
+
+
+Mobilityways is on a mission to make zero carbon commuting a reality. We produce ground-breaking climate tech empowering large employers to measure, reduce and report on their commuter emissions. 
+
+
+
+Role summary 
+As a Full Stack Developer, you should be comfortable with both front-end and back-end languages, development frameworks , and third-party libraries. You should also be a team player with the ability to combine your expertise on User Experience and functionality . You will work with the product team to bridge the gap between design and technical implementation, taking an active role in both sides. 
+
+
+Summary of main duties 
+
+Ensuring the continuous development of all core software as well as working with the rest of the team to develop new products and tools and clients and members 
+E nsuring the technical feasibility of the UI/UX designs 
+
+
+Developing unit and integration tests 
+Interpreting and implementing the Business Analysis requirements, wireframes , and specifications 
+Ensuring that products are developed with security-first principals 
+Proactively seeking feedback and helping to fix issues to support our products and services 
+An ability to reason about your code and discuss advanced development techniques and patterns 
+
+
+Any other duties that may be required from time to time 
+
+
+Skills 
+
+Excellent understanding of: 
+
+
+W eb markup (HTML5) and front-end pre-processors and styling (e.g., CSS3, SCSS, etc . ) 
+
+
+Good knowledge of: 
+
+
+M odern JS and JS-based frameworks ( e.g., Vue, React , etc. ) 
+
+
+R esponsive design and UX and UI frameworks 
+M odern commercial development using .NET 7 , C# 11 , and T- SQL working with complex systems 
+L atest web tools , IDEs, and technologies 
+
+
+Cloud platforms and service s ( e.g., Azure, AWS, etc.) 
+Automated testing (e.g., Cypress, x Unit , etc.) 
+Experience with : 
+
+
+Test Driven Development (TDD) 
+Continuous integration (e.g., Azure DevOps, GitHub Actions, etc.) 
+
+
+Our Values 
+
+We are Customer Obsessed – We put ourselves in the shoes of every customer, find out what they really value and are relentless in delivering excellence. We first seek to understand before being understood. We think win win. 
+We are Learning Fanatics – Insights and knowledge are sought, gathered, analysed and shared every time. How can we be better at doing the right things and putting first things first. 
+We are United – Our common purpose is clear and we are all committed to being proactive in caring for others. We respect and value differences. We look after us. We all share in the benefits. 
+
+
+We are Bar Raisers – Outcomes are better than ever achieved before and others are learning from us. We ensure that our team’s capability and culture continually improves . 
+
+
+Key Competencies 
+
+Teamwork 
+Responsibility 
+
+
+Problem Solving 
+Results Orientation 
+Technical Competency 
+
+
+
+
+Diversity and Inclusion 
+
+
+Mobilityways are proud to be an equal opportunities employer and are committed to ensuring that our workplace is an environment that is free from discrimination and one which values all employees as individuals. 
+
+
+The company welcomes all applications and will not discriminate against any individual on the basis of sex, gender reassignment, colour, marital status, civil partnership status, having or not having dependents, pregnancy / maternity, race, nationality, ethic or national origin, religious belief or philosophical belief of political opinion, sexual orientation, disability , membership or non-membership of a trade union or age.

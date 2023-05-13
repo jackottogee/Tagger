@@ -1,0 +1,35 @@
+
+Salary: £30k per year + Benefits
+ 
+Reference: online-2369
+ 
+ Are you a developer seeking a new challenge? Are you passionate about making a positive impact on the environment and working with an innovative global think tank? If so, then this could be the role for you!
+ Our client is a world-renowned non-profit organization working on cutting-edge climate and sustainability issues. They are best known for their LobbyMap platform, which analyzes corporate lobbying on climate policy. Their work has been featured in the media globally, used by hundreds of investors, and informed numerous campaigns. Other workstreams include the FinanceMap platform, assessing the financial sector, and the Japan Energy Transition Initiative. With offices in London, New York, Tokyo, and Seoul, joining their team means the opportunity to be part of a growing, friendly, and dynamic team, work with their global network of partners, and help develop their cutting-edge content, shaping the climate crisis agenda.
+ They seek a Junior Developer to join their team. You are required to support their teams, to build and maintain public facing platforms, research systems and content management.
+ As a Junior Developer you will play a central role working with their Technical Director and Chief Front End Developer. You will contribute to systems investigating business, policy, NGO and financial sectors.
+ You will build and maintain public facing platforms to display their data, and the systems used to gather and evaluate the intelligence that informs its creation.
+ Key Skills & Experience:
+ To be successful in this new role, you should have:
+
+ At least two years' experience of software development using Python
+ Experience of core web technologies including html, css, javascript
+ Experience the use of relational databases, preferably MySQL
+ Proficiency in user experience design, rapid prototyping, implementation of stakeholder feedback
+ A keen eye for visual detail
+ Fluency in English
+
+ A knowledge of their work area (climate change/finance/business) is useful, and you must have the right to work in the UK.
+ Details and Benefits:
+
+ This is a full-time position, starting as soon as possible
+ Can be based anywhere in the UK
+ Salary from £30K per year depending on experience
+ 24 days of annual leave per year and extra day of paid holiday after each year of service (capped at 29 days)
+ Extra 3 paid days Christmas closure
+ Private Health Insurance including dental and optical
+ Bike2Work scheme + frequent social events
+
+ How to Apply
+ If you are excited about this role, but your experience does not align perfectly with every qualification in the job description, they encourage you to apply anyway. You may be just the right candidate for this or have transferable skills that would be valuable to their team.
+ If you are passionate about making a difference on the climate crisis agenda and want to work in a mission-driven, highly analytical, data-orientated organization, they invite you to apply for this role. Please provide your CV, cover letter, and reference/s in one PDF file, emailed to the link provided. Please state clearly in the subject line of your email which position you are applying for.
+ The closing date for applications is the end of 14 May 2023. Early applications are encouraged and will be processed as received.

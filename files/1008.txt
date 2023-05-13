@@ -1,0 +1,47 @@
+
+Join our Capabilities Team!
+ You’ll be developing some of the world’s leading player-focused casino games. From inception to design and architecture, your team will own the process and deliver real excellence for our clients. The fun doesn’t stop there. We’re continuously evolving with challenging initiatives like Kubernetes standardisation, continuous delivery and Microservices architecture so every iteration provides (the opportunity for) a fresh approach or improved way of working. Our focus on autonomy puts you in the driver’s seat as our trusted expert, and you’ll enjoy collaborating with the entire team to make our products and services the best they can be, every single day.
+ What technologies will you be working with?
+
+Java 8+
+Spring
+Microservices experience
+JavaEE/JSF
+Docker
+Kubernetes
+Angular
+Relational Databases (i.e. PostgreSQL)
+Maven
+Gradle
+RabbitMQ
+Cassandra
+PACT
+
+What else you’ll be doing:
+ You will be working in a team responsible for the end to end delivery of casino games as well as the maintenance and evolution of the game development framework, making sure that best practices and technology are kept up to date as the owner of all related systems in the Games ecosystem.
+ You will work side by side with your peers, and together you will have all the expertise to cover all aforementioned areas and being able to contribute from inception to production delivery and beyond.
+ You will be part of the Games Value Stream in the Gaming Division, where you will be working alongside other teams across multiple locations to deliver against our strategic objectives.
+ What you’ll bring
+
+Positive, growth mindset, knowledge sharing, and creativity while problem-solving with others.
+Demonstrated back-end skills (multithreading, OOP, etc.) and/or strong front-end skills. You don't need to be proficient in both, but willing to learn and work in a T-shape role.
+DevOps skills: having knowledge of system admin and interest to learn more.
+Good understanding of what quality code means (clean code & testing) and understanding web-based applications (HTTP protocol, Web Servers, Caching, etc.).
+Good testing practices (unit, component, and E2E testing).
+Ability to prioritize work, and collaborate with the business (e.g. Product, BI, Design, and Talent Teams)
+Understanding of the data modeling, architecture, and how other systems work.
+An agile approach to development, and a good understanding of lean and agile methodologies.
+CI/CD approach to work and understanding of CI/CD tools.
+Collaborative, respectful attitude, and good communication skills in English.
+Curiosity to learn new languages/frameworks, to experiment and try out new technologies.
+
+We care about your career progression, health and wellbeing, so we offer:
+
+Challenging and fulfilling work at an innovative, global company that uses cutting-edge tech;
+Global work experience in an agile methodology;
+International, friendly and inclusive multi-cultural environment (over 35 nationalities that speak altogether almost 30 languages!);
+Flexible working hours, well-being programs, learning and growth opportunities;
+Team building events, learning labs, Hackathons/Designatons and extravagant corporate events;
+Opportunity to shape the tech community inside and outside of The Workshop, mentoring and sharing knowledge with others;
+Workplace perks including gaming consoles, darts, pool, foosball, books, massages and a kitchen full of coffee, fruit and even ice-cream.
+

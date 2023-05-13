@@ -1,0 +1,91 @@
+
+Requisition ID: R10049687
+
+Category: Information Technology 
+Location: London, UK 
+Citizenship Required: United Kingdom Citizenship 
+Clearance Type: Highest Level of Government Clearance 
+Telecommute: Yes-May consider hybrid teleworking for this position 
+Travel Required: No 
+Positions Available: 10 
+
+
+
+  At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+   Your Opportunity to Define Possible. Our Opportunity to Deliver the Nation’s Security. Together.
+
+ Salary: £55,000 - £79,000
+
+ Role clearance type: You must be able to gain and maintain the highest level of UK Government clearance
+
+ Location: London, United Kingdom
+
+ About Your Opportunity: 
+
+This role supports the ever increasing need to protect our national security through development of software applications in an Agile environment to collect data, analyse it and allow our customers to make information aware decisions. An exciting opportunity to work on cutting-edge technology and to tackle some of the biggest national security challenges. We have multiple positions for engineers that have relevant security clearances and those that are able to gain them.
+
+ Your Benefits:
+
+ Flexible working schedules - we offer flexible and hybrid working arrangements and full time and part time roles. Talk to us at the application stage about any scheduling preferences you may have.
+ Flexible Benefits Package – choose which NGUKL benefits you want to satisfy your personal needs. Core Benefits provided for you are Healthcare, Dental, Life Assurance and Pension. Benefits you can flex include Critical Illness Cover, Health Cash Plan, and Health Assessments.
+ Employee Incentive Programme – exceptional performance is recognized through our annual incentive programme which is awarded to top performers who excel
+ Career Development – opportunity for ongoing professional development and career growth opportunities
+
+
+ Your Responsibilities: 
+
+Technical leader and focal point for the software development team – ensuring software is well designed and of high quality
+ Perform hands-on development and actively contribute to the code base including peer review of code
+ Support the Delivery Lead/Project Manager in developing project roadmaps, understanding delivery time scales, and communicating these to the customer
+ Liaison with the Product Owner to manage the product road map and communicating the impact of changing customer requirements
+ Identifying technical risks/opportunities and proactively developing plans to mitigate and realise them
+
+
+ Your Experience:
+
+ Languages: Java, JavaScript, C++ or Python
+ Cloud-based architectures: AWS or Azure
+ DevOps Automated Deployment: Jenkins, Docker, OpenShift or Kubernetes
+ Database Technologies: SQL, Elasticsearch or MongoDB
+ Testing Technologies: Cypress, Selenium or Cucumber
+
+
+ Your Future Team:
+ “My purpose; to lead a team of software engineers with the brightest minds, to push the boundaries and define possible together.” 
+Rishi Badiani – Head of Software Engineering @ Northrop Grumman UK
+
+ A truly Agile development team that supports one another to deliver high quality software. Our teams consist of a mixture of experienced and early career professionals - we promote collaboration and learning from each other and we will support your career and training needs.
+
+ We believe that creating a team that values diversity and fosters inclusion is essential to great performance. We know the best ideas come from diversity of thought, background, perspective, culture, gender, race, age and many other elements. We welcome candidates from all backgrounds and particularly from communities currently under-represented within our industry. We treat everyone with respect and foster safe and inclusive environments.
+
+ About Our Responsibilities: 
+
+Our customers operate in unique environments which offer new and exciting challenges every day, cultivating a place where you can learn and thrive, working alongside the best minds in industry. We’ll give you space to develop your career, where your ideas can shape the future of our dynamic business.
+
+ We promote collaboration to achieve more than we could imagine, together. And within a respectful and inspirational environment, we value what you say and do.
+
+ How to Apply:
+
+ Interested in our opportunity? 
+Yes – then simply submit your application online. Your application will be reviewed by one of our expert recruiters who’ll then respond advising you of the outcome and next steps for successful candidates.
+ Possibly, I’d like to find out more – email talentenquiries@uk.ngc.com to connect with one of our Sourcing Specialists who will be happy to support you with any enquires.
+ Background checks and potentially security clearance form part of the recruitment process, our team will inform you of the procedures when required.
+
+ Northrop Grumman UK:
+
+ Work with a global brand that makes a real contribution to our nation’s security and future. At Northrop Grumman UK, the brightest minds come together to push the boundaries and Define Possible. As leaders in the digital transformation of Aerospace, Defence and Intelligence we are providing ground-breaking outcomes for our customers.
+
+ UK Cyber & Intelligence Business:
+
+ Our UK Cyber & Intelligence business combines modern software development approaches with a rich heritage and experience in the defence and security sectors. Our customers have complex and sensitive data and information requirements requiring a mission partner who quickly understands the context, delivering and sustaining a portfolio of challenging technology projects at scale and pace, supporting them through an ambitious digital transformation programme.
+
+ Find out more: https://www.northropgrumman.com/careers/job-search-united-kingdom/
+ "
+  
+
+
+
+
+  Northrop Grumman is committed to equality and diversity in our workplace. Northrop Grumman provides equal employment opportunity to all employees and applicants without regard to an individual's protected status, including race/ethnic origin, color, nationality, national origin, ancestry, sex/gender, gender identity/expression, gender reassignment, sexual orientation, marriage/civil partnership, pregnancy/maternity, religion or belief, creed, age, disability, genetic information, or any other protected status or characteristic.
+ 
+

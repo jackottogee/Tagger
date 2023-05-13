@@ -1,0 +1,43 @@
+SAI services’ develops the SAS (Software As a Service) products which helps our clients to position themselves at the forefront of modern technology. Along with the Artificial Intelligence, SAI are going to make use of Machine Learning, Artificial Reality (AR) and Virtual Reality (VR). Our goal is to help clients build their software products and digital presence in the sectors of E-commerce, Social Media and Digital Advertising.
+As the Software Engineer, you’ll be responsible for:
+
+Produce specifications and determine operational feasibility
+Integrate software components into a fully functional software system
+Develop software verification plans and quality assurance procedures
+Create required codes using the most effective tools, applications, and other resources and keep them confidential.
+Recruit, train, and mentor the project staff working below them.
+Stay updated with the prevalent technologies and trends.
+Develop the software architecture based on the requirements of the client or the company.
+Utilizing programming skills in MySQL, HTML, PHP, etc.
+Develop a reporting system with the help of Python.
+Use agile methodologies.
+Complete documentation of the developed software and run significant tests while adhering to the project's timelines.
+Troubleshoot, debug and upgrade existing systems
+Comply with project plans and industry standards
+
+Key Skills:
+
+Teamworking skills, as engineers will need to work with colleagues from all the other roles in the development process
+Problem-solving skills and the ability to ‘troubleshoot’ issues
+Good analytical skills
+Communication skills, including the ability to communicate technical concepts to non-technical stakeholders
+Resilience and the ability to adapt to different situations.
+Ability to develop software in Java, Ruby on Rails, C++ or other programming languages
+Excellent knowledge of relational databases, SQL and ORM technologies (JPA2, Hibernate)Good interpersonal and relationship building skills
+Ability to translate financial information to operational teams
+Continuous improvement ‘mind set’ with the ability to proactively identify and resolve issues using innovation
+Ability to multi-task, work accurately at speed and under pressure
+Customer focused demonstrating customer first behaviours
+
+Job Types: Full-time, Permanent
+Salary: £27,000.00-£35,000.00 per year
+Benefits:
+
+Company pension
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote

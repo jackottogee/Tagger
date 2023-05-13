@@ -1,0 +1,43 @@
+
+
+Reports to: Technical Project Manager Salary: Market leading, but dependant on experience Application: CV and covering letter to email recruitment@thebyte9.com
+ NB No agencies please!
+
+
+
+
+Byte9 are one of the leading agile web development companies in London and we are looking to expand our experienced team.
+ We specialise in feature-rich web applications, content management and ecommerce products and client web and mobile site development, increasingly we work with in house and agency design and development teams.
+ Our clients range from start-ups to blue chips but our focus is on providing excellent solutions that fulfil our clients’ and system stakeholders’ evolving business requirements, look outstanding and function optimally across devices and browsers.
+ With several exciting projects lined up we are now looking to expand the front-end design and development team with another front-end web developer.
+ As a front-end web developer your primary responsibilities will include supporting both the Design and the Development team to produce front-end code to support multiple client projects. A keen eye for cutting edge web design, interface development, usability and the ergonomics of a system are as important as a mind for innovation and the ability to work effectively in a pair / LAMP development team environment.
+ In return, we offer a competitive salary, the chance to work on a variety of innovative projects, using advanced process, tools and techniques within a strong, experienced, creative & smart team.
+
+ Skills and experience necessary for this role:
+
+Excellent HTML, CSS, JavaScript skills
+Coding valid HTML5 and CSS3 / 4 mark-up
+Developing cross-browser and cross-platform compatible solutions
+Experience with SASS / BeM Coding Standards
+Experience working with version control systems such as GIT
+Experience with Javascript frameworks (AngularJS, React)
+
+The Right Candidate:
+
+Will be organised, punctual, detailed, accurate, work quickly to tight deadlines and excel at problem solving
+Be able to plan and execute multiple projects
+Can accurately translate UX wireframes and design mock-ups into well-organised front-end sites
+Will work closely with designers and back-end developers as well as quality assurance teams
+More than anything, has a passion for what they do and will always be looking to learn and stay current with developments in all relevant technologies, both software and hardware
+
+
+ 
+Good to have:
+
+Experience with testing frameworks (Jest, Mocha, Chai etc)
+Experience with Isomorphic React Applications
+Experience working with APIs / GraphQL
+Good knowledge of mobile environments, especially iOS & Android
+Experience with NodeJS
+
+Human skills are very important and you should enjoy working in a team environment, cope well with pressure, and have a genuine enthusiasm for all things web application development and a “can do” attitude. You will need to manage and prioritise a varied workload and enjoy a customer-focused development role working on diverse projects.

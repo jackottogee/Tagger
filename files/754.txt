@@ -1,0 +1,33 @@
+
+Full Stack Developer - Contract - £700-800 per day
+ A leading investment bank is looking for a Full Stack Developer to join their business on a contract basis. Paying up to £800 you will be based out of their London offices (with remote working options) on an initial 12 month contract. You will be a Senior Developer with full stack development experience in React and Python, self-organizing, comfortable working in multi-disciplinary teams and demonstrating great interpersonal skills. 
+You will work in a technology team that works closely with the business users to deliver high impact solutions with a short time to market. 
+Skills and Experience required:
+
+ React.js
+ JavaScript
+ UI/UX
+ Python
+ Agile
+ Front Office Finance experience is a plus
+
+ If you have the necessary skills and experience please apply now!
+ 
+
+McGregor Boyall is an equal opportunity employer and do not discriminate on any grounds. 
+
+A leading investment bank is looking for a Full Stack Developer to join their business on a contract basis. Paying up to £800 you will be based out of their London offices (with remote working options) on an initial 12 month contract. You will be a Senior Developer with full stack development experience in React and Python, self-organizing, comfortable working in multi-disciplinary teams and demonstrating great interpersonal skills. 
+You will work in a technology team that works closely with the business users to deliver high impact solutions with a short time to market. 
+Skills and Experience required:
+
+ React.js
+ JavaScript
+ UI/UX
+ Python
+ Agile
+ Front Office Finance experience is a plus
+
+ If you have the necessary skills and experience please apply now!
+ 
+
+McGregor Boyall is an equal opportunity employer and do not discriminate on any grounds. ", "image": "https://www.mcgregor-boyall.com/uploads/mcgr_logo.png", "employmentType": "Contract", "industry": "", "hiringOrganization" : { "@type":"Organization", "name":"McGregor Boyall-Delivering Talent", "url":"https://www.mcgregor-boyall.com/", "logo":"https://www.mcgregor-boyall.com/uploads/mcgr_logo.png" }, "jobLocation": { "@type": "Place", "address": { "@type": "PostalAddress", "addressLocality": "London", "addressRegion": "London", "postalCode": "London", "streetAddress": "London", "addressCountry": "London" } }, "baseSalary" : { "@type": "MonetaryAmount", "currency": "GBP", "value": { "@type": "QuantitativeValue", "value": "800", "unitText": "DAY" } }, "url": "https://www.mcgregor-boyall.com/jobs/london/technology/full-stack-developer/27752" }

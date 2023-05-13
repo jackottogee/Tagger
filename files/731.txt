@@ -1,0 +1,41 @@
+
+JOB DESCRIPTION
+ GENERAL INFORMATION
+
+ Job Title: Junior SQL Developer
+ Reporting to: Head of IT
+ Salary: £30k-£35k per annum plus benefits
+ Contractual hrs 37.5 hours excluding lunch breaks, Monday to Friday, 9.00 am to 5.30 pm with potential for out of hours call out over the weekends. Hybrid working permitted. office 60% per week minimum with 40% from home. (Part time hours will also be considered).
+ Location: Tyne Dock Office, South Shields, Port of Tyne, Tyne & Wear NE33 5SP
+ ROLE SUMMARY
+ This will be a full-time role to maintain our Datawarehouse SQL databases and develop custom reports. We are looking for a SQL developer with a keen interest in advancing technology and keeping pace with emerging trends. This role will work SSRS, SSAS, SSIS, Microsoft Dynamics, Azure and Power BI . This will be a dynamic role with the chance to expand your knowledge in new areas & technologies such as Power platform, Dynamic365 applications and other E-Commerce integration platforms (Scribe, Linnworks,) etc.
+ KEY DUTIES AND RESPONSIBILITIES
+
+ Take responsibility for the companys data warehousing project, providing end-to end management of architecture, ETL, maintenance and data quality
+ Design & develop DB solutions to support any future business requirements.
+ Shape JMLs future data strategy by looking at new data & database technologies.
+
+ ABOUT YOU - AREAS OF KNOWLEDGE, SKILLS AND EXPERIENCE
+
+ Minimum of 2 years of experience as SQL developer with SQL Server either 2008 R2, 2012 or 2016 Essential
+ Minimum 1 year experience in Microsoft Power BI-Essential
+ Strong SQL development skills using T-SQL Essential
+ SSIS, SSRS, SSAS and data warehousing Essential
+ Experience with ETL and data loading/migration approaches Essential
+ Any other programming experience (E.G. C++, C#, VB.net, HTML, CSS, JavaScript) Desirable
+
+
+ Must be self-motivated with a very clear understanding of service and delivery
+ Ability to take ownership and stay with a query until full resolution
+ A good communicator with empathy for users
+ Calm, positive and resourceful, especially when under pressure
+ Able to handle multiple issues, together with good organisational and planning skills
+ Ability to prioritise work load
+ Excellent troubleshooting skills
+ Good interpersonal skills
+ Well-presented and articulate
+ Excellent time management
+ Hands on with a can do attitude
+ Being a team player, sharing information, documentation and experience with the rest of the team.
+
+

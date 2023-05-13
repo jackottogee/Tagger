@@ -1,0 +1,29 @@
+Our client, a digital agency specialising in building interactive web experiences for medical, scientific, and healthcare clients, is seeking a Lead Front End Developer to join their team. As the Lead Front End Developer, you will be responsible for leading a team of developers to create high-quality, responsive, and visually appealing websites and web applications.
+Responsibilities:
+
+Lead and manage a team of front-end developers to deliver high-quality projects
+Work closely with designers, back-end developers, and project managers to develop and maintain responsive, user-friendly, and visually appealing web applications
+Collaborate with UX designers to translate wireframes and designs into functional and engaging web experiences
+Ensure the quality and performance of the codebase by conducting code reviews, testing, and debugging
+Stay up-to-date with the latest front-end technologies, techniques, and best practices, and share knowledge with the team
+
+Requirements:
+
+Proven experience as a Front End Developer, with at least 5 years of experience in developing complex web applications
+Demonstrated experience in leading and mentoring a team of front-end developers
+Strong proficiency in HTML, CSS, and JavaScript, and experience with front-end frameworks such as React or Three.js
+Experience in responsive design and cross-browser compatibility
+Excellent communication and collaboration skills, and the ability to work effectively in a team environment
+Passion for developing high-quality, user-centric web experiences with creative flair
+
+Job Type: Full-time
+Salary: £60,000.00-£70,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: In person

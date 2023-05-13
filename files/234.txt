@@ -1,0 +1,36 @@
+
+Job Title: Software Developer
+ Salary: £70,000
+ Location: Remote/ UK based – Must be commutable to Reading
+
+
+ The Company
+ An IoT specialised Connectivity Provider are looking for a Software Developer to join their team on a remote and home-based basis. This role does include some travel to customer sites and meetings in the office in Reading, meaning you must be in commutable distance to the area.
+ As Software Developer, you will have the opportunity to work on developing and building a brand-new Software Product for their connectivity division.
+ The business is primarily focused on delivering connectivity and IoT solutions in the multiple sectors in the UK. They offer a complete end-to-end service for the design, implementation, and management of a range of cutting-edge technology solutions in particular IoT. They are highly accredited partners amongst their household name vendors and have won numerous awards for the quality of their IT services.
+ So not only will you be working with the best and latest tech on the market, but you’ll be also working as part of an award-winning quality team.
+
+
+ The Software Developer Role & Responsibilities
+ As a Software Developer, you will be responsible for developing an IoT solution for their Mobile and data Products. This will include testing and launching the product.
+ Your day-to-day responsibilities will include:
+
+Writing and maintaining documentation.
+Writing test codes and increasing test coverage.
+Working as part of the Architectural and Code review team.
+Supporting and enhancing the exiting solution.
+Reviewing code and mentoring junior staff.
+
+
+
+ Skills and Experience Required for the Software Developer:
+ The business offers remote and hybrid working to support you to work however is best for you. The business does ask however that you have:
+
+At least 3 years full Software Development Lifecycle experience (SDLC).
+3+ years of Developing and writing Code.
+Experience of Angular, React, and TypeScript.
+Experience of TDD.
+Knowledge of other JavaScript Frameworks, like Nest and Vue.
+Experience with other programming tools such as Python or Java or NodeJS.
+
+

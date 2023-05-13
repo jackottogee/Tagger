@@ -1,0 +1,37 @@
+
+
+
+As a Front-End Developer, you would join UI engineering team engaged in greenfield development of new applications alongside reshaping the experience of an existing product suite.
+ The internal Moody's title for this role would be an Assistant Director Front-End Engineer
+ Develop functional prototypes using HTML, CSS & TypeScript to demonstrate creative concepts
+ Coordinate with a global engineering and design team to implement UI solutions
+ Plan, design, and utilise web technologies to write new and modify existing code for software enhancements and development of new products and features
+ Complete documentation and procedures for installation and maintenance of software
+ Partner with engineering teams to implement modern presentation techniques
+ Help create and maintain documentation
+ Help the team leverage and contribute to open-source technologies
+
+
+
+
+ Experience in front-end technologies (HTML, CSS, TypeScript) in context of API-driven applications
+ Experience with React and other JavaScript libraries
+ Strong aptitude for writing elegant code and advocate for best-in-class user experience
+ We operate in a CI/CD environment therefore experience writing unit, integration tests and a coding style that enables testability is highly desirable
+ Knowledge of, and experience implementing, Web Content Accessibility Guidelines is desirable
+
+
+
+   In Buy-side Solutions, we serve investors, consultants and asset managers by helping them make better decisions. Our next-generation buy-side technology enhances customer performance, improves governance and ultimately helps win more business. Our dedicated team of sales, marketing and product management experts are passionate about delivering effective solutions to our customers. 
+  
+
+
+  Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender expression, gender identity or any other characteristic protected by law.
+ 
+
+   Moody’s is a developmental culture where we value candidates who are willing to grow. So, if you are excited about this opportunity but don’t meet every single requirement, please apply! You may be a perfect fit for this role or other open roles. 
+  
+ Moody's is a global integrated risk assessment firm that empowers organizations to make better decisions.
+  
+ At Moody’s, we’re taking action. We’re hiring diverse talent and providing underrepresented groups with equitable opportunities in their careers. We’re educating, empowering and elevating our people, and creating a workplace where each person can be their true selves, reach their full potential and thrive on every level. Learn more about our DE&I initiatives, employee development programs and view our annual DE&I Report at moodys.com/diversity
+ 

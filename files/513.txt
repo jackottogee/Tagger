@@ -1,0 +1,37 @@
+
+
+Hybrid Working
+ Opportunity to work with a esteemed organization. 
+
+About Our Client
+ My client is a non-profit biotechnology company working in the pharmaceutical industry with offices in Milton Keynes. The successful candidate will have the ability to work hybrid with 2-3 days in the office.   
+Job Description
+ My Milton Keynes based pharmaceuticals client is looking for a Junior Python Data Developer to engage in the following: 
+
+ Develop workflows and interfaces between our commercial Laboratory Information Management System (LIMS) and our internal software platforms. This will include developing automation scripts, data validation rules, systems monitoring and alerting, and complex calculations.
+Deliver software engineering solutions of a highly technical nature for the use of lab and other business functions.
+Contribute strongly to software engineering standards, documentation, tools, methods, and environments, delivering to fit a standardised approach to software engineering across the company.
+Collaborate with the wider business and informatics team to create a unified and integrated software portfolio.
+Produce rapid and effective solutions for the Exec Management Team in response to requests for management information reports and dashboards.
+Deliver reporting solutions in the form of web pages, dashboards and formatted reports for external customers.
+Investigate and resolve data issues relating to problems with laboratory and business test cases.
+Monitor and maintain the high performance and reliability of laboratory and enterprise software solutions.
+Interact extensively with clinical LIMS administrators, senior lab operatives, and the lab management team, exploiting software opportunities to improve our end-to-end laboratory work flow and enhance standard operating procedures.
+Collaborate closely with infrastructure support colleagues in the Informatics team to deliver solutions on well-architected, secure platforms and network configurations.
+
+The Successful Applicant
+ To be considered for this Junior Python Data Developer position at my pharmaceuticals client based in London the candidate must present evidence of the following: 
+
+ Relational database design and usage, including complex SQL coding and performance
+Python data manipulation libraries (numpy, pandas, pyodbc) and GUI development (kivy, tkinter, PyQt5)
+Using Python to manipulate flat files (JSON, XML, CSV) and interface with databases
+Delivery of dashboard/reporting solutions using PowerBI (or equivalent)
+Development on a Linux platform
+GitHub and JIRA software management tools
+Relational database design and usage, specifically in Postgre
+Instrument or robotic integration experience
+Experience of the bioscience sector would be advantageous, particularly working with LIMS
+Basic Linux systems administration at the command line, including editors, shell scripting and file management
+
+What's on Offer
+ Receive a competitive rate for a 6 month contract on a hybrid working model.

@@ -1,0 +1,32 @@
+
+Senior C# Developer / Software Engineer (C# .Net Core AWS) to £100k
+ Are you a C# technologist with strong backend development experience looking for an opportunity to progress your career in a senior, hands-on role?
+ You could be joining a Cyber Security technology company and enjoying a huge range of perks and benefits from continual learning and self-development opportunities (including "buy any book" policy) through to health and well-being, enhanced paternity packages, generous holiday allowance, inclusive social events and much more.
+ As a Senior C# Developer you'll join a small, Agile team using C# .Net Core within a TDD environment deploying to AWS. You'll design and develop new features and enhancements across two security product areas, working across the full development lifecycle; you'll be able to input ideas and have your voice heard in a collaborative team environment that encourages knowledge sharing.
+ You'll join colleagues in amazing offices in Cheshire five days a week with a wide range of facilities and an array of perks including:
+
+ Free lunch daily catered for by the onsite chef
+ A range of afternoon treats and barista style coffee
+ Onsite gym with trainer led classes including karate, yoga and sound bath, shower facilities
+ and of course, all the latest kit to work with
+
+ Requirements:
+
+ You have strong backend C# .Net development skills including .Net Core
+ You believe in producing quality code and have experience with TDD
+ You have a good knowledge of AWS
+ You have a thorough understanding of Computer Science fundamentals such as OOP, Data Structures, Algorithms, Design Patterns
+ You're collaborative, enjoy problem solving and are keen to pick up new skills
+
+ Salary & benefits:
+ As a Senior C# Developer / Software Engineer you will earn a highly competitive salary (to £100k) plus benefits including:
+
+ 8% pension contribution
+ Life Assurance and Income Protection
+ Enhanced paternity packages
+ Private Medical care for you and your family including same day GP appointments and prescriptions
+ Flexible working hours
+ Charitable donations matching scheme and much more
+
+ Apply now or call to find out more about this Senior C# Developer / Software Engineer (C# .Net Core AWS) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

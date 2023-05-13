@@ -1,0 +1,66 @@
+We are looking for a Symfony developer to join our small but growing app development studio. You will be helping to create back-end APIs and services for the apps we produce. Our clients range from new startups to established businesses, and you will get to play a key part in contributing to exciting consumer-facing apps with 100,000s of active users.
+At M10c, we take pride in writing high quality, performant, and maintainable code. We stick as close as we can to the latest technologies (PHP 8.2, Symfony 6.2, etc.), developments and best practices in the ecosystem (e.g. heavy use of static analysis).
+Our Central London office is located in the Bankside area, just south of the river between Waterloo and London Bridge. We provide flexibility for working from home part of the week.
+NO RECRUITERS PLEASE
+Experience Needed
+
+Symfony development, or a similar modern framework such as Laravel (minimum 1 year).
+Database design and ORM usage (ideally Doctrine).
+REST API design principles.
+Writing modern PHP.
+Git version control.
+Ideally some familiarity with AWS and Docker.
+
+Other Requirements
+
+Excellent written and verbal communication.
+A passion for building things, and learning / expanding skills.
+Great care for quality of work produced and attention to detail.
+
+Key Responsibilities
+
+Working as part of a team to help turn product designs and specs into APIs used by the apps our front-end developers build.
+Following the development team's internal processes, best practices, coding standards, etc.
+Performing routine maintenance, updates and refactoring to existing projects.
+Participating in the team's project planning processes, and clearly reporting back progress in our project management software.
+Investigatng and resolving bugs or issues reported by users or clients.
+Submitting work as Pull Requests, and responding to code review comments by the team.
+Providing feedback to help improve our processes and best practices used across our projects.
+
+Office
+
+Our office is located walking distance from London Bridge, Borough, Southwark, Waterloo and Blackfriars stations.
+Many great restaurants, shops and attractions within easy reach, such as Borough Market and Tate Modern within a 5 minute walk.
+Our office is inside the Metal Box Factory, a vibrant and recently renovated former factory, containing many communal spaces and facilities.
+Our collaborative days in the office are Monday, Tuesday and Thursday, with the others flexible to work from home (but of course you're welcome to work from the office on those days too).
+
+Why Us?
+
+Join a friendly team who appreciate the need for work-life balance.
+By joining at this early stage, experience the company's journey and grow with the role.
+Keep things interesting by working on innovative consumer-facing products spanning a wide range of industries.
+A budget for professional training.
+
+Please Include in your Application
+
+Your CV.
+A few words about why this role interests you.
+
+NO RECRUITERS PLEASE
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£50,000.00 per year
+Benefits:
+
+Casual dress
+Work from home
+
+Schedule:
+
+Monday to Friday
+No weekends
+
+Ability to commute/relocate:
+
+London, SE1 0HS: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in London, SE1 0HS

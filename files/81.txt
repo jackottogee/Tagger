@@ -1,0 +1,44 @@
+
+We are turbo charging Digital across M&S! To support this transformation, we are looking for an experienced Audience Developer to join the Growth & Personalisation team. The team is responsible for ensuring we deliver our growth goals, serve personalised experiences to our customers, make the most out our innovative tech-stack, prioritise effectively to drive value and deepen the relationship with our customers. 
+The role will focus on building multi-channel audiences using our innovative technology in BEAM; our M&S data warehouse dataset and other technologies such as our CDP (mParticle). You will work with business partners across all of M&S divisions to build audiences using real-time customer data as well as customer profile data sitting in BEAM, with the purpose of driving relevant and personalised experiences across channels. 
+You will build, develop and manage all audiences on relevant platforms on a day-to-day basis, ensuring that all audiences are populated accurately and that we maintain a clean, up-to-date set of audiences. 
+You will be the authority on audience selection via SQL and be able to advise on the best attributes to use for business partners to achieve their business objectives. 
+Key Accountabilities 
+
+Build SQL based audiences using M&S data warehouse customer dataset.
+ Build attributes within Big Data (Microsoft Azure) using SQL and provide ad-hoc analysis on potential audience sizes.
+ Ensure that all audiences are kept up to date, adhere to M&S audience management standard processes, are accurately populating and well detailed in Confluence and Alation.
+ Maintain a naming convention across all audiences to ensure audiences are easily identifiable and align with Audience Management standards.
+ Create real-time audiences in mParticle using their drag-and-drop interface and via Amplitude.
+ Work with the Data engineering and Data product team to identify and resolve any technical issues.
+ Work with the CDP Platform team to identify and resolve any data quality issues.
+ Work closely with and become thought partner to Business Unit partners in identifying high potential audiences.
+
+ Key Skills 
+
+Solid experience with SQL and analysing data in a RDBMS.
+ Previous experience working on a CDP/audience management platform.
+ Previous experience working with a marketing automation platform (SFMC, Adobe Campaign, etc).
+ Experience with managing audiences for paid media campaigns (Facebook, PPC, Youtube) would be desired but not essential.
+ Previous data management experience desirable as this role will work closely to M&S customer data engineering team.
+ Confidence in working with and challenging business partners in a collaborative fashion to drive the best outcome.
+ Strong communications skills and ability to write clearly, telling stories to non technical internal business partners as needed.
+ Analytical mentality and curiosity.
+
+ Key Benefits
+
+ Hybrid working
+ 33 days holiday (including bank holidays) + 1 celebration day
+ 20% discount on M&S products
+ A range of wellbeing support (including free counselling and a virtual GP for you and immediate family)
+ 25% off gym memberships, access to online fitness classes and discounts for complementary health services, such as nutrition and lifestyle coaching
+
+ About M&S
+ M&S is ready to push boundaries to lead the industry into a greener, speedier, more inspiring digital era. That’s why we’re revolutionising how we work and offering our most exciting opportunities yet. There’s never been a better time to be part of our team. 
+Marks & Spencer strives to be an inclusive organisation, trusted and loved by our colleagues, customers and suppliers. Join us and make an immediate impact. We are committed to an active Inclusion, Diversity and Equal Opportunities Policy, which starts with our recruitment and selection process, and we are happy to talk sensible/flexible working.
+ We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process. If you consider yourself to have a disability or learning difficulty which means you are unable to complete the application process online, please get in touch either by phone on 0345 300 3725 or by email recruitment.online@marksandspencer.com, so we can make alternative arrangements for you.
+ #LI-MW1
+ M&S is ready to push boundaries to lead the retail industry into a greener, speedier, more inspiring digital era. That’s why we’re revolutionising how we work and offering our most exciting opportunities yet. There’s never been a better time to be part of our team. Marks & Spencer aims to be an inclusive organisation, trusted and admired by our colleagues, customers and suppliers. Join us and make an immediate impact.
+ We are committed to an active Inclusion, Diversity and Equal Opportunities Policy, which starts with our recruitment and selection process, and we are happy to talk flexible working.
+ If you consider yourself to require reasonable adjustments to any part of our recruitment process, we invite you to share those requirements with us when completing your application. We will make every effort to ensure your needs are met to provide a fair and transparent process of assessment.
+

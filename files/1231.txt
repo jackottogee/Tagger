@@ -1,0 +1,15 @@
+
+Our clients are based in Covent Garden and operate within the music industry. The team consist of around 400 strong and rapidly growing. They are continuing to provide their services to the world's leading media organizations that you must have heard of.
+The service team will be involved in developing new technology and software for global companies while improving existing systems.
+They also provide a very relaxing company culture and environment.
+Your role will be working within a team of passionate and intelligent developers. While developing their core products, you will also be ensuring the system is maintained and improving. You will be using different languages and architectures to assist with keeping the system up to date.
+A full stack C# role that is primarily working on the backend. Other stacks you will be using include Kubernetes, Docker, PostgreSQL, Linux, Elasticsearch, and Cloud technologies such as AWS. At times you will also have an opportunity to develop new services architecture within this role.
+This is a flexible remote role with office meet-ups only once a month. If you enjoy working in an office they can also accommodate this to your needs.
+Skills Needed:
+
+Proficiency with C#
+Experience using Kubernetes and Docker
+Proven relevant industry experience
+Ability to solve problems and be analytical
+Benefit to have knowledge of PostgreSQL, Elasticsearch and AWS
+Job Owner: a.chan (31397)

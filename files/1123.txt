@@ -1,0 +1,91 @@
+The Loans Engine have been providing Secured Loans, Bridging Finance & Commercial Mortgages since 1988 and are very proud to be one of the UK’s longest established specialist finance brokers.
+We are now looking for a C# and .Net Web Developer to optimise our website and ensure a seamless online experience for our customers.
+Please Note: Applicants must be eligible to work in the UK and must be based local to Watford in North London.
+Initially you will be required to work from our Watford office. Moving forward working from home may be possible subject to training and development needs of the business.
+****Direct applications only, recruitment agencies will not be responded to.****
+About the role:
+The ideal candidate will be very familiar with:
+
+C# and .Net experience is essential
+Working with the latest in website design and development.
+Working with all Google products including GA, GTM, Webmaster Tools etc.
+SEO and how it relates to website structure and can advise on best practices.
+Working on the latest in mobile design techniques and builds as well as desktop.
+Setting up and migrating websites across web servers.
+
+Key responsibilities:
+
+Working on optimising the company website.
+Building a new fast, responsive website on the latest platforms.
+Building fast, responsive PPC landing pages.
+Improving website speed.
+Working in an organised and efficient manner to meet briefs and deadlines.
+
+Who are we looking for?
+
+Our ideal Web Developer will have extensive development experience.
+You will require a minimum of 3-5 years B2C web development experience within a fast-paced working environment. Examples of previous work would be an advantage.
+You must also have experience building responsive pages as all builds are responsive as standard.
+
+Skills and Experience:
+
+Visual Studio (Version >= 2015)
+C#
+Asp.Net MVC / WEB API 2/.Net Core
+Zurb Foundation / Bootstrap / similar CSS framework
+HTML
+JavaScript
+JQuery
+XML
+SQL Server
+Umbraco
+
+Benefits Package:
+
+Private medical insurance via BUPA
+Pension scheme with 8% company contribution
+Life assurance (four times basic salary).
+In addition to all recognised public holidays, we offer 25 days paid holiday a year, rising by 1 additional day per 5 years’ service, up to a maximum of 5 additional days (30 days total holiday).
+Buying and selling holiday scheme
+Company events
+
+Job Type: Full-time, Permanent position
+Salary: £40,000 to £50,000 pa subject to experience.
+Job Type: Full-time
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Private medical insurance
+Referral programme
+
+Schedule:
+
+Monday to Friday (9am to 6pm)
+
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£50,000.00 per year
+Benefits:
+
+Bereavement leave
+Casual dress
+Company pension
+Free flu jabs
+Free parking
+Life insurance
+On-site parking
+Private medical insurance
+Sabbatical
+Sick pay
+
+Schedule:
+
+Monday to Friday
+No weekends
+
+Ability to commute/relocate:
+
+ Watford: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Watford

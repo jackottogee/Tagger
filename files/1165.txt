@@ -1,0 +1,37 @@
+We are looking for a talented Senior Web Developer to join our team.
+Everyone is trusted to work on their own projects whilst ensuring they hit their own deadlines and get the support to develop themselves whilst building tools that will help our staff and customers. We work in a fast paced environment and we are not afraid of changes of tech and architecture.
+The Role
+· Optimising existing back-end software for speed, scalability, and reliability
+· Optimising the existing database schema (where required) for performance and reliability
+· Integrating with API’s
+· Collaborating with internal teams
+· Identify, prioritize, and execute tasks in the software development life cycle
+· Documenting newly developed functionality
+Key skills and experience:
+· Minimum of 3 years commercial PHP development experience.
+· JavaScript libraries like jQuery and frameworks like angular JS.
+· HTML5 & CSS3.
+· MySQL databases.
+· Version control systems.
+· Tooling and task runners e.g., Composer, npm and grunt etc.
+· Test-driven development
+· A good understanding of security best practices
+Benefits:
+
+Company pension scheme
+28 days annual paid holiday, including bank holidays
+Christmas bonus scheme
+
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£50,000.00 per year
+Benefits:
+
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+Web development: 3 years (preferred)

@@ -1,0 +1,65 @@
+
+
+Consultant | Software Development
+About Element Energy
+ Element Energy is a dynamic and growing technology consultancy specialising in the robust and intelligent analysis of low and zero carbon energy. Our work involves innovative new concepts and is fundamental to the shift to a low carbon future and the mitigation of climate change. We help both public and private sector organisations develop their decarbonisation strategies, technologies, policies and projects through evidence-based investigations. We also work with a wide range of clients and partners to demonstrate and commercialise new technologies to enable the transition. Our teams span all key areas of low carbon energy: transport, buildings, hydrogen and fuel cells, industry and CCUS, energy networks and smart energy systems. We pride ourselves on the strength of our analysis; we work closely with our clients, aiming to exceed their expectations and solve the challenges of climate change together.
+ Element Energy was recently acquired by ERM, a global sustainability consultancy practice with over 5,500 employees in 40 countries. All Element Energy employees will have access to ERM’s established training programmes and the career development opportunities that being part of a leading global consultancy practice offers.
+ Why Element Energy?
+ We are a group of intelligent, friendly and passionate people, who have strong values and are driven by our goal to decarbonise the energy system. We help shape the energy strategy in the UK, Ireland, France, Australia and beyond through our advice to the Committee on Climate Change, local authorities, governments, international organisations and many private sector companies. As a small company (<100 people) we are dynamic and collaborative, allowing your voice to be heard. Element is rapidly growing due to our strong reputation and forward-thinking approach; you will have the chance to progress rapidly in your career on a merit basis. New employees have the opportunity to work across a range of sectors, ensuring you will learn quickly, gain a broad view of the low carbon energy sector, and build experience from across the company. We also offer training on key skills, such as sound project management, delivering effective presentations and writing successful bids, as well as the chance to attend conferences and events. Our team holds a range of social activities, so every member should feel connected and at home. The principles of diversity and inclusion are core to the working culture of Element Energy, with more details provided here.
+ Role and responsibilities
+ Consultant Software Developers design, develop and deliver innovative software tools and models, carry out research and quantitative analysis of diverse technologies and provide clients with leadership and insightful conclusions. This is an opportunity for proactive individuals to develop their own initiatives and to have a rewarding career in the low carbon technology sector. Key responsibilities include:
+
+Developing robust software tools in Python for the quantitative analysis of low carbon systems and technologies.
+Researching technologies, markets or concepts through literature search and conversations with external experts.
+Developing and maintaining relationships with clients and stakeholders.
+
+
+Compiling documentation, reports, and presentations for project meetings and publications.
+Developing ways to communicate the results of projects to technical and non-technical audiences.
+Promoting best practice in model and code development throughout the company, for example by assisting in the delivery of training.
+
+Requirements
+
+Undergraduate degree or equivalent qualification in physical science, computer science, engineering, economics or another relevant discipline (Minimum 2.1)
+
+
+Strong interest in sustainability and low carbon energy
+Experience in using Python for software development
+Good skills in communication, leadership and time management
+Excellent numeracy skills and ability to quickly think through complex problems
+
+Advantageous, but not essential
+
+Working knowledge of relational databases (e.g. MySQL, PostgreSQL)
+Experience in using numpy and Pandas for data analysis in Python
+Experience in using version control and source code management tools (e.g. Git)
+Experience working with cloud computing platforms (e.g. Amazon Web Services, Microsoft Azure)
+Experience in web application development, including familiarity with basic HTML, CSS and Javascript
+
+
+Experience in Excel including VBA
+First class undergraduate degree
+Fluent in another European language (preferably French or German)
+Experience in low carbon energy and/or consultancy
+
+Salary: competitive, dependent on experience
+ Benefits:
+
+Company health insurance (UK)
+Cycle to work scheme (UK)
+Flexible working hours and ability to work from home when needed
+Choice of offices
+
+
+Christmas and summer parties, and social activities
+Pension scheme
+Annual discretionary bonus
+Merit-based promotion system
+
+Location: Cambridge (UK), London (UK), York (UK), Lille (FR), Nice (FR)
+ Start date: Rolling, year round (open door policy)
+ Vacancy type: Permanent
+ Visas for applicants in the UK: Visa sponsorship offered (contact us for details)
+ Application process: CV & cover letter; 2 interviews and completion of a coding challenge.
+
+

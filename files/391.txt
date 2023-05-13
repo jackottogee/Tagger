@@ -1,0 +1,53 @@
+
+ Here at JPMorgan Chase & Co., we know that people want great value combined with an excellent experience, from a bank they can trust. So we launched a new digital bank called Chase - to revolutionise mobile banking by creating seamless digital journeys that our customers love. For us, that means keeping ourselves customer obsessed and always being open to trying new things. Above all, it's about working with people who are passionate about building the bank of the future. 
+ 
+ Our team is at the heart of building this new venture, focused on developing offerings that put the customer at the center. We have created a new organization and we are looking for solution-oriented, commercially minded, customer-focused engineers, used to working in an agile environment who want to be a part of building something new from the ground up within a diverse and inclusive team. 
+ 
+ Culture is as important to us and we are looking for intellectually curious, new technology passionate individuals who would like to expand their skills whilst working on a new exciting venture for the firm. Your work will have a massive impact, both on us as a company, as well as our clients and our business partners around the world. 
+ This is a hands-on software developer in test role that can help our teams deliver enhanced quality by ensuring the delivery of effective and efficiency test automation within a green-field intiatives. We leverage the latest technologies and the best industry practices to deliver an end-to-end cutting-edge solution to our clients.   As a Software Test Engineer you will be responsible for:  
+
+Being part of a squad and work on the sprint deliverables 
+Developing and executing test strategies and test plans 
+Automating tests and building sufficient and meaningful test coverage 
+Developing from scratch or contributing to existing testing frameworks and test infrastructure 
+Integrating automated tests with CI/CD pipelines 
+Championing a quality and test mindset across unit, integration, functional, non-functional testing 
+Developing metrics and trend analysis for testing activities 
+Triaging, analysing , and debugging issues and driving issues resolution with the team 
+Initiating and completing test escape and root cause analysis, testing lessons learned 
+Recommending test process improvements and defect prevention actions 
+Working with teams in multiple locations in different time zones, review code PRs from the wider team. 
+
+
+Mininum qualifications: 
+
+
+Bachelor's degree in Electrical/Computer Engineering, Computer Science, or equivalent practical experience. 
+Recent hands-on professional experience (actively coding) working as a software developer in test. 
+
+
+Preferred Skills/Qualifications: 
+
+
+Strong programming skills in Java (additional experience in Javascript is a bonus) 
+Previous experience in application development is desirable 
+Experience building testing frameworks, tools, and automation 
+Test automation using BDD practices using supporting test automation frameworks 
+Mobile test automation using tools such as Cucumber, Appium, and Detox desirable 
+Mobile application and mobile browser testing on physical devices and simulators running on both iOS and Android platforms desirable 
+Back-end test automation experience using REST Assured, HTTP clients, libraries for working with JSON files and other tools relevant for test automation of APIs desirable 
+Understanding of distributed systems and experience working with cloud technologies (e.g. AWS, GCP, Azure) desirable. 
+Understanding of relational and no-SQL databases. 
+Experience with containers (Docker, Kubernetes, etc.) desirable 
+Experience with (incl. setting up and troubleshooting) distributed test execution on the remote grid of devices 
+Experience with (incl. setting up and troubleshooting) mobile applications build and deployment pipelines desirable 
+Experience with mobile application related non-functional testing e.g. accessibility, client side performance testing 
+Proven experience in all aspects of functional, integration and regression testing 
+Clean coding and adherence to the software engineering best practices (DRY, SOLID, etc.) with a focus on scalable and maintainable test execution infrastructure 
+Familiarity with the Atlassian toolset 
+Knowledge and experience working in an Agile environment. 
+
+
+#ICBCareer #ChaseUK #ICBEngineering 
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

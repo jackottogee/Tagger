@@ -1,0 +1,48 @@
+
+Cash Equities Java Developer London
+As a Barclays Cash Equities Java Developer you will be responsible for analysing, designing and developing highly-available and scalable solutions, while maintaining the stability, performance and supportability of our systems. You will be joining the Equities Cash Middle-Office, i.e. the funnel of all trades, where all flows converge after trading on markets or other brokers. Trades are validated, enriched, prepared for settlement with clearers and individual brokers.
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive and creating financial and digital solutions that the world now takes for granted.
+We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally are able to request work patterns to reflect their personal circumstances. Please discuss the detail of the working pattern options for the role with the hiring manager.
+
+What will you be doing?
+ • Delivering scalable and robust solutions as part of the global team, following best development practices
+  
+
+Implementing requirements as defined by business analysts
+Capturing requirements for smaller scale projects using Jira
+Describing system features on Confluence, keep the documentation up to date
+Liaising with Business and Operations teams in defining requirements and the expected outcomes
+Taking active part in 3rd line support to ensure timely and transparent resolution of queries and issues
+Capturing requirements from the local business and operations stakeholders, usually with scope limited to flows and systems within the Equities Cash Middle-Office department
+Addressing issues immediately, analysing root causes, fixing, texting and rolling out to the live environment
+
+
+
+
+
+What we’re looking for:
+ • Bachelor’s degree
+  
+
+Advanced knowledge and understanding of Java and Object-Oriented concepts and patterns
+Solid Pub/sub messaging experience (e.g. Solace, MQ, Kafka, EMS)
+Good Relational Database (RDBMS) skills (e.g. Oracle, SQL Server)
+
+
+
+Skills that will help you in the role:
+ • Experience in DevOps
+  
+
+Familiarity with Equities Cash flows and Markets in Financial Instruments Directive (MiFID) Post-Trade Transparency ((PTT) and Transaction Reporting
+Knowledge and understanding of other languages such as shell scripting, Python and Perl
+Google Proto-buffs and XML/XSLT parsing
+
+
+Where will you be working? In the heart of Canary Wharf, our headquarters at Churchill Place boasts onsite amenities such as: a gym, staff restaurant and deli bar, and is easily accessible by tube and bus links. With a population of around 5000 staff the atmosphere is second to none with a real buzz being created around the offices within.
+
+
+
+
+
+#LI-Hybrid #software #LI-DD2022

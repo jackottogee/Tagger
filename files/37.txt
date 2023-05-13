@@ -1,0 +1,54 @@
+
+We have an incredible opportunity to join us here at Phoenix Group as a Software Developer in our Commercial team within our thriving Open division.
+
+   Salary - up to £55,000 per annum (dependant on experience), plus up to 16% bonus, private medical cover, 38 days annual leave, excellent pension, 12x salary life assurance, career breaks, income protection, 3x volunteering days and much more! 
+   Job Type - Permanent 
+   Location - London - Hybrid with 3 days a week in office 
+   Job Contact: 0131 245 1000 
+   Closing date - Friday 28th April 
+  
+ We have an incredible opportunity to join us here at Phoenix Group as a Software Developer in our Commercial team within our thriving Open division. 
+  
+ Who are we? 
+   We want to be the best place that any of our 6,800 colleagues have ever worked. 
+   We're the UK's largest long-term savings and retirement business. We offer our 12 million customers products across our market-leading brands, including Standard Life, SunLife and ReAssure, with c.£259 billion of assets under administration. We're a FTSE 100 organisation that is tackling key issues such as transitioning our portfolio to net zero by 2050, and we're not done yet. 
+  
+ Flexible working 
+   You can expect to work in a hybrid manner with time spent working in the office and at home. We believe that work/life balance offers benefits for customers as well as ensuring that you can balance a successful career with your life outside of work. We will discuss flexibility, what is important to you and balancing this with business requirements during the recruitment process. 
+   We want to hire the whole version of you. 
+   We are committed to ensuring that everyone feels accepted and safe at work, and are proud to be an equal opportunity employer. Everyone is valued at Phoenix regardless of age, gender identity, neurodiversity, race, disability, sexual orientation, religion, ethnicity, socioeconomic background or anything else. Whether it's joining one of our internal employee networks, being an ally, taking positive action or simply being there to listen, everyone at Phoenix is valued and respected. 
+   If you need any help or adjustments to the recruitment process due to health, disability or anything else, please let us know so we can help you to be the best version of yourself. 
+  
+ The role 
+   You will improve current processes by leveraging technology, ensuring developments are efficient, robust and easy to use. You'll support the end users of BPA pricing tools, including assisting with communication / training for users and providing support on live cases. 
+  
+ What are we looking for? 
+   The Commercial team is seeking individuals to help drive efficiency in the BPA pricing process. As a result, we have a phenomenal opportunity to join our team at an exciting time, as we shape our proposition and the way we work to support our growth ambition: 
+   Essential: 
+  
+
+Experience of software development in C# or Python is a key requirement, together with a strong understanding of a wide range of other technologies. 
+Familiarity with modern design patterns and approaches in delivering robust software solutions. 
+You'll develop new tools and models, and enhance and maintain the existing codebase. 
+The ability to clearly communicate and work closely with users as part of an agile team is essential. 
+You'll maintain and develop appropriate test / regression packs to ensure good code coverage and robustness of the review process for tool releases. 
+You'll support the end users of BPA pricing tools, including assisting with communication / training for and providing desktop support on live cases. 
+You'll be self-aware with the desire to exceed expectations and demonstrate resilience in overcoming challenges and determination to deliver results for the business. 
+Desirable: 
+  
+
+You'll ideally have experience in financial services, but it is not a necessity. 
+Experience with cloud-based compute and storage services such as Azure Functions, Google Cloud Functions, AWS S3 and Azure Storage. 
+Strong understanding of the core principles of networking and application protocols such as TCP, IP, HTTP and HTTPS. 
+Experience with source control, CI/CD automation and testing frameworks. 
+
+ We want to hire the whole version of you 
+   We are committed to ensuring that everyone feels accepted and welcome applicants from all backgrounds. If your experience looks different from what we've advertised and you believe that you can bring value to the role, we'd love to hear from you. 
+   If you require any adjustments to the recruitment process, please let us know so we can help you to be at your best. 
+   Find out more about #LifeAtPhoenix 
+  
+
+Guide for Candidates: thephoenixgroup.pagetiger.com/guideforcandidates 
+Find or get answers from our colleagues: www.thephoenixgroup.com/careers/talk-to-us 
+#LI-HYBRID #LI-RL1
+ 

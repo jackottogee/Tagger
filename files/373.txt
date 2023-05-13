@@ -1,0 +1,53 @@
+
+Contract type: Permanent Working hours: Full time however we are open to flexible working hours. Location: Our Software Engineering team can work flexibly from home or the office, balancing the working day with personal commitments, whether that’s personal wellbeing, childcare or interests. We have offices in London, Brighton and Exeter. Closing date: 01/05/23 Salary: Negotiable + Excellent Benefits
+ We’re free thinkers. We’re innovators. We’re #ConsultantsWhoCode.
+ If you’re looking for the next step then we are looking for experienced Mid-level/Senior Backend Developers, to join our team at EDF.
+ We’re a multi-disciplined team with generalists and specialists; be it front-end, back-end, full stack developer or DevOps. We offer opportunities for engineers who want to help shape, develop and grow our software engineering practice, whilst developing their own skills, knowledge and career.
+ We’re evolving our IT landscape from traditional on-premise monoliths, to a collection of scalable, independent micro services, which enable us to react to the fast paced nature of the energy industry and uncertainty.
+ Our Software Engineering practice is at the heart of this transformation and we encourage our engineering community to really understand our challenges, what our customers need from us, and to create practical applications that solve business needs.
+ The opportunity…
+ Our Technology: Our core working methods are based around modern DevOps process; shift-left, test automation, SRE, CICD, and "everything as code" mindset.
+ A high-level view of our tech stack is:
+
+ Serverless architecture
+ AWS tools and resources inc; CodeBuild/CodePipeline, Lambda, Cloudformation, API Gateway, EventBridge
+ CI/CD: Github/CodeBuild/CodePipeline
+ IaC; Terraform, Serverless Framework
+ React / Typescript
+
+ Whilst we’re looking for these skills, people will have the opportunity to work across the team and develop expertise in different areas.
+ The team is growing rapidly, and we are always looking for different levels of talent. Our preference is to promote within the team and grow our engineers into seniors and leads where they have the aptitude and desire.
+ What we’re looking for…
+ We’re looking for experienced Mid-level/Senior Software Engineers, who specialises in Back-End Development, to work on our Integration with SaaS solutions, you'll feel at home using data, building pipelines, deployment, wrangling API’s (REST/GraphQL) and event driven architectures (using EventBridge).
+ You thrive in an evolving environment where you get the opportunity to contribute to diverse projects and innovate new solutions to business challenges. At EDF, you can experience different teams and feel like you’re in a new job, without changing companies.
+ You’re looking for an opportunity to work flexibly, develop your skills and leave your print on a blank canvas.
+ If this sounds like you, share your CV with us and for more information about this role, please contact bhavick.parmar@edfenergy.com
+ Our culture…  Steve Bowerman, Principal Software Engineer says: “It’s an exciting time. We’ve got a great start-up culture in a larger organisation, with the corporate stability and backing. And that real emphasis on being able to affect change is very important for me.”
+ At EDF, everyone’s welcome. We strive to create an inclusive and diverse environment where everyone has a voice and where you feel confident being yourself. We’re committed to equality, diversity, inclusion.
+ We’d like our future workforce to have an equal gender balance, represent a broad mix of people from minority ethnic backgrounds, LGBTQ+, those with a disability and supporting social mobility.
+ We’re an equal opportunity and disability confident employer. If you feel comfortable sharing with us that you have a disability, you meet the minimum criteria for the role, we will guarantee you an interview.
+ We’ll value the difference you bring and give you opportunities to thrive and succeed and to feel you belong.
+ Our benefits…
+
+
+ Potential to earn 5% bonus
+28 days annual leave plus bank holidays (increasing with service up to a maximum of 30 days)
+A defined contribution pension scheme
+Retail discounts and cashback deals
+Healthcare cash plan
+Technology benefits
+Government tax-free childcare
+ Option to purchase:
+  
+
+Additional annual leave
+Dental insurance
+Gym membership
+Critical illness insurance
+Personal accident insurance
+Travel insurance
+Car breakdown cover
+Dining card
+
+
+ Join us and together we can help Britain achieve Net Zero.

@@ -1,0 +1,242 @@
+
+
+Role: Website Developer, Project N
+
+
+ Location: UK, Remote / Hybrid (1-2 days in the office in Bath)
+
+
+ Closing Date: 14th May 2023 
+(
+We reserve the right to close this advert early if sufficient number of applications have been received)
+
+
+ Type: Full-time, Permanent
+
+
+ Salary: £45,000
+
+
+ Working for Project N
+
+
+   Were a fun and friendly company offering an informal working environment with offices in central Bath. We are always growing, work fast but accurately, have an international reach and are nerdy as hell! We are committed to being an inclusive workplace and have various groups and events to hear underrepresented voices including Women, Neurodiversity, Diversity and Pride.
+ 
+
+
+   Our people make our success, so it is only fair we give plenty in return, including:
+ 
+
+
+
+
+     28 days holiday, plus bank holidays
+   
+
+
+
+
+     Your birthday off
+   
+
+
+     Private medical plan through Vitality with enhanced mental health provision
+   
+
+
+     Resident Career Coach
+   
+
+
+     Auto-enrolment pension
+   
+
+
+     Employee Assistance Programme
+   
+
+
+     Techscheme
+   
+
+
+     Cyclescheme
+   
+
+
+     Discounted Gift Card scheme
+   
+
+
+     Employee social events, including Christmas & summer parties
+   
+
+
+ About us
+
+
+   Project N is the creative agency that is trusted by some of the worlds best-known developers, publishers, and retailers to produce their videos, websites and content. We work with the biggest and most prominent brands in the video games industry to create content that excites and engages their audiences, building value for their business.
+ 
+
+ The Role
+
+
+   The role will be working as part of our Creative Studio team within the agency business, scoping and delivering technical projects for clients including data-driven websites and applications, CMS-powered websites, and more advanced platforms with APIs and data integration. This role will also involve managing and mentoring a direct report to support their development and learning.
+ 
+
+ You will have a leading role in helping design, build and maintain website and project codebases, working with some of the most exciting brands within the global video game industry, from innovative indie startups, studios and publishers to household name games and launches.
+ 
+
+ You will work closely with the delivery and project management teams in our Creative Studio, as well as occasionally dealing directly with clients and their technical teams on project pitches and live campaigns, ensuring development meets high standards and can be easily adopted by clients.
+ 
+
+ Responsibilities include:
+
+
+
+
+     Develop back end application features.
+   
+
+
+     Working with CMSs, including Strapi, Wordpress, Storyblok and similar.
+   
+
+
+     Building websites based on simple specifications and wireframe designs.
+   
+
+
+     Writing well-structured, commented, and clean code.
+   
+
+
+     Keeping up to date with modern web technologies.
+   
+
+
+     Working with internal and external development teams to deliver projects on time, within budget.
+   
+
+
+     Giving guidance and instruction to other developers.
+   
+
+
+     Maintaining documentation for systems, hosting and processes.
+   
+
+
+     Provide mentorship to direct reports by offering support and guidance in order to help them reach their full potential
+   
+
+
+ Must have the following skills and experience:
+
+
+
+
+     MySQL, and BigQuery/SQL.
+   
+
+
+     Experience developing consistent, quality REST API(s).
+   
+
+
+     GIT version control and codebase management.
+   
+
+
+     Hosting environment and server configuration and management - particularly Digital Ocean and AWS.
+   
+
+
+     DNS administration.
+   
+
+
+     Cache and database management for high traffic sites.
+   
+
+
+     Comfortable with managing local development environments.
+   
+
+
+     Proven commercial experience of web-based development/applications.
+   
+
+
+ Person specification
+
+
+
+
+     Demonstrable experience in full-stack development.
+   
+
+
+     Experience working directly with clients and external stakeholders.
+   
+
+
+     Proactivity, attention to detail, and excellent organisation.
+   
+
+
+     Excellent communication skills
+   
+
+
+     Ability to work with internal and external stakeholders effectively to reach a common goal
+   
+
+
+     Ability to lead and motivate a team
+   
+
+
+     Meet the criteria in IC level 3 and MGT level 3 in our progression framework (https://progression.network-n.com/ic).
+   
+
+
+     Proficiency with basic working tools: docs, sheets, task management software, etc.
+   
+
+
+     Must be able to produce proof of right to work in the UK by the start of employment.
+   
+
+
+ Desirable
+
+
+
+
+     Knowledge of the video game industry.
+   
+
+
+     Experience within an agency.
+   
+
+
+     Knowledge of web-development strategies to develop client relationships.
+   
+
+
+     Use of a content management system such as Asana or Trello.
+   
+
+
+ If it sounds like you match most of this criteria, please apply with a covering letter 
+  which includes a portfolio of campaign examples from previous roles and your CV. Please put the examples in the same document as your cover letter as our system will only allow two documents to be uploaded.
+ 
+
+ Please also note that this role is based either in our offices in Bath on a hybrid contract (1-2 days a week in the office) or can be remote within the UK.
+ 
+
+ NO AGENCIES PLEASE
+ 
+

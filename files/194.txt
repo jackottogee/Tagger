@@ -1,0 +1,65 @@
+
+Company overview:
+
+
+ Our Mission is to make compliance for Banks and FinTechs easier by providing innovative AML compliance software, protecting Banks & FinTechs against $ Multi-Billion fines by changing the way that AML Transactions Monitoring is done.
+
+ About you:
+
+ Working in an Agile environment, you will be part of a product team contributing to the ongoing product development. You will be working on an analytical product which is completely coded in the Python web framework (Django). This will mean working with product owners, scrum masters and QA engineers. We are looking for someone that will fit in with a culture of collaboration, communication, and teamwork. Test-driven development should be part of your daily development tasks. Our clients are generally B2B payments service providers and we will be delivering an efficient solution for their compliance team.
+
+ Your responsibilities:
+
+
+ Developing cloud-based Python Django software products at an enterprise level 
+
+
+Working closely with UX and front-end developers 
+Participating in architectural, design, and product discussions 
+Designing and creating RESTful APIs for internal and partner consumption 
+Working in an agile environment with an excellent team of engineers. 
+Help scale our back-end architecture and migrate to a service-oriented future. 
+Work with Python 3.6, DRF, MySQL, AWS, Redis, RabbitMQ, and Kafka, introducing other technologies when it makes sense.
+
+
+
+ Requirements:
+
+
+
+Bachelor’s or master’s degree in computer science or equivalent. 
+Proven experience in financial domains.
+Excellent knowledge of Python and Django, you should be at the leading edge of your field. 
+
+
+Intellectual curiosity, learning agility, and enthusiasm for tackling tough problems. 
+Outstanding communication skills required – primarily the ability to communicate ideas.
+
+
+
+ Technical requirements:
+
+
+ Development Stack: Web Api | Dependency Injection | Microservices | Restful architecture.
+Azure Stack: App Insights | Cosmos | Service Fabric | REDIS
+Domain-driven design experience will be an advantage.
+Experienced in test-driven development working within an Agile SCRUM team. 
+Strong knowledge of Version Control (GIT, SVN)
+Excellent database skills. For example, Postgres SQL, MySQL.
+Amazon Web Services (AWS) infrastructure knowledge is a plus.
+
+
+
+ Benefits
+
+
+ Laptop of your choice
+Competitive salary
+Monthly social events and team off-sites
+Regular networking events, mentoring events, and conferences
+Freedom to explore the latest tools and technologies
+Company knowledge-sharing activities
+Professional development and room to grow
+Dynamic, international team in the office, with the option to work fully remotely
+
+

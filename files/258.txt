@@ -1,0 +1,48 @@
+ABOUT OQCAt Oxford Quantum Circuits (OQC) we build quantum computers to enable life-changing discoveries: from new drug modelisation to longer-lasting battery technology and portfolio optimisation. We have launched Europe’s first Quantum Computing as a Service (QCaaS) – to bring quantum to our customers’ fingertips and help them improve their operations and trailblaze new commercial and scientific approaches.
+Our team is composed of 90+ people with various backgrounds in quantum physics, nanotechnologies, hardware, software and business operations from marketing to intellectual property. We are all bound by the desire to put OQC at the forefront of the quantum revolution and help solve some of the world’s most challenging problems.Previous quantum computing experience is NOT REQUIRED to be successful in this role.
+ROLE OVERVIEW - Note this is NOT a fresh graduate role - you need experience.
+Our mission at OQC is to put Quantum Computing into the hands of humanity, and this is where you will come in. As a Junior Software Engineer at OQC, you will work in the software team with a focus on developing services and tools enabling high-performance access to Quantum Computers.
+You will be part of a growing team of software engineers developing web-based/api-based solutions for a variety of challenges encountered by our partners and end-users. In this role, you will also develop and maintain critical tools supporting business development and management of Quantum computing services. You will build your career working with the biggest names in the industry, including the likes of AWS, often working directly with them.
+This is a very exciting area and demanding innovative solutions. We are looking for candidates with outstanding problem solving skills, excellent software engineering knowledge. This role suits junior software engineers or physicists/engineers, with a proven ability to develop software, and keen to learn professional software development in Quantum doman, individuals who can turn their hand to a range of different problems from development of web portals to writing high performance web services.
+RESPONSIBILITIES
+
+Design and develop high-quality software in novel, highly technical field exploring new opportunities through R&D
+Identify, prioritise and execute tasks in the software development life cycle.
+Work within an agile team environment, ensuring exceptionally good interactions with team members and stakeholders.
+Apply software engineering practices to ensure that our developments provide correct functionality and performance.
+Maintain and incrementally improve existing services based on technical and business led requirements.
+Collaborate with internal teams to create and improve software solutions for accessing quantum computers.
+Contribute towards other projects with critical timescales as needed by the business.
+
+Requirements
+
+Experience of software development in a commercial/academic context
+Good knowledge of Python with understanding of software design and implementation
+Experience in building API and web applications using Flask/Django frameworks
+Exposure to large codebases in a team environment.
+Strong understanding of common data structures and programming patterns.
+Passion for DevOps and Building out CI/CD to improve automation.
+Exposure to Test-driven development, Microservices architecture.
+Technically versatile and able to learn new skills that you can apply across multiple types of work.
+
+BenefitsWe offer competitive renumeration based on experience.We also offer multiple benefits, from private medical insurance to Employee Assistance Cash Plan, from cycle to work to gym and fitness memberships. All our employees also participate in our ESOP. from more info visit https://apply.workable.com/oqc/
+Job Type: Full-time
+Salary: £28,000.00-£35,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Cycle to work scheme
+Free parking
+On-site parking
+Private dental insurance
+Private medical insurance
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Reading
+Reference ID: SW25Expected start date: 01/06/2023

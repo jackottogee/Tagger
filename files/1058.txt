@@ -1,0 +1,91 @@
+The Company
+
+We are a technology travel business located in the centre of beautiful Bury St Edmunds, with exciting plans for the future.
+We own and operate several major travel websites focusing on accommodation but also including visitor attractions, wedding venues and beach huts. They include Speedybooker.com, BeachHuts.com, BritainsFinest.co.uk, FishPal.com, Monasteries.com and UniversityRooms.com.
+Our booking engine, internally developed over ten years, also powers third party websites.
+We are building a property management system (PMS) to provide our properties with additional tools (turbo-pms.com).
+Our mission is to be our customers’ and vendors’ favourite booking platform/PMS.
+We aim to hire the highest calibre of people. Our values are to:
+Commit to personal excellence - Always look to learn and improve, be positive, proactive not reactive, tenacious to achieve incredible results, use every minute wisely, go the extra mile, and have fun!
+Work as a team - Be willing to offer help, humble to accept it, share and use best practice, honest, respectful, disciplined not to cut corners for short-term gain, selfless to seek the best for the company, not just yourself or your group.
+Passion for the product - Look to continually enhance our product, automate where possible, embrace and fix problems, use iterative development, and strive for perfection.
+Please see speedybooker.com for more information.
+
+Responsibilities and Duties
+
+You will be given work that will have been spec’ed and planned into a fortnightly sprint process
+You will need to communicate with the Product owners and Technical team with suggestions/questions and improvements to specifications.
+You will report directly to our Scrum master.
+You will have daily scrum meetings.
+You will be involved in fortnightly retrospective meetings
+Improving codebase while implementing new functionality.
+Ensuring good quality of code.
+Improving performance of code.
+
+Qualifications and Skills
+“Must have” technical skills
+
+3 or more years experience with C#
+Be able to lead and help team members.
+mySQL or SQL
+JavaScript
+HTML
+Css
+Visual Studio
+Experience with one of Angularjs/Vue.Js/React/Knockout.js
+JavaScript
+you must be able to demonstrate your design skills.
+
+“Nice to have” technical skills / things you might learn
+
+Management experience
+ASP.Net
+MVCAndroid / iOS apps
+XML
+Have used Jira or similar software for managing projects
+
+Other characteristics
+
+A degree in computer sciences would be an advantage but is not a requirement.
+We are looking for a talented individual who is organised, methodical, motivated, gives attention to detail, and can envisage building a long-term career within the company.
+Strong English written and verbal skills.
+
+Benefits
+
+Opportunity to join an established profitable ecommerce/software business with exciting growth plans for the future.
+Above industry average salary (dependent on experience) plus 10% on target bonus plus pension contributions.
+Modern Office on Cornhill in the centre of Bury St Edmunds.
+Free car parking.
+Bonus scheme.
+Hybrid working (work from home up to three days a week)
+Employee benefits and rewards scheme
+Paid for training.
+Company events & social time.
+You will be joining a twenty-strong team of fun and hard-working sales people, account managers, and software developers.
+
+Job Type: Full-time
+Salary: £30,000.00-£60,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Employee discount
+Free parking
+
+Schedule:
+
+8 hour shift
+Day shift
+Monday to Friday
+No weekends
+
+Ability to commute/relocate:
+
+Bury St. Edmunds IP33 1BE: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+.NET: 3 years (required)
+
+Work Location: Hybrid remote in Bury St. Edmunds IP33 1BE

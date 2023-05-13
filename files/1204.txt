@@ -1,0 +1,22 @@
+
+ Website Developer
+  Salary - £25,000 to £30,000
+  Hours of work - Monday to Friday 9am - 5pm
+ 
+ Are you seeking an exciting opportunity to grow your skills and work on diverse projects? Our client is searching for a Web Developer to join their team. This is an excellent chance to collaborate with an established company and contribute to ongoing improvements.
+ 
+ Responsibilities:
+ 
+
+Enhance the existing CRM system, developed using C# and supported by SQL Server.
+Work efficiently in a dynamic environment, meeting deadlines and conducting thorough programming tests to ensure smooth End User experience.
+Connect the CRM with websites and APIs to streamline business operations
+ Desirable but not essential skills:
+ 
+
+Thorough understanding of full project life cycle software development.
+Understanding of object-oriented programming.
+Proven experience in Net Development, including ASP.Net and C#.
+High proficiency in Visual Studio, HTML5, CSS3, JavaScript, JQuery, Bootstrap 4, React, .NET Core, Razor Pages, MVC, Entity Framework, SQL Server, Agile, and Dev Ops.
+Strong organisational and time-management skills.
+ If you possess the relevant experience and are interested in this exciting opportunity, please If you feel like you have the relevant experience and would like to hear more information on this exciting opportunity, please apply today! Alternatively, you can call in to 01733235111/07810846975 or email duke.owusu@hb-commercial.com.

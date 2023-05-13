@@ -1,0 +1,38 @@
+
+Job Title: API Integration Developer
+
+Salary: £60,000
+ Location: Cardiff (Hybrid/Remote – 1 day on-site per fortnight)
+ Sponsorship: Unfortunately, sponsorship can’t be provided at this time
+
+
+ Are you a Software Developer looking to step up and become a leader?
+ Are you confident in your API integration ability and want a new challenge with an internationally recognised software house?
+ Vargo have recently partnered with a company who are looking for an ambitious Software Developer to help manage a small team and help drive best practice in all stages of their software development.
+
+
+ Requirements:
+
+3+ years’ experience programming with Java, C# or C++
+3+ years’ experience designing web service API’s
+Previous experience with managing a team of any size
+Bachelor’s Degree in Computer Science or an other relevant subject
+Knowledge and experience with CI/CD
+Experience with containerisation (e.g. Docker/Kubernetes)
+Experience of cloud environments (e.g. AWS)
+
+
+
+ Responsibilities:
+
+Leading and training a small team of developers (e.g. performance management)
+Working with the Head of Software to help direct departmental tasks
+Providing technical/team supervision to ensure project delivery
+Ensuring all code is maintained at a high quality of standard
+Overseeing external developers
+Participating in both internal and external meetings to demonstrate product functionality
+
+
+
+ If this sounds like the kind of role you’d be interested in, feel free to get in touch with casey.thomas@vargogroup.co.uk for more information!
+

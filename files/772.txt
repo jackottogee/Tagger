@@ -1,0 +1,197 @@
+
+
+
+
+
+
+Salary:
+
+
+
+
+ £35,000 - £55,000
+
+
+
+
+
+
+ Level:
+
+
+
+
+ Mid-weight
+
+
+
+
+
+
+ Location:
+
+
+
+
+ Redruth (Cornwall), or London
+
+
+
+
+
+
+ Contract:
+
+
+
+
+ Full-time
+
+
+
+
+
+
+
+
+
+ Working as part of our delivery team, you will be responsible for implementing features for new and existing projects. This will include greenfield projects and updates to existing ones in a variety of languages and frameworks.  This role is all about working smarter rather than harder so we can surprise and delight our clients. So, you will be expected to help us find the most rapid and appropriate way to build complex features, and then deliver high-quality, defect-free code in line with your estimates.
+ Your main areas of responsibility are: 
+
+Supporting the Project Lead to specify work and accurately estimate it
+Completing work assigned to you on time, on-spec, and free from defects
+Building responsive, performant, and standards-compliant web pages and components using HTML5, CSS, JavaScript, and relevant libraries and framework
+ - Writing clean, testable, and well-documented back- and front-end code
+  
+
+Configuring and maintaining deployment pipelines
+Occasionally troubleshooting live systems
+Actively participating in sprint ceremonies including daily standups and fortnightly retrospectives
+
+ Skills and experience
+
+    You will have been working in a similar role in an agency or similar environment for at least 3 years.
+  
+ You will also need:
+
+Experience building bespoke websites (not from themes) with 1 or more modern CMS platforms (ideally Umbraco)
+Experience of implementing accessible, flexible and technically sound responsive CSS layouts from designs and style guides using well-known CSS frameworks
+Experience of writing back-end code in C# (essential), JavaScript, PHP, and/or similar languages
+Experience of working with at least 1 and preferably more databases like MongoDB, Elasticsearch, MySQL, and SQL Server
+Experience of working with 1 or more front end JavaScript frameworks
+Experience of working collaboratively with a Project Manager and other developers to ensure deadlines are met and unexpected issues are tackled quickly and effectively
+A professional, completer-finisher mindset that allows you to progress work effectively
+Great attention to detail
+The ability to think analytically and break complex problems down into simpler, interconnected steps
+
+ Our ideal candidate will:
+
+Live up to our “own it” principle by embracing autonomy and being comfortable delivering outcomes and results
+Live up to our “bias for action” principle by being an advocate of agile concepts – conversation over documentation, people over process, working software as the primary measure of progress
+Be comfortable leading a team in a flat structure, where what you do holds much more sway than what you say
+Be looking for a progression journey which will stretch and reward you as the business grows
+Be realistic about what it’s like to work in an agency environment – agencies are imperfect businesses, sometimes priorities have to change, and often pragmatism is required to balance different priorities
+
+ Working arrangements
+
+    We operate a hybrid model, and depending on your location we will agree the balance that works best for both of us. A relocation package may be available if you’re looking to relocate, but you will need to have relocated by your start date.
+   
+ We’re open to full- or part-time candidates, and we’re especially keen to hear from anyone looking to return to work after parental leave or a career break.
+  
+ Progression opportunities
+
+    As you develop in the role, you will take a more active role in solution architecture and our overall tech stack choices.
+   
+ If progression is your thing, over the next 2-3 years you will have the opportunity to choose the direction you would like to develop your career in – it could be as a Senior Developer, or as a Project Lead, or as Lead Developer, or something else completely. To help you get there, you will have the support of an experienced Non-Executive Director with extensive agency experience and whatever training is needed.
+  
+ Company descriptions
+
+    We’re a consultancy-led software development agency. We bring together strategy, design, and software development to help ambitious businesses tackle complex challenges. Our view of the world is pretty simple: technology should create life-changing opportunities. Opportunities for our team, for our clients, and for our planet.
+   
+ We’re on the road to employee ownership and we’re proud to be shaping the next generation of tech changemakers. Could you be one of them?
+  
+
+
+
+ Here are some of the benefits the Thought Quarter team enjoy
+
+30 days’ holiday
+Paid sick leave
+Paid parental leave
+Access to a huge range of discounts from high-street and online brands
+
+ - A £300 training budget to spend on anything you like - work related or not!
+
+
+A fair, competitive salary that is reviewed by the board of directorsevery single month
+30 days’ Autonomy to choose where and when you work(subject to some ground rules)
+A seriously cool office in a seriously cool building with an amazing cafe, pinball machines and breakout spaces
+A monthly team social, plus a summer party for staff and families
+
+
+
+
+ Similar roles
+
+
+ Technical Lead
+
+
+
+ Salary:
+
+
+
+
+ £45,000 - £65,000
+
+
+
+
+
+
+ Level:
+
+
+
+
+ Senior
+
+
+
+
+
+
+ Location:
+
+
+
+
+ Redruth (Cornwall), or London
+
+
+
+
+
+
+ Contract:
+
+
+
+
+ Full-time
+
+
+
+
+ Key requirements:
+
+At least 2 years working in a technical leadership role and have extensive software engineering experience in an agency or outsourcing environment
+A track record of shaping a team culture of accountability, high performance, and quality
+Eligible to work within the UK
+
+
+
+
+
+

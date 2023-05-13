@@ -1,0 +1,112 @@
+
+
+  We believe in better. And we make it happen!
+ 
+
+   Better content. Better products. And better careers.
+ 
+
+   Working in Tech, Product or Data at Sky is about building the next and the new. From broadband to broadcast, streaming to mobile, SkyQ to Sky Glass, we never stand still. We optimise and innovate.
+ 
+
+   We turn big ideas into the products, content and services millions of people love.
+ 
+
+   And we do it all right here at Sky.
+ 
+
+   “This is an excellent opportunity to join our Contribution and Origination team as a Team Lead helping to shape the future working practices and technological landscape at the forefront of audio and video contribution and origination, specifically focused on delivery of the OMS Product (Operational Management Systems). You are an inquisitive, motivated, and dependable person with strong integrity and empathy, who is willing to learn and apply new knowledge on a constant basis.” – BCAM Manager
+ 
+
+
+   What you'll do
+ 
+
+ Provide technical expertise and domain knowledge as the primary point of in delivery of Software Engineering solutions related to the OMS Product within the Distribution Platform.
+ Line management responsibilities: coach and lead a set of people with different skills and functions who collaborate to deliver value end-to-end from conceptualisation to production.
+ Drive continuous improvement collaborating as part of a team of leaders within the platform scope, facilitating and participating in regular reflection and adaptation.
+ Form part of the platform leadership team working closely with the Platform Owner and senior Engineering Managers to defining strategy & roadmap and technical approach to obtain high-level priorities and translate these into more granular priority calls at the Stream Aligned team level.
+ Responsible for producing flow-metric reporting that is compatible with the platform standards, providing fast feedback, forecasting & capacity management.
+ Coach & facilitate agile and DevOps principles such as, reducing batch sizes, hosting retrospectives, working to breakdown silos, fostering an environment of trust & safety with a focus on the 3 ways: Flow, feedback, and continuous learning.
+ Support objective setting, fast feedback and career progression for team personnel using techniques like Wardley Mapping for People and Training Needs Analysis focused on growth.
+ Build & maintain functional relationships contributing to strategy in your functional space, broadening your technical concerns and where appropriate working towards consistency across the wider department.
+
+
+
+   What you'll bring
+ 
+
+ A growth mindset with a passion for learning, adaptation, and self-improvement.
+ The ability to communicate efficiently and effectively, including preparing, and conducting technical demonstrations, chairing valuable & efficient meetings with clear objectives, understanding the trade-offs for different forms of commination in a hybrid working environment.
+ A level of empathy and care for the engineers around you, creating a sense of team and an environment of trust, safety, and transparency.
+ An analytical, data led approach with understanding the importance of measurements and metrics for driving decision making, prioritisation, and improving situational awareness.
+ The confidence to challenge constructively providing the ability to ask the right questions at the right time.
+ An interest and desire to improve delivery models and study flow systems, reducing waste & frustration and improve the daily lives of the engineers around you.
+ Several years of appropriate industry experience, demonstrating strong technical capability with relevant domain knowledge. Particularly within a Software Engineering delivery role supporting Agile and DevOps principles.
+ Ideal Technology stack – C# .NET, DataMiner framework, Jira, Confluence, AWS Cloud, automated software testing and CICD pipelines.
+
+
+
+   Team overview
+ 
+
+   Content technology and innovation
+ 
+
+   Our Content Technology and Innovation team delivers high-quality content to homes, customer devices, businesses and commercial partners across our European markets. With over 2500 colleagues from around the world, we combine our strategic insights, engineering know-how and operational excellence to use the most innovative technologies to create and distribute our award-winning content.
+ 
+
+
+   The rewards
+ 
+
+   There's one thing people can't stop talking about when it comes to #LifeAtSky: the perks. Here’s a taster:
+ 
+
+ Sky Q, for the TV you love all in one place
+ The magic of Sky Glass at an exclusive rate
+ A generous pension package
+ Private healthcare
+ Discounted mobile and broadband
+ A wide range of Sky VIP rewards and experiences
+
+
+
+   Inclusion & how you'll work
+ 
+
+   Recognised by The Times and Stonewall, we take pride in our approach to diversity and inclusion. Investing in society, fighting racial injustice and setting ambitious targets for representation at Sky.
+ 
+
+   We’ve embraced hybrid working and split our time between unique office spaces and the convenience of working from home. You’ll find out more about what hybrid working looks like for your role later on in the recruitment process.
+ 
+
+
+   Your office space
+ 
+
+   Osterley
+ 
+
+   Our Osterley Campus is a 10-minute walk from Syon Lane train station. Or you can hop on one of our free shuttle buses that run to and from Osterley, Gunnersbury, Ealing Broadway and South Ealing tube stations. There are also plenty of bike shelters and showers.
+ 
+
+   On campus, you’ll find 13 subsidised restaurants, cafes, and a Waitrose. You can keep in shape at our subsidised gym, catch the latest shows and movies at our cinema, get your car washed, and even get pampered at our beauty salon.
+ 
+
+
+   We'd love to hear from you
+ 
+
+   Inventive, forward-thinking minds come together to work in Tech, Product and Data at Sky. It’s a place where you can explore what if, how far, and what next.
+ 
+
+   But better doesn’t stop at what we do, it’s how we do it, too. We embrace each other’s differences. We support our community and contribute to a sustainable future for our business and the planet.
+ 
+
+   If you believe in better, we’ll back you all the way.
+ 
+
+   Just so you know: if your application is successful, we’ll ask you to complete a criminal record check. And depending on the role you have applied for and the nature of any convictions you may have, we might have to withdraw the offer.
+ 
+

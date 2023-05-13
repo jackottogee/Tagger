@@ -1,0 +1,59 @@
+QA Engineer
+Neilson Financial Services (NFS) seeks for a QA Engineer for our agile software development team. We are a growing all-in-one software solution company in the financial services industry. Our ideal candidate must have an automation experience with Java, Selenium, Cucumber, Rest Assured, Maven, JMeter and Postman.
+Candidate will be responsible for reviewing the requirements, writing test plans or test strategy, test cases, test case execution, automation script maintenance and evaluation of designs, analysis where creativity and initiative are involved as well as a high level of independent judgment. Perform backend complex design analysis.
+Candidate will develop validation designs including automated test systems, design, and balance system test procedures. Analyze requirements, provide feedback on missing business flows and designs. Converting design specifications and related requirements into test cases with expected results. Writing back end and frontend automation scripts and executing through Azure pipelines.
+Main Duties & Responsibilities:
+
+Learn and understand all NFS product, systems, and environments.
+Conduct and execute tests across all FNS projects including covering DB, API and UI
+Create detailed, comprehensive, and well-structured test plans and test cases according to Standard Operating Procedures (SOPs)
+Provide the final sign-off on the release packages
+Integrate testing efforts and tools with CI/CD
+Perform different phases for the testing cycles – functional, integration, regression, system and UIT
+Perform Black box testing, defect tracking processes and authoring test plans, test cases matrix, test reports and test procedures
+Find and report bugs with accurate, technically complete, and concise steps to reproduce
+Participate in product requirement documentation reviews as well as design reviews
+Develop software test plans, test specifications, test cases, and test scripts and present documentation to ensure technical completeness and accuracy
+Deliver testing initiatives that guarantee the availability and stability of systems output
+Provide the status of the testing and interpret execution results
+Input documented data conditions to execute test cases, process tests, generate test results, and analyze test results to ensure software quality standards are met
+Collaborate with software developers and architects to ensure database integrity and product quality
+
+Skills & Knowledge:
+
+6+ years of experience in QA testing
+5+ years of experience with automation (Java, Selenium, Cucumber, Rest Assured, Maven, JMeter, PowerShell is a plus)
+6+ years of experience with writing queries using MySQL, SQL Scripting
+6+ years of experience in complete software testing activities such as designing, writing, testing, and documenting software test cases and automated scripts in languages (JAVA) and environments appropriate to development projects
+Creating test strategy documents
+Experience with CI / CD and knowledge of Azure pipelines or similar one
+Excellent interpersonal and communication skills, both verbal and written
+Eager to Learn
+
+Education & Experience Requirements
+
+MS or bachelor’s degree in Computer Science, Information Systems or a related field is a plus
+
+Job Types: Full-time, Permanent
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Private medical insurance
+Referral programme
+Sick pay
+Wellness programme
+
+Schedule:
+
+8 hour shift
+
+Experience:
+
+QA Testing: 5 years (required)
+Automation: 5 years (required)
+SQL: 5 years (required)
+
+Work Location: Remote

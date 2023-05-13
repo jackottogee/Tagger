@@ -1,0 +1,44 @@
+
+Graduate / Junior level - 45k to 60k
+Generous equity/share options, Bupa medical & dental, company pension, health & life insurance, flexible hours, refreshments, onsite parking, regular company holidays/events 
+Fully remote or office based in White City, West London if preferred
+Software Developer / Software Development
+Cyber security agent architecture - systems / low-level / kernel / device driver development for Windows, Mac or Linux
+R&D environment working on the latest technologies
+Visa sponsorship available
+
+This position can be fully remote, hybrid remote or office based depending on your preference. However, applicants need to ideally be within 3 hours commute of White City, West London as occasional visits to the office will be required.
+Are you looking for a challenging role, working on the latest technologies and where you can make an immediate impact on product development? This innovative company uses the latest advancements in machine learning and artificial intelligence to create cloud-based cyber security solutions which offer immediate end to end protection, preventing data loss and protecting reputation. This is an excellent opportunity to join a talented and highly experienced team working on bleeding edge software design.
+The role
+We’re looking for bright engineers to join the growing cyber security R&D team to develop the agent architecture - a systems/low level thin client which is deployed across Windows, Mac, Linux or server architecture for the extraction, management and analysis of customer data.
+You will be working on the development of the agent, mostly for Windows, at a systems/kernel level using Go, C and C++. It’s not expected that you’ll be familiar with all of these languages, as long as you’re enthusiastic and willing to learn.
+Candidate profile
+The role would ideally suit a Software Engineer in the early part of their career with some experience of systems, low-level, kernel or device driver development for Windows, Mac or Linux using Go, C or C++
+or
+A recent graduate with a genuine interest in this type of work, together with some low-level experience gained through university, placement, internship or personal projects.
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£60,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Discounted or free food
+Employee mentoring programme
+Employee stock ownership plan
+Flexitime
+Life insurance
+On-site parking
+Private dental insurance
+Private medical insurance
+Relocation assistance
+Sick pay
+UK visa sponsorship
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work Location: Hybrid remote in London
+Reference ID: JD1128Flexitime

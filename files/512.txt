@@ -1,0 +1,27 @@
+
+
+
+   Location: Exeter and Sheffield (UK) 
+  
+
+   Salary: Based on experience 
+  
+
+Certus is at the forefront of the life sciences and healthcare industry developing software systems to supporting clinicians and other healthcare professionals improve the outcomes for patients living with rare diseases. Our technology platforms are used to support quality management in pathology services and scenario-based training in healthcare related domains to improve patient care, outcomes and organisation efficiencies.
+Certus has several new and exciting projects in rare diseases and pathology management. We are looking for software engineers at all levels to join our team in developing full stack web based and mobile healthcare applications. If you would enjoy working alongside senior scientists and clinicians at the leading edge of the genomics revolution, working with advanced development methodologies and modern software development techniques then contact us.
+We seek both developers with experience and to recruit and train software engineers on graduation. Positions are available in either Certus’ Exeter or Sheffield office.
+The right candidates will possess a technical degree in a software, maths, science or engineering discipline. Our work centres on two primary technologies, these being Java for our back-end systems, and React for the front-end. We seek developers with skill in either or both these technologies. Other desirable skills include Typescript, Next.js, Tailwind and GraphQL
+Working on a variety of projects, the successful candidates will join our development team. Operating within our Scrum method you will contribute to the delivery of high-quality software within a Continuous Delivery framework. On joining the team, you can have immediate impact and contribute across the development stages from requirements engineering, user-story development and interpretation, through use-case and UI design, to documentation, systems configuration and administration.
+Job Type: Full-time, office based (Exeter or Sheffield), hybrid working considered.
+Package:
+
+Salary: £26,000.00-£50,000.00 per year based on experience
+Signing Bonus: up to 10% of salary paid as a lump sum (tax paid) upon successful completion of the probationary period.
+
+Employees can expect to increase your salary depending upon your progress and performance. Salary reviews are undertaken every year, and performance is considered as a part of the company’s Professional Development Programme approximately every 6 months. We include within this offer 22 days holiday each year, plus public holidays, rising by one day with each full year of employment to a maximum of 25 days.
+Job Type: Full-time
+Salary: £26,000.00-£50,000.00 per year
+Ability to commute/relocate to Sheffield or Exeter office
+Applicants need to be authorised to work in the UK, and state if in the future they will require sponsorship for employment visa status.
+Work Location: One location
+If you are excited by this challenging prospect and want to contribute to making a difference in patient and healthcare outcomes, please email a CV and a covering letter that sets out what makes you a suitable candidate. Applications submitted without a covering letter will be rejected.

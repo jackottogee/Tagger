@@ -1,0 +1,31 @@
+
+
+
+Principal Software Developer - Greenfield with Zero Tech Debt 
+Salary: £130-150k + shares package
+ Location: FULLY REMOTE working from home in the UK
+ 
+Opportunity for a Principal Software Developer to join a CleanTech sustainability company on their mission to become the leading sustainable lifestyles platform in the energy industry.
+ I am partnered with a unique energy software platform helping consumers transition towards a sustainable future. Already backed by multiple angel investors, they are now planning to double the value of the business in the next year so are looking for a Principal Software Developer who will act as the catalyst in taking them to the next stage.
+ They are in search of an enthusiastic and knowledgeable Senior Java Developer with a solid comprehension of the Core Java or C principles alongside an advanced understanding of the Computer Science fundamentals, including:
+
+ Interval graphs
+ Graph theory
+ Compiler theory
+ Algorithms
+
+ 
+As a Principal Software Developer you will be in charge of: 
+
+Initial bootstrapping
+ Designing frameworks & architectural style
+ Domain modelling
+ Concepts
+ Requirement engineering
+
+ 
+Alongside a salary of up to £150k and the flexibility of a fully remote role that allows you to work from home, this is the ultimate next step in your career. 
+
+If you are a Principal Software Developer who is looking to guide a team in this revolutionary movement making energy sustainable, apply now! 
+Please note: Due to compliancy reasons, we will only be able to consider applications based in the UK.
+

@@ -1,0 +1,25 @@
+Salary: £25,321 - £27,040 per annum (Scale 6)
+Location: Taunton Campus
+Bridgwater & Taunton College is located in the heart of Somerset, with main centres in Bridgwater, Taunton and Cannington. The College has an excellent reputation both regionally and nationally as a highly successful provide of Education & Training.
+We are looking for an ambitious Junior DevOps Engineer, with software development experience with ideally, a post-graduate degree in Software Engineering (or equivalent), to join our agile software development team. You will be given the opportunity to participate in all aspects of the application lifecycle, including designing specifications, developing prototypes, and deploying business-critical production code in a hybrid-cloud environment.
+You will be contributing towards software solutions that are developed using the latest Microsoft Technologies; serverless functions, MVC, .Net 7 (C#), and Azure SQL, with Azure DevOps used for CI and CD.
+BTC's Digital Development Roadmap outlines our software development timeline and includes a wide range of innovative projects including AI Solutions. We are committed to your professional development and will support you in achieving globally recognised Microsoft Certification. You will also benefit from invaluable mentorship from our experienced DevOps team, allowing you to rapidly enhance your skillset and attain industry-leading development expertise.
+As a Junior DevOps Engineer, you will collaborate closely with the DataOps team to develop business intelligence dashboards that assist the College Management Team and Senior Management Team in making key decisions.
+BTC offer a range of fantastic employee benefits including:
+Generous pension scheme
+Competitive holiday entitlement
+2 week Christmas closure
+Additional holiday purchase scheme
+BTC Extra discount package, this includes top retailers, supermarkets, holidays, entertainment packages and much more…..
+For further information about this role and to view the application pack, please visit
+https://bit.ly/BTC_JuniorDevOps
+Application closing date: Sunday 21 May 2023
+Interview date: Tuesday 6 June 2023
+Job Type: Full-time
+Salary: £25,321.00-£27,040.00 per year
+Benefits:
+
+Free parking
+On-site parking
+
+Work Location: In person

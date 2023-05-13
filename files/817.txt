@@ -1,0 +1,43 @@
+Dimensions is proud to be one of very few social care organisations that are accredited by the Great Places To Work programme 2022. 
+We are looking for an enthusiastic Data Developer to turn data into information, information into insight and insight into business decisions that will deliver Dimensions' strategic objectives and support its business operations. 
+As part of the Data Development Team in the IT Department, the Data Developer will manage, analyse and report on data supporting Dimensions' business operations, decision making and delivery of statutory returns. 
+You will conduct activities across the full data lifecycle covering requirements analysis and design, the development of analysis and reporting capabilities, and continuously monitoring performance and quality to identify improvements. 
+Interviews will take place on the 10th & 11th May via Microsoft teams. 
+
+ About the role 
+
+
+Your main duties will include:
+ Able to interpret data, analyse results using statistical techniques and provide ongoing reports and reporting capabilities. 
+Identify and acquire relevant data from multiple primary or secondary data sources. 
+Filter and 'clean' data to maintain existing quality and its continuous improvement. 
+Experience of extracting cleansing and transforming data. 
+About you 
+
+
+The successful applicant will have:
+ Able to demonstrable experience of working with and querying databases with T-SQL. 
+Substantial experience of working with Excel using advanced formulas, pivot tables and charts. 
+Able to demonstrate experience as a Data Developer or similar, dealing with large datasets 
+An excellent understanding of data security (GDPR). 
+The rewards 
+
+ Up to 35 days' annual leave entitlement (including bank holidays) 
+Staff discount shopping scheme 'Rewarding Dimensions' 
+We offer a salary advance scheme where you can access up to 50% of the money you've earned before payday. 
+Employee Assistance Programme 
+Pension scheme 
+Long Service Awards 
+Qualification scheme 
+Employee recognition scheme 'Inspiring People' 
+Discounted health and dental cover 
+Life Assurance 
+Bike to Work Scheme 
+Season Ticket Loan 
+For more information visit www.dimensions-uk.org/careers 
+Apply now 
+
+ We welcome applications from everyone who has the right to work in the UK, and value diversity in our workforce 
+As Disability Confident Leaders , we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy - Dimensions has been awarded this symbol by Jobcentre Plus to recognise our commitment towards the employment, retention, training and career development of disabled employees 
+As part of our commitment to making reasonable adjustments we can offer support to complete your application. Please contact the Resourcing Consultant Team on 03003039150. 
+We now have British Sign Language (BSL) translated videos for all of our recruitment communications.

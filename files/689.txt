@@ -1,0 +1,70 @@
+
+ Overview: 
+ 
+ Are you someone who sees the whole picture...and can you build it?
+
+
+
+ Our FFW team is looking for a Front-end developer to join our growing team. FFW is a digital agency built on technology, driven by data, and focused on user experience. The world’s largest brands have relied on us for 15+ years to build accessible, creative and user-friendly digital solutions that deliver great results. We bring together more than 600 people working across over 19 offices in 11 countries, to form a team who can provide awesome web-based solutions.
+  Responsibilities: 
+ 
+ What awaits you:
+
+
+
+ Be part of a development team that delivers projects for different businesses and markets (Fortune 500 companies, NGOs, different institutions).
+ Build custom components and libraries.
+ Use and extend already developed React.js applications.
+ Provide technical solutions and bring your ideas to the table.
+ Be an active part within the entire development process by participating in the planning and estimate of the development activities.
+ Working with Git version control system following the Git Flow workflow
+ Technologies and techniques to optimize the application performance.
+ Communicating with development team members in a professional and well-mannered way
+ Qualifications: 
+ 
+ What you bring:
+
+
+ Proven experience with hands-on development of commercial projects
+ Solid knowledge of JavaScript and TypeScript
+ Strong experience with React.js
+ HTML5, CSS3 and SASS
+ Solid understanding of Git and CI
+ Verbal and written communication with international colleagues in English is required for this role.
+ Ability to both collaborate with team members and to work independently.
+
+
+ As a plus:
+
+
+ Experience developing PWAs
+ Unit and integration tests knowledge
+ Experience with back-end languages / frameworks or desire to learn full stack development.
+
+ 
+ What we have for you:
+
+ Open working atmosphere and friendly colleagues in an established international web agency
+ Exciting projects with renowned international partners
+ Short decision-making paths and the opportunity to help shape our structures and processes.
+ An unlimited, full-time, permanent position, with a flexible work location policy
+ 25 days paid vacation per year
+ Development programs and trainings
+ Multisport card
+ Option for 100% remote working
+
+
+
+ You can expect our recruitment process to be something like this:
+
+
+ “Get to know you” chat with a member of our Talent Team
+ Video call to get into your world.
+ Final panel chat with our Program Leadership and HR
+ And finally, an offer!
+
+
+
+ FFW is an equal opportunity employer that is committed to diversity and inclusion in the workplace. All qualified applications will be considered without regard to race, color, national origin, religion, sexual orientation, gender, gender identity, age, disability, length of unemployment or any other protected characteristic as outlined by federal, state, or local laws. Apply today, we look forward to meeting you!
+
+

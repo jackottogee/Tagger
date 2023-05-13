@@ -1,0 +1,119 @@
+
+
+  About NCR
+ 
+
+   NCR Corporation (NYSE: NCR) is a leader in transforming, connecting and running technology platforms for self-directed banking, stores and restaurants. NCR is headquartered in Atlanta, Ga., with 38,000 employees globally. NCR is a trademark of NCR Corporation in the United States and other countries.
+ 
+
+
+   NCR – Software Developer
+ 
+
+
+   Our team began as Zynstra, a successful innovative start-up based in Bath. Acquisition by NCR in 2020 resulted in a company with a start-up culture backed by a world class enterprise. We develop Edge Virtualization and Containerisation infrastructure for large retailers using cutting-edge Linux technologies.
+ 
+
+
+   Zynstra take our employees productivity seriously providing top of the range i7 laptops.
+ 
+
+
+   Zynstra offices are positioned in a central Bath location very close to the railway and bus stations.
+ 
+
+
+   Be part of an exciting team packed with graduate talent and seasoned professionals.
+ 
+
+
+   Role Description
+ 
+
+   Developer within a Zynstra SCRUM team. In this role you will take on development tasks within the team, collaborate with other developers and perform code review. You will be assigned stories from the backlog, work on development and automated testing as well as liaising with QA and internal stakeholders to ensure the right solution and quality.
+ 
+
+
+   Required Skills
+ 
+
+ Strong development skills – clean code / agile / SOLID principles
+ Working knowledge of Python or Go
+ Working knowledge of Linux OS
+ GIT source management system
+ Exposure to cloud computing, ideally AWS or GCP
+
+
+
+   Desirable Skills
+ 
+
+ Extended Linux knowledge (Bash, networking, installation, boot process, building / configuring the kernel / kernel modules)
+ Experience of containerisation and building production systems on Kubernetes
+ Virtualization (XEN, QEMU, libvirt, KVM)
+
+
+
+   Department Working Arrangements
+ 
+
+
+   The job will be based primarily in Zynstra’s offices in Bath with a minimum of 1 day per week in the office and the remainder from home. Employees are required to live within commutable distance of the office as although unlikely this arrangement could change (backed by an Employee Engagement process). Working from home is a benefit for employees who are performing to a satisfactory level. Certain roles may require access to labs and thus extra days in the office, this will be discussed in the interview. Working hours are 7.5 hours per day, Monday to Friday, plus a lunch break. Start and end times are flexible whilst adhering to core hours of 9:30 till 16:00. The candidate should be flexible in terms of occasional work outside of regular office hours and on weekends. Business travel opportunities will be rare.
+ 
+
+
+   Company Benefits
+ 
+
+
+ Annual target bonus
+ PENSION – first class contributions:
+   
+ 3% employee contribution attracts an additional 6% from the company
+ 4% attracts additional 7%
+ >=5% attracts additional 8% from the company (this is to be stressed!)
+
+ EMPLOYEE STOCK PURCHASE PLAN
+   
+ NCR stock up to 10% of monthly salary can be bought at a 15% discount
+ The price paid for shares is the lower of the stock price at the start and end of each quarter
+
+ HOLIDAY
+   
+ 24 days plus bank holidays
+ Employees may purchase up to 5 more days extra leave per year
+
+ TRAINING
+   
+ Full access to Pluralsight provides employees world class technical and soft-skills training material. Other training provided on a needs basis.
+
+ Further benefits that you typically need to pay for or contribute towards to get more than the default:
+   
+ MEDICAL INSURANCE (company contributes 50% of your cover)
+ DENTAL INSURANCE
+ GROUP LIFE ASSURANCE
+ TOP UP LIFE
+ GROUP INCOME PROTECTION
+ CRITICAL ILLNESS
+ PERSONAL ACCIDENT
+ CASH PLAN
+ CHILDCARE VOUCHERS
+ HEALTH ASSESSMENT
+ HOLIDAY BUY
+ CYCLE TO WORK
+ LIFESTYLE DISCOUNTS
+ MY GYM DISCOUNTS
+
+
+
+   Offers of employment are conditional upon passage of screening criteria applicable to the job.
+ 
+
+
+   EEO Statement
+   Integrated into our shared values is NCR's commitment to diversity and equal employment opportunity. All qualified applicants will receive consideration for employment without regard to sex, age, race, color, creed, religion, national origin, disability, sexual orientation, gender identity, veteran status, military service, genetic information, or any other characteristic or conduct protected by law. NCR is committed to being a globally inclusive company where all people are treated fairly, recognized for their individuality, promoted based on performance and encouraged to strive to reach their full potential. We believe in understanding and respecting differences among all people. Every individual at NCR has an ongoing responsibility to respect and support a globally diverse environment.
+ 
+
+ Statement to Third Party Agencies
+   To ALL recruitment agencies: NCR only accepts resumes from agencies on the NCR preferred supplier list. Please do not forward resumes to our applicant tracking system, NCR employees, or any NCR facility. NCR is not responsible for any fees or charges associated with unsolicited resumes.
+ 

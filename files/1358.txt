@@ -1,0 +1,13 @@
+
+Are you looking for a company that works with large datasets? Want to be a part of the growth of a company? If you have said yes to this then it may be for you.
+My client is currently looking to expand their company as they have entered the market and growing at a fast rate working with clients across Europe. They are working within the analytics space using the latest tech and working towards helping businesses make better decisions.
+You will be a part of a small team and provided a huge potential to grow your career as the company continues to expand. They are currently offering flexibility with working and have their office based in Lincoln.
+ You will be working as a fullstack software engineer using Python and React to help develop new products as well as maintain and update existing ones. You will have a chance to take on the full lifecycle of development and work with others within the company in order to meet the needs.
+Other stacks that you may be using will include Django, Postgres, Typescript, Mapbox-GL, and GraphQL.
+They are looking for an individual to be a part of the early IT team to help build new products and assist with maintaining current products. This is an opportunity for you to be a part of the growth and work with datasets.
+ Essential Skills
+
+Experience in using Python and React
+Experience with any cloud technologies including AWS, Azure, and Google Cloud
+Beneficial to working within data science or big data environments
+Job Owner: a.chan (31867)

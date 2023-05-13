@@ -1,0 +1,28 @@
+
+
+  The Oxford Research Software Engineering Group (OxRSE - www.rse.ox.ac.uk ) is looking to recruit multiple Research Software Engineers (RSE) to join our team. We work with other research groups across the University of Oxford to create, improve and maintain software used for scientific research and translational projects, as well as providing consulting and training to other researchers on best practices in software development and reproducible research.
+ 
+
+
+  This is an exciting opportunity to join a growing team and work as an RSE on a diverse selection of world-leading and impactful projects. Some of our past /current projects include Global.health ( https://global.health): an improved, scalable platform for disease tracking created by an international team of researchers from leading institutions such as Oxford, Harvard and the Boston Children’s hospital; PyBaMM ( www.pybamm.org), a NUMFOCUS sponsored library for solving PDE models of batteries; and LanguageScreen ( languagescreen.com) a key tool for the Nuffield Early Language Intervention (NELI) programme and part of the COVID-19 catch up package offered by the Department for Education to primary schools in England.
+ 
+
+
+  We offer RSEs the potential to advance their career and to make a significant contribution to the development of good software practices at a world-leading university. You will work on a variety of world-class research projects across the University of Oxford, deliver workshops and training in software development best practices, and further develop your own technical and research skills as well as those outside of software development, such as project management and consultancy.
+ 
+
+
+  We are looking for candidates who hold a doctoral degree (or are close to completion, i.e., thesis submitted) with a significant software development component. We will also consider candidates without a doctoral degree but with equivalent experience of software development in a research environment. You must be able to collaborate effectively with other researchers to design and implement reliable and maintainable software solutions to scientific questions and must be able to rapidly acquire skills in new programming languages, libraries and technologies. Any prior experience working with frontend/backend web development, machine learning, or high performance computing would be desirable, as would any experience designing or delivering training courses.
+ 
+
+
+  This post is offered as an open-ended position subject to external funding. It is full time, but flexible options will be considered (e.g. part-time, job share).
+ 
+
+
+  Applications for this vacancy are to be made online and you are asked to upload a supporting statement and CV as part of your online application. Your supporting statement must explain how you meet each of the selection criteria for the post using examples of your skills and experience.
+ 
+
+
+The closing date for applications is 12 noon on 19th May 2023.
+

@@ -1,0 +1,40 @@
+About Proximity:
+Proximity is an innovative company developing, maintaining and supporting high performance software solutions in the logistics, warehousing, retail, finance and manufacturing sectors (to name but a few), working for a range of companies including some of the leading global logistics businesses. Due to continued growth, we are now looking to recruit RPG Software Developers for IBM i / AS400 / iSeries.
+Specialists in application development, maintenance and support on the IBM i (AS400 / iSeries / System i) platform, Proximity undertake projects in RPG, Cobol, Synon, Java and PHP developing mobile apps and undertaking analysis, consultancy, development and modernisation projects.
+Proximity is based in Leeds, West Yorkshire and offer excellent working conditions in a challenging but supportive environment.
+We are also the designer and developer ofStream, a multi-award winning cloud-based delivery and transport management software solution.
+About our RPG Software Developer role:
+An exciting opportunity for an experienced RPG developer looking for new opportunities.
+The role can be either Leeds, Home-based or Hybrid.
+The main focus of the role will be on software development, support, analysis and testing on the IBM i / AS400 / iSeries platform in RPG.
+Experience:
+Knowledge and experience of RPG development on the IBM i (AS400 / iSeries) platform is required. Additional knowledge and experience related any of the following areas would be useful:
+
+Synon
+Cobol
+Programming
+Java
+PHP
+HTML, CSS, JAVASCRIPT
+SQL
+Analysis and specification
+Database design and development
+Testing
+Technical support
+Customer support.
+
+Job Type: Full-time or Part-time
+Salary: £20,000 to £45,000 per year
+Please note: strictly no agencies. Candidates must be eligible to work in the UK.
+Job Type: Full-time
+Salary: £20,000.00-£40,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+RPG Development: 2 years (required)
+AS400: 2 years (required)
+
+Work Location: Hybrid remote in LEEDS

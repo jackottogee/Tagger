@@ -1,0 +1,38 @@
+
+
+  Come and change the world of AI with the Kumo team!
+ 
+
+
+ Companies spend millions of dollars each year to store terabytes (and increasingly more!) of enterprise data. However, although they are able to use this data effectively for historic analytics today, they’re typically only able to leverage a fraction of it for predictive tasks, because of how difficult and time-consuming it is to set up production ML workflows. At Kumo, we are building the first data platform to seamlessly allow machine learning over data warehouses for faster, simpler, and smarter predictions. Query the future with Kumo.
+ 
+
+
+ You will be working with many datasets from real-world applications and applying state-of-the-art machine learning techniques developed in Kumo to directly impact a customer’s business needs. This will require using your ML and AI knowledge to solve critical and challenging problems to better serve our customers. You will drive the changes in the core algorithm and infrastructure based on the findings of the engagement to make the platform easier to use and to scale automatically modeling problems and datasets. 
+ 
+Your Foundation:
+
+ You want to solve real-world problems and get things done.
+ Must have: Python, and PyTorch, working with enterprise SaaS products
+ You are able to abstract the patterns from many specific examples and understand how we need to evolve the platform to avoid the same issues slowing us down repeatedly. 
+Bachelor’s degree in Computer Science or related technical field or equivalent technical experience
+ Must have 3+ years of experience programming in OOP languages like Python, or C++
+ 4+ years experience in designing ML algorithm solutions, specifically on search and recommender systems, for user-facing products
+
+ Your Extra Special Sauce:
+
+ Ph.D. Degree in Computer Science or Machine Learning or related technical discipline, or related practical experience.
+ Ideal candidate is a top contributor to PyTorch OSS, with experience in Graph Neural Networks(GNNs)
+ Experience developing large-scale systems
+ Ability to diagnose technical problems, debug code, and automate routine tasks
+ Analytical approach coupled with solid communication skills and a sense of ownership
+
+ Benefits
+
+ Stock
+ Competitive Salaries
+ Medical, dental insurance
+
+
+   We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+ 

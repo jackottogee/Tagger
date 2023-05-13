@@ -1,0 +1,17 @@
+
+The Company
+If you are a talented developer, with an entrepreneurial flair and hunger to lead, here is a chance to become a director of a technology start-up within a few years.
+An incredibly unique opportunity for a full stack software engineer to join shape the future of digital products. This company is within the digital lottery sector and is backed by an investment firm with an incredibly strong track record of success in building these business. The goal of this business is to become the leader in the Czech market within a few years.
+The Role
+In this role, you'll be working directly with the co-founder to shape and deliver new digital lottery products tailored for the Czech market.
+Help shape solutions and take on board technical challenges working on greenfield projects building new solutions on top of our core platform. In the medium term, you can also be a key player in shaping the broader company, it's culture, and the team that is built around you.
+Requirements
+
+Java
+JavaScript
+
+Desirable
+
+React.js
+Node.
+Job Owner: d.avery (26951)

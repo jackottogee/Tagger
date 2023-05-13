@@ -1,0 +1,75 @@
+
+ Local Unit & Position Description: 
+  Do you have a passion for environmental issues? Would you like to get involved in supporting the energy industry transition and decarbonise?
+
+ The Performance Solutions Team develop and custom desktop, web and cloud-based software applications and deliver associated consultancy services to our customers, primarily in the UK Energy Industry. We are looking for an enthusiastic and motivated Oracle APEX Developer with a passion for development and problem-solving to join our team as a hybrid worker from our Loughborough office.
+ 
+Your main responsibilities will be support to:
+
+ Develop, maintain and enhance bespoke solutions using PL/SQL and the Oracle Application Express (APEX) development platform
+ Work on and lead software development projects to deliver bespoke software, consultancy and associated services to customers within the agreed time, costs and quality standards
+ Participate in and support all phases of bespoke software projects including: gathering and clarification of requirements, production of technical specifications, software design, implementation, deployment, support of UAT, training, documentation, support and progress reporting
+ Participate in both client and internal meetings
+ Provide customer support in line with service level agreements
+ Identify and help implement improved ways of working to drive efficiencies and improve standards.
+ For solutions which have extended support hours, participate in a rota to provide on-call technical support in an out of hours capacity, including evenings, weekends and 24/7 cover.
+ Position Qualifications: 
+  To qualify for this position, we need you to have:
+
+ A keen eye for detail and good problem-solving skills
+ The desire to build market leading solutions using the Oracle Application Express (APEX) development platform
+ Demonstrable recent experience of having worked with Oracle Application Express and PL/SQL to build custom applications
+ At least a Bachelor's Degree (or equivalent) in relevant discipline
+ A full UK Drivers Licence.
+
+ Personal Qualifications:
+
+ Strong problem solving and analytical skills; demonstrated ability to bring high level, complex client issues to resolution
+ Proven ability to act as a product functional and technical expert
+ Works efficiently and effectively in a pressurised environment, making decisions as appropriate to solve an issue
+ Excellent communication and relationship management skills at all levels within the business
+ Ability to contribute effectively towards the objectives of a team, sharing knowledge, ideas, and information.
+
+ Additional skills, tools and languages beneficial to the role:
+
+ Experience and/or knowledge of the following: 
+
+PL/SQL Developer
+ Oracle ADB
+ Oracle OCI
+ Database Design
+ Oracle SQL Data Modeller
+ REST API
+ PostMan API
+ Microsoft Azure
+ Microsoft DevOps.
+
+
+ OUR OFFER
+
+ There are plenty of opportunities for personal growth through our 70-20-10 philosophy (70% learning on the job, 20% coaching and 10% training) and an individual career development plan.
+
+ The position is rewarded appropriately, including benefits such as:
+
+ A permanent contract
+ Lifestyle benefits (26 days of annual leave + opportunity for up to 10 days unpaid leave, sabbatical leave, flexible working options)
+ Wellbeing benefits (inc Private Medical and Dental Insurance, Health Assessments, Gym allowance and free fruit)
+ Pension Scheme: employer-matched pension contributions (employer contribution - up to 9%)
+ Travel benefits (inc Season Ticket Loan and Cycle to Work Scheme)
+ Life Assurance and Group Income Protection benefits
+ Electric Vehicle Salary Sacrifice Scheme (for personal use)
+ Re-imbursement of relevant Professional Membership Fees (up to £500)
+ Access to employee retail discount site for high street and on-line shopping
+ Company contribution towards; eye tests and glasses (for computer/ laptop users), and Flu Vaccination
+ Employee Assistance Programme (EAP) – providing free and confidential support for issues including work, family, relationships, money and health.
+ Company & Business Area Description: 
+ 
+   DNV is the independent expert in assurance and risk management, operating in more than 100 countries. Through our broad experience and deep expertise we advance safety and sustainable performance, set industry benchmarks, and inspire and invent solutions.
+ 
+
+
+ We are a world-leading provider of digital solutions and software applications with focus on the energy, maritime and healthcare markets. Our solutions are used worldwide to manage risk and performance for wind turbines, electric grids, pipelines, processing plants, offshore structures, ships, and more. Supported by our domain knowledge and Veracity assurance platform, we enable companies to digitize and manage business critical activities in a sustainable, cost-efficient, safe and secure way.
+  Equal Opportunity Statement: 
+ 
+   DNV is an Equal Opportunity Employer and gives consideration for employment to qualified applicants without regard to gender, religion, race, national or ethnic origin, cultural background, social group, disability, sexual orientation, gender identity, marital status, age or political opinion. Diversity is fundamental to our culture and we invite you to be part of this diversity!
+ 

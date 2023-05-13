@@ -1,0 +1,63 @@
+About BigSis
+BigSis (http://bigsis.tech), a UK start-up, is applying robotics and artificial intelligence to transform the production of sterile male insects, which are used for chemical-free control of pest insects. BigSis has developed a pilot automated production line and is now focused on scaling this from thousands to millions of insects per week in preparation for the 2023 crop growing season.
+Purpose and responsibilities
+The Mechatronic Engineer will join a small but fast-growing team and make an important contribution to the development of BigSis automated production systems. Whether taking the lead on a specific component, contributing to a larger project or troubleshooting an existing system, the work will be varied and provide significant scope for personal growth.
+This challenging hands-on role combines designing unique components – principally the means for handling and processing individual insect containers – and integrating them mechanically and electronically with the rest of the processing module.
+Given the time pressures of a start-up, the chosen person must be able to deliver ‘good enough’ operational solutions as a priority and then work to refine the system.
+Qualifications and experience
+Essential - for entry level role
+
+2:1 degree in a relevant engineering discipline
+Hands-on experience designing and implementing functional mechanisms and electronic controls using rapid prototyping
+Solution orientated with an ability to think outside the box
+
+Desirable experience
+
+At least 3 years’ in a relevant commercial or consulting role
+General understanding and hands on experience with workshop equipment
+Completed projects using rapid prototyping technologies such as 3D printing
+Design of low power automated systems and/or equipment, e.g. animatronics, vending machines or kitchen appliances
+Python/C++ coding and previous use of microcontrollers/IDEs, e.g. Raspberry Pi
+Project management skills or certification
+Design and assembly of electronic circuits, electrical panels and/or PCBs
+Experience working with stepper motors, servo motors, automatic material handling systems
+Work in an environment with hygiene and/or regulatory requirements, such as the food, cosmetics or medical sectors
+Competent with SolidWorks software
+
+Personal attributes
+To thrive in the unstructured and fast-changing environment of a start-up, important personal qualities are:
+
+energy, ambition and commitment to ensure the job gets done
+honesty, integrity and openness to ensure we build a great company culture
+flexibility to changes in priorities and adaptability to new ideas
+
+You need to be comfortable working with live insects, including spending time in the hot and humid insect storage/growth area. Insects and their growth cells are very small, so you need good fine work skills.
+Application process
+We regret that we cannot accept applications from individuals who do not already have the right to work in the UK.
+To be considered for this role, please send a CV and cover letter explaining why you think you are the right person for this job. Please include information about your education, work experience and current salary.
+BigSis is an equal opportunities employer. Applicants will be considered without attention to age, sex, race, disability, pregnancy, marital status, sexual orientation, gender reassignment and religious background.
+Job Types: Full-time, Permanent
+Salary: £25,000.00-£40,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Reading, RG30 1DZ: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (required)
+
+Experience:
+
+CAD/3D printing: 1 year (preferred)
+CAM/CNC: 1 year (preferred)
+Microelectronics/embedded controller: 1 year (preferred)
+PCB/circuit design: 1 year (preferred)
+mechatronics design: 2 years (preferred)
+
+Work authorisation:
+
+United Kingdom (required)

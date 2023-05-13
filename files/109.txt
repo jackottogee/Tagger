@@ -1,0 +1,60 @@
+
+Today, more people die from suicide than from war, terrorism and crime combined.
+ This position is for you if you:
+
+ have a passion for Python backend development and love to code.
+want to bring a new treatment to the world for a disease that affects 300M people worldwide.
+want to work in the intersection of IT, medtech, digital health, hardware, and psychology.
+have a strong passion and integrity in what you do and wanna challenge the way we treat mental health problems today.
+believe beautiful APIs improve your mental health :)
+
+
+ As a backend developer, you will be responsible for architecting and developing our backend services in Python (Django). You will work closely together with our app developers and commercial team to improve the Flow treatment and user experience.
+ Some areas/problems you will be working on:
+
+ Improve and extend our APIs serving our front-end applications.
+Build integrations with 3rd party services for analytics, payments, etc.
+Data visualization and analysis, creating dashboards, etc, to monitor our KPIs
+Improve upon our overall backend architecture.
+
+ We are interested in applications from developers with a few years or more experience. Any of these skills and experiences are a bonus:
+
+ Backend in Django/Python and PostgreSQL.
+DevOps, Continuous integration
+System architecture, microarchitectures, serverless, and message queues
+Experience working with Heroku, AWS and/or Google Cloud
+Data science, Machine learning and NLP 
+JS web frontend development 
+Used to test-driven development
+Your own drive is often larger than what other people expect from you
+
+ If you have a good profile and are passionate about how to tackle mental health issues with tech we can offer you:
+
+ Extremely committed co-workers.
+A very rewarding challenge to work on - how to improve the mental health of millions using tech?
+Flexible work hours and location
+Learn about the latest research in psychology, neuroscience and brain stimulation.
+A competitive salary that will grow with the success of the company.
+
+
+ Desired personal qualities:
+
+ Creative
+Integrity
+Intellectual breadth
+Ability to admit when wrong
+Ability to work in a diverse team
+Sense of humour
+Emotional openness
+
+ The position is based in Malmö, Sweden, or London UK, remote work is possible.
+
+ Online:
+ https://flowneuroscience.com
+ Media coverage:
+ BBC: https://www.youtube.com/watch?v=OITljm4RjZ8
+ The Times: https://www.thetimes.co.uk/article/could-this-headset-stop-me-needing-antidepressants-58w7908qb
+ New Scientist: https://www.newscientist.com/article/2221743-europes-first-home-brain-zap-device-for-depression-laun...
+ Questions:
+ careers@flowneuroscience.com
+

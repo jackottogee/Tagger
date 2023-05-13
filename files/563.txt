@@ -1,0 +1,62 @@
+
+Datavant is a rapidly growing health technology company with a mission to connect the world's health data. By eliminating health data silos, we unlock opportunities to accelerate clinical data exchange, medical research; helping organisations design better ways to facilitate access, affordability, and quality of care leading to better patient outcomes. Datavant is already the USA's largest neutral and secure health data ecosystem, and now we've expanded to the UK!
+ As we grow this budding team, of course, we're looking for the obvious: bright; problem-solving; collaborative; passionate; get-things-done people that want to work in a rapidly scaling company. We genuinely work as a fully remote UK startup; funded, supported, and collaborating with our US colleagues. Feel free to ask us about this! As Full Stack Software Engineer, you'll specifically join the Convenet arm of Datavant.
+ Convenet provides an API SaaS platform that enables products across the entire healthcare ecosystem by aggregating many NHS services, empowering pharmacies; care homes and clinical apps supporting patients with different conditions. As part of our team you'll be enabling patients to send clinical data back to their record and improve timely hospital discharges too. This is fundamentally an identified data exchange platform.
+ Convenet is the backbone to Datavant's tokenisation engine for the UK! You'll be instrumental in building the UK specific tokenisation service to handle nuances between US & British health data whilst abiding by applicable regulations thereby ensuring patient data can be transferred in a neutral, de-identified and secure manner; working towards product parity with the US. Our tokenisation service supports medical research; healthcare access assessment and informing population level affordability, thus the impact of your input cannot be underestimated. Check out our Medium post here for lots more information on what we're building.
+ Whilst our UK footprint is currently small, as a software engineer you will get hands-on from day one, working in a truly agile environment in a fully remote team with all the support and structure of a proven, profitable, industry-leading international team to deliver new products at pace, whilst maintaining enterprise grade quality. As an early Software Engineer at Datavant you will absolutely propel your career to higher levels as a critical member of our rapidly growing team.
+ Our tech-stack and your impact:
+
+Python; C#; TypeScript; JavaScript & React within a serverless AWS environment
+Significantly influence roadmap prioritisation and infrastructure makeup
+Work on all areas of our tech-stack and be empowered to work on new technologies; experiment; learn new skills and grow as a Software Engineer
+Update features, participate in building and deploying applications and scaling our industry leading solutions for our clients
+
+What we need from you:
+
+Proficient in writing scalable, production-ready code within our tech-stack and competence in navigating AWS
+Experience in working to CI/CD best practices
+Excellent communication skills and team-orientation
+Experience building & shipping applications; updating and maintaining products
+Excitement for working in a rapidly growing, agile company and able to juggle many projects and responsibilities
+Bonus Points for experience in healthcare or any other regulated environment providing appreciation for regulatory compliance and data integrity
+
+Datavant perks:
+
+Competitive salary (*please see below) plus ownership in the company via RSUs
+33 days annual leave which includes bank holidays (taken whenever) but also a full week off between Christmas and New Year
+Private medical insurance and an enhanced well-being package with dedicated team support: from monthly cost of living help to virtual yoga and digital well-being services
+Merit-based awards based on performance and Datavant swag
+Opportunities to work with colleagues across the company during UK & US-based offsites
+
+We asked ChatGPT: "Write a haiku about being a Software Engineer at Datavant":
+ ChatGPT replied:
+ "Code flows through my veins
+ Creating solutions that change
+ At Datavant, I thrive"
+
+
+
+
+
+
+
+
+
+          We are committed to building a diverse team of Datavanters where every Datavanter is empowered to bring their authentic self to their work. We are all responsible for stewarding a high-performance culture in which all Datavanters belong and thrive. We are proud to be an Equal Employment Opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.
+         
+
+
+
+
+
+
+
+
+Our compensation philosophy is to be externally competitive, internally fair, and not win or lose on compensation. Salary ranges are developed with the support of benchmarks and industry best practices.
+ We're building a high-growth, high-autonomy culture. We rely less on job titles and more on cultivating an environment where anyone can contribute, the best ideas win, and personal growth is driven by expanding impact and less by title. This means we default to simple job titles (e.g., Software Engineer) rather than complex ones (e.g., Senior Software Engineer). The range posted is for a given job title, which can include multiple levels. Individual rates for the same job title may differ based on their level, responsibilities, skills, and experience for a specific job. The estimated salary range for this role is £40,000 - £145,000.
+ At the end of this application, you will find a set of voluntary demographic questions. If you choose to respond, your responses will be used to help us identify areas of improvement in our recruitment process. We can only see aggregate responses and are unable to view individual responses. In fact, we aren't even able to see if you've responded or not! Responding is your choice and it will not be used in any way in our hiring process.
+
+
+
+
+#LI-DNI

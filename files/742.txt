@@ -1,0 +1,38 @@
+Do you want to help empower leading precision medicine programs? Are you an expert with Python looking to make an impact at a growing organisation and help save lives?
+Our client, who are a genomics data analytics company, are hiring for a variety of levels of Python engineers. Whether you are a senior level coder who wants to continue to sharpen their coding abilities or an engineer looking to make architectural decisions/lead a team, we have a position for you. You will be working on scalable software to help keep pace with a rapidly evolving industry.
+You will need to be an expert in Python and have a great understanding of public clouds and Kubernetes. As a recognised leader in the genomic analysis of rare diseases and inherited cancers, this a real opportunity to not only work with top quality engineers, but to make a difference in the world! We have three different roles available, Senior Engineer, Principal Engineer and Tech Lead depending on where you are in your career and what you enjoy doing.
+Required skills/experience:
+
+High level Python programming.
+Public cloud experience (ideally AWS).
+A good understanding of Kubernetes.
+
+Role responsibilities:
+
+Senior Engineer: Hands on Python coding working around APIs.
+Principal Engineer: Operate at an architectural level working on system design with the Head of Architecture.
+Tech Lead: Blend of hands on coding, mentorship and focusing around delivery.
+
+These are hybrid positions with an expectation to visit the Cambridge office once per month. Other benefits include a substantial bonus, competitive salary of up to £100,000, private healthcare and flexible working.
+Python / AWS / Kubernetes / Data / Genomics / Hybrid / Cambridge / Senior / Principal / Tech Lead
+Franklin Bates is a leading IT recruitment consultancy specialising in Software Development, Cloud, & Data. We provide high quality contract, interim and permanent IT professionals to a broad range of technology companies within the UK.
+Job Types: Full-time, Permanent
+Salary: £80,000.00-£100,000.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Private medical insurance
+Sick pay
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: Hybrid remote in CambridgeFlexitime

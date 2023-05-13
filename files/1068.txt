@@ -1,0 +1,28 @@
+6 Month Contract
+£650 per day DOE
+Proven and in-depth IRIS/Caché Object Script Development experience.
+Role Description Skills:IRIS Object Script Developer An Intersystems IRIS/Caché Object Script developer is required to implement new functionality to the client's system. This includes creation of export CSV files for ETL updates of a Data Processing System and writing a new TCP message request interface incorporating TLS encryption.
+.
+MUST HAVE Skills: 
+ Proven and in-depth IRIS/Caché Object Script Development experience.
+ Experience of TCP connectivity and TLS encryption.
+ Good communication skills.
+ Ability to write unit test scripts and to perform exhaustive unit testing.
+ Proven ability of team working and producing results in line with expectations and needs
+Desirable Skills:
+ Experience of working within a Microsoft Cloud environment.
+ NBSS Application Knowledge.
+Job Type: Temporary contractContract length: 6 months
+Salary: £600.00-£650.00 per day
+Benefits:
+
+Casual dress
+On-site parking
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote
+Reference ID: c03471

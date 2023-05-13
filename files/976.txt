@@ -1,0 +1,67 @@
+
+
+Job Title: Graduate Developer Working Hours: 40 hours per week Location: Ringwood/Newport, Wales
+ Company Profile:
+ Smarter Technologies’ ability to flex and deliver small bespoke solutions and major transformation programmes is built on a model where the client’s needs and goals are prioritised over everything else.
+ Currently undergoing a period of rapid growth through word of mouth recommendations Smarter Technologies associates are right now helping senior leaders across Government plan and deliver some of the most exciting and truly transformational programmes required to modernise public services.
+ Calling all Graduates! We understand that you are graduates, and will not have unfair expectations of your experience. Part of the role will include training and personal growth for applicants. The below outlines the role as will be fulfilled over time; not necessarily rise to immediately. If you feel you would be well suited, but are worried about experience, please apply!
+ Purpose:
+ The Graduate Developer will join a dynamic development team working on a range of exciting projects using cutting-edge technologies. The intention is to expand the business over the next 2-3 years. Activities will include building out the next generation of highly-scalable, reusable and performant distributed services and applications for Smarter Technologies’ extensive and diverse range of customers and clients. The successful candidate will need to hit the ground running, with a proven track record in software development of enterprise-class solutions that consistently exceed customer expectations.
+ Key Responsibilities:
+
+Designing, building, testing and maintaining efficient, reusable and reliable unit-tested code.
+ Implementing solutions using a range of languages and technologies.
+ Assisting with understanding customer requirements, technical design and estimation.
+ Ensuring our architecture is fit to meet the needs of the business: fast, scalable, reliable and expandable.
+ Taking personal responsibility for ensuring all code that goes to production is of top quality and meets customer requirements and needs.
+ Ensuring new and existing applications are scaled to meet expected demand.
+ Continuously improving the software infrastructure, such as the deployment process.
+ Undertaking code reviews, providing constructive feedback and advising on best practice and coding standards.
+ The post holder is responsible for maintaining a safe working environment and ensure as reasonably practicable that safe working practices are adopted by employees within this work environment
+
+Essential Requirements, Qualifications, Skills and Abilities:
+Education and training
+
+Educated to degree level, or equivalent, preferably in subjects related to Information Technology.
+
+Specific job skills and experience that will be developed on the job:
+
+Delivering solutions using Agile methods (Scrum, XP, etc), utilising Test-Driven Development, code refactoring, with a strong awareness of the principles of creating ‘clean code’.
+ Developing and delivering software for commercial and public sector organisations, with a logical approach to problem solving.
+ Using automated unit testing tools.
+ Middleware technologies, message queues, message brokers and stream processing technologies (e.g. Apache Kafka).
+ Designing and developing RESTful APIs.
+ Cloud-computing platforms and services (ideally Azure).
+ Relational and NoSQL database design and strong SQL skills, as well as an awareness of Object Relational Mapping technologies.
+ Using source control tools such as Git, and software build tools such as Maven / Gradle.
+
+The following technologies:
+
+C# / .NET Framework, ASP.NET Core
+ Typescript, Angular, React, Node.js, JavaScript ES6
+ Ionic Framework, React Native, Flutter, Android / iOS Mobile Development
+ Microsoft Power Platform – Power Apps, Power BI, Power Automate
+ HTML5, CSS
+ Cloud computing, serverless functions, preferably Azure.
+ MS SQL Server, Cosmos DB, other relational / NoSQL databases.
+ Python, Java
+ Microsoft Dynamics and SharePoint
+
+Personal attributes and competencies
+
+Passionate about software development, and producing high quality, innovative code and solutions.
+ A quick learning capability, easily picking up new technical concepts.
+ Ability to spot trends in the market and implement most efficient technologies.
+ A can-do, self-motivated attitude, with a strong attention to detail.
+ The ability to work on multiple concurrent projects and priorities.
+ Excellent communication and interpersonal skills, plus a relentless ability to come up with different ideas and initiatives that will help the business to achieve its objectives
+
+Desirable Requirements Qualifications, Skills and Abilities:
+
+A great sense of humour.
+ A good understanding of working with a public sector organisation.
+ Exposure to Docker, Kubernetes and containerised deployment.
+ Experience of Azure DevOps.
+
+ To apply, please send your CV and a letter of motivation to: vacancies@smartertechnologies.com
+Leave this field blank

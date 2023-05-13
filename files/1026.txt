@@ -1,0 +1,81 @@
+Head of Software Engineering | Stokers Ltd | Technology | Remote and Hybrid Working options | 35 hours per week
+We are looking for an exceptional Head of Software Engineering who’s ready to own and cultivate a new tech service infrastructure across our website and stores. A strong understanding of the latest tech practices, managing projects and the art of collaboration with others is essential. You will be responsible for building and nurturing a team of ambitious software developers, and driving the direction of Stokers technical infrastructure.
+In a nutshell - we're looking for a master architect to lead the development of our next-gen systems!
+This is a tremendous opportunity for someone to begin an amazing project with the Stokers Group.
+Stokers Ltd: We’re a family furniture retailer with 10 stores, founded in the North over 125 years ago, £80m sales, a great reputation for high quality and stylish furniture… and a great story to tell.
+The key purposes of the Head of Software Engineering:
+
+Reporting to our E-Commerce Director, you’ll be helping to develop a new tech service infrastructure across the group website and stores.
+You’ll be a key lead in the architectural decisions taken at the beginning of this journey.
+You’ll be leading the recruitment and ongoing development of developers in the team.
+You'll be key to designing everything from improvements to our in-house OMS / PIM systems, to entirely new systems & services, all with the goal of providing the best omni-channel customer experience.
+Working with key business leads and project managers to develop efficient, scalable solutions will be a big part of the role.
+Getting involved in the nitty gritty coding will also be vital to the position, as a team we all ‘roll our sleeves up’ no matter the level!
+
+The experience we’re looking for as a Head of Software Engineering:
+
+Experience as a technical lead and building, growing and developing a team.
+Experience in the Retail / E-Commerce Domain.
+Confident and articulate communicator with commercial awareness.
+Actively enjoys researching and adopting the latest tech practices.
+Extensive experience in the design and delivery of a Service Orientated Infrastructure.
+Experience using Containers & K8s would be advantageous.
+Ability to leverage a wide variety of tools, techniques and technologies to develop best in class solutions.
+Experience with Back-end technologies: NodeJS / Python / Java / Go.
+Strong experience in SQL.
+Experience architecting REST / GraphQL APIs.
+Experience of cloud services (Azure preferably).
+Strong organisational skills - with the ability to plan and prioritise in a self-managing style and ensure deadlines are hit.
+Excellent written and oral communication skills.
+
+Package Description
+For your valuable contribution you will receive:
+
+£60-75k Basic Salary (DOE).
+A generous bonus scheme.
+VIP discounts at leading retailers.
+Qualified free support for mental wellbeing and health.
+An Employee Assistance Programme with 24/7 counsellors available.
+Money back for a range of healthcare such as visiting the dentist – just claim the receipt!
+A menu of complementary therapies ranging from Reiki to Sports Massages!
+Stokers Pension Scheme which gives our employees the peace of mind for the future, including a generous life assurance if the worst should happen.
+Lastly, as you learn to love the furniture you sell you will also learn to love the generous staff discount you would also be entitled to.
+
+If you feel you have the right skills, experience and attitude to make this role your next exciting challenge, we want to hear from you today.
+Job Types: Full-time, Permanent
+Salary: £60,000.00-£70,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Employee discount
+Free parking
+Life insurance
+On-site parking
+Sick pay
+Store discount
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+Leadership: 5 years (preferred)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Hybrid remote in Manchester, M3 3JE
+Reference ID: LD.3.23/ES

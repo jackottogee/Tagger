@@ -1,0 +1,71 @@
+Data Developer | Circa £42,000 negotiable + excellent benefits package | Permanent | Thatcham
+About The Role
+Are you a Data Developer looking for a new challenge? Here at Thatcham Research we have an exciting opportunity for a Data Developer to join the team. You’ll be responsible for analysing, developing, and maintaining enterprise data storage whilst using and advising on the technologies, tools and techniques most appropriate to deliver enterprise data solutions.
+Reporting directly to our Delivery Manager this is a diverse position and as such you will have a real opportunity to own and develop the role. As well as working with a variety of tools and technologies, you will also enjoy a flexible working environment within our innovative, fun, and friendly Digital team.
+What will you be doing?
+
+Developing and maintaining a company wide data warehouse
+Finding and communicating solutions using data and business analysis techniques
+Gathering and analysing business requirements using appropriate analysis techniques and creating deign documents
+Maintaining functional and other associated documents using agreed methodologies
+Assisting with testing activities, including User Acceptance Testing of solutions
+Defining outcomes and measures as the basis for Agile iteration
+
+Key skills & experience we’re looking for:
+
+Strong practical experience building robust data delivery pipeline including ETL & ELT
+Demonstrable knowledge and experience of analysis and design methodologies
+Solid understanding of Relational database design, implementation and administration
+Demonstrable knowledge of Structured Query Language and Relational Databases including MySQL, SQLServer and PostgreSQL
+Demonstrable knowledge of Data Analysis Tools including (but not limited to) Excel and Power BI
+Experience working to requirements to produce appropriate solutions and providing traceability using agile development tools such as Jira
+Able to manage and prioritise own work to accommodate participation in multiple simultaneous project
+Experience with agile data delivery would be an advantage
+
+About you
+You are an experienced Data Developer with extensive practical experience and a strong analytical mind-set. You’ll feel comfortable handling complex data problems and enjoy researching data warehouse design and build techniques, accurately and confidently implementing them. You have the drive to work independently on tasks whilst also effectively working in a small team to ensure that tasks and projects fit together into broader reports and models.
+If this sounds like you, we’d love to hear from you!
+Perks & Benefits
+Salary - Circa £42,000 negotiable, dependent on skills & experience
+
+10% non-contributory pension
+29 days holiday (inclusive of Christmas shutdown) + public holidays
+Salary Sacrifice schemes (cycle to work & tech scheme)
+Access to online wellbeing services
+Life Assurance
+Health Cash Plan (cash back on eligible medical treatments)
+Discounted gym membership
+Sports & Social club
+Payroll charitable giving
+
+When we work
+Our standard working hours are8:30 - 16:30 Monday - Thursday, 8:30 - 15:45 Fridays
+How we work
+Our blended working approach means you’ll spend time working from our head office in Thatcham and from home should you wish to.
+What we do
+At the cutting edge of automotive research in the UK, Thatcham Research has a unique role in shaping the design of new vehicles and influencing ever higher standards of safety, security and repair.
+With an on-site Crash Laboratory, Repair Technology Centre, Training Academy and Crime Lab, our research expertise is driving some of the very latest automotive developments in technology, materials and standards in this fast moving and highly technical industry.
+Our active safety track site is one of the leading accredited Euro NCAP testing facilities, trialling and assessing the very latest developments in vehicle safety and assistance technologies.
+Our Values
+As an organisation that believes a strong set of Values are key to our organisational success and a sense of belonging for all colleagues, we ask that you understand, represent and apply our Values of Fearless, Inquisitive, Resourceful, Supportive and Trusted and demonstrate these Values throughout the recruitment process.
+We are proud members of the Automotive 30% Club, a voluntary network of CEOs with a shared objective of achieving a better gender balance within the automotive industry.
+Thatcham Research is an equal opportunities employer and welcomes applicants from all sections of the community. We are committed to ensuring we have a fair and inclusive recruitment process.
+Please let us know if you require any reasonable adjustments to be made at any point during your recruitment journey.
+All applicants must have Right to Work in the UK.
+Job Types: Full-time, Permanent
+Salary: £42,000.00 per year
+Benefits:
+
+Company pension
+Life insurance
+On-site parking
+Private dental insurance
+Private medical insurance
+Sick pay
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Thatcham
+Application deadline: 04/05/2023Reference ID: Management Accountant

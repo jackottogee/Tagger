@@ -1,0 +1,45 @@
+
+Full Stack Developer London As a Barclays Full Stack Developer this is an exciting opportunity where you will be joining Portfolio Management IT team within Markets Pre-Trade business area. You will be instrumental in implementing the digitization agenda across Portfolio Management IT partners with multiple business units across banking and treasury to manager and optimize our CIB lending balance sheet. Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality, and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive and creating financial and digital solutions that the world now takes for granted.
+We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month, or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally can request work patterns to reflect their personal circumstances. Please discuss the detail of the working pattern options for the role with the hiring manager.
+
+What will you be doing?
+ • Using technical expertise to constructively challenge; resolve technical issues; hands-on resolution of issues and bridging any gaps within the application domain
+  
+
+Supporting and troubleshooting applications within the domain
+Handling given business domain to effectively design and implement solutions to meet stakeholder’s requirements
+Driving Architectural discussions within the group and propose solutions
+Delivering quality, providing constructive feedback to your colleagues
+Mentoring more junior team members; seeking and providing feedback
+Working closely and collaboratively with other technology teams across BI as a key part of their role
+Building relationships and trust with business teams to ensure fit-for-purpose deliveries
+
+
+
+What we’re looking for:
+ • Experience in C# .net core full-stack development (Angular, ASP.net Web API and MS SQL database)
+  
+
+Good experience in developing containarised applications on Kubernetes / Open Shift.
+Solid experience architecting and designing front office business applications
+Solid analytical skills and logical thinking to manage issues in a high-pressure environment
+
+
+
+Skills that will help you in the role:
+ • Experience working with a highly distributed team (multiple locations, and staff from vendors, consultant, and contractors in addition to perm)
+  
+
+Significant Experience working in an Agile team
+Excellent Experience in designing cloud native solutions
+Proficient Experience with driving application’s full lifecycle
+
+
+
+ Where will you be working?
+In the heart of Canary Wharf, our headquarters at Churchill Place boasts onsite amenities such as; a gym, staff restaurant and deli bar, and is easily accessible by tube and bus links. With a population of around 5000 staff the atmosphere is second to none with a real buzz being created around the offices within.
+
+
+
+ #LI-Hybrid #architecture
+#LI-L21

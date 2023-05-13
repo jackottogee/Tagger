@@ -1,0 +1,65 @@
+Sure Recruitment NI are working with a large client based in Ballymena. They require a software developer to join their team on a permanent basis.
+The hours of work: 4.5 day week
+Key tasks
+Business Processes
+
+Analysis, development & maintenance of existing IT processes. Business improvement recommendations.  Create standard operating procedures for existing processes. Create Spec & user requirements documents.
+
+Business Systems
+
+Analysis, testing, maintenance support & administration of business systems. Using Systems Development Lifecycle (SDLC) methods  Evaluating third party systems for suitability with existing frameworks.
+
+Bespoke Systems
+
+Full stack development and maintenance of bespoke systems Creation of technical spec & user documentation  Manage & evaluate third party development processes.
+
+Database Development
+
+Demonstrable experience of, data definition language, data manipulation language, data control language and transaction control language Database Maintenance End to end database management.
+
+Project Management
+
+Project solution, scope & resource planning. User workshop training.  Create & publish key project documentation. Workload prioritisation & time management.
+
+User Training.
+
+Develop and deliver formal & informal training sessions for new/upgraded/existing systems for groups & individuals. Reporting  Creation and maintenance of existing reports
+
+Essential qualifications and skills
+
+Degree level qualification in any of the following fields: Computer Science, IT or related subject
+Experience in business process mapping, analysis, improvement, and development
+Experience working in a professional environment.
+Experience in developing web apps and windows apps for business needs.
+Demonstrable experience in developing applications. Competent knowledge and development experience with VB.NET and C#
+Advanced experience of interacting with SQL server databases
+Knowledge of software using PLC based logic
+Good communication skills and ability to complete engineering report writing
+Ability in software testing and debugging
+Analytical mindset with ability to keep detailed records
+
+Benefits
+
+Company pension
+Medicash scheme
+Onsite parking
+Canteen facilities
+Life insurance
+Discount scheme for local businesses
+
+#SLSRNI
+Job Types: Full-time, Permanent
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Ballymena: reliably commute or plan to relocate before starting work (preferred)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person
+Reference ID: #SLSRNI

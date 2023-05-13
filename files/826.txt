@@ -1,0 +1,9 @@
+
+Javascript/VueJs as primary skills (MUST)
+Minimum 10 years of hands on experience on core FE development
+Experience in providing optimised solutions and code reviews
+Proficiency in JavaScript language and Web standards, including its syntax and features
+Strong understanding of the Vue.js framework and its core principles
+Working experience with HTML5, SASS and LESS
+Ability to write efficient, secure, clean, and scalable JavaScript code
+Understanding of unit tests and JEST

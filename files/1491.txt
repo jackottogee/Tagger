@@ -1,0 +1,26 @@
+
+Java Developer / Backend Software Engineer *Remote / Hybrid WfH* to £110k+
+ Are you a Java technologist who enjoys discussing ideas, pair programming and continually learning?
+ You could be joining a tech driven e-trading company and working on complex, low latency real-time systems.
+ Your day to day:
+ As a senior, hands-on Java Developer you will help improve and scale a low latency, high throughput messaging system, designed for e-trading within the Fixed Income markets which handles around 20 thousand events per second.
+ There's a remote interview and onboarding process as well as the ability to work from home with only the occasional (once a month) visit to the London office for team meet-ups.
+ Requirements:
+
+ You have strong modern Java development skills including multi-threading
+ You have experience of working on low latency, high throughput systems (doesn't have to be within a finance environment e.g. games, telcos or similar)
+ You have a good knowledge of Linux OS; TCP, UDP, Ethernet, HTTP and understand the concept of Infrastructure as Code (IaC)
+ You're an advocate of Extreme Programming (XP), TDD (Test Driven Development) / DDD (Domain Driven Design)
+ You're collaborative and upbeat with excellent communication skills
+
+ Salary & benefits:
+ As a Java Developer / Backend Software Engineer you can expect to earn a highly competitive salary (to £110k) plus bonus and benefits including:
+
+ 28 days holiday
+ Pension (matched to 7%)
+ Private medical care
+ Life Assurance
+ Enhanced maternity, paternity and shared parental leave policies
+
+ Apply now to find out more about this Java Developer / Backend Software Engineer (Linux TCP/IP Latency) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

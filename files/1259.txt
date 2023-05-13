@@ -1,0 +1,22 @@
+
+.Net Developer London / WFH to £110k
+ Are you a skilled .Net Developer with full stack development skills who enjoys working with a range of programming languages?
+ You could be progressing your career at a Hedge Fund that invests in the sports betting markets.
+ Your role:
+ As a .Net Developer you'll join a multi-disciplinary business aligned Agile Tribe responsible for high-value business critical systems, with a focus on football betting. You'll be building systems to manage large datasets which can process updates in real-time with high throughput and low latency; these systems are released with high frequency with technology choices that are continuously evolving.
+ You'll be part of a talented Agile development team working in Sprints with colleagues who are passionate about code quality within a collaborative and technology driven environment. There's a focus on backend development however you will work across the full stack, using TypeScript and React on the client side.
+ WFH Policy:
+ You'll be based in fantastic offices in a vibrant area of London with in-house gym and steam room, games room with pool tables and dart boards, library and free high quality catering (breakfast, lunch, dinner) from the onsite chef with flexibility to work from home two days a week.
+ Requirements:
+
+ You're a Software Developer with C# serverside development skills including .Net Core and multi-threading experience
+ You also have experience with JavaScript / TypeScript and React
+ You have a good understanding of DevOps / Cloud based environments; AWS, Kubernetes, CI/CD, deployment automation and build environments
+ You have excellent communication, collaboration and problem solving skills
+ You're likely to be degree educated in a STEM discipline, Computer Science preferred
+ It would be great if you also have an interest in football!
+
+ What's in it for you:
+ As a .Net Developer / Full Stack Engineer you will earn a highly competitive salary (to £110k) plus bonus and benefits including pension, private medical care and perks such as wellness days as well as training and conference budget to support your personal development.
+ Apply now or call to find out more about this .Net Developer / Full Stack Engineer (C# .Net Core React) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

@@ -1,0 +1,93 @@
+
+
+  Margo is seeking for Java Developer with Risk exposure to join teams within a a leading clearing house. 
+ 
+
+
+  Our client is a leading clearing house, serving major international exchanges and platforms, as well as a range of OTC markets. In particular, the client is a leading CCP in Equity and Repurchase agreement (Repo) businesses, providing clearing services for most European Government debts (refinancing/repo transactions) and Equities trading venues (Exchanges and MTFs). 
+ 
+
+  They work closely with market participants to identify and develop innovative clearing solutions. 
+ 
+
+
+  Your Key Responsibilities 
+ 
+
+As part of the Repo & Exchanges Business lines, the Business “Risk IT” team is accountable for: 
+
+
+  - Design and development of the backend engine for Risk IT 
+ 
+
+  - Implementation of Market Data and Risk related projects 
+ 
+
+  - Gathering of business requirements and agreeing between IT, App Support teams, businesses teams in RCL and Exchanges. 
+ 
+
+  - Prototyping and developing front-end risk IT tools addressing various types of risk and financial products 
+ 
+
+  - Analysis and implementation of performance improvements to the existing VaR/SPAN models across different products 
+ 
+
+  - Maintenance and support of the existing risk libraries and risk simulators 
+ 
+
+  - Provide 3rd line support for Risk Applications 
+ 
+
+  - The role reports to the FLR Risk IT team lead. 
+ 
+
+
+  A sound and efficient margin algorithm is essential in both meeting the risk standards of the company and making the service appealing from a trading perspective. 
+ 
+
+
+  The department is looking to redesign Equity Risk platform and is looking to onboard a full stack developer to help in implementation of a Liability Approval Tool and Risk Additional Margins for equity products.
+  
+
+
+
+  You are the successful candidate if 
+ 
+
+  - Degree computer science-related disciplines. 
+ 
+
+  - 2+ years of experience in the software development 
+ 
+
+  - Strong programming skills (Java 8/Spring/Hibernate/Oracle) 
+ 
+
+  - Spring Boot/Spring Data/REST/Linux / BASH 
+ 
+
+  - Experience on risk and quantitative role. 
+ 
+
+  - Development experience; involving vanilla product 
+ 
+
+  - Experience in delivering production IT solutions 
+ 
+
+
+  - Sound conceptual / technical knowledge of modern IT infrastructure stack 
+ 
+
+  - Autonomy, problem solving skills 
+ 
+
+  - Effective communication skills (written and oral). 
+ 
+
+  - Ability to work with team delivery environment. 
+ 
+
+
+Interested? Motivated? Apply online at cvs@margo-group.com
+

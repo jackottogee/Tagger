@@ -1,0 +1,77 @@
+A little about us….
+Bray Leino is a creative and communication Agency that drives growth through creativenergy, by going beyond, to find the most powerful way.
+It’s the way we began back in 1974. Before email, before mobile phones, when London was still 6 hours by road, our founders set up shop in a gloriously rural part of the UK. It’s how we grew into a full-service global agency. And it’s how we still look at the world now.
+Creativenergy is the force that makes us think, create and work differently to our competition. It’s what makes us this thriving powerhouse of free-range thinkers, creators and makers. And wherever we are in the world, connects us all back to one common ambition.
+To use creativity to make businesses grow.
+What will I be doing?
+Working as part of a focused and highly valued digital team you will be responsible for building and maintaining high quality web applications.
+You will work closely with all teams and on all clients across the agency. You will become part of a delivery team from the very start of a project, inputting into the scope and costs, developing technical specifications and reviewing wireframes and creative.
+You will work closely with other developers as well as UX, creative, testing, project management and client service specialists to deliver and support tailored bespoke web applications.
+What technical skills will I need?
+Required:
+
+Experience C# and .NET
+Experience building scalable, secure and stable ASP.NET/MVC and ASP.NET Core web applications
+Data management capability with Entity Framework
+JavaScript capability in a front-end context
+Ability to write clean, maintainable and scalable code
+Ability to debug and troubleshoot existing systems
+A keen eye on web application security best practice
+
+Desirable:
+
+Experience in content management systems e.g. Umbraco
+TypeScript capability in a front-end context
+Experience with GIT, Visual Studio and Visual Studio Code
+Experience with Adobe Creative Suite e.g. XD
+Experience with Continuous Integration
+Knowledge of NPM and gulp
+
+As well as the above technical skills you will need to be able to:
+
+Ability to work in true collaboration with both internal and client teams
+Play an active role in the on-going development of critical systems including advising on technical opportunities and best-practices
+Learn and develop tools and techniques that deliver ongoing value and opportunities to Bray Leino and their clients
+Communicate effectively with internal and external stakeholders
+Scope and cost technical solutions
+Develop technical specifications
+Regularly report on progress to the Project Manager
+Accurately record your time within our timesheet system
+Attend client facing meetings
+
+And in return….
+
+25 days’ holiday, increasing to 29 after 2 years’ service + Plus Bank Holidays
+Company pension scheme, with enhanced Employer contributions after 1 years’ service
+Medical Cash Plan – including employee assist programme, contributions to dental, optical, physio etc.
+Employee Discount Scheme – an online platform for all staff offering a variety of discounts at various shopping outlets, gyms etc
+Electric Car Purchase Scheme, via Salary Sacrifice
+Outstanding training and progression, including access to LinkedIn Learning and The Mission Group Learning Management System
+Company Christmas closure
+Cycle To Work scheme
+Mission Share Purchase Scheme
+
+We are proud to be a Disability Confident Committed (Level 1) Employer. As a Disability Confident Committed Employer we have committed to; ensure our recruitment process is inclusive and accessible, communicating and promoting vacancies, offering an interview to disabled people who meet the minimum criteria for the job and anticipating and providing reasonable adjustments as required.
+Job Type: Full-time
+Benefits:
+
+Free parking
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Barnstaple: reliably commute or plan to relocate before starting work (preferred)
+
+Application question(s):
+
+What salary are you looking for?
+
+Work authorisation:
+
+United Kingdom (preferred)
+
+Work Location: Hybrid remote in Barnstaple

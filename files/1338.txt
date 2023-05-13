@@ -1,0 +1,113 @@
+
+
+Job Details
+
+
+Location(s): UK, Europe & Africa : UK : Gloucester 
+
+ BAE Systems Digital Intelligence is home to 4,800 digital, cyber and intelligence experts. We work collaboratively across 16 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+    
+
+Junior Software Engineer C++
+
+ We are looking for someone with ideally at leasts a years c++ experience
+    
+ The Cross-Domain product development and solutions team is a close knit engineering team within BAE Systems - Applied Intelligence operating in a dynamic market. The team is responsible for the development of world-leading network security and communication appliances that operate at multi-gigabit speeds, combining software and custom hardware. Cross-Domain customers include a variety of government departments, telecommunications and critical national infrastructure companies.
+    
+
+What you will be doing for us:
+
+ The Software Engineer role will involve innovation and development of new cutting edge products, mentoring and coaching other engineers (depending on grade) and supporting technical bid and project activities. Our systems support Governments and Customers around the world in helping them defend against cyber threats and so they must be able to rely on the quality of our products. The role interfaces both with our wider development teams, and clients as required.
+    
+
+What background are we looking for:
+
+ Essential skills and knowledge:
+    
+
+ at least a years C++ exeperience 
+Experience of modern libraries including STL, Apache libraries (NiFi etc)
+ Good grasp of networking fundamentals.
+ Ability and desire to learn new programming languages and technologies quickly.
+ Proven problem-solving and fault-finding skills
+ Evidence of innovation and initiative
+ Linux development experience
+ Windows development experience
+ Experience of scripting languages 
+
+ Essential competencies and experience:
+    
+
+ Excellent interpersonal skills
+ Attention to detail and accuracy
+
+ Desirable competencies and experience:
+    
+
+ Scripting languages e.g. Ruby, Python, Bash 
+Docker
+ Knowledge of distributed version control systems
+ Experience with automated build and continuous integration suites
+ Understanding of low-level computing concepts
+ Defect Tracking software (JIRA preferred)
+ Experience planning, estimating and designing system components
+ Customer facing skills
+ VoIP/VTC standards 
+
+
+About BAE Systems Applied Intelligence:
+
+ We help nations, governments and businesses around the world defend themselves against cyber-crime, reduce their risk in the connected world, comply with regulation, and transform their operations. We do this using our unique set of solutions, systems, experience and processes.
+    
+ Our success is down to our people. The changing nature of our business means that we're constantly looking for the brightest talent to help us fulfil our ambitions. As an experienced professional, we'll entrust you with responsibility; this means that you'll have client contact, variety and support from day one.
+    
+ We'll encourage and support you to develop your skills and reward you as you grow. Whatever your area of expertise, you'll be much more than just a job title; you'll be an integral part of the business where your individual contribution makes a difference every day. Great minds deserve great rewards, so we also offer a very competitive salary and benefits package.
+    
+ Diversity and inclusion are integral to the success of BAE Systems Applied Intelligence. Staying competitive in today's global marketplace requires an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds - the best and brightest minds - can work together to achieve excellence and realise individual and organisational potential. We also welcome discussions about flexible working.
+    
+
+Security Clearance
+
+ Only those with the permanent and unrestricted right to live and work in the UK will be considered for a position within BAE Systems Applied Intelligence. Due to the nature of our work, successful candidates for this role will be required to go through Government SC clearance prior to starting with us. https://www.gov.uk/guidance/security-vetting-and-clearance
+    
+
+Life at BAE Systems Digital Intelligence 
+
+ We are embracing Hybrid Working. This means you and your colleagues may be working in different locations, such as from home, another BAE Systems office or client site, some or all of the time, and work might be going on at different times of the day.
+    
+ By embracing technology, we can interact, collaborate and create together, even when we're working remotely from one another. Hybrid Working allows for increased flexibility in when and where we work, helping us to balance our work and personal life more effectively, and enhance well-being.
+    
+ Diversity and inclusion are integral to the success of BAE Systems Digital Intelligence. We are proud to have an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds - the best and brightest minds - can work together to achieve excellence and realise individual and organisational potential. 
+    
+
+Division overview: Capabilities
+
+ At BAE Systems Digital Intelligence, we pride ourselves in being a leader in the cyber defence industry, and Capabilities is the engine that keeps the business moving forward. It is the largest area of Digital Intelligence, containing our Engineering, Consulting and Project Management teams that design and implement the defence solutions and digital transformation projects that make us a globally recognised brand in both the public and private sector.
+    
+ As a member of the Capabilities team, you will be creating and managing the solutions that earn us our place in an ever changing digital world. We all have a role to play in defending our clients, and this is yours.
+   
+
+
+
+Company
+
+
+
+BAE Systems Digital Intelligence is home to 4,800 digital, cyber and intelligence experts. We work collaboratively across 16 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+Launched in 2022, Digital Intelligence is part of BAE Systems, and has a rich heritage in helping to defend nations and businesses around the world from advanced threats.
+
+
+
+Find Us
+
+
+
+     Location
+    
+
+     Guildford, Surrey
+      GB
+    
+
+
+

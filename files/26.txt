@@ -1,0 +1,51 @@
+
+
+Seems there are very few opportunities that offer you the chance to work within a sector that is doing something good for others, one that tugs on the heartstrings as well as pays bills. 
+
+Let's start by telling you a little more about my client and what they offer 
+
+Established in 2014, they are a SaaS software provider that has created a piece of software used by the care industry, that allows the caregivers to log and track information on a system to keep track of the people they look after, ensuring they can offer the best possible care for those that most need it. 
+
+The care industry as a whole has historically been paper-based, slightly archaic you may think but with traditional costs involved in buying software and employees in the sector not always used to using traditional software programs, it's not always been an option. Now with my client's offering being reasonably priced and the ability for employees to be able to use the system through a simple App on their phones this is a thing of the past. 
+
+With a fantastic team of amazing already on board, they are looking to grow the team and have an amazing opportunity for a Frontend React Developer. 
+
+Keen ?? read on and see if it could be right for you 
+Key Responsibilities 
+
+Be part of a team of highly skilled engineers to deliver polished features on a consistent basis in a high pace environment. We deploy code every two weeks to thousands of users. 
+Be directly responsible for the development and deployment processes – make sure that the features are shipped optimally, and the product stays healthy once they hit production. 
+Design, review, write and test code – this is a hands-on engineering role, and you will be directly involved in the design and development of new features, writing, reviewing, and testing code. 
+Insist on the highest standards and create functional and engaging features that will delight our users. 
+Provide mentorship and feedback to teammates to make your team the best version of itself. Motivate and encourage everyone to give their best work. 
+Report to the Server Team Lead 
+Be a self-starter, analytical and creative 
+Be a strong team player with a positive attitude 
+Be a strong advocate of software craftsmanship, write clean, testable, and easy-to-maintain code 
+
+Experience : 
+
+3+ years of web development experience 
+Good communication skills and the ability to work effectively in a remote team environment 
+Attention to detail – any code that makes it into the product directly impacts the lives of people being cared for 
+Strong web development with React.js, TypeScript, HTML and CSS, SASS, bootstrap, webpack, npm 
+Good understanding of AngularJS, bower, gulp for maintaining the existing codebase 
+Solid familiarity with single-page apps and building UI components 
+Good understanding of WCAG accessibility standards and UX/UI 
+Strong experience writing clean, testable, high-quality code and designing highly scalable systems in production 
+Good understanding of HTTP and integrating APIs 
+Good experience with writing unit tests, preferably TDD and BDD 
+Familiarity with git and/or git-flow, Bitbucket, JIRA, Confluence, Jenkins 
+
+You may have: 
+
+Bachelor’s degree in Computer Science or related field, or equivalent experience 
+Good understanding of micro frontend and Redux 
+Experience within the Care Industry or Health Sector 
+Good knowledge of Agile methodologies such as Scrum or Kanban 
+Good knowledge of cross-platform technologies such as React Native and Flutter 
+Good knowledge of test automation using TestCafe, CypressJS or similar 
+SaaS experience in a B2B setting.
+
+
+

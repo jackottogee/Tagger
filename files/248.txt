@@ -1,0 +1,37 @@
+Java Software Engineer
+Bedford
+£55,000-£60,000 per annum DOE
+Our customer is looking for a Senior and Junior Java Software Engineer to join their team, reporting into the Principal Engineer. The successful candidate will be required to support a mixture of R&D and product development activities. You will be keen to get involved in all development areas and have a good track history in both problem solving and quality software development. Your role as a Software Engineer will involve designing, implementing, and testing java applications and system software. This will include improving existing software and developing new features. The opportunity will enable to gain knowledge of cutting-edge autonomous systems.
+Key Responsibilities
+
+Primarily, your role will be to assist in the design, implementation, and test of Java software to support both experimental activities and product development, ensuring security and redundancy considerations are met.
+Take responsibility for a few java software modules that fit into the wider system.
+Develop unit tests for ease of test and integration of your modules.
+You will be responsible for delivery, reporting and presentation of technical work and writing and submitting any necessary documentation.
+Development of Java desktop applications and service orientated modules to support flight and simulation activities.
+Support field trials and simulation testing
+
+Other Duties and Responsibilities
+
+To undertake such other duties and responsibilities as may be reasonably required within the grade and level of the post.
+You will be expected to perform different tasks as necessitated by your evolving role within the company and the overall business objectives of the company. Some travel within the UK may be required.
+
+Job Types: Full-time, Permanent
+Salary: £55,000.00-£60,000.00 per year
+Benefits:
+
+Free parking
+On-site parking
+Work from home
+
+Schedule:
+
+Day shift
+Monday to Friday
+
+Ability to commute/relocate:
+
+BEDFORD: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person
+Reference ID: 255

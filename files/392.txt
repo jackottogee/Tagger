@@ -1,0 +1,142 @@
+Description 
+
+
+What you’ll get:
+ At Perlego we believe in the key role you will play to achieve our shared mission. You'll belong to a culture of dreamers, team players and avid learners with a flexible, value-based approach. Here, you can become your best self, and through your talent, make a real impact in the world of education. 
+
+
+The numbers speak for themselves:
+ 94% of people you’ll work with are inspired by the purpose and mission of Perlego 
+
+ 88% of people you’ll work with feel they belong at Perlego 
+
+ 90% of people you’ll work with would recommend us as a great place to work 
+
+
+
+Stats from our latest anonymous employee engagement survey
+ What we do 
+
+ At Perlego, there are over 100 of us working hard to make education accessible to all. We believe access to good quality affordable learning unlocks potential. Knowledge should be more accessible, not locked behind sky-high price tags. 
+
+ Last year, we expanded our library to make over 1 million books affordable for learners, earned a 100% Gold ASPIRE rating for accessibility and reached over 15 million people. The next stage of Perlego is twofold: 1) expand our support to students and publishers globally, and 2) build a product that goes beyond the book, a platform that helps students study smarter and educators teach more effectively. 
+
+ What we’re looking for 
+
+ A Software Engineer with experience in Javascript, React, Node.js, AWS & TDD. You'll be joining our engineering team, working in a product squad with a data-driven mission to help our users have the best learning experience possible. 
+
+ How we work together 
+
+ We organise ourselves into cross-functional squads, with each squad working together on a common goal. Each team consists of 6-8 team members - a Technical Lead, 3-4 Engineers, a DevOps Engineer, QA Engineer & Product Designer/Manager. 
+
+ What you’ll do 
+
+ You will work in a self-organising team in our product ecosystem providing technical development skills (React/Node/AWS) within the squad, co-solutioning and getting hands-on implementing the solutions to help your squad achieve it's goal. 
+
+ You will contribute to the design and code base of distributed AWS cloud systems, Serverless Node.js application back-ends and React web application front-ends. 
+
+ Within your squad you'll bring these solutions to life, writing high-quality code utilising test-driven development (Jest /Cypress), continuous integration (AWS) and code review (GitHub). 
+
+ You and your cross-functional squad will look after application features from inception to production working with customers and business stakeholders to bring them to life and support them in production. 
+
+ Requirements 
+
+
+It’s the perfect role for you if you have:
+ Experience in implementing web applications using Javascript, React, Node.js, Typescript, HTML & CSS 
+
+An understanding of architectural practices including: Microservices, REST, object-oriented & functional programming. 
+An understanding of web security principles (OWASP) and deployment (Webpack) 
+An understanding of Relational Database Design and NOSQL Databases 
+Experience working with Cloud computing providers (AWS). 
+Experience working in an Agile environment with Test Driven Development, CI/CD 
+3+ years of commercial experience as a software engineer 
+
+
+️ It’s a plus if you have:
+ Experience in a startup environment 
+Have a general interest in books, reading and always learning new things! 
+Benefits 
+
+
+✨ Salary: £58,000 - £65,000 
+
+ Flexible working 
+
+ We're making learning accessible to all and we want our ways of working to be accessible too. Choose between our impressive office in Chancery Lane, remote work or a bit of both. Work in a way that supports your needs and your life. We trust people to know what works best for them. 
+
+ We are flexible if you wish to work remotely overseas for short-periods of time, as long as you remain a UK tax resident 
+
+ Benefits include 
+
+ L&D Budget 
+
+ We value continuous learning, so you will get £500 per year to spend on training of your choice 
+
+ Unlimited Coaching Opportunities 
+
+ Unlimited access to MoreHappi, an on-demand professional coaching platform to offer all employees access to unbiased and professional coaching opportunities. 
+
+ Learning Time 
+
+ All employees have dedicated Learning Time every second Friday afternoon, to focus on new skills, projects or interests that lay outside of their day to day job 
+
+ Work-Life Balance 
+
+ Everyone needs a break, so enjoy 30 days off (incl. bank holidays) + 1 additional day annual leave for every year of service 
+
+ Flexi Bank Holidays 
+
+ We understand that not everyone aligns to the same calendar; we offer the flexibility to take your local countries bank holiday allowance for other religious or cultural days. 
+
+ e.g. you can switch UK Easter Bank Holidays Days for Eid celebrations 
+
+ ❄️ Office Reset 
+
+ All employees an also enjoy the days between Boxing Day and New Year off, to reset and refresh for the new year - this is additional to your annual leave 
+
+ Sabbatical 
+
+ After three years there is an opportunity to take a 1-month unpaid sabbatical, and after five years there is an opportunity to take a 1-month paid sabbatical 
+
+ Personal Days 
+
+ Life happens and we want you to be able to use your annual leave for resting, relaxing or taking time out to do something you love! 
+
+ We offer 1 additional day a year for life events (your wedding, relocation, moving house, or a child starting school). 
+
+ Health & Wellbeing 
+
+ We want everyone to feel healthy and happy, so you get the choice of a wellbeing subsidy or private medical insurance via Vitality. 
+
+ Mental Health 
+
+ All employees also get access to a free counselling support service via Spill 
+
+ Financial Wellbeing 
+
+ Track your financial goals and receive financial advice all via Mintago 
+
+ Cycle to Work Scheme 
+
+ We're committed to building a sustainable business, so we encourage cycling to work. Perlego will buy your bike of choice, which you'll pay back over 12 months. 
+
+ Social 
+
+ We're a tight-knit bunch who enjoy our time to play. We have regular social events and activities for everyone - everything from white water rafting to board game nights. 
+
+ Family time 
+
+ We believe family is really important; we offer new parents a competitive matched parental leave as well as phased return to work from extended leave. 
+
+ Workplace Nursery Benefit 
+
+ We want to support working parents and carers, so we offer a workplace nursery benefit scheme, helping our employees potentially save thousands of £££ against the cost of nurseries each year. 
+
+
+Belonging at Perlego:
+ We are an equal opportunity employer and value diversity of thought and background. 
+
+ ❤️ We are actively building a diverse team, so we strongly encourage applications from people of colour, the LGBTQ+ community, people with disabilities, neurodivergent people, parents, carers, and people from lower socio-economic backgrounds. 
+
+ To enable an equitable experience for all and give you the best chance of success, if you have any specific requirements for any stage of the interview process, please let us know by emailing ben@perlego.com

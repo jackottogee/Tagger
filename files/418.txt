@@ -1,0 +1,57 @@
+The Opportunity
+ZE is a global leader in the development of enterprise data management and analysis software. We design and develop ZEMA, a sophisticated suite of products that provide clients with powerful capabilities for data collection, process automation, and business intelligence through web based analytical tools, services, and dashboards. ZE recognizes the dependence on our team members and repays that with trust and loyalty. A wide range of technical skills are relevant, but not limited to, Java, SQL, Liquibase, Oracle JDBC, Oracle RAC, MSSQL, Apache Tomcat, Excel add-in, and API. The successful applicant will form a key part of a team responsible for ensuring our clients are always able to use their ZE products and services, getting the best of the services we offer. ZE is expanding globally, currently strongly in Europe with the ZE Cloud expanding to Frankfurt & Amsterdam DataCentres. This is an exciting time of on-boarding and supporting clients across Europe and the wider EMEA region.
+COVID-19 considerations:This position will be a remote position in the UK.
+Vaccination Status:ZE PowerGroup Inc. is committed to protecting the health and safety of all our team members, customer and our communities from COVID-19. Accordingly, following with provincial and federal vaccination's approach, we require that all of our employees to be fully vaccinated and provide their proof of vaccination or substantiated grounds for exemption.
+Responsibilities
+
+Have a proficient understanding of software development processes using the Java language
+Have a basic understanding of RDBS concepts and the Structured Query Language (SQL)
+Implement enhancements and fixes to ZE's Data Manager Processor catalogue including Metadata & reporting
+Implement new Data Manager Processors using existing frameworks
+Perform code reviews and provide feedback to your peers
+Interface with internal developments to investigate and resolve reported software issues;
+Develop automated test tools and frameworks
+Contribute to data design & research deliverables
+Handle public holidays on a rotational basis
+In exceptional cases handle off hours calls
+
+Qualification
+
+Positive attitude and happy to take on additional responsibilities
+Good Problem solving skills, self learning & delivering attitude
+Diploma or university degree in Computer Science or Technology
+Knowledge of Java , Oracle, and SQL Server 2-3 years
+Knowledge of hardware, software, application, and systems engineering
+Software application and database experience (this a must-have) Competencies & Skills Set
+Strong initiative and ability to work with minimal supervision
+Great interpersonal, collaboration, and facilitation skills
+Excellent ability to work in a team environment and enjoys very fast paced work. This is a must.
+A keen learner who likes to understand context, and has a strong desire to understand how? why?
+Ability to communicate clearly and competently, in writing and verbally
+
+About Us
+ZE PowerGroup Inc. (ZE) is the global leader in the development of enterprise data management and analysis software. We are the developers of ZEMA, a sophisticated suite of products that provides clients with powerful capabilities for data collection, process automation, and business intelligence through web-based analytical tools, services, and dashboards. We work with world-class companies in every industry including energy, commodities. We provide a great work environment, unique corporate culture and the ability to interact / coordinate with various teams across the organization.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£45,000.00 per year
+Benefits:
+
+Work from home
+
+Supplemental pay types:
+
+Bonus scheme
+
+Application question(s):
+
+Do you have basic knowledge and work experience with Java?
+Do you have basic knowledge of writing queries in Oracle and/or MSSQL with Any work experience.
+Do you have experience working with large data sets. Including various file formats like CSV, HTML , PDF , JSON. Including web services.
+Are you willing to work as an individual contributor with occasional off hours support.
+Do you have experience with Prior client side (optional server side) exposure to interface with APIs, Web services, Realtime, Data dissemination platforms (hosted or cloud based systems)?
+What is your expected salary?
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

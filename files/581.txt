@@ -1,0 +1,25 @@
+** The company are based in London but this position will be fully-remote with the option to work in the office should you wish. 
+
+ A high-growth scaleup in London who provide advanced, highly technical SaaS solutions for the logistics sector have a brand new vacancy for a Full-Stack Developer to join the team, experienced with Go and React. 
+
+ The company build modern software that helps some of the world’s largest logistics companies improve their operational efficiency and reduce their carbon footprint. They are regularly featured in tech blogs, online articles and are widely-renowned for the quality of their tech products. 
+
+ Ideally, suitable candidates will have commercial experience with Go, good knowledge of React and will be confident deploying into AWS. 
+
+
+Key skills:
+ ** Go 
+
+ ** React 
+
+ ** gRPC 
+
+ ** Docker / Kubernetes 
+
+ ** AWS 
+
+ For any further information, or for specific detail on the company please reach out directly – richard.bilyard@shiftf5.co.uk / 0161 413 6330 
+
+ If you are interested in the role please forward an up-to-date CV. 
+
+ Full-Stack Developer – Go, React, AWS (Remote)

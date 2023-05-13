@@ -1,0 +1,45 @@
+
+BAE Systems Digital Intelligence is home to 4,800 digital, cyber and intelligence experts. We work collaboratively across 16 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+ At BAE Systems Digital Intelligence, we believe that digital technology is the key to unlocking our customers’ advantage. We are a highly respected engineering organisation providing services to governments around the world. At Digital Intelligence we are proud of the mission critical systems that we build for our customers, in areas that truly make a difference to society. We work in a number of sectors including Healthcare, Law Enforcement, Security, Defence, Space, Telecommunications and National and International Government to name a few.
+
+ We are looking for experienced Java Engineers to join our team following continuous growth and success.
+
+ What you could be doing for us:
+
+ Designing, codes, tests, corrects and documents simple programs, and assists in the implementation of software which forms part of a properly engineered information or communications system
+ Integrating analytics; updating and configuring message pipelines
+ Developing proxies; integrating 3rd party software
+
+
+ What backgrounds are we looking for?
+
+ A solid understanding of Enterprise Java
+ Experience of any of the following would be helpful: Typescript, GraphQL, Python, NiFi, RabbitMQ, Fast API, Azure, AWS, Kubernetes
+ Knowledge of automation both in terms of testing and CI/CD pipelines
+ A willingness to learn new skils and embrace / experiment with new technology
+ The ability to work as part of a team, knowledge share and be involved with our Agile ways of working.
+
+
+ How we will support you:
+
+ Work-life balance is important; you’ll get 25 days holiday a year and, via our flexible benefits package the option to buy/sell and carry over from the year before
+ You can work around core hours with flexible and part-time working
+ Our flexible benefits package includes; private medical and dental insurance, a competitive pension scheme, cycle to work scheme, taste cards and more
+ You’ll have a dedicated Career Manager to help you develop your career and guide you on your journey through BAE
+ Don’t know a particular technology? Your learning and development is key to your future career
+ You’ll be part of our bonus scheme
+ Feel free to join in with some of our monthly social events ranging from: ‘First Friday’, Lunch & Learns (free pizza/snacks), Tech Talks and much more.
+
+
+ You are welcome to join any/all of our Diversity and Support groups. These groups cover everything from gender diversity to mental health and wellbeing.
+ If this sounds like you, it’s time to apply…
+
+ Security Clearance
+ Only those with the permanent and unrestricted right to live and work in the UK will be considered for a position within BAE Systems Applied Intelligence. Due to the nature of our, work successful candidates for this role will be required to go through Government SC clearance prior to starting with us. https://www.gov.uk/guidance/security-vetting-and-clearance
+ Life at BAE Systems Digital Intelligence
+ We are embracing Hybrid Working. This means you and your colleagues may be working in different locations, such as from home, another BAE Systems office or client site, some or all of the time, and work might be going on at different times of the day.
+ By embracing technology, we can interact, collaborate and create together, even when we’re working remotely from one another. Hybrid Working allows for increased flexibility in when and where we work, helping us to balance our work and personal life more effectively, and enhance well-being.
+ Diversity and inclusion are integral to the success of BAE Systems Digital Intelligence. We are proud to have an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds – the best and brightest minds – can work together to achieve excellence and realise individual and organisational potential.
+ Division overview: Capabilities
+ At BAE Systems Digital Intelligence, we pride ourselves in being a leader in the cyber defence industry, and Capabilities is the engine that keeps the business moving forward. It is the largest area of Digital Intelligence, containing our Engineering, Consulting and Project Management teams that design and implement the defence solutions and digital transformation projects that make us a globally recognised brand in both the public and private sector.
+ As a member of the Capabilities team, you will be creating and managing the solutions that earn us our place in an ever changing digital world. We all have a role to play in defending our clients, and this is yours.

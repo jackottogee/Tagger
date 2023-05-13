@@ -1,0 +1,67 @@
+
+
+Start a new adventure in the medical device industry today and make a difference in someone’s life.
+ Our Senior Software Engineer is an essential driver of complex, cross-functional projects with a high business impact at Natus Medical. Can you see yourself joining our Global Software Engineering team, developing neurology products that improve patient lives? Take the test below!
+
+You would enjoy developing leading-edge software that collects, monitors, and manages data for Electromyography testing and research studies.
+You are pro-active to drive full development lifecycle of complex software working with the Microsoft technology stack
+You value protecting patient data and privacy and ensuring the best possible product by complying with a robust quality system
+You enjoy international teamwork across business groups such as R&D Engineering, Quality, Regulatory, and Product Management
+If you've ever wanted to join a challenging and life-changing industry and provide technical mentorship to others, look no further!
+
+Here’s what you can expect:
+ UK Benefits
+
+Private Health Insurance, Pension, paid holiday, sickness, flexible working hours, life assurance
+Location: This role is based at our Natus Woking UK site. A small amount of international travel to other Natus sites or customers may be required (< 5%).
+
+ Main Responsibilities
+
+Participate in software development: 
+    
+Analyse and review customer requirements
+Write and review detailed software technical specifications
+Participate in architecture definition, documentation, and review
+Prepare estimates for the complete design, implementation, and testing of new features to support project planning
+Create and update design documentation throughout lifecycle and review designs of others
+Implement required software functionality meeting established requirements, specifications and quality.
+Create and execute unit and system test plans and review the plans of others
+Aid in the investigation and resolution of customer support issues
+Lead a small team of software developers on a project activity
+Serve as a catalyst for continuous improvement of product and process:
+Proactively provide recommendations on improvements to product and/or processes to increase development efficiency and improve quality
+Ensure Adherence To Quality System:
+Adhere to established Quality Systems and design control procedures and practices
+Travel : A small amount of international travel to other Natus sites or customers (< 5%).
+ 
+
+Qualifications
+
+Bachelor of Science or Masters in Computer Science, Engineering or similar.
+Minimum 10 years experience software development with C++, MFC and some C# in a real-time environment
+Experience developing medical device software or similar in a heavily regulated industry.
+Experience with full project life cycle from planning to product delivery
+Experience with Azure Devops, Perforce, Vault, Github or similar source code repositories
+Experience with JIRA, Team System or similar for task and issue management
+Excellent verbal, presentation, and written communication skills for technical and non-technical audiences
+Fluent with both Agile and Waterfall SDLCs
+Experience with reverse engineering and refactoring of existing code
+
+Desired Qualifications (Not Required):
+
+Knowledge of IEC 62304, ISO 13485, and ISO 14971 highly desired
+Experience integrating Windows applications with Active Directory/LDAP
+Experience with Network Applications, SQL Server, ODBC
+Proficiency with .NET, SQL Server
+Proficiency with HL7, FHIR, UML
+Mathematics background to develop implementation of signal processing or data analysis algorithms
+Proficiency with web/cloud application development
+Certification as a software developer, architect or Azure development
+Experience with design patterns and code reviews
+Experience with Jama Requirement Management Tool
+Experience with InstallShield or another installation packaging
+
+EEO Statement  Natus Medical is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, colour, religion, sex, national origin, veteran status, disability, sexual orientation, gender identity, or any other protected status.
+ #LI-SH1 #INDNATUS
+
+

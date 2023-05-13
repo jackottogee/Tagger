@@ -1,0 +1,72 @@
+
+
+Date: 11-Apr-2023 
+Location: Oxford/ Hybrid, GB 
+Company: Nominet 
+
+
+We’re Nominet – a world-leading domain name registry. For over 25 years, we’ve been operating at the heart of internet infrastructure. While we're best known for running .UK domains, we also help protect public services from cyber threat.
+Our aim is to create a world which is more connected, inclusive and secure. We know that technology has the power to transform lives by creating opportunities and providing support where it’s needed most.
+
+
+As a public benefit company, our work funds the ability to make a positive impact on society. We’ve donated millions to projects that use technology to improve peoples’ lives and have committed to delivering £60m worth of support over the next three years.
+
+
+We understand the impact the Internet has on the environment and are committed to helping the UK reach Net Zero by 2050. We’re already a Carbon Neutral company through offsetting our emissions and will continue to work on reducing our footprint.
+
+
+About the role:
+
+
+You will lead our Back-End Operational Applications Team who are responsible for high availability, high performance critical applications at the heart of Nominet’s world-leading domain name registry business.
+
+
+Our critical national infrastructure supports the UK’s online economy, and our registry platform is used by our customers throughout the world to register and manage .uk, as well as other domain names.
+
+
+This role is supporting your team to deliver new functionality, troubleshoot code, investigate issues and enable the team to continue to build and support those high availability systems which run in an on-prem environment.
+
+
+There are a number of interesting projects in the pipeline and we need someone who will support us with the strategy to update our applications and support that embedding of change within Nominet.
+
+
+The essential bits:
+
+
+You will have experience of managing teams using Java and knowledge of relational databases. Demonstrable experience of the SDLC, agile methodologies and continuous integration tools k would be beneficial.
+
+
+You will be used to complicated problem solving and work in a collegiate cross collaborative way.
+
+
+About you and what you need to be successful:
+
+
+You will be experienced in fostering a culture of coaching and be able to demonstrate effective team management aligned to our values of ownership, integrity and boldness.
+
+
+You will drive change through consultation and collaboration, nurturing and developing relationships effectively to continuously improve software and evolve processes to achieve and maintain excellent service levels.
+
+
+What’s in it for you?
+
+
+We offer a great work life balance with hybrid working, 20% of the time is expected in our office in Oxford. The role has real meaningful impact on not only, national infrastructure but through our public benefit ethos too. The work is technically challenging in a culture where everyone is inspired to do their best.
+Pension match to 7%, performance related bonus scheme, private medical insurance, 30 days annual leave, reward portal, support to buy tech equipment tax free, holiday buy scheme, discounted shopping, on-site gym and shower facilities, Medi-cash (claiming cash back on things like optical, dental, inoculations and prescriptions), Employee Assistance Program, Dental Insurance, Health Assessments, Cycle2Work scheme, free- on site car parking, broad range of tools and resources to support your personal and professional development, Nominet Give Hub. We also have an active Social Committee.
+
+
+Data protection
+If you choose to explore an opportunity, and subsequently share your CV or other personal details with Nominet, these details will be held by Nominet for 12 months in accordance with our Privacy Policy and used by our recruitment team and hiring managers in the process to contact you regarding this or other relevant opportunities at Nominet. If you would like Nominet to delete or update your details at any time, please follow the steps set out in the Privacy Policy describing your individual rights. If you have any questions about Nominet’s data protection practices, please email: dpo@nominet.uk
+Equal opportunities
+Cybersecurity is a community effort. That’s why we’re committed to building an inclusive, diverse community that celebrates and welcomes everyone – unless they’re a cybercriminal, of course.
+We’re proud to be an Equal Opportunity and Affirmative Action Employer, and we’d encourage you to join us whatever your background.
+We consider everyone equally: your race, age, religion, sexual orientation, gender identity, ability, marital status, nationality, or any other protected characteristic won’t affect your application.
+We want to give you every opportunity to show us your best self, so if there are any adjustments we could make to the recruitment and selection process to support you, please let us know.
+Security checks
+All roles working for Nominet will be subject to a Baseline Personnel Security Standard (BPSS) check. Some roles due to the nature of their work, will require additional security clearance.
+Due to the volume of applications we receive, we sometimes close our vacancies early. It is therefore advisable to apply as early as possible if you would like to be considered for a role with us.
+
+
+ Job Segment: Developer, Java, Technology
+
+

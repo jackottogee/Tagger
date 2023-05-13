@@ -1,0 +1,59 @@
+
+
+
+Job Title Quantitative Strategic Analytics Developer 
+Location London 
+Corporate Title Associate/Vice President 
+
+You will be joining Deutsche Bank Group Strategic Analytics. The group is responsible for delivering applications to solve quantitative problems for Investment Banking trading businesses. You will be part of the Core Strats team delivering enhancements and extensions to the strategic Kannon platform. Development work will be done in C++ and Python. 
+
+You will be responsible for analysing, designing and developing quantitative functionality across trade pricing, valuation, risk and Profit & Loss (P&L), marking, calibration and automated controls functionality in the Kannon core tools. 
+
+What we’ll offer you 
+
+A healthy, engaged and well-supported workforce are better equipped to do their best work and, more importantly, enjoy their lives inside and outside the workplace. That’s why we are committed to providing an environment with your development and wellbeing at its centre. 
+
+Hybrid Working 
+We understand that employee expectations and preferences are changing. We have implemented a Hybrid Working Model that enables employees to reach a working pattern that works for them. Eligible employees have the opportunity to work from the office and remotely from home (subject to the role’s eligibility). 
+
+You can expect: 
+
+Competitive salary and non-contributory pension 
+30 days’ holiday plus bank holidays, with the option to purchase additional days 
+Life Assurance and Private Healthcare for you and your family 
+A range of flexible benefits including Retail Discounts, a Bike4Work scheme and Gym benefits 
+The opportunity to support a wide ranging CSR programme + 2 days’ volunteering leave per year 
+
+
+Your key responsibilities 
+
+Responsible for analysis, design and development of functionality to deliver to business requirements in C++ and Python 
+Responsible for performing analysis, design and development of quantitative valuation, risk and Profit and Loss (P&L), marking, calibration and controls functionality in Kannon using C++ and Python 
+Responsible for finding performance bottlenecks, ability to propose design for complex business problems, refactoring and simplification of existing solutions. 
+Responsible for working closely with trading, quants and other stakeholders to understand requirements and deliver robust, reliable and performant solutions 
+Contribute to the optimisation effort to improve the scalability of the cross-asset platform 
+
+
+Your skills and experience 
+
+Experience delivering quantitative solutions with Convertible Bonds, Exchange traded Funds, Structured Notes, Equity/Credit/Rates Derivatives trading businesses/products 
+Good understanding of derivatives products, risk and P&L, market data and calibrations 
+Experience of server-side development in Python and C++ 
+Experience developing front-office risk and P&L/pricing applications 
+Experience managing small teams and project deliveries beneficial 
+
+
+How we’ll support you 
+
+Training and development to help you excel in your career 
+Coaching and support from experts in your team 
+A culture of continuous learning to aid progression 
+A range of flexible benefits that you can tailor to suit your needs 
+We value diversity and as an equal opportunities’ employer, we make reasonable adjustments for those with a disability such as the provision of assistive equipment if required (for example, screen readers, assistive hearing devices, adapted keyboards) 
+
+
+About us and our teams 
+Deutsche Bank is the leading German bank with strong European roots and a global network. 
+
+Our values define the working environment we strive to create – diverse, supportive and welcoming of different views. We embrace a culture reflecting a variety of perspectives, insights and backgrounds to drive innovation. We build talented and diverse teams to drive business results and encourage our people to develop to their full potential. Talk to us about flexible work arrangements and other initiatives we offer.  We promote good working relationships and encourage high standards of conduct and work performance. We welcome applications from talented people from all cultures, countries, races, genders, sexual orientations, disabilities, beliefs and generations and are committed to providing a working environment free from harassment, discrimination and retaliation.
+

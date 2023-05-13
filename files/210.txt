@@ -1,0 +1,77 @@
+
+
+
+   At R3 you will be at the cutting edge of distributed ledger technology (DLT).
+  
+
+
+ Corda is a DLT designed for running complex workflows between businesses, without any centralized points of control. You will work on a system trusted by banks, insurance companies, stock exchanges, payments companies, and others – highly demanding industries with the interesting technical challenges that come with them.
+  
+
+
+ Your Team:
+
+
+    You will join the Core Platform team to build the Corda of the future – a distributed ledger with huge throughput, reliability and uptime guarantees for the most demanding of R3 customers, and networks of customers.
+  
+
+
+
+
+
+ As part of the Core Platform team, you will:
+
+
+ Work with industry-leading technologies to build out a new highly available, horizontal scaling, multi-tenant version of Corda, leveraging Kafka, working right from the bottom peer-to-peer messaging layer up to the flow engine and ledger layer Corda has become known for.
+ Develop and maintain the framework and services that make up the Corda node – the flow engine, the persistence service, the certificate management service, peer-to-peer messaging gateway and more.
+ Design and implement features with consideration of the availability, scalability and performance requirements of the system.
+
+
+ No team is an island – you will work with many others across the company, to help ensure we build the best possible products. You will have the opportunity to showcase your work and help influence your colleagues' thinking.
+     
+
+
+
+
+
+
+About you:
+
+
+ You are a highly motivated software engineer or recent technology graduate. You may be embarking on your first career in software development or perhaps you have already begun that journey as a software engineer or completed an internship. You have a strong grasp of computer science fundamentals, either through formal study or via some other route. You are curious and quick to learn about new technologies, and keen to build on your skills by learning on the job.
+ We believe the best engineers can adapt to and learn any language, so whilst we are at heart a Kotlin shop, we welcome anyone with a software engineering background who wants to learn. Other exciting technologies we use include AWS services, Kubernetes, and Kafka.
+ We believe that quality, security, developer experience, and operational experience are everyone’s responsibility, so you will be driven by a passion to learn and ensure excellence in all of these.
+
+
+
+
+
+
+Responsibilities:
+
+
+ Write code and review the code of others.
+ Read and understand requirements and software design documents.
+ Work with your team to deliver functionality in an area or component of an R3 core product.
+ Provide inputs to help your team make decisions of high complexity and impact.
+ Work with our Product and QA team members to marry technical delivery and client requirements.
+ Learn about our business domain, so that we can always work in the best interest of our customers' needs.
+ Participate in streamlining software development processes for the R3 engineering teams.
+
+
+
+
+
+
+Education and experience:
+
+
+ Computer Science / Mathematics / Engineering student, proficient in a major object-oriented development language such as Java, Python or Kotlin.
+ Flexible with the ability to work independently in addition to working productively alongside software engineers and project managers in the team.
+ Strong organisational and interpersonal skills and the ability to successfully manage tasks as well as excellent verbal, written and oral communication skills.
+ Proactive, conscientious, self-motivated and goal oriented with excellent attention to detail.
+ Previous experience in the software industry, such as an internship, is a plus but not essential.
+
+
+
+

@@ -1,0 +1,58 @@
+
+
+Location: Rugby, UK (Office & Home-based)
+Full Time: Permanent 
+About the Role
+Following an expansion in our customer projects we're looking for a Software Developer to join our team.
+We develop Open Source business and healthcare applications for a wide variety of clients, including retailers, manufacturers, and the NHS.
+About You
+In this role you'll be working mainly in Python, using the Odoo framework.
+Prior knowledge of Odoo is not required - we'll train you - but you should already be comfortable using frameworks for development. For example, you may have used Django, Flask, or Giotto.
+Whatever framework you currently use, we'd expect you to know how to develop with an ORM, understand object oriented programming and design, be comfortable with test driven development, and have experience of using source control.
+Required Skills
+
+Python
+Experience using a development framework and ORM
+Test driven development
+Managing source control
+Team working with other developers
+Eager to learn new skills and technologies
+Able to create secure and maintainable code
+
+It would be ideal if you could give us some examples of software you've developed, such as any open source contributions, videos or on-line documentation you've made, or your GitHub profile. As a team of multiple developers, it's very important that code you write is easy for others to read and extend.
+Nice to Haves
+It would be great if you have any of these skills, but this really is the bonus list - they are useful but not essential for the role.
+
+JavaScript
+jQuery
+Odoo
+Docker
+Linux
+SQL
+
+About Us
+At OpusVL we strive to provide a relaxed, highly supportive working environment. 
+We understand that to be creative and provide high quality code, our developers need to build a comfortable environment that suits them individually and the company supports this as much as possible.
+We operate test-driven development, code to proper specifications, and keep up to date with technology. Developers are the most important part of our business - without a great technical delivery team, we would not be able to handle the complex and varied challenges; with the right people we know that if it is possible, we can make it happen.
+All developers get dual-head workstations (running Mint, Ubuntu and other Linux flavours) as standard, with a budget for peripherals of your choice.
+We'll support your training and development, and give you paid time to attend conferences and other events relevant to your role.
+The OpusVL office is in a convenient location right in the centre of Rugby, about two minutes walk from the shops, cafes and coffee shops. There's no dress code for technical people and working hours are flexible.
+So if you want to make a difference, and support Open Source while working on interesting projects then we'd love to hear from you!
+Our Benefits
+
+A casual dress code
+Flexible Working - start and finish times
+Desktop budget for peripherals of your choice
+Free fruit deliveries in the office
+30 days of holidays (including bank holidays)
+A Hybrid Working Model - Office and Remote working 
+Social events
+Company Pension Scheme 
+Gift Vouchers for Employee birthdays
+
+Additional Information
+To apply, please send your CV to careers@opusvl.com
+We do not use or accept offers from agencies.
+Please note, we do not have an on-site parking, but there is free side street parking within a 10 minute walking distance from our office.
+We offer Sponsorship for Right to Work in the UK.
+

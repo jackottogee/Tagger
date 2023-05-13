@@ -1,0 +1,69 @@
+
+ Overview: 
+ 
+   Redgate’s software engineers develop the products that are transforming the way teams across the globe are delivering their software. Our products solve the most difficult problems across the development lifecycle, enabling database code to be integrated into Agile workflows, and database estates to be monitored and managed to ensure performance and security.
+ 
+
+
+ We’re looking for senior engineers who bring new ideas to solving these problems for the mass market, using languages and frameworks such as .NET, C#, Java, Electron, TypeScript and React, and cloud-native stacks based around Kubernetes, Go, Dapr and LinkerD. This list isn’t exhaustive and you’ll be given the freedom to explore others and shape our next-generation tech stack.
+ 
+
+
+ Team work
+
+
+   You’ll work in a small cross-functional team consisting of a Tech Lead, a Designer and 4-6 Software Engineers, supported by a Product Manager and a coaching function to help guide you and remove blockers. You’ll be involved at every stage of your product’s development from early-stage research to writing, testing and deploying code and fixing bugs for customers.
+ 
+
+   You’ll need to be able to thrive in collaborative, agile and diverse environments and have the confidence to challenge the roadmap with new data and insight, and the flexibility to change direction based on new evidence. Balancing customer needs and market opportunity while building ingeniously simple software is at the heart of engineering at Redgate.
+ 
+
+
+ Culture
+
+
+   At Redgate, you'll be able to develop the skills you want, the way you want and we'll be there to support, advise, and encourage you. We'll give you the freedom, flexibility, and trust to excel at what you do, including enabling you to spend 10% of your time on personal development projects. You'll be working with bright people who are experts at what they do. You'll learn from us and we'll learn from you.
+ 
+
+
+ Redgate operates as a flexi-time business and without a dress code. We trust you to get the work done in a way that makes you most productive and we’ll provide you with all the equipment and tech you need to do so.
+ 
+
+
+ Achieving work life balance has never been more important and so Redgate has adopted a flexible-hybrid model. This means that people will work flexibly with a blend of remote (home) and co-located (office) work, with teams having the flexibility to decide which location best suits the outcomes they need to deliver.
+ 
+
+ Where you work and how frequently you attend the office will depend on the nature of your role, make-up of the team and the type of work that you need to do. Typically our Engineering teams get together once a fortnight to support our collaborative culture and enable our teams to deliver great work. So, if you are able to travel to & from the office safely in a day, that works well for us.
+ 
+
+
+ What makes you a Redgate Software Engineer
+
+
+ Excellent skills using a modern object-oriented language – we write code in a plethora of languages, including C#, Java, TypeScript and Go.
+ You’re happy to learn new skills and technology as needed (with ample help and support from us!).
+ You appreciate that making things simple isn’t always easy and strive for simplicity in the code you write and the products you build.
+ You thrive in a highly collaborative team and are enthusiastic about engaging with customers, designers, and product managers as necessary to create great products and services.
+ (desirable, but optional) You have domain expertise in one or more of Redgate’s product areas.
+ (desirable, but optional) You have experience working within an agile development team, with knowledge of practices such as TDD, BDD and continuous delivery.
+
+
+
+ Package
+
+
+ A great benefits package
+ You’ll work about 40 hours per week, with flexible work time
+ We dedicate Friday afternoons to personal development, community and innovation
+
+
+ Salary is £55k to £75k (depending on experience)
+
+
+
+ Redgate are happy to fully fund all fees and charges related to the successful applicant obtaining a Skilled Worker Visa if needed. We will also assist with both the financial costs and logistics of your move to the UK.
+ 
+
+
+ At Redgate we recruit on a rolling basis, which means we carry on recruiting until we find the right person for the role. We tend to compare individuals to the role specification rather than to each other.
+ 

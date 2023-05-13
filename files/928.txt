@@ -1,0 +1,62 @@
+We are Threecolts! A leading software suite for Amazon businesses. We acquire, launch, and grow ecommerce software. We are well capitalized to be able to take our business to the next level. We are scaling quickly and have over 100 team members speaking 17 different languages in over 33 countries across 5 continents who all collaborate together to drive our passion for success.
+We're building the tools for online commerce that help new businesses get started, expedite growth for existing companies, and empower sellers to reach new heights.
+We are a completely remote team spread across the world, with a deep passion for making the web a more beautiful, usable, and reliable place.
+We are looking for a Full Time Golang Developer with experience building robust APIs and web-services.
+Key Duties and Responsibilities
+
+You will help us build optimized, scalable, and modular software using required technologies.
+You will be tasked with developing and coding back-end components and connecting applications to other web services.
+Writing scalable, robust, testable, efficient, and easily maintainable code
+Translating software requirements into stable, working, high performance software
+Participating in architectural and design decisions, building towards an efficient distributed architecture
+Implement Golang libraries that will optimize performance without sacrificing security and base functionality
+Manage multiple projects within reasonable design specifications and budget restrictions
+You will work with the team on the design, development, and maintenance of Golang based backends to support cloud-based software for supporting sellers on Amazon.
+
+Essential Skills & Requirements
+
+Strong knowledge of Go programming language, paradigms, constructs, and idioms
+Experience with Vue.js
+Knowledge of common Goroutine and channel patterns
+Experience with the full site of Go frameworks and tools, including:
+Dependency management tools such as Godep, Sltr, etc.
+Go’s templating language
+Go’s code generation tools, such as Stringer
+Router packages, such as Gorilla Mux
+Ability to write clean and effective Godoc comments
+Familiarity with code versioning tools (such as Git, SVN, and Mercurial)
+At least 4 years of experience with Golang.
+Have expertise in implementing web services.
+Experience working with SQL and NoSQL databases, ability to write complex queries and optimize them
+Excellent database skills and knowledge – preferably Postgres
+Understanding of containerization technologies (Docker, Kubernetes, etc.)
+Basic experience with CI/CD systems (Jenkins, TeamCity, GoCD, Concourse, etc.)
+Basic experience working with AWS
+Fluent in English is a must
+Startup experience desirable
+
+We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!
+Get to know us a bit better:
+https://www.threecolts.com/
+Job Type: Full-time
+Salary: £60,000.00-£80,000.00 per year
+Benefits:
+
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Application question(s):
+
+What salary are you looking for? Please mention annual gross USD
+How soon can you start? Please indicate days
+Do you speak English at a high level?
+Can you work on a GMT or up to GMT+3 timezone?
+
+Experience:
+
+Go: 4 years (preferred)
+
+Work Location: Remote

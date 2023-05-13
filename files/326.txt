@@ -1,0 +1,36 @@
+3 x PHP Software Engineer - London Full-time, remote with monthly visits to London office
+A full-stack Software Engineer is needed to refactor a commercial and technology operations platform. The focus areas are building cloud-enabled OSS capabilities, real-time monitoring and reporting, and no-touch service assurance powered by AI.
+The candidate will be responsible for planning, designing, developing, and integrating applications, and solving complex performance problems and architectural challenges.
+Requirements:
+
+Strong knowledge of PHP web frameworks such as Symfony and Object-Oriented PHP.
+Proficiency in JavaScript and frameworks like React JS.
+Good understanding of fundamental design principles behind a scalable application.
+Experience with additional technologies including GIT, Docker, and Composer.
+Database programming: MySQL, Redis, MongoDB.
+Experience with automated deployment platforms such as Jenkins/Gitlab CICD.
+
+Benefits include a competitive salary, pension scheme, life assurance & private medical insurance, bonus scheme, 25 days annual leave, and more.
+Note: This is a remote-based role with monthly visits to the London office.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£65,000.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: RemoteFlexitime

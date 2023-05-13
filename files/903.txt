@@ -1,0 +1,70 @@
+
+A bit about the role.
+ As part of a Growth Product Engineering team, you will work closely with engineers, product managers, designers and stakeholders to help solve our customers' problems and directly impact their (and their dog's) daily lives. In this team you'll be the driving force in a number of key app and web development projects that play a huge part in the growth of Butternut.
+ In this role, you can expect to:
+
+Contribute to the architecture and development direction of the team to ensure quality code is written and excellent products are built.
+Work across the stack to deliver quality, maintainable code (this role is slightly more frontend weighted)
+Collaborate and learn with other team members via pair programming, mentoring, code reviews, and technical talks.
+Learn about and champion best practices in code, architecture & processes.
+Get stuck into a range of projects, including mobile and web.
+
+You'll get to use a lot of exciting technology here at Butternut including:
+
+React.js
+Rails
+React Native
+Typescript
+GraphQL/Apollo
+Postgresql
+Heroku
+Sass
+
+A bit about your responsibilities.
+ You'll help us with the following challenges:
+
+Work closely with PM's, designers and other engineers to build features and products to delight our customers and make their dogs' lives better.
+Do that by working across the stack which includes React Native (mobile), React and Ruby on Rails.
+Ensure the systems we build are modular, scalable and reliable.
+
+Here are some of the projects the team have worked on recently:
+
+Enabling international expansion by adapting our systems for other currencies and languages.
+Helping customers better resolve issues with their deliveries themselves through a self-serve platform that looks great and is easy to use.
+Building a new onboarding flow to make sure new customers feel at home with Butternut.
+
+ A bit about you.
+
+Relevant commercial experience for a number of years in a similar fullstack position.
+Commercial experience with Typescript/React frontend, plus a backend language (preferably Ruby on Rails).
+An interest in developing your skills and coaching others.
+A true motivation to ship customer-facing products.
+Pro-active, driven, entrepreneurial 'can do' attitude.
+Passion for startups.
+Obsessed with dogs!
+
+ A bit about us.
+ At Butternut, we put the food back into dog food. We believe dogs deserve to eat the healthiest, most natural and tastiest food with none of the nasties. That's why we make freshly prepared dog food. Cooked like you would at home. Delivered in perfect portions. #LI-Hybrid
+ As a B-Corp certified company; you can be sure you are joining a sustainable company who care about our people, product and our impact on the environment.
+ Our goal is to help dogs live healthier, happier and longer lives whilst leaving humans smiling after every interaction. We've come a long way since our co-founders (Kev & Dave) hand-delivered the first Butternut Box, we now feed a lot of dogs across the UK - but we want to feed dogs everywhere. And to do this, we need a team of brilliant people who share that ambition to come and work with us.
+ A bit about what we offer.
+
+
+25 days holiday (plus 8 bank holidays) and an additional day for every year of service
+£500 personal learning & development budget
+Butternut Box employee discount
+Enhanced parental leave
+Co-working office space. Flexible working hours and work from home options
+Cycle to work scheme
+Pension with NEST
+Private Medical Insurance with Vitality
+Lots of office dogs (Ajax, Brio, Luna, Basil, Peggy, Pip, Rudi, Indi, Gnocco and many more….)
+
+❗️A few things to note:
+
+Butternut Box is an equal opportunity employer and we value diversity and inclusion. We welcome people of different nationalities, backgrounds, experiences, abilities and perspectives.
+As our business has grown so has our responsibility to our community, our planet and our business. We are not perfect, but we are committed to doing business the right way and continually improving our social and environmental performance.
+We're not afraid of putting extra weight on candidates from underrepresented groups. We want strong, diverse teams built from different backgrounds, experiences, and identities. We're ready for the ongoing work that goes into building an inclusive, supportive place for you to do the best work of your career.
+We are not looking for external agency support with this role.
+We can offer hybrid or fully remote.
+

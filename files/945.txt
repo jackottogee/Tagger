@@ -1,0 +1,44 @@
+
+Wise is one the fastest growing companies in Europe and we're on a mission: to make money without borders the new normal. We've got 10 million customers across the globe and we're growing. Fast.
+ Current banking systems don't let us send, spend or receive money across borders easily. Or quickly. Or cheaply.
+ So, we're building a new one.
+ And, we need a Senior Backend Engineer to join our mission and help us build a global platform that's scalable, reliable and secure. We're working on lots of exciting challenges, and you'll dive right into projects helping consumers and businesses receive and send money from anywhere in the world.
+ What does it take?
+
+A strong product mindset and passion for user experience, you prioritize work with the customers in mind and make data-driven decisions to fix customer pain-points
+Great communication skills and the ability to articulate complex, technical concepts to non-technical audiences
+Ability to work independently while also being a good team player. Your work will frequently involve cross-team collaboration.
+Ability to break down complex projects into incremental milestones that deliver customer value
+Experience in developing web applications and distributed systems in a production environment
+Experience with common design and architectural patterns coupled with a passion for writing clean code that is performant and well tested
+Curiosity and drive for continuous learning and improvement
+Following and advocating best coding practices, continuous delivery and code reviews
+Experience working with relational and non-relational databases, query optimisation and designing schemas is a plus
+Knowledge of Java and Spring boot and experience with a messaging system, like Kafka, is a plus
+
+…but don't worry we don't expect you to know everything!
+ What does success look like?
+
+You'll have onboarded and found your place through understanding your team and tribe vision and how you can contribute
+You'll understand how our values can help you guide your work
+You'll understand the reasons behind problematic payments and customer difficulties and how to go about solving them
+You'll be raising the automation level to enable scaling of the product
+You'll understand our customers and the impact our product makes in their lives
+You'll help us scale-up and build a world class global banking product by finding solutions to our technical challenges and opportunities
+
+Interested? Find out more:
+
+How we work – a practical guide
+ Wise Vlogs: Omar, Engineering Lead
+ The Wise Tech Stack, 2020 edition
+ Our Engineering career map
+
+…or check out our Engineering blog.
+ Salary Range: £80,000 - £115,000 + RSU's
+ #LI-AT1
+
+ We're people without borders — without judgement or prejudice, too. We want to work with the best people, no matter their background. So if you're passionate about learning new things and keen to join our mission, you'll fit right in.
+ Also, where and what you studied isn't important to us. If you've got great experience, the right skills for the role and you're great at articulating your thinking, we'd like to hear from you.
+  If you want to find out more about what it's like to work at Wise visit Wise.Jobs.
+ Keep up to date with life at Wise by following us on LinkedIn and Instagram.
+

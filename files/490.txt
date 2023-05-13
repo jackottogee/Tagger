@@ -1,0 +1,40 @@
+
+Our people work differently depending on their jobs and needs. From hybrid working to flexible hours, we have plenty of options that help our people to thrive.
+This role is based in the United Kingdom and as such all normal working days must be carried out in the United Kingdom.
+
+Join us as a Software Development Engineer, Test SDET
+
+
+ In this key role, you’ll be supporting with defining and implementing our testing strategy across our products
+ You'll be working with customer-focused Agile teams, collaborating with product managers, designers and engineers to define the next iteration of our business area
+ It’s an opportunity to work with stakeholders across our business to shape the future of quality engineering and interests of our customers at the heart of key decisions
+
+
+ What you'll do
+
+ As a Software Development Engineer, we’ll look to you to define and continually improve our testing strategy for new and existing products. You’ll have the opportunity to collaborate with software engineers from all specialisms to discover and build solutions that ensure the reliable and scalable testing of our software and deliver a high-quality, secure product to our customers at pace.
+
+ As well as this, you’ll be:
+
+
+ Developing clean, elegant, and reusable codes that’re easy to maintain and extend
+ Defining your team’s approach to testing, as well as providing technical mentoring and oversight for other engineers in your team
+ Building scalable automated testing systems that enable us to deliver value to our customers at pace
+ Assisting other engineers to test their software and acting as an expert
+ Driving the direction of our testing chapter to make sure that it maintains the highest standards of technology and processes
+
+
+ The skills you'll need
+
+ To succeed in this role, you’ll need experience of continuous integration and delivery processes, tooling and embedding quality checks in the process. In addition, you’ll need experience of JavaScript, JavaScript test framework, such as Jasmin, Jest and Cypress, as well as experience of code performance optimisation, including memory performance, data queries and working with APIs.
+
+ You’ll also need:
+
+
+ Knowledge of software performance and automated security testing techniques and tooling
+ An awareness of Cloud infrastructures and configurations
+ Experience of creating effective functional and non-functional test cases
+ Experience of delivering and testing modern software as part of an Agile team
+
+If you need any adjustments to support your application, such as information in alternative formats or special requirements to access our buildings, or if you’re eligible under the Disability Confident Scheme please contact us and we’ll do everything we can to help.
+

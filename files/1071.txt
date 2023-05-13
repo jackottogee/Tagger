@@ -1,0 +1,42 @@
+
+We're excited to announce that we're hiring Engineering roles based in London for a new venture! We're improving access to healthcare for everyone in the UK, offering fast routes to excellent healthcare at affordable prices. Now, more than ever, it’s needed.
+ We invest in new innovation and technology that provides some of the best products in healthcare, and we're excited to be working on a new start-up, based in central London, that will help health professionals deliver the best possible patient experiences, while growing their own practices.
+ Having appointed the leadership roles, we're now looking to build out the rest of the team. We're also collaborating with BCG X to bring this new business to life, so if successful, you’ll get to work alongside their fantastic designers and engineers as we develop the value proposition.
+ To achieve these goals, we’re now hiring a Senior Back End Engineer to work with our leadership team to take Boost to the next level.
+
+
+
+What you’ll be responsible for as Back End Developer:
+
+You will be part of a product team that has end-to-end ownership of the core platform developing the backend in Node.js and Typescript 
+Maintaining and adapting a lightweight infrastructure setup on AWS, using CDK
+Building scalable, performant APIs and complex backends from scratch
+Scaling a greenfield backend and bringing your expertise and experience to help drive key technical decisions
+Collaborate with the broader engineering team to help create the technical roadmap and wider product vision
+
+You should have:
+
+Expertise building and maintaining backend APIs Node.js with Typescript
+Comfortable designing and implementing data models for complex relational databases
+Experience with AWS and knowledge of managing infrastructure with code, ideally with CDK.
+Experience creating and managing lightweight CICD pipelines is highly advantageous
+A positive attitude towards code quality and experience writing unit and integration tests
+Experience managing and maintaining live systems in production environments is a nice to have
+Broad knowledge of industry trends that you could bring and apply to the next technical challenge
+Experience working in a fast paced start-up environment, ideally within the Tech, SaaS or Healthcare sectors. 
+Experience in B2B2C organisations is preferable. 
+Knowledge of architectural topics, with the ability to provide input on designs for high availability and redundancy
+Excellent communication skills in English, in order to clearly explain design decisions and processes to stakeholders
+A passion for technology and a curious nature, always eager to explore feedback and a keen focus on continuous improvement.
+
+
+
+
+We’re focused on providing an application, assessment and onboarding journey that is fair, consistent, diverse and inclusive for all, allowing us to hire top talent based on the skills and behaviours pivotal to your and our success.
+Your process
+
+Initial screening call 
+Technical interview with Head of Tech and Lead Engineer at BCG X
+Final meet with CEO & Co-Founder
+Offer
+Please contact our Talent Acquisition Team if you have any questions; talentacquisitionteam@simplyhealth.co.uk.

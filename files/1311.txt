@@ -1,0 +1,53 @@
+Senior/Lead Web Developer
+Warrantywise are one of the fastest-growing businesses in the Northwest, an award-winning warranty company that continually rank as one of the best businesses in Lancashire. We are looking for a high-performing Senior/Lead Full Stack Web Developer to join our ever-growing team, at our prestigious office, The Rocket Center in Blackburn.
+What does the role involve?
+You will be required to work across our full brand portfolio to ensure the best-in-class technical standards are implemented throughout. Your Key Responsibilities will be;
+
+Understanding project requirements and how to convert customer/business requirements into technical and non-technical requirement.
+Handling the priority of issue fixing and feature development.
+Organizing show and tell demonstrations with relevant stakeholders.
+Working with the CTO and wider team to help improve technology and ways of working.
+Ensure that technical approach follows guidelines and allows for future project requirements.
+Ensure the CTO is kept up to date with technical reports of project progress, and that he is consulted when technical decisions are made.
+Exhibit clear communication and willingness to support other team members and departments.
+Deep understanding of factors affecting end-to-end software development, particularly commercial implications of implementation and change.
+Design and implement aspects of development with limited guidance, with the ability to justify and explain coherently.
+Be the technical lead for assigned projects and manage these through the software development life cycle including creation of project documentation like task tickets, architectural diagrams, help documentation and decision logs etc.
+Mentoring other team members in your area of expertise.
+
+Knowledge & Skills needed
+
+Significant experience of using PHP, MySQL and Laravel and JavaScript (Preferably Vue.js)
+Understand OOP, MVC and associated best practices.
+Experience designing and consuming RESTful APIs.
+Excellent knowledge of responsive UI development, HTML5 and Bootstrap.
+Working knowledge of AWS autoscaling cloud service.
+Good understanding of version control tools, preferably Git.
+Demonstrable experience in designing, developing and maintaining CI/CD pipelines.
+Strong knowledge of tooling and task runners e.g Composer, npm and grunt etc.
+Knowledge of Linux based systems and comfortable with the Linux command line.
+
+What we are looking for
+An experienced developer, with a passion for coaching and mentoring. Who will be able to help define and shape what we do and the way we do it. We are looking for some who is able to introduce new technologies and industry best practices.
+And who is able to work on a number of business-critical applications at any one time. You will also be working to improve the technical function of the business and lead by example when it comes to collaborating with the team on both new and existing projects.
+Benefits
+
+Senior Developer upto £40,000 depending on experience.
+20 days holiday plus bank holidays.
+Increases to 22 days holiday after 5 years of service.
+1 month paid sabbatical after 10 years of service.
+Company pension.
+Company supported healthcare (Free eye test, offer Able Futures support service).
+30% discount on all warranty products for employees, friends and family.
+Interest free company loan up to £1000 (After 6 months of service).
+Excellent working environment.
+Recommend a friend scheme.
+Staff incentives.
+Social events.
+Progression within the company.
+
+This is a full time role, Monday to Friday between 09.00am and 17.00pm. Hybrid working available.
+References upon request.
+Job Type: Full-time
+Salary: Up to £40,000.00 per year
+Work Location: In person

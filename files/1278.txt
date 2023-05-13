@@ -1,0 +1,25 @@
+1-2 days a month on-site | MEAN Stack | Serverless AWS | AI/ML | Flexible Hours | Unlimited Holiday | Share Options | B-Corp 
+
+ Our client, an expanding Platform vendor in the affiliate/advocacy marketing space, is looking to add a Full Stack JavaScript Developer with strong skills in Node.js to their ranks. The candidate will be working on the architecture, delivery and development of new features for their flagship product, engaging on code refactors and roadmap development, which is made up of Angular 8 frontend components and deployed to serverless AWS using Lambdas. 
+The ideal candidate will have a strong knowledge of vanilla JavaScript or Typescript as well as sound architectural knowledge. Additionally, as the roadmap involves leveraging AI and Machine Learning automation techniques, knowledge or interest in this area is a plus! 
+
+ The company are currently in application for a B-Corp status, indicating their strong cultural values in making a positive impact for wider society. 
+
+ In terms of culture they offer an extremely flexible approach to work, allowing employees to get their work delivered at a time and place to suit them. Whether it be that you need a few hours in the middle of the day for an appointment or to work abroad for a couple of weeks - their flexible approach empowers individuals to work their job around their life, not the other way around. 
+That said, you can expect to meet up with the rest of tech team once or twice a month in Bristol – so flexibility for some level of travel or locality will be necessary! 
+
+
+To Be Considered:
+
+
+Strong experience with Node.js
+Experience with MEAN/MERN stack
+Strong knowledge of JavaScript/Typescript
+Working knowledge of GraphQL, Apollo, Angular 7,8/React
+TDD/BDD
+Knowledge of NoSQL databases (eg.MongoBD)
+Knowledge of AWS Deployments
+Any knowledge in AI/ML or Security would be a benefit
+ The client have an excellent reputation in the market, working with some of the biggest brands on the planet, and are known for the quality of the solutions that they produce. You'd be joining them at an extremely exciting period in their development as they grow following a recent investment and boost in revenue generation. 
+
+ We are anticipating an excellent response to this Full Stack JavaScript Developer role, so please send over a CV in confidence ASAP to matthew.coney@adameher.com for more information.

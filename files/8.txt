@@ -1,0 +1,63 @@
+
+Lead Software Developer
+ Do you enjoy using new technologies and sharing best practices in software development?
+ Do you like working in collaborative teams to solve technical problems?
+ Join our cutting-edge Software Engineering team
+ Our Industrial and Energy Technology (IET) business provides intelligent, connected technologies to monitor and control our energy extraction assets. We provide customers with the peace of mind needed to improve their operations reliably and efficiently.  This role is part of the Process and Pipeline Solutions In-line Inspection team. We design and build tools to inspect pipelines globally.  Our software team builds next-generation solutions in a mix of desktop and cloud applications to meet the demanding mission-critical requirements of our customers.
+
+ Partner with the best
+ This is an exciting time and opportunity to join us. We are currently undergoing a digital transformation, migrating our current software platform to a contemporary cloud-based architecture.  Your role would be to lead the development of the existing platforms to maintain business continuity whilst moving towards the new architecture in close collaboration with the cloud development and data science teams.
+ As Lead Software Developer, you will be responsible for:
+
+ Delivering scalable, high performance and secure solutions
+ Contributing to architecture, design, support, implementation and troubleshooting of software systems to deliver engineering solutions for customers
+ Providing guidance to educate peers on best practice and latest technology trends, training less experienced developers
+ Collaborating with internal cross-functional teams, while ensuring system security
+ Identifying and proposing new innovations for strategic developments to support changing business needs
+
+
+ This role is ideal for someone who enjoys working on a variety of technologies.
+ You will work with multiple languages such as Java, C++, Python, JavaScript.
+
+ Fuel your passion
+ To be successful in this role you will:
+
+ Have significant experience of software development
+ Display proficiency in scripting and coding languages including C++, Java, Python, JavaScript
+ Demonstrate ability to learn new technologies
+ Have experience of Continuous Integration and Deployment and knowledge of source-control tools such as SVN, GIT or similar
+ Have excellent collaboration and communication skills
+ Demonstrate ability to provide technical guidance and mentorship to peers
+ Have experience of managing large data sets and automated testing
+ Experience of designing and implementing cloud computing solutions preferable
+
+ Work in a way that works for you
+ We recognize that everyone is different and that the way in which people want to work and deliver at their best is different for everyone too. In this role, we can offer the following flexible working patterns:
+
+ Occasionally working remotely from home or any other work location
+ Working flexible hours - flexing the times when you work in the day to help you fit everything in and work when you are the most productive
+ Working 4 days a week or reducing the time you work during the day
+
+ Working with us
+ Our people are at the heart of what we do at Baker Hughes. We know we are better when all of our people are developed, engaged and able to bring their whole authentic selves to work. We invest in the health and well-being of our workforce, train and reward talent and develop leaders at all levels to bring out the best in each other.
+ Working for you
+ Our inventions have revolutionized energy for over a century. But to keep going forward tomorrow, we know we have to push the boundaries today. We prioritize rewarding those who embrace change with a package that reflects how much we value their input. Join us, and you can expect:
+
+ Contemporary work-life balance policies and wellbeing activities
+ Comprehensive private medical care options
+ Safety net of life insurance and disability programs
+ Tailored financial programs
+ Additional elected or voluntary benefits
+
+
+ About Us:
+
+   We are an energy technology company that provides solutions to energy and industrial customers worldwide. Built on a century of experience and conducting business in over 120 countries, our innovative technologies and services are taking energy forward – making it safer, cleaner and more efficient for people and the planet.
+ 
+
+ Join Us:
+
+   Are you seeking an opportunity to make a real difference in a company that values innovation and progress? Join us and become part of a team of people who will challenge and inspire you! Let’s come together and take energy forward.
+  
+ Baker Hughes Company is an Equal Opportunity Employer. Employment decisions are made without regard to race, color, religion, national or ethnic origin, sex, sexual orientation, gender identity or expression, age, disability, protected veteran status or other characteristics protected by law.
+ 

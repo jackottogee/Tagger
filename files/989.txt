@@ -1,0 +1,36 @@
+
+ Our team is at the heart of building this new venture, focused on developing products that put the customer at the centre. We have created a new organisation with diverse professionals that come from a wide set of skills, backgrounds, and experiences, including b2b and b2c businesses.
+  Team members have broad autonomy to collaborate and work in a cross-functional way and we value your opinion in every matter; so, if you are a product manager and you want to get into design work, - please do! Or an engineer and want to do user testing - go for it! Teams own their work end-to-end and we have a flat organisational structure.
+  Our inclusive culture is hugely important to us, and we are looking for intellectually curious, compassionate people who would like to expand their skills whilst working on an exciting new venture for the firm. We are about bringing new products to market that solve real world problems for real life customers, not just innovation for the sake of innovation. We are human first; we love working with each other, and we need personal connections and in-person bonding. We find we are happier, more motivated, and more productive this way. If this sounds like something that you would like to be a part of, we'd encourage you to read on and apply. Even if the job description isn't an exact match for you, we promise to review your application and let you know if there is anything that might be suitable in the future!
+  This is a hands-on role for a senior back-end engineer whowants to be part of flat-structure organization. The responsibilities are to deliver end-to-end cutting-edge solutions in the form of cloud-native microservices architecture applications leveraging the latest technologies and the best industry practices. You are expected to be involved in the design and architecture of the solutions while also focusing on the entire SDLC lifecycle stages. 
+Your technical skills should include:  
+
+Qualifications in computer science or STEM related field (science, technology, engineering or mathematics) or foreign equivalent 
+Professional experience working in an agile, dynamic and customer facing environment 
+Hands-on professional experience (actively coding) as a back-end engineer 
+Recent experience with using a JVM language (Java/Scala/Kotlin, preferably Java 8+) 
+Understanding of distributed systems and microservices architecture 
+Understanding of RESTful APIs and web technologies 
+Understanding of relational databases 
+Desired - understanding of cloud technologies (AWS, GCP, Azure, etc.) 
+Desired - understanding of dependency injection frameworks (Spring / Spring Boot, etc.) 
+Desired - understanding of security frameworks / standards 
+Desired - understanding of data streaming and messaging frameworks (Kafka, Spark, etc.) 
+Desired - understanding of distributed tracing and monitoring (Zipkin, OpenTracing, Prometheus, ELK stack, Micrometer metrics, etc.) 
+Desired - understanding of containers (Docker, Kubernetes, Helm, etc.) 
+Experience in all the stages of software development lifecycle (requirements, design, architecture, development, testing, deployment, release and support) 
+Desired - experience in automating deployment, releases and testing in continuous integration, continuous delivery pipelines 
+A solid approach to writing unit level tests using mocking frameworks, as well as automating component, integration and end-to-end tests 
+
+ Your 
+ soft skills should include: 
+ 
+
+Ability to work in a collaborative environment and coach other team members on coding practices, design principles, and implementation patterns that lead to high-quality maintainable solutions. 
+Ability to work in a dynamic, agile environment within a geographically distributed team 
+Ability to focus on promptly addressing customer needs 
+Ability to work within a diverse and inclusive team 
+Technically curious, versatile and solution oriented 
+
+J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

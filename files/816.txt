@@ -1,0 +1,46 @@
+
+
+We are looking for a Mid-Level to Senior Python developer to join us on a permanent, full-time basis to be responsible for conducting software development against sprint tasks for financial/accountancy software.
+ Who is Pennant?  Pennant International Group is a leading, worldwide provider of technology-based training solutions, ILS software and services to the Defence, Aerospace, and safety critical industries. We have offices across the globe and aim to be the global provider of choice for world-class products and services which train and assist engineers in both the defence and regulated civilian sectors.
+
+ Our Values  We aim for excellence by continuously striving to improve (Innovation), take responsibility (Quality), believe that everyone matters (Teamwork) and deliver on our commitments (Respect). Our values drive our daily interactions, support a culture of collectiveness and collaboration whilst challenging continued performance.
+
+
+ The Role
+
+ You will work closely with a small team in planning sessions and work with the QA team to identify and resolve issues. You will have the chance to take ownership of new features throughout the entire software development lifecycle. The right candidate will have experience in designing, implementing, testing and deploying software features from end-to-end.
+  
+ A great candidate will excel in code review too, bringing pragmatism and effective improvement to other's code.
+  
+ During the next few years, you will also be involved in the porting, refactoring and upgrading of complex software features from legacy Python 2 code to Python 3 as well as various other modernisation tasks from accessibility through to desktop UI framework upgrades.
+  
+ You'll need to have a good engineering mindset, be able to tackle complex tasks and research complicated background subject matter under your own motivation. You'll be responsible for designing, getting things done, taking initiative and communicating well in a small team developing essential government software.
+  
+ As part of a small team, you'll also be able to be involved in all parts of the process, from interfacing with clients and improving team processes, through to helping with workshops on new features.
+  
+ We work to deliver essential complex software as a meritocratic team of equals and peers; your performance will have a substantial impact on the project's outcomes so you must be ready for a challenge.
+  
+
+What you need to know
+
+
+
+Python, Django, SQL, HTML, JavaScript and CSS
+Git, unit testing, and industry standard SDLC processes
+Code review practices
+
+
+
+ What would be helpful to know
+
+
+
+Challenges working with, refactoring and upgrading legacy codebases
+How to develop and test financial applications
+Playwright, Selenium and other integration/automation frameworks
+C/C++/Qt
+WCAG accessibility implementation
+
+
+ Where you will work  Hybrid. Office in Northenden, Manchester. You'll be expected to work in the office during key phases of the project and during planning sessions. To Apply  Interested candidates should click the apply for this job button at the top of the page. Due to the high volume of applications we typically receive, we regret to advise that only shortlisted candidates will be contacted.
+

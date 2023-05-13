@@ -1,0 +1,64 @@
+
+
+Top 50 Tech Start Up 
+Growth/Huge Funding
+ Package: £50,000 – £65,000 + benefits 
+Office: London- Fully remote flexibility.
+
+Do you have a Computer Science or Software Development related degree from a top tier UK based University?
+Do you have experience with typescript, Python and AWS?
+Do you want to work for an exciting Tech start-up who are responsible for a data visualisation platform that is changing the construction/civil engineering world forever?
+
+We are excited to be working with an innovative Tech start-up who are responsible for a data visualisation platform that is changing the construction/civil engineering world forever! This fantastic business has doubled in size year on year and now has over 70 employees based in two countries.
+ We are currently recruiting for a back-end developer to join a team of experienced developers to add value and give insight on design, development and application and enhance team performance to achieve on overall goals and team projects.
+ Junior Back-End Developer – Job Accountabilities
+
+Development of functionality to provide an API to process and interact with our data.
+Work to integrate our APIs with those of external providers.
+Contribute to the design of that functionality, focussing on making large, complex data sets accessible and easy to use.
+Contribute to the Agile processes we use, helping us refine and improve how we work, helping to break down requirements into plans.
+Contribute to technical standards across your team and the company.
+
+Junior Back-End Developer – Experience Needed
+
+2+ years commercial development experience including unit/automated testing.
+
+
+Computer Science or Software Development related degree from a top tier UK based University.
+
+
+Typescript skills, preferably using node.js
+Experience with authoring/refactoring REST/OpenAPI/Swagger APIs.
+Experience with NoSQL databases (mongoDB preferred)
+Experience of IoT/sensor time series data in the cloud beneficial
+AWS experience (S3, step functions, cloudfront) beneficial
+Experience with containerisation/docker/kubernetes beneficial
+
+
+
+Job Information
+
+
+     Job Reference: YP000004_1635682941
+   
+
+     Salary: £50000 - £65000 per annum + Additional benefits 
+   
+
+    Salary From: £50000
+   
+
+     Salary To: £65000
+   
+
+     Job Industries: IT
+   
+
+     Job Locations: London
+   
+
+     Job Types: Permanent
+   
+
+
+

@@ -1,0 +1,11 @@
+
+A new and exciting opportunity has arisen for a Software Engineer & Senior Software Engineers to join a global manufacturing company priding itself on quality.
+ With no day ever being the same the Software Engineer roles offers genuine long-term progression and career development within a first-class manufacturing environment.
+ Job Description:
+ To help develop and maintain a high-speed, high-accuracy automated data acquisition system.  Develop real-time software to control automated measurement systems and associated sensors to achieve cutting-edge system performance. Help design and architect new and existing software from system to unit level, to meet requirements and specifications. Understand existing algorithms and how they influence system performance and make improvements. Work with multi-disciplinary teams developing new sensors and systems, develop the software and algorithms needed to make best use of them. Conduct design and code reviews and develop unit and integration tests.
+ Experience & Skills:
+ 5 years experience in modern C++  Experience of Embedded software design An interest in Control and Automation
+ 
+Suitable candidates should apply immediately by calling our Managing Consultant for this vacancy Nick Stovold on 01275 371981 or by sending your CV directly to him at nicks@hunterselection.co.uk
+ We regret that this client is not prepared to sponsor work permit or work permit transfer applications. Candidates must be able to prove their eligibility to work in the UK.
+ Hunter Selection is an employment consultancy and currently has permanent vacancies for Engineering and Manufacturing professionals throughout the South West of England and South Wales. If you are looking for work in this area we may be able to assist you. Contact us directly on 01275 371981 and discuss your requirements with one of our dedicated consultants.

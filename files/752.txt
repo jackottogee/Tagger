@@ -1,0 +1,115 @@
+
+
+  We believe in better. And we make it happen.
+ 
+
+   Better content. Better products. And better careers.
+ 
+
+   Working in Tech, Product or Data at Sky is about building the next and the new. From broadband to broadcast, streaming to mobile, SkyQ to Sky Glass, we never stand still. We optimise and innovate.
+ 
+
+   We turn big ideas into the products, content and services millions of people love.
+ 
+
+   And we do it all right here at Sky.
+ 
+
+   What you'll do
+ 
+
+   You will join the Online Video Platform team (OVP) within Global Video Engineering & Apps where you will be positioned within business-critical propositions that support all our global streaming initiatives such as NOW, Sky Go, Peacock and our next streaming venture, SkyShowtime. We are on the lookout for motivated and outstanding individuals who want to be involved in groundbreaking technology that truly pushes the boundaries and growth of streaming!
+ 
+
+ Design, develop, and test Java micro-service applications to drive innovation for business-critical products.
+ Bring a proactiveness to pair programming and seek to follow the best clean code / TDD practises day-to-day.
+ Promote the use of Docker and Kubernetes as container technologies.
+ Share knowledge with team members through training sessions and technical presentations.
+ Utilise pair-programming regularly and mentor junior developers.
+ Endeavour to follow best development practices!
+
+
+   What you'll bring
+ 
+
+ Extensive experience in Java system development and in-depth knowledge of building REST APIs, utilising Spring Boot and Java 11+.
+ Applied knowledge and a passion for agile methodologies and software engineering concepts e.g. Extreme Programming, Agile/Scrum, Pair Programming, TDD, BDD.
+ Familiarity with monitoring and logging tools (e.g. Prometheus and Grafana).
+ Practical experience with design patterns and SOLID principles.
+ A willingness to collaborate in a cross-team environment and be part of a self-organising multi-functional agile team.
+ Practical experience utilising container/cloud technologies such as docker and Kubernetes to deploy applications to cloud infrastructure.
+ Understanding of multi-distributed systems such as NoSQL Databases e.g. Cassandra
+ Understanding of message-driven systems e.g. Kafka, RabbitMQ, Amazon Kinesis, ActiveMQ and non-functional testing, familiar with libraries such as Gatling.
+ Strong understanding of configuration and build tools such as Jenkins, Gradle, and Maven.
+
+
+   Team overview
+ 
+
+   Global OTT Technology
+ 
+
+   Our team develops and supports market-leading video streaming services, underpinned by state-of-the-art engineering principles. We do this at huge scale: for over 50 million customers globally, spanning NBCUniversal Peacock in the US and Sky, NOW and SkyShowtime across Europe. No matter the device, the time or the place, we make sure that our diverse audiences can easily find and enjoy whatever they want to watch, choosing from the world’s best entertainment, news and sport.
+ 
+
+   The rewards
+ 
+
+   There's one thing people can't stop talking about when it comes to #LifeAtSky: the perks. Here’s a taster:
+ 
+
+ Sky Q, for the TV you love all in one place
+ The magic of Sky Glass at an exclusive rate
+ A generous pension package
+ Private healthcare
+ Discounted mobile and broadband
+ A wide range of Sky VIP rewards and experiences
+
+
+   Inclusion & how you'll work
+ 
+
+   Recognised by The Times and Stonewall, we take pride in our approach to diversity and inclusion. Investing in society, fighting racial injustice and setting ambitious targets for representation at Sky.
+ 
+
+   We’ve embraced hybrid working and split our time between unique office spaces and the convenience of working from home. You’ll find out more about what hybrid working looks like for your role later on in the recruitment process.
+ 
+
+   Your office space
+ 
+
+   Osterley
+ 
+
+   Our Osterley Campus is a 10-minute walk from Syon Lane train station. Or you can hop on one of our free shuttle buses that run to and from Osterley, Gunnersbury, Ealing Broadway and South Ealing tube stations. There are also plenty of bike shelters and showers.
+ 
+
+   On campus, you’ll find 13 subsidised restaurants, cafes, and a Waitrose. You can keep in shape at our subsidised gym, catch the latest shows and movies at our cinema, get your car washed, and even get pampered at our beauty salon.
+ 
+
+
+   Why wait?
+ 
+
+   Apply now to build an amazing career and be part of a brilliant team. We can’t wait to hear from you.
+ 
+
+   To find out more about working with us, search #LifeAtSky on social media. A job you love to talk about.
+ 
+
+
+   We'd love to hear from you
+ 
+
+   Inventive, forward-thinking minds come together to work in Tech, Product and Data at Sky. It’s a place where you can explore what if, how far, and what next.
+ 
+
+   But better doesn’t stop at what we do, it’s how we do it, too. We embrace each other’s differences. We support our community and contribute to a sustainable future for our business and the planet.
+ 
+
+   If you believe in better, we’ll back you all the way.
+ 
+
+   Just so you know: if your application is successful, we’ll ask you to complete a criminal record check. And depending on the role you have applied for and the nature of any convictions you may have, we might have to withdraw the offer.
+ 
+

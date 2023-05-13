@@ -1,0 +1,51 @@
+
+Intraday Risk C++ Software Engineer London
+As a Barclays Intraday Risk C++ Software Engineer you will be working as part of an established team to produce a consistent risk layout, reflecting the trader’s exposure and enabling mitigation of risk. You will ensure that the software releases are both timely and of a high quality. With a heavy emphasis on both technical and communication skills, you will be expected to work closely with other developers, business analysts and trade floor support staff across all regions in a controlled, transparent and actively risk managed fashion. 
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted. 
+
+  This opportunity is location flexible. We will consider requests for locating the role at an alternative Barclays’ key UK office from that advertised.
+   We are currently operating in a hybrid working environment, meaning that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. Please discuss the detail of the working pattern options for the role with the hiring manager.
+  
+ We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally are able to request work patterns to reflect their personal circumstances
+   Please discuss the detail of the working pattern options for the role with the hiring manager.
+  
+ We’re committed to providing a supportive and inclusive culture and environment for you to work in. This environment recognises and supports ways to balance your personal needs, alongside the professional needs of our business. Providing the opportunity for all our employees, globally to work flexibly empowers each of us to work in a way that suits our lives as well as enabling us to better service our customers’ and clients’ needs. Whether you have family commitments or you’re a carer, or whether you need study time or wish to pursue personal interests, our approach to working flexibly is designed to help you balance your life.
+   If you would like some flexibility then please discuss this with the hiring manager, and your request will be reviewed subject to business needs.
+  
+
+What will you be doing?
+ • You will be responsible for analysis, design, and software development across a range of projects in the Intraday Risk space
+  
+
+Working with the business, analysts, peers and project managers to understand and deliver requirements
+Ensuring that software designs are well documented and shared appropriately across the whole team
+Ensuring high code quality and unit test coverage
+Driving continuous improvement of processes
+Ensuring adherence to technical standards & SDLC including quality measures
+Raising change requests and carrying out releases
+Third line production support
+
+
+What we’re looking for:
+ • Excellent C++ and general programming skills
+  
+
+Proven track record of developing large-scale, low latency, high throughput, performant systems
+High level of proficiency with Microsoft development tools
+Degree level qualification
+
+
+Skills that will help you in the role:
+ • C# and Java skills
+  
+
+Background working in Finance, or other area with a significant focus on numerical data, particularly risk
+Experience and knowledge of Agile project management principals and practice including use of Jira, as well as Dev Ops technologies such as TeamCity and GIT
+Knowledge of messaging technologies such as Solace, databases and data grids
+
+
+Where will you be working?
+ In the heart of Canary Wharf, our headquarters at Churchill Place boasts onsite amenities such as; a gym, staff restaurant and deli bar, and is easily accessible by tube and bus links. With a population of around 5000 staff the atmosphere is second to none with a real buzz being created around the offices within.
+ 
+
+ #LI-Hybrid #LI-JG12021

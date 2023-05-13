@@ -1,0 +1,87 @@
+SkillsSoftware Developer, Programmer, Software Engineer, MVC methodology, ASP.NET (MVC), Entity Framework, REST, C#, SQL, HTML, JQuery, AJAX ,CSS, JavaScript, Agile, CI/CD, DevOps
+OverviewGUITARGUITAR is a company with a passion for making people's lives better through music. As the UK’s largest guitar retailer, and a Top 100 UK Internet Retailer, we want to recruit an experienced and qualified Senior .NET Developer to expand our technology division. This is the ideal role for an enthusiastic person, with a mixture of web development and programming skills, to play a key role in our award-winning business.
+Who we are:We strive to provide the best possible experiences for our customers (both in-store and online) and we take a great deal of satisfaction from being a part of the musical journeys our customers embark upon. At the heart of our family is a group of people who go the extra mile for each other and our customers. We are not a faceless warehouse. We are an enthusiastic community who are always evolving, revising, learning and moving forward to provide our customers with the best possible multi-channel retail experience. Our recent transition into Employee Ownership (EOT) means we put our employees “centre stage” and are the country’s first (and only) musical instrument retailer to do so.
+A key part of that community is our integrated technology team who utilise modern technologies to drive the business forward whilst advancing the platforms that make it all possible. Our technology stack is always evolving and we deploy new features regularly using our continuous integration systems. We champion an agile approach, developing in small batches to iteratively improve our platforms whilst driving through our roadmap of initiatives. We utilise automated testing to improve velocity whilst also often developing together in pairs to share knowledge between developers….ultimately...everyone contributes and you could say, we are pretty techy to the core.
+What we’re looking for
+The ideal candidate must have solid demonstrable experience of developing websites using ASP .NET / MVC / C#.
+We’re looking for an enthusiastic developer who shares our passion for continuous improvement and quality code.
+Essential Skills
+
+.NET C#
+Web API, RESTful web services
+HTML, CSS, Javascript
+SQL
+GIT
+
+Desirable Skills
+
+MVC, Razor
+React
+Modern JavaScript (ES6)
+.NET Core
+SQL Server
+Windows Server/IIS configuration
+Typescript
+Sass
+
+What you’ll get to do
+
+Contribute to the development of our award winning e-commerce & EPOS platforms.
+Contribute to key technical decisions
+Promote and work with practices such as behaviour driven design, continuous integration and continuous delivery.
+Write efficient, secure and testable code.
+Collaborate with stakeholders across the business to turn opportunities into working solutions.
+Estimate upcoming work
+Ensure code quality and standards are met
+Mentor colleagues and other team members.
+
+You’ll be successful in this role when
+
+You can hit the ground running
+You come up with creative solutions to challenges
+You can thrive on collaborating but can also work independently
+You see feedback as an opportunity for improvement
+You can give feedback in an constructive way
+You are always learning and looking for ways to improve
+
+What we offer
+
+A meaningful role that allows you to make a significant impact with one of the UK’s top retailers
+An opportunity to shape our processes
+A culture of support and encouraging collaboration
+Employee Ownership Trust Bonus + Benefits
+Company contributory pension scheme
+Opportunities for personal development and growth
+Flexible working / Hybrid working available
+Staff Discount scheme
+
+You may have worked in the following capacities in the past: C# Developer, ASP.Net Developer, Graduate Developer, .Net Software Programmer, C# Software Engineer, Full Stack Developer
+We do not use any agencies so please apply directly via indeed.All applications will be dealt with in strict confidence.
+Job Type: Full-time
+Benefits:
+
+Company pension
+Employee discount
+Flexitime
+Free parking
+On-site parking
+Profit sharing
+Work from home
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+Glasgow, Glasgow: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+.NET: 2 years (preferred)
+Flexitime

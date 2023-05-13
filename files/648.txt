@@ -1,0 +1,34 @@
+Job Summary
+Develop web applications for clients. You will work side-by-side with a small team to create new features/websites and continue to innovate existing websites for our clients.
+- Contribute to our own system architectures and features.
+- Work directly with clients to discover and define requirements.
+- Follow PSR/Framework/Security best practices for delivering quality, maintainable and testable code.
+- Continually look to innovate and learn new strategies and technologies.
+Job Type / Category
+We are a privately funded business, and our primary activity is to develop software platforms for the sports industry.
+Full Time, onsite hours are:- 9am - 5pm
+Required Education, Skills and Qualifications
+
+Strong PHP, SOLID principles and design patterns knowledge.
+Knowledge of Laravel Framework
+HTML5/CSS/SASS
+Experience working with TailwindCSS *
+Javascript - React/VueJS
+Experience working with relational databases such as MySql.
+Experience working with docker containers *
+Experience working with AWS *
+Experience working with CI/CD platforms.
+
+Items market with * are desirable but not required.
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£50,000.00 per year
+Benefits:
+
+Cycle to work scheme
+Private medical insurance
+
+Schedule:
+
+8 hour shift
+
+Work Location: Hybrid remote in Livingston EH54 9DF

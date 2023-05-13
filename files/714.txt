@@ -1,0 +1,46 @@
+
+Technology has revolutionised the world we live in, yet somehow the rail industry has stayed much the same as it was 30 years ago. Seatfrog is here to change that.
+ We’re on a mission to build a better future for billions of passengers and the rail companies that carry them. We’ve already reinvented how upgrading your seat is done – now affordable and lightning fast to over 870 destinations - and enabled customers to effortlessly swap between train journeys. But we’re not stopping there! We have big things coming for every passenger this year, so get ready!
+ We’re building a stellar team to achieve our audacious goals. We strive to create an environment where you can do your best work. Join us, and you’ll be challenged and supported in equal measure. Ours is a culture with spirit and substance and our people are empowered to make the bold decisions others wouldn’t and haven't.
+ We’re looking for a Software Engineer to come on the journey with us. Fancy coming along? Apply below!
+ About the team you'll be joining
+ The Engineering team at Seatfrog deliver products that are delightful to use and driven by customer needs. Our platform spans native mobile apps, APIs and data dashboards, all driven by machine-learning algorithms.
+ We work as self-organising teams, responsible for the full tech stack of our solutions. As well as coding, you will be involved in every aspect of implementing a successful product including:
+
+Provisioning cloud infrastructure (Terraform, Serverless Stack, AWS CDK).
+Monitoring (Elastic Search, Cloudwatch, X-ray).
+Product development (Requirement gathering, Design, Implementation, Testing).
+
+We look to continually improve our development practices and as such, your input and ideas will be important to achieving this.
+ We have a backend platform for our APIs & partner integrations which we are constantly evolving, in addition to the 2 native mobile apps (Android and iOS) that we’re continuously improving.
+ About the role
+ Your key areas of focus will be:
+
+Breaking down your projects into clear deliverables, implementing and delivering them with focus on short feedback loops.
+Writing and running automated tests to shorten your integration cycles and improve code quality.
+Supporting developers across product teams on other development tasks as required and mentoring other team members.
+Collaborating with other product teams for seamless client onboarding and a smooth launch.
+Contributing to our ever-evolving Engineering culture.
+Stay up to date with trends in Software Engineering and cloud services. 
+
+ What you'll need
+
+3+ years of commercial experience with one or more of the following: Node, Javascript/Typescript, C#, PHP, React, Vue.
+A passion for new technology and an ability to pick up new languages quickly.
+You are mindful of security and handling sensitive data.
+Ability to manage multiple competing priorities in a fast-paced environment.
+You have a solid understanding of Git and its workflows, and writing test code comes as second nature to you.
+You have worked with a wide variety of technologies across front-end, back-end, devops and product development.
+Great written and verbal communication skills that allow you to discuss problems and develop solutions with technical and non-technical stakeholders - i.e. you're used to, and enjoy, working cross-functionally and with external stakeholders.
+Experience in gathering and documenting functional and technical solutions. 
+
+ What's on offer
+
+An outstanding team culture, where we solve problems together to drive the best possible results.
+A competitive salary and equity options.
+A 4 day working week to ensure the best possible work/life blend (hello 3 day weekends!).
+Private healthcare plan via Vitality, with added gym discounts and incentives to encourage you to get out, get active and stay mentally and physically healthy.
+A benefits package that includes salary sacrifice childcare benefit, enhanced parental leave, electric car leasing scheme, and free upgrades with our rail partners. 
+
+ We take a flexible approach to where our team work - we have a great office near Tower Hill, London should you wish to use it, or we're happy for people to be fully remote (or a bit of both!)
+ All candidates must have the Right to Work in the UK. This role is not applicable for sponsorship.  At Seatfrog, we consider diversity a strength - inclusion fuels our ability to solve problems we never thought we could. Your application will be considered on its merits, without regard to your race, age, gender, religion, sexual orientation, disability status or anything else. If there is anything we need to know to enable you to fully participate in our interview process, please just let us know in your application.

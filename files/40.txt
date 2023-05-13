@@ -1,0 +1,13 @@
+We have an exciting opportunity for an experienced Software Engineer to join our Software Development Team and work on our cutting-edge scientific products. This is a varied role, that will see you working on new projects, involving the full software lifecycle (concept to test), as well as maintenance of existing products and your contribution will help to ensure that we meet our customers’ expectations. 
+
+ The opportunity 
+
+ In this role, you will be developing and supporting software applications and drivers for a range of NanoScience’s products and instruments. This includes writing clean maintainable code, understanding the operating principles of our systems, identifying delivery risk areas within a project, as well as implementing unit tests. 
+
+ About You 
+
+ For this role, we are looking for a dynamic individual who is looking to work in a varied and fast paced team environment. Ideally you will have experience with using programmable instruments, however this is not essential. You will have previous experience of programming in C and modern C++, as well as experience working in a new product development environment and applications team and be familiar with range of device communication protocols. It would be beneficial if you are familiar with Python, multithreaded programming, IoT networking, Linux, version control principles and systems. 
+
+ Benefits 
+
+ In addition to a competitive starting salary, Oxford Instruments offers flexible working hours and a half-day on Fridays. We also offer 25 days annual leave, private healthcare, a share incentive plan, a defined contribution Group Personal Pension Plan, and a flexible benefits package that you can tailor to your own requirements. We also invest in our talented employees by supporting them in their ongoing career and development so that they reach their full potential. We care and work hard to provide a workplace where you can grow and learn. #LI-JR1

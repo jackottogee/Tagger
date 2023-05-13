@@ -1,0 +1,39 @@
+
+A growing company, ready to transform an already unique and industry-leading application. We offer a creative, agile and collaborative environment, where you can contribute to build real improvements and use your problem solving skills to be part of our disruptive plans to shape the industry.
+ This is a mainly a home based role, however, you should occasionally expect to be able to travel to our office based in Sheffield on a regular basis. There is also an option to work from our offices if you prefer this to home based work.
+ You will be a person who has worked in or has an interest in software or tech and is good at speaking with people from different backgrounds with ease. We are a friendly team and have a positive philosophy aimed at building a product which helps people and makes an impact on everyone's life.
+
+ Essential duties and responsibilities
+
+
+ Develop and implement high-quality user interfaces using UI, jQuery, JavaScript, and React
+Collaborate with cross-functional teams to ensure seamless integration of front-end and back-end functionalities
+Write clean, efficient, and well-documented code that adheres to industry standards and best practices
+Optimise web applications for maximum speed and scalability
+Ensure the technical feasibility of UI/UX designs
+Stay up-to-date with the latest trends and technologies in front-end development and UI design
+Work with the product team to translate wireframes and prototypes into functional user interfaces
+Troubleshoot and debug issues as they arise
+Provide technical guidance and support to team members as needed
+Participate in code reviews and provide constructive feedback
+
+
+ Knowledge, skills and abilities
+
+
+ Expertise in UI, jQuery, JavaScript, and React
+Experience with HTML, CSS, and other front-end languages and frameworks
+Familiarity with Agile development methodologies
+Understanding of cross-browser compatibility issues and solutions
+Strong knowledge of web development best practices and standards
+Excellent problem-solving and analytical skills.
+Strong attention to detail
+Ability to work independently as well as collaboratively with cross-functional teams
+Excellent communication and interpersonal skills
+Ability to manage multiple tasks and priorities effectively
+Ability to write clean, efficient, and well-documented code
+Ability to troubleshoot and debug issues as they arise
+Ability to learn and adapt quickly to new technologies and methodologies
+Ability to work in a fast-paced and dynamic environment
+Ability to represent the company in a professional and positive manner
+

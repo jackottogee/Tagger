@@ -1,0 +1,66 @@
+
+
+
+
+
+
+     Oldham, Greater Manchester, United Kingdom
+    
+
+
+     Permanent
+    
+
+
+
+
+
+
+Are you an experienced C# developer who is looking to become part of a busy team supporting an amazing global company?
+We are recruiting an experienced and knowledgeable Software Developer to complement our existing IT & Systems team in supporting our global business. This role is office based in Oldham.
+Our new Software Developer will develop, deliver and support a variety of bespoke in house software solutions for use within the our production facilities around the world.
+The role will primarily involve working on several production systems namely Spectral OPS and Net OPS which are our primary order processing applications. The post holder takes responsibility for integrating new products into these systems as well maintaining and developing current products within the OPS applications as the business requires. Supporting existing releases of the applications and troubleshooting issues raised by production in relation to OPS applications.
+Key Responsibilities of our Software Developer:
+
+Supporting a variety of bespoke C# applications including MVC apps, desktop applications and WCF services
+Developing new and existing applications in response to business needs
+Providing on-site support for our UK production environment and remote support international environments
+Attending stand-ups, sprint planning and code review meetings regularly
+Following defined processes and conventions while also looking to continuously improve areas within the development team
+Using source control (TFS and GIT) to ensure all projects and their code bases are kept up to date and available
+
+Your skills and Experience we're looking for in our Software Developer:
+
+Minimum of 2 years in software development
+Demonstratable knowledge of C#.Net
+Experience with MVC applications
+Proven experience with software design and OOP
+Experience with source control such as TFS, Azure DevOps and GIT
+Good attention to detail – including spelling and grammar
+Also experience with source control, primarily VSTS (or TFS) or GIT, ticket/issue management applications (such as Jira), experience creating and managing normalized database (My/MSSQL), continuous integration and deployment.
+
+Your Package & Perks:
+
+A competitive salary
+Flexible working hours and one day working from home.
+32 days holiday (including public holidays) and the opportunity to earn up to an extra 12 days holiday each year
+Private Healthcare Scheme
+Dental scheme
+Life Insurance
+Educational Sponsorship
+Electric Car Scheme
+Onsite electric car charging points
+Staff car workshop
+Cycle to Work Scheme
+Informal dress code
+
+We’re Innovative…
+Trading for over 30 years here at Innovative Technology, where we now have offices on five continents and employ around 400 people, with over 150 based from our state-of-the-art R&D hub and global head office in Oldham, Manchester.
+From self-service checkouts to arcade machines, we provide our retail, banking, kiosk, vending, gaming and amusement customers with products and services that help them securely accept automated payments, with our industry leading technology keeping us at the forefront of our sector.
+By being true to our values of Innovation, Collaboration, Respect and Drive we’ve seen significant growth and won numerous domestic and international awards, whilst offering outstanding career opportunities and great benefits. You’ll find us on the edge of the Pennines and less than half an hour from central Manchester, with modern offices, free parking and excellent transport links.
+Driven by our commitment to being a Disability Confident employer, we aim to provide wider opportunities for disabled people who could work with us. Disabled candidates meeting the minimum criteria will qualify for an interview.
+What’s next?
+If you’re looking to develop as a Software Developer and want to join our award-winning team on the latest cutting-edge technology we want to hear from you.
+A better way... Through our people, drive and commitment we push boundaries to deliver innovative products and services.
+
+

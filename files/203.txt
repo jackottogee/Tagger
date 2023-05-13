@@ -1,0 +1,85 @@
+
+
+
+   Frontier is an established, market leading independent developer and publisher of videogames for PC and consoles. We have achieved serial successes across a wide variety of titles including 
+   Elite Dangerous, 
+   Planet Coaster, 
+   Jurassic World Evolution,
+    Planet Zoo and
+    F1 Manager. Founded in 1994, we are based in the world-leading technology cluster and historic city of Cambridge, England. With a growing team of over 800 talented people supporting our existing portfolio and ambitious future roadmap, along with our publishing label Frontier Foundry, we are passionate about creating innovative genre-leading games and authentic worlds for our communities of players.
+  
+
+
+ We’re looking for someone with knowledge and experience of modern rendering systems as well as excellent communication and self-management skills. The right candidate will be able to work not only with members of the render and wider programming team but also with artists and content creators to help develop and enhance visual features. In conjunction with this a good understanding of the entire render pipeline is essential as you’ll be spending time working with existing systems to integrate your work. Previous experience in similar roles is preferable, you’ll be charged with building on our impressive track record in delivering ground breaking techniques and visuals.
+  
+
+
+ Frontier uses its proprietary Cobra ™ engine which allows us to create whatever we can imagine and design. As such we’re looking for candidates who can innovate and use our existing technology to its fullest. We pride ourselves on the strength of our game visuals and the strength and depth of technical expertise within the team, successful candidates will add to this pool. In return we can offer you unique challenges not found elsewhere and the ability to shape our graphics technology and visuals in ways only proprietary engines can offer. This is one of the key roles within our team and we’re looking for candidates whose aspirations match. If you believe you have the skills and passion for this role we would love to hear from you!
+  
+
+
+ This is a fantastic opportunity to join a studio with a proven track record of delivering successful AAA titles and to play an important role in our continued success.
+  
+
+
+
+Responsibilities:
+
+
+ Enhance and create graphics features to deliver the visual goals of the project.
+ Work within a multi-discipline team to ensure that features work with wider systems and content creators.
+ Be responsible for profiling and optimising graphical features within the game.
+ Pro-actively contribute to the render and coding teams.
+ Ability to see the bigger picture and make a wider strategic contribution.
+
+
+
+
+
+
+About you:
+
+
+ Essential
+ Passion for creating beautiful games.
+ Enjoys working collaboratively with a cross-discipline team.
+ Ability to solve problems and adapt to emerging requirements.
+ Open to exploring new ideas and approaches.
+ Solid technical background.
+ Advanced programming in C++ and shader languages such as; HLSL.
+ Knowledge of modern game render/graphics pipelines.
+ Experience with profilers (PIX, Tuner, Nsight, VTune, etc.).
+ Strong 3D maths skills.
+ Excellent communication skills (spoken and written).
+ Knowledge of graphics API’s such as; DX11/12.
+
+ Desirable
+ Experience in a similar role.
+ An artistic eye is beneficial.
+ Cross-platform development experience including Xbox One or Playstation 4.
+
+
+
+
+
+
+What we can offer you
+
+
+    We offer the chance to work with talented and passionate people, developing and publishing sophisticated and enduring games in a creative and collaborative environment. We love what we do, and we work hard to provide outstanding experiences for our player communities. Frontier rewards this passion and determination by sharing in the company’s success and by supporting our teams to keep doing what they love.
+  
+
+
+ Well-being is a big focus at Frontier and we are continually evolving how we can support our staff. We encourage a healthy work/life balance and host a range of well-being activities, initiatives and sessions to support both mental and physical health.
+   
+
+
+
+
+   We offer a competitive salary and benefits package, which includes a success-based annual bonus, share option schemes, pension, life assurance, private family healthcare, flexitime working hours, enhanced maternity/paternity package, in-house subsidised catering, support with relocation, a Cycle to Work scheme and free bike servicing, and social events.
+  
+
+
+ We welcome and encourage applications from qualified candidates regardless of sex, race, disability, age, sexual orientation, gender identity, marriage or civil partnership, pregnancy or maternity, religion or belief.
+  
+

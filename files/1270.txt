@@ -1,0 +1,80 @@
+ABOUT THE COMPANY
+Cyber1st is an agile, innovative technology company driven to solve complex customer requirements in the field of high integrity critical security technologies, where absolute confidence in operation is a prerequisite not an ambition.
+Our culture is always to strive towards excellence in everything that we do, this is not a sound bite but an intrinsic motivation that is at the core of our engineering. Our fundamental ambition is to always exceed our customer and stakeholder expectations.
+These exciting career opportunities will undoubtedly challenge the most capable of candidates, the sense of achievement in solving complex problems or creating innovative Intellectual Property as part of an expert growing multi-disciplinary team will be extremely rewarding.
+The company is predominantly engaged in supporting Government customers and allied industries by researching and developing disruptive security technologies that have truly game changing attributes.
+Cyber1st is deeply involved in software engineering and Microelectronics (across multiple disciplines) all of which are aligned to solutions involving applied cryptography.
+This will certainly take your career to the next level.
+Currently we have several open positions (spanning all grades) within Microelectronics, Software Engineering, Manufacturing, Quality Assurance and Program and BID Management.
+We very much look forward to hearing from you.
+ABOUT THE ROLE
+This is a fantastic opportunity for a software engineer to join our experienced and highly skilled team in developing and testing innovative products and systems on the cutting-edge of the Cyber Security. We have a range of posts applicable to recently qualified graduates through to highly experienced developers.
+Ideal candidates should be able to demonstrate strong design and coding skills, a desire to explore ideas, and, above all, have a passion for quality. Security will be paramount in development so this role will suit a candidate wanting to build a career in developing high integrity software, aligned to functional correctness, predicated upon formally defined specifications.
+This role will also involve analysis of customer requirements to produce maintainable designs as well as collaboration in unit test. Developing and delivering work to a schedule will be key to this role as will participating in code reviews and producing documentation as required.
+Applicants need to be comfortable with highly collaborative teamwork, as well as having confidence to work on their own initiative. It’s a prerequisite to have an "excellent eye" for detail whilst being good and identifying problems and suggesting solutions.
+The software engineer positions will be applicable to aspiring software developers that have recently graduated (first degree or postgraduate) as well as highly experienced software engineers who would be suitable for senior roles.
+Travel within the UK, including between company sites, may be required.
+SKILLS & EXPERIENCE REQUIRED
+Personal Competencies
+
+Minimum 3 years coding experience (see note re recently qualified graduates).
+Excellent attention to detail.
+Motivation to ensure excellent quality standards.
+Excellent communication and team working skills as well as the ability to work independently.
+Adept at exercising good judgement and working under pressure.
+Able to apportion time effectively and to operate autonomously to complete tasks.
+
+
+Takes ownership and responsibility to resolve issues promptly and efficiently.
+Excellent problem-solving skills.
+
+Required Technical Skills / Qualifications
+
+Candidates shall be degree qualified with a BSc in Computer Science or equivalent STEM subject.
+Experience of Software Unit Test automation and tools (LDRA, Parasoft etc).
+Embedded C/C++ development skills.
+Familiarity with MISRA compliance or similar quality source code conformance specification.
+Familiarity with static analysis tools.
+
+Desirable Technical Skills
+
+Proficiency in JTAG/ETM Debugging tools.
+C# development experience.
+RUST and Ada SPARK experience
+Cryptol and SAW experience
+Proficiency with scripting languages (ruby, groovy, python, Perl, bash, PowerShell).
+Practical experience in developing applications for Microsoft Windows.
+Computer network security and vulnerability analysis.
+Conversant with IP standards.
+Multi-threaded RTOS and bare metal embedded experience.
+Background in a range of CPU/MPU’s with practical experience in ARM based architectures.
+
+Experience
+
+Senior positions require a minimum of 3 years’ commercial experience working in a relevant industry.
+Aspiring software engineers that have recently graduated in Computer Science (or equivalent STEM) will also be considered for entry level roles.
+
+Conditions
+This nature of this role requires the candidate to be a British Citizen as well as obtaining and retaining an unconditional DV security clearance.
+Work Remotely
+
+No
+
+Job Types: Full-time, Permanent
+Salary: £25,000.00-£60,000.00 per year
+Benefits:
+
+Company pension
+Life insurance
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+COVID-19 considerations:Cyber1st are fully COVID-Secure
+Application question(s):
+
+You must be a British national (no dual nationality) as this forms part of the security requirements for this role. Please confirm if this is the case or not. If the answer is no, please do not apply as you will be rejected.
+
+Reference ID: CYBERSWE2021

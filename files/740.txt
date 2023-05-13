@@ -1,0 +1,56 @@
+
+Position Type : Full time
+  Type Of Hire : Experienced (relevant combo of work and education)
+  Education Desired : Bachelor of Computer Engineering
+  Travel Percentage : 5 - 10%
+  Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun.
+
+ About the team
+ You will be working on one of the largest-by-volume global payment platforms in the world, focussing intensively on robustness, security, and capacity that can process over 800 transactions every second and exceeding 10 million successful payments every day.
+
+ What you will be doing
+ You will join one of our cross-functional teams containing developers, testers, a product owner and a scrum master. We use the SAFE framework so we get together as a team every 3 months to review requirements, design a solution, and commit to a plan to deliver it. With the support of the teams' principal engineer, you will pick-up challenging work from the plan that needs your proven software skills to deal with the more complex problems. As one of the team's authorised gating code-reviewers, you will support and pair with other engineers in the team to grow the team’s capabilities, and ensure we are shipping quality changes.
+
+
+ Develop changes in Java and SQL and PLSQL to an ecommerce payments gateway operated by Worldpay/FIS.
+ Review payment processing business processes, analyse production data, walk the Product code, and review payments-industry spec documents to scope and specify the work.
+ Partner with the test engineers to help scope the test coverage and approach, and you may need to contribute to the automated integration and system tests.
+ Design a rollout and monitoring approach for features to ensure it works as expected.
+ Periodic availability outside normal office hours for support of release deployments. Currently we release every few weeks and have a rota.
+
+
+ What you bring:
+
+ Experience delivering software in an industry where quality is critical
+ Experience delivering software to solve complex business problems
+ Java knowledge
+ Ability to write code interacting effectively with large databases
+ Database systems knowledge ideally SQL-based Oracle, or similar
+ Experience with very large code bases and version control systems
+ Experience with linux as a development and production environment
+
+
+ Added bonus if you have:
+
+ Knowledge payments or Financial services industry
+ Familiarity with agile frameworks and methodologies (Scrum, Kanban, SAFe), and knowledge of their various advantages and pitfalls
+ Experience with AWS cloud technologies and design patterns
+ Knowledge of enterprise compute, storage, and networking technologies
+
+
+ What we offer you
+
+ A multifaceted job with a high degree of responsibility and a broad spectrum of opportunities
+ A flexible approach to office and home working where we meet face-to-face when it's valuable (usually in front of a whiteboard)
+ Regular structured time to improve your skills through training, time to experiment with new tech, and tinker to improve how we do our jobs.
+
+ #LI-MQ1
+ Privacy Statement
+
+ FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+ Sourcing Model
+
+ Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+ #pridepass

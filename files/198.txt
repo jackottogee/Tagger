@@ -1,0 +1,59 @@
+
+
+
+
+
+
+Job Title: Front-End Developer
+ The Role:
+ Our client is seeking a highly skilled Front-End Developer to join their team and support the rapid growth of their cutting-edge learning experience platform! This cloud-based SaaS platform enables remote continuous professional development and certification for educators in over 40,000 schools.
+ As a Front-End Stack Developer, you will be primarily responsible for translating designs and styles into actionable code using VueJS as the primary framework, integrated with Laravel blades. You will be tasked with creating dynamic pages and flows that work seamlessly across all devices, as well as with building new features and improving existing aspects of the site based on wireframes and other technical requirements. You will work as part of a scrum team with the lead developer, developers, and product owner, and will also be responsible for mentoring more junior members of the team.
+ About You:
+ To qualify for this position, you must possess at least 6 years of experience in front-end development roles and hold a degree in software engineering, computer science, or a similar field.
+ You must have demonstrable experience working with front-end JavaScript / VueJS development integrated with a PHP / Laravel backend, as well as the ability to build HTML/CSS and associated front-end implementation for multi-device support, utilizing frameworks such as Tailwind CSS.
+ You should be able to create mock-ups and propose UI/UX designs with input from product and design, and have a track record of building high-performance products, preferably with ecommerce applications. Additionally, you should possess strong technical skills and understanding of software development and delivery practices, a keen eye for detail and accuracy, and be flexible and able to work in a highly collaborative, fast-paced culture. Experience with AWS and code automation is a plus.
+ About The Position:
+ This is a primarily remote working position, with the opportunity for meetings in our Sheffield office or a hybrid/in-office arrangement if preferred. You will have the opportunity to work at an established but rapidly growing company and receive a competitive package and holiday allowance.
+ If you possess the required skills and experience and are excited to join a team whose mission is to enable remote continuous professional development and certification for educators in over 40,000 schools, we encourage you to apply today with your resume and a cover letter detailing your relevant experience!
+ Salary: up-to-£55k
+
+ : [email protected] : 0191 406 6111
+
+
+
+
+
+
+
+ Job Overview
+
+
+
+
+Location: Sheffield, UK
+       
+
+
+Job Title: Front-End Developer
+       
+
+
+Salary: £45000 - £55000 
+      
+
+
+
+
+ Apply For This Job
+
+
+
+ Before applying for this position you need to submit your online resume. Click the button below to continue.
+
+
+
+
+
+
+
+

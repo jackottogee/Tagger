@@ -1,0 +1,81 @@
+
+Web Developer
+ Essex
+ £21,000 - £30,000 (Plus Incentives)
+
+ Bird is searching for a Full-Stack Web Developer to join our Essex based team. We are an award-winning digital agency providing results-driven online marketing, technical and creative services to a broad range of clients, including local SMEs and global brands such as Huawei, St James’s Place and First Data.
+
+ You will be working closely with the Technical Director to ensure the successful delivery of a range of projects. This is a full stack role and your day-to-day responsibilities will include:
+
+
+ Developing custom systems using Node.js or MVC frameworks
+ Working with the following technologies
+   
+ Wordpress
+ Magento
+ Laravel
+ Node.js
+ cPanel/ WHM
+ Apache and linux
+ Project management systems (e.g. trello, GitHub)
+
+ Installing and configuring themes
+ Creating custom plugins / scripts
+ Integrating payment gateways
+ Custom design changes
+ Liaising with project managers and clients to fully understand project briefs
+ Exploring and researching new technologies
+
+
+ We want to hire a technically proficient web developer to support the growth of our team. You will need to have varied project experience and an up-to-date knowledge of best practice. The role includes liaising with clients and colleagues so you should also have strong written and verbal communication skills. In order to perform in this role it is vital that you have:
+
+
+ Good knowledge of the following programming technologies 
+   
+HTML
+ CSS / SASS
+ JavaScript / jQuery
+ PHP
+ SQL / Eloquent 
+Node.js
+
+ A working knowledge of content management systems (e.g. Wordpress, Magento etc.)
+ Experience with:
+   
+ MVC (e.g. Laravel)
+ GIT
+ APIs
+ DNS management
+ server management
+ database management
+
+ Good documentation 
+Excellent time management
+
+
+ Working For Bird
+ We are a close-knit team who want the best results for our clients and for each other. We have a state of the art in-house system, access to industry-leading tools and all the kit that you need to thrive. The office can be fast-paced but we like to have fun. There are ping-pong tables, swanky boardrooms, and a well stocked kitchen. We also offer the flock a range of employee benefits, including:
+
+
+ 30 days holiday
+ £500 and 5 days off p/a for professional development
+ Additional paid bIrthday day off (or three day weekend)
+ Regular socials and lunches (expenses paid)
+ Free gym membership
+ Free Spotify Premium
+ Free Netflix 
+Free eye tests and discounted glasses 
+End of Year party (expenses paid)
+ Summer party (expenses paid)
+ Cycle to Work Scheme
+ Employee loyalty schemes:
+   
+ Private Healthcare
+ £1000 work technology budget (e.g. build your own PC)
+
+
+
+ If you are an experienced Web Developer and you wish to progress your career as part of a forward-thinking digital agency then send a copy of your CV and portfolio to be considered for the role. Bird is expanding and we are always interested in hearing from new talent - visit the Bird careers page for more opportunities and information about our company. 
+
+
+Bird is an equal opportunities employer and does not discriminate on the grounds of any personal characteristics. We will consider applications from all candidates with suitable experience and we aim to respond to successful applicants promptly.

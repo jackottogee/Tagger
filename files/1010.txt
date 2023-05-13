@@ -1,0 +1,63 @@
+
+
+
+
+
+
+Job Details 
+
+
+
+Department 
+
+       Development 
+      
+
+
+
+Location 
+
+       Full Remote 
+      
+
+
+
+Job Type 
+
+       Frontend Engineer 
+      
+
+
+
+Experience 
+
+       7 Years 
+      
+
+
+
+
+
+Financial accounting and transparency can be done better: Founded in 2018, Xriba aims to simplify the process for our clients and provide meaningful KPIs to take their business to the next level. Currently our focus is to bring the tools of traditional accounting to the world of cryptocurrencies.
+ We want to create a fantastic technology team that follows agile principles to provide value to our users and for this we are looking for a Front end Engineer.
+ Required:
+
+Excellent knowledge of React + Redux, the experience with Redux-Saga is a plus.
+Ability to write consistent tests up to E2E
+Experience in putting React + Redux based projects into production
+Advanced skills with CSS and related tools (SASS, SCSS …)
+Expertise in common teamwork tools (git, figma)
+Previous experience in an agile team.
+
+ What we offer:
+
+Working from remote
+Ability to work on what you want to learn
+Conferences and seminars
+Permanent contract
+
+
+
+
+
+

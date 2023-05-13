@@ -1,0 +1,65 @@
+
+ Overview: 
+ 
+   Redgate makes software to help companies and professionals get the most out of their databases. Our products are designed to work for everyone – from the smallest, single developer houses to Fortune 500 companies. We succeed by reliably solving our customers’ problems with ingeniously simple software.
+ 
+
+
+ We’re looking for experienced Software Engineers to join one of our product teams. If you’re passionate about writing great code, love working in a team, and want to shape the software you build, we want to hear from you.
+ 
+
+
+ At Redgate, we believe that the best software comes from engaging small teams with a clear purpose, freedom to act, and a drive to learn.
+ 
+
+
+ Development at Redgate
+ 
+
+   You’ll be involved in all stages of software development: from research calls with customers to pushing your code through our automated build system and making those all-important deployments.
+ 
+
+
+ Most of our code is written in C# (with a growing number of products using web technologies including TypeScript and React). We use GitHub for source control and TeamCity for continuous integration. Every software engineer gets all the hardware they need (fast machines and multiple monitors are standard), and freedom in choosing the software tools they’re comfortable with.
+ 
+
+
+ We've got some exciting technical challenges ahead of us as we continue to focus on broadening our database offerings. Some technical challenges to solve include how we build tools that work with multiple RDBMS, and how we should architect our systems to work as well in the cloud as they do locally. We are also moving from predominately Windows-based software to be platform-neutral. And these are just some of the challenging problems you could work on as Redgate grows.
+ 
+
+
+ We take personal development seriously at Redgate. We run frequent lightning talks, open spaces (mini conferences run by Redgate engineers), and a yearly Down Tools Week. We have a healthy budget for attending conferences, and the last three years we’ve even held our own with all sessions run by Redgate employees. We even dedicate our Friday afternoons to personal development and continuous learning.
+ 
+
+
+ What makes you a Redgate Software Engineer
+ 
+
+ Excellent skills using a modern object-oriented language – we write code in a plethora of languages including C#, Java, Typescript and Go.
+ You appreciate making things simple isn’t always easy and strive for simplicity in the code you write and the products you build.
+ You thrive in a highly collaborative team of software engineers and are enthusiastic about engaging with customers, designers, and product managers as necessary to create great products and services.
+
+
+ (desirable) You have domain expertise in one or more of Redgate’s product areas.
+ (desirable) You have experience working within an agile development team, with knowledge of practices such as TDD, BDD and continuous delivery.
+
+
+
+ Package
+ 
+
+ A great benefits package
+
+
+ You'll work about 40 hours per week, with flexible work time
+ We dedicate Friday afternoons to personal development, community and innovation
+ Salary is £40,000 to £55,000 (depending on experience)
+
+
+
+ At Redgate we recruit on a rolling basis, which means we carry on recruiting until we find the right person for the role. We tend to compare individuals to the role specification rather than to each other.
+ 
+
+
+ Redgate is happy to fully fund all charges related to the successful applicant obtaining a Skilled Worker Visa if needed. We also assist with both the financial costs and logistics of your move to the UK.
+ 

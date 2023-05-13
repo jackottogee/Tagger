@@ -1,0 +1,13 @@
+
+A Software Developer (Python) position is open at a leading life science institute in Cambridge. This is a fantastic opportunity at an institute that is at the cutting edge of technology/science. 
+
+You would be working under the guidance of the lead to support areas such as data analytics pipelines to be operated at scale and performance, tracking samples, tracking partner onboarding, and receiving results from data samples using a web-based porta are a few of the areas you will be supporting. 
+
+The main area of your role will be to develop powerful but maintainable software products and tools meeting the needs of the projects within the institute. Developing and testing to include external product integrations, applications, integrations. Working with the product delivery teams to deliver integrated products. Following the Agile environment, working with product team to support sprint definitions, product features and user stories. 
+
+You will also be making sure all environments and tools are in place for the development, testing and production. You will be involved in CI/CD, testing, issue management and source control management. 
+
+This institute works with Agile Software Development methods, developing and integrating full-stack for deployment in cloud environments, develop systems that capture, maintain, and verify field -generated metadata. They also use multiple back-end and front-end languages and libraries, web servers, web services, UX/UI design, API’S, databases, and database design. You will be expected to also have knowledge and experience with software development practices like Gitlab, version control, and CI. 
+
+If this sounds of interest to you then please do apply below.
+

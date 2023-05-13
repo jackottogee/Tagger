@@ -1,0 +1,70 @@
+A BIT ABOUT US
+We are innovators
+You’ll join a growing team of self-starting innovators and problem solvers with support from leading VCs and advisors. We consider engineering quality of paramount value and will always look for the most rigorous solution to a problem. As a team, we strive to constantly improve our knowledge of infrastructure and systems and remove any blockers that may appear.
+We want to make an impact
+Tendertec was founded to tackle two challenges that our societies are facing today: enabling a healthy and active lifestyle and improving the sustainability and efficiency of health and social care systems.
+We are purpose-driven
+We are developing the next generation of personalised connected care and digital fitness support technologies for vulnerable people and under-represented groups.
+We are a team
+We believe that people are Tendertec’s biggest competitive advantage: we are creating a people-first culture and are heavily invested in the success of those who join us in our journey. We believe in supporting each of our team members, love to pitch in when problems arise and give great peer feedback to help each other grow. We believe that our team's diversity and inclusion are key to our success.
+THE TENDERTEC STORY
+Tendertec builds personalised technology that improves the quality of life and care vulnerable people and under-represented groups experience. Our team strives to set a new bar for connected care and digital fitness support technology with modern, well-designed, intuitive, real-time and date-driven solutions co-designed with users.
+Tendertec is an award-winning AI startup working at the forefront of Ageing research and Innovation. We participate in international research and innovation actions to advance the field of ageing well. We are the winners of the GE Healthcare and EIT Health 2018 “Disruptive Product” Award, have been named Tech Nation’s 2021 Rising Star Regional Winner and one of the UK's HealthTech 50 for 2022.
+We are proud to be an equal opportunity workplace committed to building a team culture that celebrates diversity and inclusion.
+https://tendertec.org/
+AVAILABLE, FULL-TIME
+UK-BASED, REMOTE WORKING
+SALARY: £50,000 - £65,000
+NO RECRUITERS. NO DEVELOPMENT STUDIOS.
+Apply now: https://lnkd.in/e8YWHzBb
+Hello World!
+We are looking for talented and passionate individuals to join our team to help us accelerate the development of technologies supporting vulnerable people in staying safe, healthy, physically active and socially connected.
+We are a small team creating a digital content delivery app that includes text, image, and video/animation features. Our app also allows users to self-organise into chat groups and engage in social activities. Each team member has their area of expertise and responsibility in delivering intuitive experiences to app users.
+We are committed to promoting diversity, equality, and inclusion, and we welcome applications from all backgrounds.
+THE ROLE
+This is an exciting new role for a talented and experienced Android Developer with a passion for delivering exceptional user experiences to join us. From day one, you’ll work closely with our team, project partners, advisory board, customers and end-users to shape the future of Tendertec’s products.
+RESPONSIBILITIES
+
+Collaborate with our server engineer to ensure seamless backend integration.
+Work with our dedicated service designer to create an intuitive user interaction experience by applying User-Centered Design (UCD) principles.
+Write clean, modular, and maintainable code in Java and/or Kotlin.
+Create smooth, performant, and user-friendly interactions that meet the high standards of a native app experience.
+Provide input on the app's architecture design.
+
+THE FIT
+You will be someone who has:
+
+5+ years of experience in Android Native mobile app development
+strong knowledge of Java and/or Kotlin
+a strong portfolio showcasing mobile app UI animation development
+experience with background service, AsyncTask, client-server communication via HTTP/REST, local database and file storage, notification (Push or Local).
+excellent communication and collaboration skills
+ability to work independently and manage their time effectively
+strong attention to detail and ability to meet deadlines
+valid UK work permit
+
+Nice to Haves:
+
+Experience with AWS Amplify, Cognito, and Kotlin Multiplatform Mobile
+Experience within either the health or social care sector.
+
+When working with us, you will be expected to promote Tendertec's core values and ethos, understand the importance of data protection laws and protocols within your role, and abide by them at all times.
+If you have a strong background in mobile app development, are a self-disciplined, autonomous worker with a passion for delivering exceptional user experiences, we would love to hear from you.
+Closing Date: 14 April 2023
+Interview Date: 20 April 2022
+Visa Sponsorship not available.
+Job Type: Full-time
+Salary: £50,000.00-£65,000.00 per year
+Benefits:
+
+Employee stock ownership plan
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work Location: Remote
+Application deadline: 14/04/2023Flexitime

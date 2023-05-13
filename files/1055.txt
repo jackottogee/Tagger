@@ -1,0 +1,65 @@
+Job Title: Azure Cloud Native App Developer 
+
+
+Function: CIO 
+
+
+Location: London 
+
+ You will likely be an IT Graduate or someone who has experience of programming. You are looking to develop Azure native apps and expected to have the necessary qualifications and certifications to be able to develop azure native analytics applications. 
+
+ You may also have knowledge of other Microsoft Azure Technologies, such as Power Platform, Logic Apps, API Management and SharePoint/Data verse. You will be interested in exploring other technologies whether that’s Low Code (PowerApps) or coding languages i.e. C# 
+
+ What we need today 
+
+ To make sure you’re set up for success you’ll already have these skills and experience: 
+
+ Excellent documentation & communication skills 
+
+ Solution-focused with a problem solving “can do” attitude to work Desirable Skills 
+
+ Understanding of the financial services industry 
+
+ Awareness and experience with widely successful Agile techniques: User Stories, ATDD, TDD, Continuous Integration, Continuous Testing, Pairing, Automated Testing, etc 
+
+ Working knowledge of Dynamics, SharePoint in addition to Power/Logic/Function App related product 
+
+ Familiar with Azure DevOps or VSTS 
+
+ Familiarity with DevOps concepts, and CI/CD pipelines 
+
+ Familiarity with automated testing 
+
+ Experience working with SQL and No-SQL databases 
+
+ Azure Fundamentals - AZ-900 (required) 
+
+ Azure Developer - AZ-204 (required) 
+
+ What we need tomorrow 
+
+ It takes more than experience to be successful in the role. With development and coaching from us, you will: 
+
+ Keep technical documentation up to date 
+
+ Follow TDD practices ensuring robust unit tests are always available and run 
+
+ Ensure value reportability – metrics etc for all releases 
+
+ Provide support on the Azure Platform including architecture, development best practices and guidance to less experienced team members 
+
+ Share regular updates via our Task Management tool and via the Daily Stand-Up sessions 
+
+ Adhere to the SHEQ Policies and Procedures Skills Knowledge and Expertise Essential Skills 
+
+ So if this sounds right up your street, come and join our team. We make things happen! 
+
+ We are TSB. Life Made More 
+
+ #IND2 
+
+ #LI-CC1 
+
+ Inclusion matters at TSB. We want our colleagues to feel at home here, no matter their background . Diverse teams are what helps us deliver Money Confidence. For everyone, Every day. 
+
+ Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you.

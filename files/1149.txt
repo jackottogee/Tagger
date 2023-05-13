@@ -1,0 +1,59 @@
+
+We have opportunities for experienced and talented senior software engineers and scientists to join our expanding National Time Scale Group, which forms part of the Time & Frequency Department.
+ We are looking to add to our expanding team of multi-disciplined scientists and engineers in the National Timing Centre - NPL to provide technical leadership on time scale related projects. This will contribute to developing future key time and frequency infrastructure within the UK.
+ You will lead implementation of software in a robust Time Scale for the UK based on atomic clocks and other timing equipment distributed across multiple locations in the UK. Software for advanced time and frequency, satellite communication, optical fibre and GNSS-based and monitoring subsystems will be developed, tested and implemented to achieve this. The role offers the opportunity to work in collaboration with external organisations.
+ You will be joining the National Time Scale Group, part of our Time & Frequency Department (www.npl.co.uk/time-frequency) at an exciting time. We maintain and develop the UK’s National Time Scale UTC(NPL) and are currently developing a new Time scale facility that will underpin our Critical National Infrastructure. We also provide timing services to financial institutions for share trading, along with working on a range of time and frequency dissemination projects, many being GNSS-related.
+ Find out more at NPL Time & Frequency Recruitment
+ We are interested in experienced and ambitious candidates with an aptitude for engineering or scientific innovation, hardware and software development and systems testing, looking to build their careers in a diverse environment.
+ Responsibilities will include one or more of:
+
+Leading a team of software engineers to deliver software to time, quality and cost.
+Leading the design and implementation of software for the control, data collection and processing in advanced time and frequency subsystems. These will include Time scale and Time and frequency transfer (satellite communication, optical fibre and GNSS-based) subsystems for comparing distant atomic clocks.
+Leading software for novel time dissemination systems, equipment and applications to support UK sovereign and industry needs.
+Interacting with internal and external stakeholders to determine their needs and meet their expectations.
+
+
+  We are now working in a hybrid way, with a mix of remote and office working. We strive to offer a great work life balance - if you are looking for full time, part time or flexible options, we will try to make this work where business possible. This will be dependent on the kind of role you do and part of the business you work in.
+ 
+
+
+
+You will have experience in the following:
+ Essential
+
+Evidence of postgraduate experience, industrial or R&D, as a software engineer in a relevant field of science or engineering such as satellite navigation systems (GNSS), SATCOM, optical fibre time dissemination, communications or systems engineering. 
+Experience of working with Python in R&D and / or industrial applications
+Ability to lead a team of software engineers.
+Demonstrable ability to lead on software design, development, testing and evaluation.
+Experience of preparing user, functional and non-functional requirements.
+Experience in software version control.
+You will work with less experienced staff to share your knowledge and expertise.
+Ability to work independently and as part of a team, managing your time according to priorities.
+A rigorous approach to problem solving and ability to develop solutions to difficult problems.
+An inquisitive mind and willingness to interact dynamically within a team. Advantageous 
+
+
+Experience of working on software engineering projects from start to completion.
+Experience of working on software for robust operational systems.
+
+
+Experience in time and frequency measurement and Time scales.
+
+
+Real-time monitoring and control of electronic hardware.
+Knowledge of satellite communication, optical fibre and GNSS-based systems.
+An interest in R&D and laboratory work.
+Experience in atmospheric propagation of radio/microwave signals or space science/systems.
+
+
+Please note, applications will be reviewed, and interviews conducted throughout the duration of this advert therefore we may at any time bring the closing date forward. We encourage all interested applicants to apply as soon as practical.
+ If you are applying for this position and you have been displaced by the Ukrainian crisis, please apply and email careers@npl.co.uk or text 07976873073 highlighting you are applying under the "We support Ukraine" initiative - Ukraine employment support - NPL
+
+
+
+
+The National Physical Laboratory (NPL) is a world-leading centre of excellence that provides cutting-edge measurement science, engineering and technology to underpin prosperity and quality of life in the UK.
+ NPL and DSIT have strong commitments to diversity and equality of opportunity, and welcome applications from candidates irrespective of their background, gender, race, sexual orientation, religion, or age, providing they meet the required criteria. Applications from women, disabled and black, Asian and minority ethnic candidates in particular are encouraged. All disabled candidates (as defined by the Equality Act 2010) who satisfy the minimum criteria for the role will be guaranteed an interview under the Disability Confident Scheme.
+ At NPL, we believe our success is a result of the diversity and talent of our people. We strive to nurture and respect individuals to ensure everyone feels valued by treating everyone on the basis of their own individual merits and abilities regardless of their own or perceived identity, as part of our commitment to diversity & inclusion, we hold memberships and accreditations to ensure we’re creating an environment where all our colleagues feel supported and welcome, please see our Diversity & Inclusion page.
+ We are committed to the health and well-being of our employees. Flexible working and social activities are embedded in our culture to create a positive work-life balance, along with a broad range of benefits. Our values are at the heart of what we do, and they shape the way we interact, develop our people and celebrate success.
+ To ensure everyone has an equal chance, we’re always willing to make reasonable adjustments to the recruitment process. If you would like to discuss, please contact us.

@@ -1,0 +1,59 @@
+
+You Lead the Way. We’ve Got Your Back.
+
+
+With the right backing, people and businesses have the power to progress in incredible ways. When you join Team Amex, you become part of a global and diverse community of colleagues with an unwavering commitment to back our customers, communities and each other. Here, you’ll learn and grow as we help you create a career journey that’s unique and meaningful to you with benefits, programs, and flexibility that support you personally and professionally.
+
+
+At American Express, you’ll be recognized for your contributions, leadership, and impact - every colleague has the opportunity to share in the company’s success. Together, we’ll win as a team, striving to uphold our company values and powerful backing promise to provide the world’s best customer experience every day. And we’ll do it with the utmost integrity, and in an environment where everyone is seen, heard and feels like they belong.
+
+
+Join Team Amex and let's lead the way together.
+
+
+American Express is embarking on an exciting transformation driven by an energetic new team of high performers. This group is nimble and creative with the power to shape our technology and product roadmap. If you have the talent and desire to deliver innovative payment products and services at a rapid pace, serving our customers seamlessly across physical, digital, mobile, and social media, join our transformation team! You will be part of a fast-paced, entrepreneurial team responsible for delivering world-class cardmember experiences.
+
+
+How will you make an impact in this role?
+
+Identify innovative ideas and proof of concept to deliver against the existing and future needs of our customers. Software Engineers in Loyalty Technology will be assigned to one of several exciting teams that are developing a new, nimble and modern loyalty platform which will support the key element of connecting with our customers where they are and how they choose to interact with American Express
+Part of an enthusiastic, high performing technology team developing solutions to drive engagement and loyalty within our existing cardmember base and attract new customers to the Amex brand
+Play a critical role partnering with other development teams, testing and quality, and production support, to meet implementation dates and allow smooth transition throughout the development life-cycle
+Focus on building and executing against a strategy and roadmap focused on moving from monolithic, tightly coupled, batch based legacy platforms to a loosely coupled, event-driven, microservices-based architecture to meet our long term business goals
+
+
+ 
+Minimum Qualifications:
+
+University Degree in Computer Science, Engineering, or a related field followed proven experience in a modern development stack (Java, or Golang preferred)
+Experience in application design, software development, and testing, preferably in an Agile environment
+Experience working with Git on small to medium sized teams
+Experience with open source frameworks is a plus – especially maintaining or contributing to open source projects
+Experience with relational and NoSQL databases, including PostgreSQL, Couchbase, or Cassandra is a plus
+Experience designing and developing REST APIs for high volume clients
+Experience with continuous integration tools (Jenkins, Gitlab CI) a plus
+Experience with automated build and test frameworks a plus
+A proven hunger to learn new technologies and translate them into working software
+Experience with container and container orchestration technologies, such as Docker and Kubernetes, a plus
+Experience with Atlassian software development and collaboration tools (Bitbucket, JIRA, Confluence, etc.), a plus
+Strong ability to develop unique, outside the box ideas
+Strong analytical, problem-solving/quantitative skills
+Willing to take risks, experiment, and share fresh perspectives
+Aptitude for learning and applying programming concepts
+Ability to effectively communicate with internal and external business partners
+
+
+ 
+Preferred Qualifications:
+
+Knowledge of payments industry
+Experience with coding skills across a variety of distributed technologies
+Experience with a broad range of software languages and payments technologies
+
+
+ 
+Offer of employment with American Express is conditioned upon the successful completion of a background verification check, subject to applicable laws and regulations.
+
+
+To complete your application, please click on the links below. However, if you require any assistance with the completion of this process – or need any reasonable adjustments to be made – then please contact the Recruitment Team on recruitment.support.uk@aexp.com
+

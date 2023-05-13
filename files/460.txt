@@ -1,0 +1,49 @@
+
+JOB SUMMARY
+ Silvaco is looking for a software engineer to join our process simulation team in one of the company's offices in Europe. Working at the very center of the TCAD group, you would be working on stress-related aspects (mechanical stress as well as viscous stress and its effects). You will work on developing solutions requiring solving non-linear mechanical equations as well as Navier-Stokes type equations and on coupling both types of problems. This includes efficient discretization and linearization of the non-linear equation system as well as developing efficient numerical solution techniques.
+ As a Stress Software Developer, you will help Silvaco develop and deliver high quality products and services.
+ As a member of the TCAD group, you will design, implement, evaluate, and improve numerical methods, physical models and simulation methodologies. The successful candidate will be an experienced software engineer with expertise in developing simulation solutions for mechanical and/or viscous stress effects, whereby software development experience is at least as good as the knowledge of using software packages for simulating these kinds of problems. Since solving stress simulation problems often goes along with challenges in creating good simulation meshes, experience in that area or at least understanding its relevance and impact will be very beneficial. As an integral member of a team of highly trained and experienced engineers, the successful candidate must also be able to:
+
+ ESSENTIAL JOB FUNCTIONS AND RESPONSIBILITIES; include but not limited to:
+
+ Develop, support, test, and maintain existing simulation software.
+ Identify and understand limitations of existing software components.
+ Improve and develop simulation methodologies.
+ Develop and provide software solutions for physical models.
+ Understand and improve numerical schemes relevant for stress simulation problems.
+ Rely on experience and judgment to plan and accomplish goals.
+ Communicate complex ideas and testing results effectively; both orally and written
+ Must be able to work independently and solve the problems on his/her own initiative.
+ Provide accurate and effective written documentation.
+ Good communication and organization skills, with a logical approach to problem solving, good time management, and task prioritization skills.
+
+ QUALIFICATIONS AND REQUIRED EXPERIENCE
+
+ D. in Physics, Engineering, or related field
+ Strong proficiency in C++ or equivalent object-oriented programming language
+ Extensive experience in software design
+ Experience in software development within teams (code sharing)
+ Experience in simulating stress related problems including validation of simulation results
+ Strong knowledge in solid-state physics, mechanics of materials and theory of elasticity
+ Good presentation skills, communication skills and technical writing skills desired
+ Working knowledge of Microsoft PowerPoint and Excel
+
+
+ PHYSICAL REQUIREMENTS
+
+ Prolonged periods of sitting.
+ Prolonged periods of typing
+ Clarity of vision at approximately 20 inches or less (i.e., working with small objects or reading small print), including use of computers.
+ Ability to lift (up) to 15 pounds at times.
+
+
+ All Silvaco salary ranges are determined by role, level, and geographic location. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training, and additional role-related considerations.
+ Depending on the position offered, equity, bonuses, commission, or other forms of compensation may also be provided as part of a total compensation package, in addition to a full range of medical, financial, and other benefits.
+
+ COMPANY INFORMATION
+ For over three decades, Silvaco, based in Silicon Valley, California and with global locations around the world has solved semiconductor design challenges by offering affordable and competitive TCAD (Technology Computer Aided Design) software, EDA (Electronic Design Automation) software, proven design IP (intellectual property), and world class support to engineers and researchers across the globe. Silvaco solutions span from atoms to systems: starting with simulation of material behavior impacting semiconductor devices, to design and analysis of transistor circuits, and lastly providing IP blocks for systems-on-chip (SoC) designs. Our solutions are deployed in production flows across broad industry segments such as leading display companies, automotive OEM suppliers, and top Memory, 5G, and IoT (internet of things) providers.
+ WE ARE AN EQUAL OPPORTUNITY EMPLOYER
+ At Silvaco, we do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+ If you need assistance or an accommodation due to a disability, please contact us at 408.567.1000.
+ https://www.silvaco.com/
+

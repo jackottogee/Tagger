@@ -1,0 +1,28 @@
+Better homebuying for everyone involved
+Acre is rebuilding the UK’s £1.4 trillion mortgage market from the ground up, with a completely new end-to-end system for mortgage advisors.
+Our platform cuts out the unnecessary admin, pain and friction from buying a home. We're covering the entire journey, from figuring out what you can borrow, to getting your keys. We're guided both by the voice of real home buyers and by our close relationships with brokers, lenders and insurers. We won’t stop until the process of buying, mortgaging, conveyancing, and insuring your home is affordable and completely seamless.
+The Role:
+We are looking for a junior engineer that wants to be part of a fast growing startup that is transforming the way we buy homes.
+Your role will be to work closely with the CTO and the broader team to help build out platform in a manner that is highly reliable, consistent and secure. You will be highly motivated, be technology agnostic, passionate and proud of the work you produce.
+&nbsp;
+What you’ll be doing:
+You’ll be joining a team that is responsible for the design, implementation and testing of the user interfaces that empowers consumers, brokers and operational functions to efficiently manage the home buying process.
+You will be expected to write reusable, tested and efficient code that is always production ready and to be responsible for the whole lifecycle of the components you build.
+Who you will be:
+
+Passionate about software engineering and about delivering a quality product.
+Have (or be on track to getting) a 2:1 or higher degree in Computer Science, Mathematics or other scientific discipline, or equivalent experience.
+An understanding of automated testing platforms and unit tests.
+An understanding of security and reliability concerns.
+Experience of a range of languages, frameworks and patterns.
+
+What we offer:
+
+Chance to make an impact within a fully funded, early-stage Fintech start-up in a unique position to make a difference to the mortgage market.
+Private healthcare, a cash plan, pension contribution.
+Cycle to work scheme.
+Vibrant office in Central London with monthly social events.
+See our https://www.acresoftware.com/careers for more of what we offer.
+
+We’re looking for people that will get stuck in and make a difference. We have a great collaborative, entrepreneurial team that are passionate about what they do. If you want to join a team that is changing people’s lives for the better, then we’d love to hear from you.
+Job Type: Full-time

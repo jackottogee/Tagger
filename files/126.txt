@@ -1,0 +1,36 @@
+
+Introduction
+
+
+You will have a lead role developing and verifying safety-critical software systems and programmable systems to ensure that they overcome technical challenges, meet engineering standards and regulatory requirements.
+ You will work across a variety of projects, ranging from niche consultancy projects to large, high-profile programmes.
+ Working Pattern: Remote with some travel to Bristol and/or Ipswich. More time to spent on site during the first few weeks.
+
+
+Key responsibilities
+
+
+
+Take a lead role in the safety-critical software team, developing and verifying software using Labview.
+Ensuring clients software meet engineering standards and regulatory requirements.
+Debugging Labview real-time systems.
+Performing integration, factory-acceptance and site-acceptance testing.
+
+
+
+Skills & experience
+
+
+
+Use of LabVIEW to control real-time systems (eg. PXI real-time controller, cRIO real-time controller and cRIO FPGA controller).
+Experience of debugging networks of LabVIEW-powered real-time systems ideal.
+Experience of integration, factory-acceptance and site-acceptance testing.
+Experience of commissioning a system interfacing with customer’s existing hardware ideally.
+
+Our client is committed to providing a diverse and inclusive workplace and welcomes applications from all backgrounds. 
+Please note that the client has determined that the off-payroll working rules will apply to this assignment and therefore this contract will be run through an Umbrella Company. Income tax and primary national insurance contributions will be deducted at source from any payments made to the intermediary.
+ RECOMMEND A FRIEND: If you have professional friends/colleagues who would be interested in one of our roles and our excellent levels of service too, we'd like to recognise your recommendations with a 'thank you' of our own. For every colleague you refer who then starts a role through Datasource either Contract or Permanent, we will send you £250 of Love to Shop Gift Vouchers!
+ You will be required to hold a minimum of SC clearance. If you do not hold an active SC clearance, please familiarise yourself with the vetting process before applying.
+ (c) Copyright Datasource Computer Employment Limited 2023.
+
+

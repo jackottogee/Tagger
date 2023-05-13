@@ -1,0 +1,77 @@
+
+
+
+The Role:
+
+
+
+ As a Graduate Software Engineer you will join one of the teams building the Fidessa trading platform. You could be writing an algorithm to intelligently automate order execution; building a highly resilient, global peer-to-peer network; tuning our low low-latency market access platform; or squeezing every last ounce of performance out of the in-memory database. Expect to be challenged, but, no matter what, you will be guided and supported by our team of passionate and experienced product managers, architects and engineers.
+  
+
+
+ Key Responsibilities:
+
+
+
+ Design, implement and support well tested, high quality and maintainable software.
+  
+
+    Contribute and collaborate with product owners, architects, and other software engineers to deliver software components.
+  
+
+    Manage and prioritize own work workload to ensure the highest quality delivery to deadlines.
+  
+
+
+ Required Skills, Experience & Qualifications:
+
+
+
+ Bachelor's degree in Computer Science or other STEM discipline
+  
+
+    Experience programming in C++ and/or Java and/or C#
+  
+
+
+
+ Desirable
+
+
+
+ Familiarity with Linux / Unix operating systems
+  
+
+    Familiarity with web technologies (HTML, CSS, JavaScript)
+  
+
+    Financial markets knowledge, but, don't worry, we'll teach you all need to know.
+  
+
+
+
+ About us
+
+
+
+ We’re a diverse group of visionary innovators who provide trading and workflow automation software, high-value analytics, and strategic consulting to corporations, central banks, financial institutions, and governments. Founded in 1999, we’ve achieved tremendous growth by bringing together some of the best and most successful financial technology companies in the world.
+  
+
+Over 2,000 of the world’s leading corporations, including 50% of the Fortune 500 and 30% of the world’s central banks, trust ION solutions to manage their cash, in-house banking, commodity supply chain, trading and risk.
+Over 800 of the world’s leading banks and broker-dealers use our electronic trading platforms to operate the world’s financial market infrastructure.
+
+
+    With over 10,000 employees and offices in more than 40 cities around the globe, ION is a rapidly expanding and dynamic group.
+  
+
+    At ION, we offer careers that provide many opportunities: To invent. To design. To collaborate. To build. To transform businesses and empower people around the world to do more, faster and better than before. Imagine what you can do and experience. This is where you can do your best work.
+  
+
+
+
+   ION is committed to maintaining a supportive and inclusive environment for people with diverse backgrounds and experiences. We respect the varied identities, abilities, cultures, and traditions of the individuals who comprise our organization and recognize the value that different backgrounds and points of view bring to our business.
+  
+
+    ION adheres to an equal employment opportunity policy that prohibits discriminatory practices or harassment against applicants or employees based on any legally impermissible factor.
+  
+

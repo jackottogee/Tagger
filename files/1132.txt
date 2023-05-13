@@ -1,0 +1,79 @@
+ABOUT US
+A1 Comms is one of the UK’s foremost mobile phone and communication solution providers. Established in Derbyshire in 1997, we have seen continued growth and success within the industry. As a company that invests so much in innovation, whether that is our people, products, or services, we are proud to lead progress within the industry with our talented and empowered people at the heart of what we do.
+THE ROLE
+As an award-winning partner, working with some of the best-known brands in mobile communications, we inevitably take advantage of some of the very latest technologies to keep on top of our game, having adopted a ‘cloud first’ strategy for our systems and development.
+We are now looking to expand our development team to tackle some of our strategic objectives, which cover a broad selection of front-end development requirements in ecommerce and other bespoke systems. The output will be mostly customer facing, meaning a keen eye for detail and usability is a must.
+There’s a lot to go at (and that’s just the stuff we’ve road mapped) and as such, we’re looking for an experienced senior developer to seize the opportunity to get involved in some very exciting and challenging projects.
+THE SUCCESSFUL PERSON
+We are looking for a passionate and knowledgeable Senior Frontend Developer with excellent PHP (Laravel) and JavaScript (React) skills. This is likely to mean that you’ve already spent a considerable amount of time developing software and know how to translate business problems into code. In addition, you’ll intuitively understand the capabilities and opportunities that software development offers as a solution to business problems, as well as the inherent complexities and challenges of designing, building, delivering and maintaining these software solutions.
+Key Skills and Experience:
+
+A degree/HND in a computer science or engineering discipline (or significant relevant experience)
+5+ years software development and testing experience
+Previous Senior Developer experience
+OO PHP and Frameworks (Laravel/Lumen)
+JavaScript and JavaScript libraries (React or similar)
+CSS/HTML
+SQL (MySQL)
+Be extremely organised, and capable of taking a requirement/project and split it into deliverable tasks
+Able to identify appropriate solutions and approaches, deciding what software should be written, along with timescales for delivery
+Excellent written and verbal communication skills with the ability to convey complex information to peers and stakeholders
+Ability to adhere to regulatory compliance and governance standards
+
+We use the technologies, systems, or concepts listed below. If you’re familiar with them, you’ll have a head start, alternatively we’d be looking for experience in similar or equivalents:
+
+Version Control/Source Code Management (Git and Bitbucket)
+Cloud Environments (Google Cloud Platform - especially serverless such as App Engine)
+Project Management and Documentation (Atlassian Jira/Confluence)
+Development Methodologies (Agile)
+
+WHAT WE OFFER
+
+Salary of £45k + dependent on experience
+Freedom and flexibility to work fully remote within the U.K.
+Fantastic career progression opportunities
+20 days holiday each year (increasing yearly up to 24) + bank holidays
+Cashback Health Plan — to help you look after your everyday physical and mental health, with money back on a variety of dental/health checks, as well as access to counselling and GP advice
+Pension scheme and life assurance plan
+Long Service Awards to recognise employee milestones
+Employee ‘Friends and Family Discount Scheme’
+Bike to work scheme and free on-site parking
+
+At A1 Comms, we celebrate our differences - and knowing what makes us different individually makes us greater as a team. We fully embrace diversity and inclusion and are committed to building a team with a variety of backgrounds, skills, and views. Our business is about keeping people connected. Whether our customers or our staff; we aim to create a culture of connectedness and inclusion where everyone’s voice can be heard.
+Please note that it is a regulatory requirement that a basic DBS check is carried out on all successful candidates.
+Job Type: Full-time
+Salary: From £45,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Employee discount
+Free parking
+On-site parking
+Paid volunteer time
+Referral programme
+Wellness programme
+
+Schedule:
+
+Monday to Friday
+
+Application question(s):
+
+Will you now or in the future require sponsorship for employment visa status?
+This role is being offered remote within the U.K., are you a current U.K. resident?
+
+Experience:
+
+Software development: 5 years (preferred)
+PHP: 3 years (preferred)
+Laravel: 3 years (preferred)
+JavaScript: 3 years (preferred)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

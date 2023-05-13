@@ -1,0 +1,94 @@
+
+ROLE:Graduate Software Engineer
+ 
+
+TEAM:Engineering - Software
+ 
+
+LOCATION:Hybrid Portishead/Remote Working
+ 
+
+REPORTING TO:Software Engineer Lead
+ 
+
+ABOUT VIPER:
+ Viper Innovations Ltd provide innovative high-end engineering products and service solutions for the Global Subsea Oil & Gas and UK Rail Industries. With our passion for product and service development this is an exciting time to join us and working within a dedicated and dynamic customer focused team you will be encouraged and rewarded for your contribution to the future success of the company.
+ 
+
+ABOUT THE ROLE:
+
+
+Undertake the development, testing and modification of software products in support of the companys research and development activities and commercial deliveries
+Produce technical documentation in accordance with company procedures
+
+
+ RESPONSIBILITIES:
+
+1.
+Specific Responsibilities of the Role
+ 1.1.Develop software products and solutions to customer requirements.
+  1.2.Generate software design documentation in accordance with company procedures, including (but not limited to) specifications, test procedures, block diagrams, schematics, manuals, Application Programming Interface (API) or any other documentation required
+  1.3.Evaluate current and new software technologies as well as their potential benefits and use case applications through research and testing.
+  1.4.Support the preparation and filing of patent disclosures/applications by identifying novel technology and writing the initial idea descriptions.
+  1.5.Support Agile software development processes as part of the development team.
+  1.6.Undertake testing, evaluation, modification and re-testing of products/solutions.
+  1.7.Work to defined project specifications and timescales.
+  1.8.Support general tendering and marketing activities, as and when required.
+  1.9.Support and assist in testing and commissioning, both on-site and off-site.
+  1.10.Work to relevant international standards and best practice guidelines as required.
+  1.11.Undertake engineering consultancy work in accordance with company and client requirements.
+  1.12.Review development work as part of sprint iterations.
+  1.13.Work cross-functionally with other departments to co-ordinate the transfer of new products/systems into commercial solutions.
+ 
+
+2.
+Leadership and Management
+ 2.1.There are no Leadership and Management responsibilities associated with this role.
+ 
+
+3.
+QHSE
+ 3.1.Undertake obligations in accordance with Vipers ISO accreditations from time to time, e.g. ISO9001, ISO14001, OHSAS18001, ISO45001, ISO27001, as detailed in the Operations Manual. Recognise requirements for Industry Standards as relevant to work scope.
+  3.2.Adopt a pro-active approach to company and client QHSE initiatives and objectives.
+  3.3.Ensure best practice is followed to achieve maximum levels of safety, quality and efficiency and take recognition of the environment and environmental impacts in all activities and decisions.
+  3.4.Adopt a continuous improvement approach to work ethic.
+ 
+
+4.
+Teamwork
+ 4.1.Operate in the best interests of Viper at all times, and as a member of the team, ensuring:
+  4.1.1.a One Team ethic within your team and the business as a whole.
+  4.1.2.a pro-active, positive attitude.
+  4.1.3.you develop, encourage and promote high performance team working.
+  4.1.4.that individual and team behaviours demonstrate integrity and high ethics.
+  4.1.5.you act at all times in accordance with the Companys vision, mission, values and behaviours statements.
+ 
+
+5.
+Self
+ 5.1.At all times manage and lead yourself to ensure the delivery of your role and all aspects thereof to the highest standard.
+  5.2.Be responsible for developing and maintaining your own learning and development plan for continuous skills growth in all relevant areas, not just in relation to your area within the business.
+  5.3.Display exceptional organisational and communication skills.
+  5.4.Be a proactive team player with strong customer service and problem-solving skills.
+  5.5.Ability to maintain confidentiality and act with discretion and diplomacy.
+  5.6.Be self-motivated and able to work under own autonomy or as part of a team.
+ 
+
+6.
+Working Conditions and Physical Requirements
+ 6.1.Occasional travel to customer/supplier premises and/or other Viper sites may be required in line with business needs.
+ 
+
+CANDIDATE REQUIREMENTS:
+
+
+Hons Degree or equivalent in a suitable discipline and/or proven work experience in line with the skills or knowledge required for the role
+Experience of creating software from business/user requirements
+Experience of delivering software functionality, deployment, migration and supporting an application in production
+Experience working as part of a multi-disciplinary engineering team and in a development environment
+Understanding of relevant software design, coding and quality standards
+Understanding of hardware and/or software development principles
+
+
+ This job description is intended to convey information essential to understanding the scope of the above role and the general nature and level of work performed by the role holder. However, this job description is not intended to be an exhaustive list of qualifications, skills, efforts, duties, responsibilities or working conditions associated with the position.
+

@@ -1,0 +1,44 @@
+
+JOB SUMMARY
+ We are looking for a software engineer to join our TCAD team. The candidate will be part of our process group and will help to design, develop, troubleshoot, and maintain our process simulation software. Whereby the main responsibilities for this position shall be software engineering aspects covering all simulation modules with a focus on the ion implantation modules and their interaction with all other modules. This position requires high flexibility in understanding various physical problems and their numerical solutions.
+ ESSENTIAL JOB FUNCTIONS AND RESPONSIBILITIES; include but not limited to:
+
+ Develop and support Ion Implantation modules, testing, calibration in C/C++
+ Support to internal engineering teams that produce highly accurate customer simulation results timely
+ Help deliver high quality products and service
+ Provide accurate and effective written documentation 
+Identify and apply new modeling trends and techniques effectively to enhance product planning efforts
+ Communicate complex ideas and testing results effectively, both orally and in writing
+
+ QUALIFICATIONS AND REQUIRED EXPERIENCE
+
+ MSC or PhD in Physics or Electrical Engineering or Computer Science or equivalent.
+ Extensive experience (> 5 years) object oriented in software design and development.
+ Experience developing large software packages.
+ Proficiency in C/C++ or equivalent.
+ Deeper knowledge of semiconductor technology and/or solid-state physics is a plus.
+ Experience in semiconductor process simulation is a plus.
+ Experience in high-performance computing is a plus.
+ Experience in geometrical algorithms and data structures is a plus.
+ Experience with rendering or ray tracing software packages is a plus.
+ The candidate should display good analysis and problem-solving skills.
+
+
+ PHYSICAL REQUIREMENTS
+
+ Prolonged periods of sitting.
+ Prolonged periods of typing
+ Clarity of vision at approximately 20 inches or less (i.e., working with small objects or reading small print), including use of computers.
+ Ability to lift (up) to 15 pounds at times.
+
+
+ All Silvaco salary ranges are determined by role, level, and geographic location. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training, and additional role-related considerations.
+ Depending on the position offered, equity, bonuses, commission, or other forms of compensation may also be provided as part of a total compensation package, in addition to a full range of medical, financial, and other benefits.
+
+ COMPANY INFORMATION
+ For over three decades, Silvaco, based in Silicon Valley, California and with global locations around the world has solved semiconductor design challenges by offering affordable and competitive TCAD (Technology Computer Aided Design) software, EDA (Electronic Design Automation) software, proven design IP (intellectual property), and world class support to engineers and researchers across the globe. Silvaco solutions span from atoms to systems: starting with simulation of material behavior impacting semiconductor devices, to design and analysis of transistor circuits, and lastly providing IP blocks for systems-on-chip (SoC) designs. Our solutions are deployed in production flows across broad industry segments such as leading display companies, automotive OEM suppliers, and top Memory, 5G, and IoT (internet of things) providers.
+
+ WE ARE AN EQUAL OPPORTUNITY EMPLOYER
+ At Silvaco, we do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+ If you need assistance or accommodation due to a disability, please contact us at 408.567.1000.
+ https://www.silvaco.com

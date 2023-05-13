@@ -1,0 +1,74 @@
+
+
+Python Developer – London (Hybrid) - up to 75k – UK Candidates Only
+ (Must have Security clearance 
+  or have 5 years of residency in the UK)
+  
+ My client is a 
+  small boutique subject matter expert services organisation that provides technical expertise in 
+  Cybersecurity, Communications Security and AI-driven data intelligence and science.
+
+
+ The team works closely with 
+  Law Enforcement, National Security, Telecommunication and Healthcare Services to help solve the 
+  hardest data challenges allowing said organisations to make informed, accurate decisions to scale faster. You will be integrated into a
+   small dynamic and
+   diverse team of
+   like-minded professionals to assist on 
+  multiple projects of varied sizes.
+
+ 
+
+
+Responsibilities of a Python Developer:
+
+
+ Design, develop, deploy, test, debug, and then maintain software bundles
+ Support and enable in the functionality of existing systems and implement different solutions for data and security
+ Competent in documentation via write-up and review
+ Liaise with internal and external stakeholders
+ Deal with a variety of tickets through assessment and prioritisation
+ Develop different infrastructures (CI) using technologies such as but not limited to Jenkins and Docker
+ Proficient in designing components in line with business specifications
+
+
+
+Requirements of a Python Developer:
+
+
+ Advanced Python coding skills 
+Track record of deploying cloud-based infrastructure
+ Display data acquisition, processing techniques, and containerisation deployment 
+Use of user interfaces alongside the integration of a variety of databases 
+Exceptional analytical and numerical skills
+ Experience using CI/CD tech such as but not limited to Terraform, Docker, Kubernets and Jenkins 
+Use a range of high-level programming languages 
+Degree in a relevant field such as computer science
+ Full security clearance OR 5 years of residency in the UK
+
+
+
+Benefits of a Python Developer:
+
+
+ Hybrid working environment
+ Industry-leading coaching program
+ Direct leadership support
+ Complete ‘work time’ flexibility
+ Bonus scheme 
+Flexible benefits payment
+
+
+
+*UK CANDIDATES ONLY*
+
+ If this 
+  Python Developer opportunity is of interest, please contact me directly at 
+  m.wilding@ltharper.com or on 
+  02081060096 extension 
+  123.
+
+ #python #pythondev #cybersecurity #developer #pythondeveloper
+  
+ LT Harper is an equal opportunities employer, and we are firm believers that everyone has the right to feel valued and safe in their place of work. Therefore, we welcome the unique contributions that everyone can bring. All qualified applicants will be considered for employment irrespective of race, religion, nationality, sex, sexual orientation, gender identity, age and disability, or any other legally protected status.
+ 

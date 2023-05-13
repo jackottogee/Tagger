@@ -1,0 +1,51 @@
+We are looking for a Software Development Engineer to develop and support the design of software within our control systems.
+Main Tasks
+· Write and develop module-level code in-line with the software development process;
+· Develop product-level code to support the development of new products;
+· Modify module-level and product-level code to assist with the test and validation of new products;
+· Interpret module test plans and create visualisations in CODESYS to facilitate module verification testing;
+· Assist in specifying software functionality;
+· Generate bespoke test software to assist with general test and validation activities;
+· Support the updating of existing software.
+The above is not an exhaustive list of duties and you will be expected to perform different tasks as necessitated by your changing role and the organisation’s overall business objectives, this may include the training and mentoring of colleagues.
+Qualifications & Experience
+In addition to a strong engineering background, the ideal candidate will have:
+· A Degree in a relevant field (candidates without a degree will be considered if they can demonstrate extensive and relevant industry experience);
+· Experience in a relevant role;
+· Experience in software development for complex electro-mechanical systems;
+· Knowledge of PLC logic and programming
+In addition to the above, the following is preferable but not essential:
+· Knowledge of programming using CoDeSys (especially using FBD ‘Functional Block Diagram’ and ST ‘Structured Text’ languages);
+· Knowledge of control of hydraulic valves;
+· Experience of developing software for mobile machinery.
+Characteristics
+· Methodical and systematic approach;
+· Able to work as part of a team or individually;
+· Pragmatic;
+· Good attention to detail;
+· Strong problem solving ability;
+· Excellent communication skills;
+· Desire to learn and train others;
+· Ability to work with partial information and minimal supervision;
+· Ability to produce efficiently a consistent high quality of work;
+· Flexible approach to working hours.
+Remuneration
+The above role offers a competitive package for right candidate.
+Contact Information
+Please send CV and covering letter
+Job Type: Full-time
+Salary: £35,000.00-£45,000.00 per year
+Benefits:
+
+Company pension
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Certificate of Higher Education (preferred)
+
+Work Location: In person

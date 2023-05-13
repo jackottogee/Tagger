@@ -1,0 +1,121 @@
+
+
+
+Vacancy No
+
+    VN11492
+  
+
+
+
+ Employment Type
+
+    Permanent
+  
+
+
+
+ Location Country
+
+    United Kingdom
+  
+
+
+
+ Location City
+
+    Glasgow
+  
+
+
+
+ Who are V.Group?
+
+    As a global leader in ship management and marine services, we add value to a vessel’s operations. Operating around the clock and around the world, V.Group gives every client the quality and efficiency they need in every sector. Covering crew management and recruitment, quality ship management and technical services, together with supporting management and commercial services, V.Group has an unrivalled industry knowledge with performance assured. Our values, We Care, We Collaborate, We Challenge, We are Consistent, We Commit and Deliver, are at the heart of everything we do and they support our strategy of Investing in Talent. We are always interested in making contact with talented individuals - people who will demonstrate our values and deliver great service, for internal and external stakeholders.
+  
+
+
+
+ Overall Purpose of The Job
+
+    Are you ready to join a global team developing a range of innovative software for the global maritime industry, learning skills and knowledge that will help you establish your long-term career in technology. 
+   
+ We are looking for that great new web developer who will work closely with all disciplines of the project team to develop new web and mobile applications delivering our continued digital transformation and business automation. 
+   
+ You will have experience through education or employment where you have worked on collaborative development projects in modern technologies sets such as Python, .NET Core, C#, JS, these projects will have given you an understanding on how software is developed through Agile methodologies. 
+   
+ The Graduate Web Developer will be enrolled into our curriculum for training and experience with the emphasis placed on created real life skills, developing the individual and establishing core skills. This is a great opportunity to work across multiple business domains and gain experience in systems for Finance & Accounting, HR, Procurement, Budgeting, Management, Technical Maintenance, Shipboard Operations. 
+   
+ About the Role 
+    V.Ships actively maintains a comprehensive roadmap for developing its core platform, ShipSure, to extend it’s features and services to help V.Ships gain a competitive advantage in the industry. 
+   
+ Your role will be to work in partnership with UX designers, product managers, business analyst, technical authors, project office, and development teams (in Glasgow and offshore) to support the delivery of ShipSure on a web platform to internal and external clients. 
+   
+ Web Developer is a critical position for ensuring that ShipSure meets the needs of the business and that these expected benefits are realised by the business. 
+   
+ To be successful in the role you will be organised, enthusiastic with a willingness to learn and demonstrate excellent interpersonal skills.
+  
+
+
+
+ Key Responsibilities and Tasks
+
+    1. Use Microsoft .Net to implement quality Web and PWA applications and solutions. 
+    2. Implement business processes, rules and workflows from requirements including data operation (SQL) and backend functionality. 
+    3. Work with product managers, business analysts, UX designers and business representative to interpret requirements and create designs that are creative and innovative, but workable 
+    4. Understand and implement PWA and MVC patterns. 
+    5. Design new product features as proof-of-concept designs to demonstrate ideas. 
+    6. Demonstrate a good understanding of layout and user centered design methods. 
+    7. Provide a professional level of user interface and responsive web design across platforms. 
+    8. Strong communication skills 
+    9. Good time management 
+    10. Collaborate with other developers and teams for the ultimate end-user product 
+    11. Design and develop commercial quality code for key product modules. 
+    OTHER RESPONSIBILITIES 
+    1. Liaison with other internal and external parties as required. 
+    2. Supporting others in ISD on business and technical issues where appropriate.
+  
+
+
+
+ Required Experience
+
+    Required skills, Experience & Qualifications 
+   
+Degree qualified in a STEM discipline or relevant professional qualification 
+
+Graduate Web Developer does not require previous experience, however, relevant experience such as placements, part-time or voluntary will be taken into consideration 
+
+Experience programming in C# and/or Java and/or C++ 
+
+ Desirable 
+    Familiarity or knowledge of some or all of the following: 
+    o ASP.Net with MVC 
+    o jQuery / jQuery UI 
+    o HTML5 / CSS3 
+    o Web Services and integration (SOAP, REST, JSON, XML), Web API 
+    o PWA using any of - Angular / React JS / React Native/ Node JS 
+    o DevOps principals 
+    o SQL, knowledge of ORM beneficial 
+    o .Net Core would be beneficial 
+    o Modern application security practices 
+   
+Knowledge of web solutions and platforms 
+
+Experience working in an Agile/Scrum environment
+
+
+
+
+ What can I expect in return?
+
+    V. Group can offer you a market leading salary and benefits package, in addition to significant opportunities for career growth and personal development. This a great opportunity to join a true leader in the maritime sector - a company that has exciting plans for future growth.
+  
+
+
+
+ Applications Close Date
+
+    28 May 2023
+  
+

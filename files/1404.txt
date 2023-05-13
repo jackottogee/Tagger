@@ -1,0 +1,31 @@
+
+Role: Software Engineer
+ Site Location: GE Cheltenham, Bishop's Cleeve
+ Rate: £60 per hour
+ IR35 Status: Inside IR35
+ 
+Key Activities:
+
+ Software Test Equipment investigations
+ Software documentation
+ Minor software updates
+
+ 
+Essential Responsibilities:
+
+ Problem investigation
+ Minor updates to existing software, including design, code, verification, and process documentation.
+ Push changes through the full lifecycle, following procedures, or review the output of lifecycle stages produced by a third party.
+ Trouble shoot issues and communicate to stakeholders to identify solutions. Verify and release software.
+ To investigate, update and release minor software updates.
+ This includes a substantial amount of documentation.
+
+ 
+Qualifications / Requirements:
+
+ C++ language experience with OO features.
+ Very good networking and communication skills.
+ Experience integrating Software onto Hardware/Test Equipment.
+ Happy to use equipment like an oscilloscope.
+
+

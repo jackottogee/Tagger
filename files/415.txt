@@ -1,0 +1,123 @@
+
+
+
+Job title:
+
+
+   Back-End Software Engineer Intern
+ 
+
+
+
+
+Location:
+
+
+   Crawley, United Kingdom
+ 
+
+
+
+
+About SLB:
+
+
+   We are a global technology company, driving energy innovation for a balanced planet.
+ 
+
+
+
+
+  At SLB we create amazing technology that unlocks access to energy for the benefit of all. That is our purpose. As innovators, that’s been our mission for 100 years. We are facing the world’s greatest balancing act- how to simultaneously reduce emissions and meet the world’s growing energy demands. We’re working on that answer. Every day, a step closer.
+ 
+
+
+
+
+  Our collective future depends on decarbonizing the fossil fuel industry, while innovating a new energy landscape. It’s what drives us. Ensuring progress for people and the planet, on the journey to net zero and beyond. For a balanced planet.
+ 
+
+
+
+
+Job Description:
+
+
+   Intern’s will be challenged to find practical solutions to real industry challenges with the support of a team of experts. It’s a unique insight into the science, data, engineering, and more that are not only driving SLB, but also pushing the boundaries of what’s possible in our industry.
+ 
+
+
+
+
+  You will be immersed in a small, distributed team at the heart of the development and the release process of a system of ~35M line of code and ~15 languages.
+ 
+
+
+
+
+  During the internship you will be involved in the continuous improvement of the delivery process (Continuous Integration, unit-test, inspection, reporting, and quality metrics) and contributing to the collaborative aspect of the development and integration of a system. Your work will involve programming in python, shell scripting as well as java and c++.
+ 
+
+
+
+
+  You will also gain exposure to Linux and Windows development environment in on prem and Cloud systems. You will be assigned several mini-projects at various stages of delivery process whose main goal will be performance optimization, robustness improvements and automation.
+ 
+
+
+
+
+
+Responsibilities
+
+
+   You will be integrated into the team’s task board and allocated tasks which progress will be reviewed in our daily team meetings. Your task will touch different parts of the system, sometimes requiring you to get familiar with a new language. The focus of your tasks will be:
+ 
+
+automation of a system delivery process,
+improvements to the reliability of various tools,
+design and implementation of features to support seismic processing software.
+
+
+
+
+
+
+Competencies
+
+
+   To be successful within this role, you should have experience with one or more of the following:
+ 
+
+Linux as development platform,
+Scripting (Python, Shell),
+C, C++,
+Java, JavaScript,
+Jenkins as automation server to support CI/CD,
+Agile methodologies,
+source control versioning,
+unit testing.
+
+
+
+
+
+
+Qualifications
+
+
+   Studying towards a Masters in Computer Science or related field.
+ 
+
+
+
+
+BlueFlex:
+
+
+   We are open to flexible, hybrid working with a combination of on-site & home working days.
+ 
+
+   SLB is an equal employment opportunity employer. Qualified applicants are considered without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, or other characteristics protected by law.
+ 
+

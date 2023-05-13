@@ -1,0 +1,53 @@
+
+
+
+Key Responsibilities
+
+
+    As a Software Developer, you will be focusing exclusively on the design, development, testing and maintenance of our in-house and client software systems. You will be part of a small team that demonstrates a passion for good design and coding practices and develops new bold ideas whilst maintaining the highest levels of availability, performance and security.
+    
+
+
+
+ Research, design, and write new software programs. 
+Enhance existing programs by analysing and identifying areas for improvement. 
+Produce detailed technical specifications. 
+Work closely with analysts, designers, and testers. 
+Use test-driven development, acceptance, and regression tests to ensure feature quality in controlled, real situations before going live. 
+Host training sessions and prepare training manuals for end users. 
+Maintain the systems once up and running through monitoring, performance optimisation and correcting software bugs etc. 
+Continuously update technical knowledge and skills through self-learning, investigating new technologies, and accessing new applications.
+
+
+
+
+
+
+Desirable Candidate
+
+
+3+ years developing back/mid office business systems, and consumer facing web-based applications.
+ Awareness of modern software architecture and design patterns.
+ Proven software development experience using either MEAN stack or Microsoft .NET Frameworks/Core.
+ Comfortable with web-based technologies including HTML, CSS, JavaScript, Typescript, AJAX.
+ Understanding of responsive design frameworks.
+ Excellent relational database skills preferably with Azure SQL or Microsoft SQL Server.
+ Solid Cloud experience, preferably in Microsoft Azure and Office 365 environments.
+ Exposure to GIT version control and JIRA project tracking software.
+ Understanding of common web security threats and vulnerabilities, and how to reduce their risks.
+ Knowledge of Information Security best practices.
+ Strong communication skills.
+ A meticulous and organised approach to work with an eye for detail and identifying problems.
+ Logical, analytical, and creative approach to meeting user and system requirements.
+ Ability to work in a team and alone to manage own workload.
+ BS/MS degree in Computer Science, Engineering, or a related subject (preferable)
+ Previous experience working with Content Management Systems (preferable)
+ Experience working with NOSQL document-based databases such as MongoDB (preferable)
+ Experience with automated testing using a variety of MS Test, NUnit, CodedUI, Selenium and Jasmine (preferable)
+ Experience with Search Engine Optimization (SEO) (preferable)
+ An understanding of business, business processes and commercial awareness (preferable)
+
+
+
+
+

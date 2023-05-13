@@ -1,0 +1,54 @@
+About us
+High Court Enforcement Group is the largest independent and privately owned enforcement company in England and Wales.
+With a dedicated team of over 200 staff, we provide a comprehensive range of enforcement solutions for businesses, organisations and individuals seeking to recover debts and possession of land and property.
+About the role:
+We're looking for a Software Developer to add to our growing IT Department .
+The ideal candidate is able to coordinate work with a variety of individuals, will work to maintain good software development standards.
+Primary duties will include:
+
+Software development of web-based dashboards and analytics.
+Software development for importing and exporting data.
+General software development features.
+Data analysis
+Logging and managing own jobs.
+Software support.
+
+Some programming experience needed, however, in depth training will be provided in all areas.
+Technologies in use:
+
+Development in C#.net, and VBA
+SQL
+Microsoft Power BI, Microsoft Access, Microsoft Excel
+Visual Studio IDE
+
+Benefits:
+
+21 days holiday rising to 26, plus bank holidays
+Birthday day
+On-site parking
+Workplace pension
+Employee assistance programme (EAP), wellness programme, and healthcare plan.
+Free tea & coffee
+Friendly team & pleasant office atmosphere
+Staff social events
+
+Job Type: Full-time
+Salary: £24,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Gym membership
+On-site parking
+Wellness programme
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Colwyn Bay: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person

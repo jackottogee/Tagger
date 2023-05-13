@@ -1,0 +1,93 @@
+Job Title: Web Developer
+Location: Loughton, Essex
+Salary: up to £75,000
+Benefits
+
+Working within a newly refurbished dedicated office space with onsite employee gym and parking
+Close road links to M11/M25/A406/A12 and London
+Central Line Train station within one-minute walk with quick access to Central London
+28 days annual leave, incl. Bank Holidays, per annum, with an additional day per year of service (capped at 33 days)
+Pension Scheme
+Healthshield (health cash back scheme and counselling services)
+Eye Test / Glasses reimbursement scheme
+Last Working Day Lunch paid for by Company
+Various team and personal reward incentives
+Social events
+
+Who are we?
+PDL Finance Limited. Established in 2009 and regulated by the FCA, with a proven track record for customer and employee satisfaction.
+What we are looking for:
+We are seeking an extremely driven, passionate and motivated individual to join our in-house development family. The ideal candidate will enjoy learning, seeing projects through to completion and thrive on new challenges. As a member of our team, you will have the opportunity to work on our public-facing API and back-office websites in a Test-Driven Agile environment. We are always exploring the latest technologies and have recently migrated to Azure where we will be modernising from VMs to App Services, SQL MI and utilising many other services on offer. Other future projects include incorporating .NET Core, SignalR and AI technology such as ChatGPT. Your role will involve enhancing our websites using the technologies listed below and integrating new technologies as needed.
+Main duties and responsibilities:
+This is a fast-paced, hands-on role. Your day-to-day responsibilities will include, but not solely be limited to:
+
+Developing website features and fixing bugs using C#, Entity Framework, Azure Service Bus and SQL Server
+Writing unit and integration tests using NUnit
+Styling website changes in CSS
+Developing JavaScript code using frameworks such as Vue
+Attending scrum meetings and briefings with project owners and peers
+Writing SQL scripts to modify database schema in SQL Server 2014
+
+Technical Skills:
+Required:
+
+ASP.NET 4.6+ MVC 5
+C# 6 including advanced language features e.g., generics, lambdas, delegates
+Design Patterns and SOLID Principles
+Entity Framework 6+
+SQL Server 2014+
+TDD/NUnit
+Javascript/JQuery/AJAX
+HTML5
+CSS 3
+
+Desirable:
+
+ASP.NET Core
+Azure Service Bus
+Entity Framework Core
+Vue
+Agile methodologies/Scrum
+Automated browser testing/SpecFlow/Selenium
+SignalR
+ECMAScript6
+AngularJS
+
+Person Specification:
+
+Strong written and verbal communication skills
+Good coding and development abilities.
+The confidence to express ideas as part of a creative team
+A clear and genuine interest in technological trends
+The ability to meet deadlines and think strategically
+A passionate approach to work with a desire to push boundaries
+The ability to explain technical jargon to peers
+Honest, reliable, dedicated, and hard working
+Minimum of two years relevant experience
+
+Job Types: Full-time, Permanent
+Salary: £60,000.00-£75,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Discounted or free food
+Free parking
+Gym membership
+On-site parking
+Referral programme
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Loughton: reliably commute or plan to relocate before starting work (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person
+Reference ID: DEV1

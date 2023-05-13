@@ -1,0 +1,65 @@
+
+
+Help us make a big green dent in the universe. We're on a mission to drive the global renewable energy revolution, and we need loads more people to help us make our vision a reality.
+ 
+
+
+ Our ambition is to help put the world on the path to Net Zero.
+ 
+
+
+ Through our R&D team, we’re working on exciting projects that will directly impact the future of renewable energy. Our R&D team is now rapidly expanding and we’re looking for determined people to join us on our mission.
+ 
+
+
+ It is not only pure engineering knowledge that we are looking for; we are very keen on candidates with a can-do attitude and a real desire to make the world a better place. We want you to feel that you’re contributing to an important mission and we want you to develop yourself. You will have excellent training opportunities and a fantastic place to grow as a professional
+ 
+
+
+ This is a hybrid role with the expectation that you will be in on site in Slough a 2-3 days a week.
+ 
+
+
+ What you'll do 
+
+Join an established R&D team with expertise in control systems, software development, numerical modelling, and data science/optimisation
+ Design, develop and maintain software for various R&D projects related to electrification of heat
+ Design software for both desktop and custom embedded devices
+ Work alongside Control Engineers to implement their designs of novel electrification of heat related products
+ Communicate software-related matters to a multidisciplinary team
+ Design and implement best practices related to software design and development
+
+ What you'll need
+
+ A degree in Computer Science, or any related Engineering discipline.
+ Proven experience with embedded systems.
+ Proficiency in Python, particularly for embedded Linux systems.
+ Experience working with microcontrollers, such as Raspberry Pi and Arduino.
+ An understanding of Linux system programming.
+ Competency in test-driven development.
+ Working knowledge of container technologies, such as Docker and Kubernetes.
+ Some experience with guiding colleagues in best practices for software development.
+
+ It’d be great if you had
+
+ Experience developing device drivers.
+ An understanding of threading and multiprocessing.
+ Knowledge of CI/CD processes.
+ An understanding of communication protocols, such as I2C, SPI, Modbus.
+ Experience with designing and managing OTA update systems.
+
+ Why else you'll love it here
+
+ Wondering what the salary for this role is? Just ask us! On a call with one of our recruiters it's something we always cover as we genuinely want to match your experience with the correct salary. The reason why we don't advertise is because we honestly have a degree of flexibility and would never want salary to be a reason why someone doesn't apply to Octopus - what's more important to us is finding the right octofit!
+ Octopus Energy is a unique culture. An organisation where people learn, decide, and build quicker. Where people work with autonomy, alongside a wide range of amazing co-owners, on projects that break new ground. We want your hard work to be rewarded with perks you actually care about! We won best company to work for in 2022, on Glassdoor we were voted 50 best places to work in 2022 and our Group CEO, Greg has recorded a podcast about our culture and how we empower our people. We’ve also been placed in the top 10 companies for senior leadership
+ Visit our UK perks hub - Octopus Employee Benefits
+
+
+ If this sounds like you then we'd love to hear from you. 
+
+
+
+
+Studies have shown that some groups of people, like women, are less likely to apply to a role unless they meet 100% of the job requirements. Whoever you are, if you like one of our jobs, we encourage you to apply as you might just be the candidate we hire. Across Octopus, we're looking for genuinely decent people who are honest and empathetic. Our people are our strongest asset and the unique skills and perspectives people bring to the team are the driving force of our success. As an equal opportunity employer, we do not discriminate on the basis of any protected attribute. Our commitment is to provide equal opportunities, an inclusive work environment, and fairness for everyone.
+
+

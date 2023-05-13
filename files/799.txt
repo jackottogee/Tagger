@@ -1,0 +1,81 @@
+
+Role: Senior Front End Developer
+Contracting Authority: Government
+Contract Length: 12 Months
+Location: London - Hybrid
+IR35: Inside
+Pay Rate: £650 per day
+
+
+Our client is seeking a fantastic Senior Front End Developer, who can make a positive impact, and want to contribute to the most demanding and exciting new digital service for the UK Government. Let’s be clear about the impact of your work - better digital services in government will change the face of public services and have the potential to dramatically transform the future of millions of people.
+You will have outstanding skills and be ready to quickly get to work within an agile multi-disciplinary team of Developers, Designers, and Analysts focused on the Department for Work and Pensions’ flagship welfare reform programme.
+You’ll be the kind of person who is unconcerned with titles and hierarchy; what really excites you is problem-solving and the opportunity to deliver innovative technology that carries real value for users. You will draw value from collaboration with others, actively seeking input from colleagues and valuing a multidisciplinary team over hierarchy.
+Day-to-day you will be an integral part of that team in designing, creating and improving new and existing products, platforms and transactions across government.
+
+
+The Front End Developer Will Need:
+
+Be involved in the wider web development community, identifying good practices we can adopt and sharing our experiences
+
+
+Have knowledge of tools and techniques used within the wider team, both Developers and Non-Developers
+
+
+Have expert knowledge of HTML5, JavaScript, jQuery, CSS and Sass
+
+
+Have expert knowledge of cross-browser considerations
+
+
+Have expert knowledge of Responsive Web Design
+
+
+Have knowledge of web accessibility and WCAG
+
+
+Have knowledge of UX and usability
+
+
+Have an ability to communicate technical concepts to a non-technical audience
+
+
+Have proven experience maintaining a large and dynamic code base
+
+
+Have experience working on technical projects within a team
+
+
+Have working knowledge of unix-like operating systems such as Linux and/or Mac OS X
+
+
+Have knowledge of the use of version control systems such as subversion or git
+
+
+Have the ability to quickly research and learn new programming tools and techniques
+
+
+Have experience of building high-traffic websites
+
+
+Understand web architecture.
+
+
+
+It would also be desirable to:
+
+Have knowledge of client side build tools: grunt, gulp or similar
+
+
+Have the skills to build up a useful, robust automated test suite to support a continuous deployment environment
+
+
+Have a working knowledge of Mustache templates, Java 7 and Node.js
+
+
+Have experience with test driven development using toolsets such as Mocha and Jasmine
+
+
+
+Minorities, women, LGBTQ+ candidates, and individuals with disabilities are encouraged to apply.
+Interviews will take place next week, so please apply immediately to be considered for this exciting contract role or call Bangura Solutions to discuss this role further.
+

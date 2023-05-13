@@ -1,0 +1,28 @@
+
+
+Exciting Java Developer position in Financial Services
+ Excellent salary of up to £65k p/a and an attractive benefits package
+
+About Our Client
+ Our client is a leading financial services institution in Europe. It has a presence in 73 countries, with more than 196,000 employees, including around 149,000 in Europe.  The services they offer are; Domestic Markets, International Financial Services and Corporate & Institutional Banking, which serves two client franchises: corporate clients and institutional investors.  Currently, they are looking for a Java Developer - Multithreading/Concurrency for their Glasgow office.
+Job Description
+ The successful Java Developer - Multithreading/Concurrency will; 
+
+ Develop and maintain high-throughput, high-volume Java applications
+Design and implement multithreaded and concurrent systems
+Work with real-time data and ensure timely processing
+Collaborate with cross-functional teams to build and deploy microservices
+
+The Successful Applicant
+ The successful Java Developer - Multithreading/Concurrency will have; 
+
+ 3+ years of experience in Java development with a focus on multithreading and concurrency
+Strong understanding of Spring framework (microservices experience preferred but not required)
+Experience with real-time data processing
+Understanding of high-volume, high-throughput systems
+Experience working with SQL databases
+
+
+
+What's on Offer
+ If you're looking to impact and create change positively, you will be rewarded with an excellent salary and benefits package for your inclusive and committed approach.  To apply for this inclusive and collaborative full-time Java Developer - Multithreading/Concurrency job, based in Glasgow, please contact PageGroup today.

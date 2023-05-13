@@ -1,0 +1,63 @@
+
+Position Type : Full time
+  Type Of Hire : Experienced (relevant combo of work and education)
+  Education Desired : Bachelor of Computer Engineering
+  Travel Percentage : 0%
+  Are you curious, motivated, engaging and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant products in financial services using a wide range of technologies. Our talented people empower us, and we believe that a focused team that is open, collaborative, passionate and fun is the key to the company’s success.
+
+ About the team:
+
+ Engineers at Worldpay from FIS are a talented, creative group working together to build the next generation of payment products. Our clients range from small/medium businesses start-ups to some of the largest tech and digital firms.
+
+ Worldpay is a place where learning and growing are core parts of the journey. We care deeply about things like best practices, automation, test driven development and agile ways of working.
+
+ What you will be doing:
+
+ Embrace a DevOps mindset while collaborating with your cross-functional team to design, develop, operate, test, support and improve the products our customers use. You will work with the wider engineering teams to bring solutions to challenges that require cross team collaboration. As a team member you will be exposed to the latest standards in the payment card industry, security best practices and integrations with external partners.
+
+ Main responsibilities:
+
+ Collaboratively develop the features and engineering capabilities for the products your team own. We aim to employ automation for everything.
+ Collaborate in all stages of development from defining requirements with the Product Owner to building and running the service on the company infrastructure.
+ Join the on-call rota once a month to ensure the high availability of the products developed by your team.
+ Input and drive decisions around technologies, patterns, and approaches to adopt in collaboration with your fellow engineers from other teams.
+
+ What you will need:
+
+ Experience building and delivering microservices in Java
+ Experience in using a Linux operating system (bash commands)
+ Database systems knowledge - Oracle SQL
+ An engineering skillset that is focused on quality and a test first philosophy.
+ An agile mindset focused on work prioritization and team collaboration.
+ An inquisitive personality that is always looking for constant improvement opportunities.
+
+ Bonus if you have:
+
+ Experience with Continuous Delivery, Jenkins, Nexus or other similar tools
+ Experience with OpenShift and Kubernetes
+ Experience with a BDD testing framework
+ Experience with SpringBoot, Spring or Apache
+ Experience with Kafka or any other messaging systems
+ Exposure to the Payments industry
+ Security and encryption standards, familiarity with OWASP Top 10
+ Oracle PL/SQL
+
+
+ What we offer you:
+ A career at FIS is more than just a job. It’s the change to shape the future of fintech. At FIS, we offer you:
+
+ A voice in the future of fintech
+ Always-on learning and development
+ Collaborative work environment
+
+
+ #LI-MQ1
+ Privacy Statement
+
+ FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+ Sourcing Model
+
+ Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+ #pridepass

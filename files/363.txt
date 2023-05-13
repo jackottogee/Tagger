@@ -1,0 +1,44 @@
+
+
+As a market leader, iPipeline combines technology, innovation, and expertise to deliver ground-breaking, award-winning software solutions that transform the life insurance, protection, and financial services industry. With one of the industry’s largest data sets, we help advisors and agents automate, digitally optimize, and grow their business to better secure the financial futures of their clients.
+ At iPipeline, you’ll play a major role in helping us to provide best-in-class, transformative solutions. We’re passionate, creative, and innovative, and together as a team, we continue to advance, accelerate, and expand the reach of our technology. We value different perspectives and are committed to creating an environment that embraces diverse backgrounds and fosters inclusion.
+ We’re proud that we’ve been recognized in the industry as a repeat winner of various excellence awards, including our selection as a 2022 Top Workplace in the U.S., and as a Best Life Insurance Software Solution award winner in the UK. We believe that the culture we’ve built for our nearly 900 employees around the world is exceptional - and we’ve built a place where our employees love to come to work, every single day.
+ Come join our team!
+ You Can Enjoy:
+
+Flexible Hybrid working including condensed working week.
+New, contemporary, open-plan office space
+Company matched pension benefits
+Generous Life and Critical Illness Cover
+Perkbox membership (discounts and freebies)
+25 days holiday allowance plus option to buy and sell
+Well stocked kitchen of free soft drinks, tea, coffee and fruit
+An annual wellness allowance to keep you happy and healthy
+
+Purpose of the Role:
+ Contributing to the development of our highly successful financial services software platform by building new function and evolving the existing codebase to resolve defects and make best use of new tools and technologies.
+ Responsibilities:
+
+Working in project teams and delivering SSG implementation to clients
+Following a project plan and delivering tasks in a timely manner with meeting quality standard
+Providing sophisticated solutions to clients on a range of platforms
+Working with Business Analysts to deliver new functionality and resolve defects
+Writing code in C#, HTML and JavaScript
+Writing SQL queries that are performant and scalable
+Analysing and debugging code to understand the behaviour of the system
+Working with the architect and product management teams to validate technical designs
+Coaching and mentoring new and junior developers in the team
+
+Skills/Experience Required:
+
+Solid experience in enterprise level system development
+Experience working in modern .Net applications
+Practical, hands-on experience of C#, HTML, JavaScript, Restful service, MVC and React/Angular
+Hands-on experience in SQL and performance optimisation
+Applying Solid principles in daily work
+Proactive, organised and able to own tasks from design to delivery
+
+About iPipeline
+ Founded in 1995, iPipeline is a unit of Roper Technologies (NYSE: ROP), a constituent of the S&P 500® and Fortune 500® indices. As a leading provider of cloud-based software solutions for the life insurance and financial services industry, our business is to accelerate and simplify sales, compliance operations and customer support. We automate processing for every stage of the business – from pre-sales, new business and underwriting to policy administration, point-of-sale execution, post-sale support and data analytics. We offer the broadest range of integrated solutions used by a leading community of carriers/providers, distributors, financial institutions, and financial professionals to enable them to secure the financial futures of their customers and their families.
+ iPipeline is proud to be an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to gender, race, color, religious creed, national origin, age, sexual orientation, gender identity, physical or mental disability, and/or protected veteran status. We are committed to building a supportive and inclusive environment for all employees.
+

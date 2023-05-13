@@ -1,0 +1,29 @@
+2nd Line Support Analyst / Web Developer – Candidates will have a minimum 2+ years (ideally more) 2nd/ 3rd Line Support experience with any previous Application Support and Financial / Banking highly beneficial.
+Whilst predominantly a Support Role, ideal candidates will also have some knowledge of Web Development – even if it’s dated with some experience of JavaScript and PHP … although any other language / framework will be considered – React, Angular, Python, TypeScript, HTML, or CSS.
+Candidates must have strong Windows 10 / 11 Desktop Support, Office Applications (2013 to 2019) and Exchange / Office 365 with some knowledge of JIRA, AWS or other Cloud based products advantageous.
+You’ll also have a core knowledge of Windows Server - 2012, 2016, 2019 including Active Directory and Group Policy for managing user accounts with any Windows Deployment Server and a general awareness of Networking in a Switched Environment - TCP/IP, DNS, DHCP, GPO’s, LAN/WAN all beneficial.
+Ideally used to working in an SLA / ITIL driven environment, able to monitor and restore back-ups and generate reports. You'll be involved in the management of Application / Access Security (firewall, anti-virus, e-mail filters) and able to install, configure and troubleshoot devices / printers.
+You will have excellent communication skills, able to deal with users at all levels on the phone, via e-mail and face to face.
+None Essential Skills:
+Any Application Support the Financial / Banking / Brokerage Sector supporting Market Data Feeds / Trade Floor Support (Reuters, Bloomberg) along with any Linux Systems Administration and Scripting (Python, PowerShell), along with a core knowledge of Databases (Oracle and SQL) advantageous.
+You will be working in a dynamic Financial environment and the client is seeking a motivated individual with the right attitude and aptitude. Not essential but any MCP, MCDST, MCITP, MCSA, MCSE accreditation all beneficial as is any Citrix and Cisco experience and a sense of humour and ability to interact well and get on with others essential.
+This role is as much about attitude and aptitude and being able to demonstrate a genuine desire to learn than it is the current skillset. The salary range will vary on experience and the amount of training a candidate may require to bring them up to speed.
+Job Types: Full-time, Permanent
+Salary: £35,000.00-£52,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Cycle to work scheme
+Private medical insurance
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Yearly bonus
+
+Work Location: In person
+Reference ID: IND/CHELM/SUPP

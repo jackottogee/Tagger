@@ -1,0 +1,36 @@
+
+Junior Developer
+£25-30,000 per annum
+31 days holiday inclusive of bank holidays
+Main duties and responsibilities:
+
+Designing and developing Greenfield business applications using latest platform versions (ASP.NET Core MVC)
+
+
+Maintaining and upgrading legacy applications and managing integrations with existing internal and external systems.
+
+Required Skills and Experience
+
+Experience of working in an agile environment
+
+
+Backend technologies like ASP.NET, C#, .NET Core, MVC, Web API and SQL Server.
+
+
+HTML, CSS, Javascript, Jquery and Bootstrap, Javascript frameworks like React/Angular
+
+
+Experience and understanding of working with a CMS such as Umbraco or Sitecore
+
+
+Good to have knowledge of Azure Devops, CI/CD, TDD, Azure/AWS
+
+The Organisation:
+CareTech Community Services Ltd is a provider of specialist social care services supporting 5000 adults with a wide range of needs in more than 300 services across the UK. Committed to the highest standards of care and governance, we provide innovative care pathways for people to live in community settings with learning disabilities, severe physical disabilities, autistic spectrum disorder, challenging behaviour, mental health, forensic needs and acquired brain injury within a range of settings including, supported living services, shared housing, residential services and outreach. We encourage people to take control of their lives - this could be finding employment, having an active social life, learning new skills or building self-confidence.
+“The CareTech Group are proud to inform you that they are a “Disability Confident Leader”.
+Successful candidates will be required to complete an enhanced DBS disclosure prior to commencement of employment, the disclosure expense will be met by the employer.
+Due to the high volume of applications, we receive, we are unable to contact every applicant. We will be in touch 7-10 days after receipt of your CV if progressing your application to the next stage.
+
+Some of our roles require male or female employees only, where this is indicated it is a genuine occupational requirement, in accordance with the Equality Act 2010
+
+STRICTLY NO AGENCIES

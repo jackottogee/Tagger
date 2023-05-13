@@ -1,0 +1,116 @@
+
+
+Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights to the world’s visionaries and innovators in electronic design, simulation, prototyping, test, manufacturing, and optimization. Our ~15,000 employees create world-class solutions in communications, 5G, automotive, energy, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Our technical solutions – and our methods for creating them – help connect and secure the world. Learn more about what we do and how we do it.
+
+ Our powerful culture has led to us being independently recognized on Fortune 100’s Best Companies List and we are “Great Place to Work” Certified. We’re driven, collaborative, ethical, and curious, and we value all ideas, especially bold ones. And our culture extends far beyond our own walls. Our corporate social responsibility efforts support our communities, nurture the next generation of engineers, and promote environmental sustainability.
+
+ At Keysight, Inclusion, Equity & Diversity is an integral part of our core values. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers. We believe everyone should be respected in the workplace and in their communities regardless of race, color, age, gender, sexual orientation, gender identity and expression, ethnicity, religion, disability, veteran status, national origin, or any protected class. We continuously challenge ourselves to grow in our understanding of inclusion by engaging in a wide variety of diversity programs, initiatives, employee network groups and mentoring/development. This is Keysight – People and Culture - YouTube
+
+
+
+ Job Description
+
+
+
+ Since our beginning in a Silicon Valley garage, the entrepreneurial spirit and passion at Keysight Technologies have been focused on one mission: helping customers accelerate innovation to connect and secure the world. Join us and become part of our journey as we innovate solutions that enable the Information Era and its world-changing outcomes. We are looking for team-oriented, technically curious self-starters to join our exciting internship program where you will develop the skills of the next generation of Software Engineering talent to pioneer the future of a technology-enabled world and beyond.
+ Launch into your 2023 internship as part of our 5G Software R&D teams. From day 1, you will collaborate with your peers to work on our knock-out products with high business value.
+ You will be introduced to our business and technical environments, with support along the way as you work with different technologies across the organization to develop a software solution that drives business outcomes. Within this environment, you will have exposure to numerous technologies within our framework, leveraging your technical savvy to blow away our competition with feature-rich products. At the end of your internship, you will feel confident and ready to take on any future challenge!
+ The role will involve Development, Integration and Test of the next generation Keysight platform and protocols. The role offers the candidate the opportunity to use some of the latest SW development tools and technologies and has exposure to the full development lifecycle from concept, through to design to implementation, integration, and delivery.
+ The successful candidate will be a bright, enthusiastic individual who enjoys taking on complex challenges, works well within a team environment and who is keen to learn. 
+
+
+
+
+As a member of the team, the candidate will have the opportunity to:
+
+
+
+
+ Gain sound software development and verification experience as a member of an established and experienced development team
+ Experience of latest 5G Mobile standards
+ Use some of the latest software development technologies and tools in a commercial environment to produce effective solutions. Technologies may include:
+
+ C#, WPF, Visual Studio, .NET framework, XML, WCF, Python, JSON, ASN.1, SQL
+
+ Gain valuable and transferrable industry knowledge and experiences.
+ Make valuable contributions to the future success of Keysight
+
+
+
+
+
+ Job Qualifications
+
+
+
+ Work will be varied between project work and day-to-day activities. These may include:
+
+
+ Participate in software development lifecycle activities to deliver and validate new features
+ Customer collaboration support
+
+ Essential Skills
+
+ Currently undertaking one of the following courses; Electronic Engineering, Computer Science or Mathematics oriented Degree (or equivalent).
+ Some software development experience.
+ Pro-active team member / problem solver and ability to communicate effectively.
+ Willing to learn a variety of programming disciplines
+
+ Desirables
+
+ Familiarity with communication protocols (particularly mobile telecommunications).
+ Any previous software development experience in any of
+
+ C#, WPF, Visual Studio, .NET framework, XML, WCF, Python, JSON, ASN.1, SQL
+
+ Some understanding of the mobile telecommunications industry.
+
+
+ Candidates must be eligible to work in the United Kingdom
+
+ Keysight Technologies is an equal opportunity employer.
+
+
+
+
+
+
+ Business:
+ CSG Wireless
+
+
+ Employment Program:
+ Intern
+
+
+ Duration (temp position only):
+ 12 Months
+
+
+ Relocation Benefits:
+ No
+
+
+ Shift:
+ Day Job
+
+
+ Schedule:
+ Full Time (F)
+
+
+ Travel Required:
+ None
+
+
+ Staffing Recruiter:
+ Marcel·la Clusellas
+
+
+
+ Candidates can be considered to work from the following locations:
+
+ EMEA : United Kingdom : Hampshire : Fleet
+ ___________________________________________________________________________________
+ Careers Privacy Statement
+ ***Keysight is an Equal Opportunity Employer***

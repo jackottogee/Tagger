@@ -1,0 +1,33 @@
+
+C# Developer (SQL WPF .Net Angular) *Hybrid WfH / London* to £85k
+ 
+Do you have experience with C#, WPF, SQL, and Angular? Are you looking for an opportunity to progress your knowledge of cloud technologies?
+ 
+You could be joining a hugely successful Investment management firm that build complex front office trading applications.
+ 
+Benefits:
+
+ Up to £85k salary plus 15% bonus
+ Hybrid working (3 days a week remote)
+ Up to 17% employer pension contribution
+ Excellent career progression
+
+ 
+The Role:
+ As a C# Developer, you will focus on backend development, optimising and performance tuning of low latency trading systems, gaining exposure to TypeScript and Angular on the front end and Azure as the company are in the process of moving towards the cloud. The team adopt a DevOps and Microservices environment and using the following tech stack: C#, SQL, WPF, Angular, TypeScript, and Azure.
+ 
+Office:
+ The office is based in London however, you will only need to be in 2 days a week.
+ 
+Requirements:
+
+ You have a background in C# backend software development
+ You have experience with front end technologies, WPF and Angular
+ You have strong knowledge of SQL
+ You are degree educated in Computer Science 2:1 and above
+ You have excellent communication and collaboration skills
+
+ 
+As a C# Developer you can expect to earn a competitive salary (up to £85k) plus bonus and excellent benefits.
+ 
+Apply today or find out more about this C# Developer (SQL WPF Angular) role.

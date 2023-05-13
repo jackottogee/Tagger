@@ -1,0 +1,43 @@
+
+Job location: United Kingdom
+
+Company Overview/Purpose of the Role 
+Founded in 2011, the Livingstone Group are a private equity backed, global powerhouse helping clients to optimise and manage their IT, software and cloud investments to minimising risk and spend.
+The business employs around 150 experts and has offices in the UK, US and the Netherlands providing the intelligence global clients use to govern their digital transformation journeys, including many Fortune 500 organisations. 
+We have an exciting new opportunity as a Full Stack Developer, to join our Software Development Team. This role will be taking ownership and pride in the development of all our applications or large areas of functionality across many applications. You will have experience with C# and ASP.NET MVC and looking for a greenfield project to showcase your expertise.
+We offer remote and flexible working, with the requirement to attend occasional meetings in the Livingstone office based in Reading or London.
+Our Values at Livingstone! 
+We Commit, We Collaborate, We Innovate, We Inspire 
+Key responsibilities 
+
+Key member of the team delivering quality software development and integration projects 
+Working closely with key stakeholders within the business and external clients to deliver software projects 
+Work closely with our internal IT team and the Product Analyst to ensure that specifications are understood and developed in a cost-effective and fast manner
+Seek new technologies, frameworks and methods with regard to software development that will drive the development function forward and add value
+Work collaboratively with the wider Development team ensuring you are delivering real value to the business
+In conjunction with the Development Team, review and evaluate the Software Development Life Cycle and how we can enhance and improve the process
+Personal Impact - this is a key role and your contribution will make a measurable impact on the ability of Livingstone-tech to deliver a quality service to our customers.
+Continuously share knowledge and expertise collaboratively with the Development team to develop skills and abilities
+
+Experience, knowledge and skills required 
+Essential 
+
+University degree in Computer Science, Engineering or other quantitative discipline with extensive experience in software development
+Extensive and indepth understanding and development experience in C# and ASP.NET MVC and SQL 
+Good knowledge of HTML/CSS, TypeScript 
+Good understanding of the SOLID principles 
+Good Knowledge of the development of SaaS and cloud based applications 
+Familiar with source code management and application lifecycle management tools 
+A record of successful delivery of software applications as an individual or a key functional area of an application as part of a team
+Communication - Excellent oral and written communication skills / communicate at all levels 
+Ability to talk to users, explain technical concepts in a non-technical way, and be able to understand the user’s needs and convert this into software
+Ability to mentor and share knowledge with fellow developers and help foster a culture where no questions are stupid and where we are all in it together
+
+Desirable 
+
+Experience working with external applications for data collection 
+Familiar with IT process standards and agile methodologies: Scrum, Kanban, ITIL 
+Experience of asset management or data driven application development from a commercial perspective 
+Good knowledge of Angular.JS
+
+

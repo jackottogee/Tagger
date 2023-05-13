@@ -1,0 +1,58 @@
+ABOUT OQCAt Oxford Quantum Circuits (OQC) we build quantum computers to enable life-changing discoveries: from new drug modelisation to longer-lasting battery technology and portfolio optimisation. We have launched Europe’s first Quantum Computing as a Service (QCaaS) – to bring quantum to our customers’ fingertips and help them improve their operations and trailblaze new commercial and scientific approaches.
+Our team is composed of 90+ people with various backgrounds in quantum physics, nanotechnologies, hardware, software and business operations from marketing to intellectual property. We are all bound by the desire to put OQC at the forefront of the quantum revolution and help solve some of the world’s most challenging problems.Previous quantum computing experience is NOT REQUIRED to be successful in this role.
+ROLE OVERVIEWWe are a full-stack hardware provider who designs, builds and operates quantum computers. We have an essential need to better support and further all of these processes through the application of software.
+In this role, you will develop and maintain critical tools aimed at supporting the workflow and discovery for our quantum engineering teams. You will work directly with physicists and other engineers to understand project needs and maintain codebases across their lifetime, developing bespoke software tools.
+This role suits well-rounded software engineers who can turn their hand to a range of different problems from development of web applications to writing high performance simulation code. Successful candidates will be excited to work in a multi-functional team, and have a passion for mentoring and developing other members of software staff attached to the team. A desire to achieve the best results for the organisation whatever the task may be is essential.
+RESPONSIBILITIES
+
+Take responsibility for the next generation requirements and designs with various internal teams.
+Develop and deliver projects to timescales defined by internal roadmaps
+Apply software engineering practices to ensure that our developments provide correct functionality and performance.
+Maintain and incrementally improve existing services based on technical and business led requirements.
+Work with a wide range of stakeholders on a day to day basis including contractors
+Shape best practices in a growing organisation.
+Mentor and manage more junior members of a growing team.
+
+REQUIRED QUALIFICATIONS AND SKILLS
+
+Significant experience of software development in industry
+Mentoring and leadership skills
+Experience of working with different software lifecycle methodologies
+In depth knowledge of Agile software development
+Degree in a numerate subject
+Architecture and design skills on large-scale software developments
+Excellent knowledge of python and other high level programming languages
+Excellent knowledge of QA as applied to software and products
+Experience building databases for real world applications
+Experience with cloud based service providers
+
+DESIRABLE QUALIFICATIONS AND SKILLS
+
+Experience of project management within the software industry
+Experience building highly secure systems
+Experience of UI design methodologies
+Formal qualifications in software engineering or computer science
+
+LOCATION & TRAVELOQC’s office is located in Shinfield, Reading. There will be a requirement for occasional travel throughout the UK and elsewhere abroad for conferences, meetings and engineering visits.
+APPLY NOWPlease apply via https://apply.workable.com/oqc/ . As part of our application process we ask that you also provide us with a cover letter outlining why you think you would be a good fit for the role and what attracts you to OQC. Applications without a cover letter including this information will not be considered.We look forward to hearing from you!
+At OQC we are not just hoping you’ll fit in our culture. We aspire to thrive, as a company and as people, thanks to your diversity of thought and background. We are proud to be an equal opportunity employer and we are committed to providing our team members with a work environment free from discrimination, where everyone is treated with respect. Our employment decisions are based on business needs, talent and merit and all our colleagues share in the responsibility for fulfilling our commitment to diversity. If you need assistance or an accommodation due to a disability, or if you think we can do better with our recruitment process, please contact us at careers@oxfordquantumcircuits.comRequirements
+Job Type: Full-time
+Salary: £60,000.00-£75,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Cycle to work scheme
+Free parking
+On-site parking
+Private dental insurance
+Private medical insurance
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Reading
+Reference ID: SW23Expected start date: 01/06/2023

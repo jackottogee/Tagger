@@ -1,0 +1,70 @@
+
+
+Big Bank Funding. FinTech Thinking.
+ 
+Our technology teams in the UK work closely with HSBC’s global businesses to help design and build digital services that allow our millions of customers around the world, to bank quickly, simply and securely. We also run and manage our IT infrastructure, data centres and core banking systems that power the world’s leading international bank.
+Our multi-disciplined teams include: DevOps engineers, IT architects, front and back end developers, infrastructure specialists, cyber experts, as well as project and programme managers.
+
+
+Role Description:
+Finance on the Cloud team requires a number of skilled Junior DevOps Engineers who are able to work within several new pods being put together across the programme, delivering changes on existing platforms including the Finance Cloud Data Platform (FCDP), the Finance Cloud RWA Platform and the Finance Cloud Liquidity Platform.
+
+
+FCDP is a platform that is used in order to source data from a variety of on-premise and Cloud based platforms and conform to a standard output that can then be consumed by multiple downstream consumers.
+The RWA and Liquidity platforms use the data from FCDP to produce internal and regulatory calculations and reports.
+
+
+The selected candidate will be required to work closely with the business stakeholders in order to understand requirements and then translate those into a series of systems solutions.
+
+
+Responsibilities:
+This role will carry out some or all of the following activities:
+
+
+
+Work with the owners of the business requirements in order to better understand what is required and how an IT solution could be used in order to deliver these requirements
+Form part of an Agile team who works collaboratively with the requirement owners to iteratively build out and test the aforementioned requirements
+Assist in the design of solutions in ensure that they align to architectural principles
+Ensure that good practice is adhered to during build activity
+Undertake design, build and unit test activities
+Support user testing activities, implementation and live production
+
+
+
+  Requirements 
+ 
+
+Essential Skillset/Experience:
+
+
+
+Ability to work directly with business stakeholders in order to understand requirements
+Ability to translate business requirements into solution design
+Ability to work closely with business analysts as part of an Agile delivery
+Experience working in an Agile project and of Devops principles, including use of Jira and Jenkins.
+Ability to write BigQuery ETL based workflows that can be executed on a GCP (Google Cloud Platform) hosted platform. 
+Experience of Big Query/Ansi SQL design, development and unit testing
+Experience with GCP products including Stackdriver, BQ, GCS, GCE and PubSub
+Experience working on large scale Finance based IT programmes, including experience of data and batch processing systems
+
+
+
+The role will be based in Sheffield but some travel may be required. This role supports Hybrid working (1-2 days in the office per week)
+
+ Come Power a Business that Defines How to Power the World
+HSBC is committed to being an inclusive employer and providing an inclusive and accessible recruitment process for all. We will provide reasonable adjustments to remove any disadvantage to you being considered for this role. We are proud members of the Disability Confident Scheme, and will offer an interview to disabled candidates who meet the minimum criteria for the role. If you would like to receive any information in a different way or would like us to do anything differently to help you apply for our roles, please contact our Recruitment Helpdesk: 
+Email: hsbc.recruitment@hsbc.com
+Telephone: +44 2078328500.
+
+
+Within the workplace you will have access to various employee resource groups which aim to promote and achieve a healthy work / life balance and support our diversity ambitions. HSBC has processes in place to avoid nepotism. This means we will avoid circumstances in which the appearance or possibility of conflicts of interest may exist within the hiring process.”
+
+
+We want everyone to be able to fulfil their potential which is why we provide a range of flexible working arrangements and family friendly policies.
+
+
+As an HSBC employee in the UK, you will have access to tailored professional development opportunities and a competitive pay and benefits package. This includes private healthcare for all UK-based employees, enhanced maternity and adoption pay and support when you return to work, and a contributory pension scheme with a generous employer contribution.
+
+
+Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.
+

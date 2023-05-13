@@ -1,0 +1,35 @@
+
+DevOps Engineer (Control Systems)
+ Science and Technology Facilities Council  Salary: £31,931 - £34,709 per annum. A Specialist Allowance of up to £4,000 per annum is also available for this role (dependent on skills and experience). Hours: Full time  Contract Type: Open Ended. Location: Science and Technology Facilities Council, Rutherford Appleton Laboratory Harwell, Oxfordshire
+ Together, our scientist, technologists, engineers and business support team explore the unknown and turn what they find into work that changes the world around us. Whether it's sending probes into space or finding new ways to treat cancer, everyone here plays a vital role in making a positive difference to society.
+ Come and discover how much you can achieve when you're surrounded by world-leading experts, encouraged to constantly learn and empowered to explore your curiosity.
+ You will be responsible for managing and developing the Linux, Windows and OpenVMS systems used by the ISIS control system to maintain a high level of availability, and for developing and supporting monitoring tools for that purpose.
+ ISIS is the world's most productive spallation neutron and muon source.
+ We produce beams of neutrons and muons that allow scientists to study materials at the atomic level using a suite of instruments. It supports a national and international community of more than 3000 visiting scientists per year who use ISIS for research in physics, chemistry, materials science, geology, engineering and biology.
+ Required experience and skills:
+
+ Degree in a mathematical, scientific, or computer science field.
+ Experience of working with Linux systems in a business environment. Knowledge of containerised deployments (e.g. Docker Swarm, Kubernetes) and configuration management (e.g. Ansible, SaltStack) are particularly desirable.
+ Experience of network engineering (TCP/IP, LAN, VLAN technologies), security, and administration
+ Experience as a developer with modern programming or scripting languages, e.g. Python, C/C++, and/or Java.
+ Experience developing software to interface with hardware, or familiarity with distributed control systems is desirable.
+ Ability to solve problems individually and collaboratively as part of a team in an Agile software development context. Experience with version control systems (e.g. Git).
+ Willingness to be "on-call" to support ISIS when suitably trained, including participating in an on-call rota. (There are additional allowances while on-call and payments for callouts).
+
+ What we offer
+ We are offering a permanent position with a whole host of benefits including:
+
+ 30 days holiday (in addition to 10.5 bank holidays and privilege days)
+ flexible working hours
+ an excellent defined average salary pension scheme
+ employee shopping/travel discounts
+ excellent learning and development opportunities
+
+ Plus, many more benefits and wellbeing initiatives that enable our employees to have a great work life balance!
+ UKRI is an Equal Opportunity & Disability Confident Employer.
+ How to apply:
+ For full details on the role, please visit our careers site. Please submit an application including your CV and a Cover Letter that clearly showcases how your skills and experience align to the requirements of the role.
+ We ask some of the biggest questions in the universe, to answer some of the biggest challenges in the world. Together, our scientists, technologists, engineers and business support team explore the unknown across every field you could think of. And they turn what they find into work that changes the world around us.
+ What could you achieve with the world-leading facilities and experts of one of Europe's largest research organisations by your side? Join us and discover what's possible.
+ Closing Date: Sunday 21st May 2023
+

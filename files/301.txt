@@ -1,0 +1,62 @@
+
+Science and Technology Facilities Council   Salary: £31,931 to £44,166 per annum (dependent on skills and experience, pay award pending). A Specialist Allowance of £3,000 per annum is available on this role dependent on skills and experience. Hours: Full time or Part time (minimum 25 hours per week) Contract Type: Open Ended. Location: Science and Technology Facilities Council, Rutherford Appleton Laboratory Harwell, Oxfordshire OR fully/partially remote within the UK Open Positions: 3
+Come and do the kind of software development that got you into technology in the first place. Work with innovative tech and world-leading scientists and engineers, and be involved in projects that improve daily life in the UK and far beyond.
+Put simply, come and discover the impact you can make when you're equipped, encouraged and inspired to perform to your very best.
+The ISIS department within the Science and Technology Facilities Council is a world-leading centre for research in the physical and life sciences. Our suite of neutron and muon instruments gives unique insights into the properties of materials on the atomic scale. We support a national and international community of more than 3000 scientists to research into subjects ranging from clean energy and the environment, pharmaceuticals and health care, through to nanotechnology and materials engineering, catalysis and polymers, and on to fundamental studies of materials.
+Software is a vital part of all science at ISIS. The ISIS computing division is a growing area and plays a crucial role in supporting the ISIS facility. It provides all of the software needs for our scientists. The User Programme Software group provides the web services for managing proposal submissions, scheduling experiments and other critical services for our experimental user programmes.
+About the role
+We are looking for a software developer to join our team. You will be involved in the full software development lifecycle and will use agile techniques and tools to write high-quality software in a range of server and client-side languages (e.g. Java, C#, React or similar). We provide solutions to enable the scientists and engineers we work with to provide an effective User Programme across multiple facilities.
+The role is UK based, working either on our campus in Oxfordshire, remote or hybrid. Starting employment will be conditional on your right to work and sponsorship may be available if appropriate. We will review applications as received until the closing date.
+About You
+You will have a degree, or equivalent, in a relevant subject area, as well as experience in web and/or object oriented development. You will show a proactive approach to problem solving with excellent written and oral skills for effective communication with our customers. This role requires someone with good presentation skills who can explain technical concepts to both specialist and non-specialist audiences and who has a strong customer focus throughout. You will have backend development experience and experience with relational databases.
+Person Specification
+The below criteria will be assessed at shortlisting and interview
+
+Experience of developing high quality software with a good understanding of standard methodologies in software development.
+Experience of deploying to and running a production environment, possibly including DevOps or Kubernetes experience
+Grasp of relational databases.
+A customer centric approach with experience in requirements gathering, analysis, and specification.
+Good interpersonal skills, particularly in communicating complex and technical information appropriate to the audience
+Strong problem-solving abilities.
+
+To be considered for the higher grade you will also have:
+
+Significant technical experience from working on many relevant projects and are likely to have been responsible for the technical success of a project.
+Excellent knowledge of object-oriented development, multi-tier systems and relational database design.
+Experience of web and web service development.
+Excellent understanding of technologies and tools needed to ensure quality from requirements capture through automated testing to continuous integration and deployment.
+
+We encourage early applications as we may close the role earlier.
+What we can offer you
+By choosing to come and work at the STFC, part of UKRI, you will receive a whole host of attractive benefits.
+These include:
+
+An outstanding index linked pension scheme.
+30 days leave plus 10 public holidays.
+Flexible working.
+An onsite subsidised nursery.
+Access to employee shopping/travel discounts.
+Salary sacrifice cycle to work scheme.
+
+UKRI is an Equal Opportunity & Disability Confident Employer.
+We ask some of the biggest questions in the universe, to answer some of the biggest challenges in the world. Together, our scientists, technologists, engineers and business-support team explore the unknown across every field you could think of. And they turn what they find into work that changes the world around us.
+What could you achieve with the world-leading facilities and experts of one of Europe's largest research organisations by your side? Join us and discover what's possible. 
+
+About The Science and Technology Facilities Council (STFC)
+As one of Europe’s largest research organisations, we ask the biggest questions in the universe to find answers that change the world around us. We seek understanding. We’re proud of the impact we make. And we’re committed to helping build a globally competitive, knowledge-based UK economy. Being part of all this means contributing to work that pushes boundaries and creates possibilities. You’ll work with, and learn from, true experts. Whatever your role, you’ll be free to question, and encouraged to share ideas. And, in a positive and supportive culture, you’ll discover just what a difference you can make when you’re equipped and inspired to excel.
+We’re a place where curious minds thrive. Not bound by profit, we explore ideas that others don’t, ask questions that others won’t, and discover answers that others are not equipped to find. And, alongside Mars landings and black holes, we also explore diverse, international projects in everything from science and engineering to computing and technology. Whether it’s at the cutting edge or behind the scenes, our work is intellectually challenging. It’s very often ground-breaking. And it’s endlessly, irresistibly fascinating.
+For more information about STFC please visit https://stfc.ukri.org/
+You can also visit our careers site https://www.stfccareers.co.uk/
+About UK Research Innovation (UKRI)
+UKRI is an organisation that brings together the seven disciplinary research councils, Research England and Innovate UK. Together, we build an independent organisation with a strong voice and vision ensuring the UK maintains its world-leading position in research and innovation.
+Supporting some of the world’s most exciting and challenging research projects, we develop and operate some of the most remarkable scientific facilities in the world. We are pushing the frontiers of human knowledge through fundamental research and delivering benefits for UK society and the economy through world-class research, skills and business-led innovation.
+More information can be found at www.ukri.org.
+Choosing to come to work at UKRI means that you will have access to a whole host of benefits from a defined benefit pension scheme, excellent holiday entitlement, access to employee shopping/travel discounts and salary sacrifice cycle to work scheme. For more details, visit benefits of working for UKRI.
+How we support EDI in the workforce
+At UKRI, we believe that everyone has a right to be treated with dignity and respect, and to be provided with equal opportunities to thrive and succeed in an environment that enables them to do so. We also value diversity of thought and experience within inclusive groups, organisations and the wider community. For further information, please visit ‘How we support EDI in the workforce’.
+Disability Confident Employer
+As users of the disability confident scheme, we guarantee to interview all disabled applicants who meet the minimum criteria for the vacancy/ies. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.
+How to apply
+Online applications only preferred for this role. Please submit a CV and covering letter which clearly outlines how you fulfil the criteria specified along with your motivation for UKRI and the role. Ensure that the job reference number is included in the filename description of each document uploaded. Note that failure to address the above criteria or submit an application without a covering letter may result in the application not being considered. Assessment will only be based upon the content of your submitted covering letter and CV and not the ‘experience’ section of the application.
+UKRI seeks to ensure it creates and maintains a system of openness, fairness and inclusion – a collaborative, trusted environment, which is attractive to and accessible to everyone who is interested in developing their career with us.
+

@@ -1,0 +1,43 @@
+Post Op is redefining surgical care, giving patients the ultimate recovery experience and providing clinical teams with more significant insights through AI-empowered communication. We aim to improve post-surgery care and reduce the global cost of surgical site infections. To support our growth, we're looking for an experienced and passionate Backend Developer to join our fully remote team. We're seeking someone with solid JavaScript/TypeScript and SQL skills and experience building batch AI systems to build and maintain our systems. If you're a driven, tech-savvy individual who thrives in a dynamic and fast-paced environment, we want to hear from you!
+About Post Op
+We are a cutting-edge seed-stage startup with our headquarters in London, working to change the landscape of post-surgical care. Our platform offers remote appointments, clear communication, and intelligent monitoring to enhance the patient experience and support clinical teams. We pride ourselves on being inclusive, with no bias allowed, and we're dedicated to providing personalized monitoring, guidance, and support for the best possible recovery.
+What you'll do
+
+Develop and maintain our backend systems using JavaScript/TypeScript and SQL
+Collaborate with our team to integrate AI components, such as wound recognition and anomaly detection, into our systems
+Prepare for and assist with potential migrations and refactoring to new technologies as our stack evolves
+Adopt and contribute to our modern workflow with GitHub, automated builds, and automated deployments
+Use your ingenuity and problem-solving skills to make a real impact on our projects and growth
+
+What we're looking for
+
+At least two years of experience as a backend developer, with a focus on JavaScript/TypeScript and SQL
+Familiarity with AI concepts and batch processing, particularly in image recognition and anomaly detection
+Experience with Redis is a plus but not required
+Experience with current development workflows and tools, such as GitHub and automated build and deployment systems
+Demonstrable contributions to significant projects or FOSS initiatives (e.g., on GitHub)
+Excellent communication and teamwork skills, with the ability to work remotely
+
+Why join Post Op?
+
+Contribute to meaningful projects that make a difference in people's lives
+Join a small but growing remote team, offering plenty of room for personal and professional growth
+Enjoy the flexibility and work-life balance that come with a fully remote role
+Be part of an inclusive, supportive, and diverse team that values creativity and innovation
+
+At Post Op, we are proud to foster a culture of diversity and inclusivity and strongly encourage candidates from all walks of life to apply. If you're a talented and dedicated Backend Developer looking for your next challenge, we can't wait to see what you can bring to our team!
+Job Types: Full-time, Permanent
+Benefits:
+
+Casual dress
+Company events
+Flexitime
+Sick pay
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work Location: RemoteFlexitime

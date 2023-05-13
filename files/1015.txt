@@ -1,0 +1,27 @@
+
+Build your Career with an Industry Leader
+ Multi-Color Corporation and Fort Dearborn have merged and are now the world’s largest prime label and packaging supplier. Join the new MCC and you will have the opportunity to become part of an organization that has been committed to excellence and industry leadership for over 110 years.
+ As part of the Global Graphics Technology team, develop, implement and support Esko Webcenter.
+ Responsibilities:
+
+ Application Programming/Integration/Management: Develop integrated Esko Webcenter automation and business process workflows that support the current and future business needs of the organization. Work with business unit and management to ensure applications continue to support the organization's needs and that best practices are followed as defined. Provide programming and application integration to specifications that support business requirements.
+ Project Management: Manage development projects from POC through implementation as directed.
+ Operations: Ensure graphics systems uptime. Support system configuration and capacity planning, backup and recovery, patches, upgrades, and new release management.
+ Travel: Provide periodic onsite support, auditing current processes, implementing established projects and supporting local initiatives as related to graphics technology. Travel expectations include roughly one week every two months as approved by direct supervisor, and as required.
+ Application Support: Provide user support in graphic application related issues. Login, functionality, reporting, data integrity. Maintain support log of issues and requests with appropriate status. 
+Vendors: Maintain appropriate vendor support relationships.
+ Compliance: Maintain and support IT documentation, policies and procedures.
+ Values: Model the Corporate Values and Principles.
+
+ Qualifications:
+
+ Experience: 5 yrs experience working in print or graphics manufacturing environment with Esko Webcenter to develop integrated automation and business process workflows.
+ Computer Skills: Literate in Microsoft office or the equivalent. Literate in Esko Automation Engine, Esko Webcenter, Esko Graphic Editors, Adobe Graphic Editors, Javascript (as applicable to required applications), SQL (as applicable to required applications). 
+
+Other considerations:
+
+ Location: Hybrid Office-Remote
+ MCC offers a competitive wage and generous benefits package
+
+ MCC welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process. MCC is an equal opportunity employer.
+ #IND2

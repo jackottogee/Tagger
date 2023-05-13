@@ -1,0 +1,37 @@
+
+
+Videojet Technologies, Inc. is the global leader in the manufacturing of coding, printing and marking products. This high technology product prints variable information, such as expiration dates on grocery products, packaged goods, pharmaceuticals or catalogues. Our industry is pivotal in ensuring end users consume their food, beverage and pharmaceutical products safely. As the market share leader, we have operations in over 30 countries with 4,000 employees worldwide. A wholly owned subsidiary of Danaher Corporation (www.danaher.com), Videojet is the core of the $1 billion Product Identification Platform. 
+
+
+
+Our core values:
+ We empower creativity and ground-breaking thinking to help us uncover breakthrough solutions and accelerate the pace of innovation. To ensure we set our new associates up for success when they start, we have developed a robust onboarding plan to help you ramp up successfully. We believe with conviction that diversity helps us uncover more powerful customer insights and ultimately creates an advantage in the markets we serve. And we would love to have you join us!
+
+
+ As a Test Engineer you will be a key player in the development of Videojet’s core product range of Continuous Ink Jet printers, working in close collaboration with others involved in the development and testing of our products, to ensure that they maintain a high level of quality and robustness.
+
+ After training and a tailored learning program when you join, you will design and develop automated and manual test cases for the core product range on real-time embedded applications targeting a Linux OS platform. You will work as part of an international team of testers and developers, using different testing types such as functional testing, end -to-end, regression, exploratory, etc. raising defects where appropriate.
+
+ You will have:
+
+ Knowledge of the software development lifecycle
+ Experience of using test management tools, writing test cases and defect reporting
+ Familiarity of different test types
+ Ability to solve complex problems and innovate new ideas
+ An understanding of Quality Assurance
+ Good communication skills and enjoy working in a supportive team
+ Understanding of agile methodologies
+ An inquisitive mind
+ A good knowledge of Windows and Linux Operating Systems
+
+
+ Your Education and/or Desirable Background Experience will have:
+
+ Bachelor’s degree, or qualified by experience
+ Minimum 3 years’ experience in a Software Test role
+ Proficiency in developing automated UI-driven test cases using a high-level scripting/programming language (for example Python or JavaScript)
+
+
+ Our Offer:
+ You will be part of a dynamic team in which there is a high focus on delivering results and continuous improvement, but also where having fun and teamwork is very important. It's a fast-paced environment, a consultative role, where you will get to partner with people to achieve their strategic business goals. You will work in a leading global company, with a manager who cares about you, your strengths and will help you to develop the best possible version of yourself. 
+When you join us, you’ll also be joining Danaher’s global organization, where 80,000 people wake up every day determined to help our customers win. As an associate, you’ll try new things, work hard, and advance your skills with guidance from dedicated leaders, all with the support of powerful Danaher Business System tools and the stability of a tested organization.  At Danaher, we value diversity and the existence of similarities and differences, both visible and not, found in our workforce, workplace and throughout the markets we serve. Our associates, customers and shareholders contribute unique and different perspectives as a result of these diverse attributes.  If you’ve ever wondered what’s within you, there’s no better time to find out.

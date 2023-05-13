@@ -1,0 +1,80 @@
+
+
+
+
+
+Reference Number
+
+
+SJD1
+
+
+
+
+
+Location
+
+
+Belfast or Derry/L'Derry
+
+
+
+
+Contract Type
+
+
+Full-Time Permanent
+
+
+
+
+Closing Date
+
+
+02/09/2024
+
+
+
+
+
+AquaQ Analytics Limited deliver the highest quality service in some of the most intellectually demanding working environments. If you enjoy working with high profile clients, cutting edge technology and want to make an impact within a dynamic organisation, then AquaQ Analytics is for you.
+
+ We are looking for talented, high performing, industry professionals to join our team and work as a Java Developer. You will be primarily working within the back end development team and will gain exposure to the full software stack. You will use modern development tools and concepts to deliver high quality, best practice software solutions.
+
+Essential requirements:
+
+Minimum 2:1 Bachelor’s Degree in Computer Science or related discipline
+Minimum 2 years' recent experience in Java Development
+Excellent client facing skills
+
+
+Experience in the following is a plus but not essential:
+
+Java 11 / Spring / Spring Boot
+Hibernate / JPA / SQL
+Relational Databases (PostgreSQL / Oracle)
+RESTful API development
+Testing (TDD/ Junit / Mockito / REST Assured)
+Git
+Linux/Unix
+Scrum / Kanban
+Prior experience working in Capital Markets
+
+
+If you are successful in a direct application for this role, you will be awarded a £2000 bonus upon successful completion of 6 months service.
+
+
+
+
+
+
+
+
+
+
+AquaQ Analytics Limited is a provider of specialist data management, data analytics and data mining services to clients operating within the capital markets and other sectors. Our domain knowledge, combined with advanced analytical techniques and expertise in best-of-breed technologies, helps our clients get the most out of their data.
+Headquartered in Belfast, the company has grown to over 200 employees, servicing an ever expanding global client base of investment banks and hedge funds. Employees are based directly on client site or increasingly work out of the Belfast HQ under a near shore operating model. We currently have consultants onsite in the UK, Canada, the US, Singapore, Hong Kong, Japan and Australia.
+
+
+
+

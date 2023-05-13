@@ -1,0 +1,107 @@
+
+“We are on a mission to transform the future of grocery retail through sustained technology innovation.”
+
+ What does the team do
+
+ We are a cloud security infrastructure team that creates a centralised security function for the AWS cloud environments in Ocado Technology.
+
+ We enable Ocado to operate on a global scale by providing a reliable, secure & well-supported managed cloud platform. We leverage the power of AWS and automate our operations as much as possible.
+
+ The team collaborates closely with other infrastructure teams in Cloud Services (i.e. Alto and Stratus), as well as Tuskens, Banthas and Infosec teams, and while it goes without saying that it is the primary responsibility of those teams to secure their own products and services, it is becoming increasingly clear that there are overarching security challenges that are common across multiple teams and organisations and such challenges must be addressed centrally. It is these central security solutions that are to be owned by the Cloud Security team, Nimbus.
+
+ The role is fully remote if you reside in one of the countries our development centres are located in i.e. UK, Spain, Poland, Bulgaria or Sweden.
+
+ What would I be doing?
+
+ The Engineering Productivity division provides tooling and engineering practice frameworks to all software development teams in Ocado to improve productivity and effectiveness.
+
+ As a member of the Cloud Security team, you will be building upon the managed services, APIs and expertise of Amazon Web Services. You will be working alongside other infrastructure teams to design, deliver, automate and operate at scale all the security tools required to protect our AWS Cloud Platform which hosts all our business-critical applications.
+
+ The team is intentionally cross-functional and we are looking forward to hearing from candidates with a variety of backgrounds and expertise e.g. as Software Engineers, Automation engineers, in a Cloud environment especially if with experience in operating services at scale and have strong interest in security.
+
+ The team plays a critical role in providing Cloud Security Infrastructure products and services as well as daily Support and Consultancy on platform security to teams in Engineering Productivity and more widely to Ocado Technology.
+
+ You'll enjoy being part of the team if you like: learning fast (through experimentation, self-motivation etc); being autonomous but able to collaborate (sharing knowledge is important to us); craftsmanship and innovation (we never stop questioning how we can be better).
+
+ In terms of career progression and future prospects, this role offers tangible opportunities to contribute in forging the Cloud Security strategy for the years to come, to work with and influence directly senior stakeholders and more tactically to drive the team’s agenda forward.
+
+ You may be asked to perform tasks as required by management deemed as a reasonable request. This job description is a summary of the typical functions of the role, not an exhaustive or comprehensive list of possible role responsibilities, tasks and duties and is subject to review. The responsibilities, tasks and duties of the job holder might differ from those outlined in the job description and other duties, as assigned, might form part of the job.
+
+ In the role you will:-
+
+ Design, write, test and deploy security monitoring solutions at a large scale
+
+
+ Design, implement and test security controls and best practices throughout our estate
+
+
+ Own, maintain and operate a portfolio of Security related products deployed on hundreds of production environments
+
+ Eg AWS WAF, AWS Guard Duty, AWS Inspector, AWS Shield, AWS IAM, AWS Firewall Manager, AWS CloudTrail, and others
+
+ Identify security threats, propose and implement mitigations through automation
+ Champion, plan and implement Security Compliance policies (eg SOC-2, PCI, etc) and kitemarks
+ Stay current with security related Cloud Technologies, including emerging trends, best practices, commonly adopted security strategies, and popular security-related third-party solutions.
+ Supporting production systems on Security related incidents as required, inside and outside of standard working hours and participating in 24x7 on-call rota.
+
+
+ Essential
+
+ Demonstrable experience in complex software development, along with an understanding of web application architectures and software design patterns
+ Demonstrable experience with automation (e.g. python) and having the “automate everything” mindset
+ Proven track record for development and implementation of services and products at scale across large AWS Organisation.
+ Experience & knowledge of common build tools, repositories and CD/CI tooling.
+ Experience in cyber security or a strong interest in the security field and passion to continuously educate in this field.
+ Excellent written and verbal communication skills.
+ Passion to continuously learn in cyber security space, as well as provide advice, training and mentoring of the software development to the team.
+
+
+ Desirable
+
+ Hands-on experience provisioning AWS Services at scale
+ Some level of experience with any of the AWS native security services, such as AWS Security Hub, AWS Guard Duty, AWS Inspector, AWS WAF, and others
+ Some level of understanding of cyber security concepts, including threats, vulnerabilities, security operations, encryption, boundary defence, authentication and risk management.
+
+
+ Kudos if you have
+
+ Bachelor’s Degree in Information Technology, Computer Science, or related
+
+
+ Knowledge of SCRUM or other Agile methodologies
+ An understanding of networking patterns & techniques within an AWS environment
+ Experience building web front-ends using HTML, JavaScript & CSS
+ Experience using relational databases and writing SQL queries
+ Technically proactive in setting the technical direction, driving delivery and continuous improvement
+ Strong sense of collaboration both within the team and across the organisation
+
+
+ Our Values
+
+ We champion a value-led culture to get our teams working at their very best and to help create a collaborative working environment with inspiring projects that our people love. Core values of Trust, Autonomy, Craftsmanship, Collaboration and Learn Fast help drive our innovative culture. But don’t just take our word for it, have a look at what our people are saying about us on Glassdoor.
+
+ What we offer you
+
+ Our employee benefits are designed for you, we care about people and we’ve ensured we have a wealth of benefits that focus on your well-being. We regularly review our benefits to ensure we are supporting our employees appropriately. Currently, we offer technically stretching work, a competitive salary and;
+
+ Remote working if you reside in one of the countries our development centres are located in i.e. UK, Spain, Poland or Bulgaria.
+ 30 days ‘working from anywhere’ policy
+ Equity Plan (10-15% of salary) for eligible roles and levels
+ Wellbeing support through Apps such as Unmind and an Employee Assistance Programme
+ 25 days annual leave, rising to 27 days after 5 years service (plus optional holiday purchase)
+ Pension scheme (various options available including employer contribution matching up to 7%)
+ Private Medical Insurance
+ 22 weeks paid maternity leave and 6 weeks paid paternity leave (once relevant service requirements complete)
+ Train Ticket loan (interest-free)
+ Cycle to Work Scheme
+ Free shuttle bus to and from Hatfield Train Station to the Hatfield offices
+ Opportunity to participate in Sharesave and Buy as You Earn share schemes
+ 15% discount on Ocado.com and free delivery for all employees
+ Income Protection (can be up to 50% of salary for 3 years) and Life Assurance (3 x annual salary)
+
+
+ We also have regular divisional socials, sports clubs not to mention the Ocado Technology Academy for a packed schedule of courses, conferences and events. If you think you have what it takes to make a difference, please submit your application below.
+
+ We are thrilled to welcome applicants from across the world. Whilst we are able to offer visa sponsorship, please note that we are only able to cover costs relating to the Certificate of Sponsorship and the Immigration Skills Charge only. For all employment offers made for UK roles, it is expected that you will be based in the UK in commutable distance, ready for your first day of work, so please keep this in mind. If you have any questions, please don't hesitate to ask.
+
+ Due to the energising nature of Ocado's business, vacancy close dates, when stated, are indicative and may be subject to change so please apply as soon as possible to avoid disappointment. If you have applied and been rejected for this role in the last 6 months, or applied and been rejected for a role with a similar skill set, we will not re-evaluate you for this position. After 6 months, we will treat your application as a new one. All benefits information is subject to change and the terms of the individual arrangements. Please assume you have been unsuccessful if you haven’t heard from us within 4 weeks.

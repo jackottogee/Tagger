@@ -1,0 +1,164 @@
+
+Description
+
+ Are you an experienced tech professional looking to re-enter the industry, but unsure of where to start? Perhaps you're feeling less confident this time around, or think that you might not have the necessary commercial experience? If so, our free re-skilling course in JavaScript and TypeScript is the perfect avenue to get you back to tech and back to feeling confident in your skills and experience.
+  
+
+
+  Through a combination of teaching sessions, workshops, and practical projects, you will gain a deep understanding of modern JavaScript and TypeScript.
+  
+
+
+  We'll help you hone your skills, refresh your knowledge, and provide you with the latest insights into the tech industry.
+  
+
+
+  You will be supported throughout by our team of knowledgeable and dedicated tech coaches and mentors who collectively hold almost 50 years of combined industry experience. They will provide you with clear, personalised, and actionable feedback on your work and will be on hand to answer questions or point you to further resources.
+  
+
+
+  But it's not just about technical skills. You’ll also receive bespoke Career and Mindset coaching to help you build the skills needed to excel in your career, like having a growth mindset, framing your career break positively, and navigating interviews.
+  
+
+
+  We understand that returning to the tech industry after a break can be daunting, but rest assured, our team are experienced in working with people returning to tech and know exactly how to help you reach your full potential. Aside from that, they’re also a lovely bunch of people!
+  
+
+
+  The programme is fully funded by Skills Bootcamps – part of the Government’s Lifetime Skills Guarantee, helping everyone gain skills for life. This means that all places on the programme are free for returners.
+  
+
+
+  Please note: this is a full-time programme. The sessions and group work will take place during the day, so we recommend that you have between two to four days each week available for the duration of the course. We advise that you factor in some additional time around the sessions and external commitments for independent learning. Sessions run between 10am and 3pm (parents, we see you!) and are all delivered remotely via Zoom and Google Classroom.
+ 
+
+ What you will learn
+
+ The programme is split up into three distinct sections. Each section includes a blend of both technical and Career and Mindset coaching. Let’s dive into the details!
+  
+
+
+  Technical:
+ 
+
+ Light technical warmup, featuring refreshers & introductions to topics such as Git Version Control, HTML and code quality
+
+
+   Career and mindset:
+ 
+
+Building your confidence
+Getting into a growth mindset
+How to set and achieve your goals
+Giving and receiving feedback
+
+
+
+
+
+   Technical:
+ 
+
+Modern & Advanced JavaScript
+Understanding TypeScript, the type-safe version of JavaScript which is growing in popularity across the industry
+Principles of Software Testing & Test-Driven Development
+Algorithms & Debugging
+Asynchronous code
+
+
+  Career and mindset:
+ 
+
+Reframing your career break
+Identifying your strengths workshop
+How to learn effectively as an adult
+Building your emotional resilience
+
+
+
+
+
+Backend
+
+
+ Technical:
+ 
+
+Building APIs with Express
+Using MVC to structure backend applications
+Intro to databases and SQL
+Design patterns
+
+
+
+
+
+   Technical:
+ 
+
+Semantic HTML and Accessibility
+CSS: Key Concepts & Methodologies
+React and its corresponding concepts such as props, state and hooks
+Testing React Components
+API calls
+Building React applications
+Understanding the wider frontend context - what other frameworks exist, and what problems do they solve?
+Culminating in a Group Project, building an entire full stack application alongside a team
+
+
+  Career and mindset:
+ 
+
+How to build rapport with interviewers
+Communicating your experience
+How to answer interview questions
+Owning your tech-spertise
+Interview prep workshop
+Mock behavioural interviews
+
+
+
+
+
+   (Sessions are subject to change before the start of the programme)
+ 
+ Are you eligible?
+
+ You will need experience of a role in software engineering with hands-on coding, preferably in JavaScript or related technologies
+To have had a career break and be committed to returning to technology via the ‘Your Return to Tech’ programme.
+You must have a National Insurance number
+You must reside in England to qualify for this programme and have an appropriate right-to-work in the UK (You will be asked to submit your passport, visa or share code evidence during the application process)
+Meet the residency requirements for this funding- you can find out more details here, or speak to us if you're unsure whether or not you meet them
+You will need to take ownership and have the curiosity to work on different projects collaboratively and independently
+You must have not taken part in a funded skilled bootcamp programme in the past 12 months
+
+
+  Please note: No candidate will meet every single desired qualification. If your experience looks a little different from what we've identified and you think you can bring value to the programme, we'd love to learn more about you!
+ 
+
+
+
+   We're passionate about helping people fulfil their potential, and we believe that our programme offers a unique opportunity for individuals to up-skill and thrive in the career they love.
+  
+ Our coaching is designed to provide you with the knowledge and tools to succeed, and our supportive team will be there to encourage and inspire you every step of the way!
+  
+
+
+The deadline for applications is Monday 1st May at 23:59
+
+ About Tech Returners
+
+   Want to get back to your career in tech but not sure which route to take?
+  
+
+
+  Our tailored support and free programmes are designed to refresh your skills, rebuild your confidence and reignite your career in technology.
+  
+
+
+  Our partnerships with inclusive brands, including some of the world's leading companies, help us connect talented individuals with progressive companies and create richly diverse workplaces together.
+  
+
+
+  Follow us on social media on Facebook, LinkedIn, Twitter and Instagram to get the latest updates on our programmes and community.
+ 

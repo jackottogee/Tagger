@@ -1,0 +1,46 @@
+
+About Next  Our mission is to build the next generation of cyber security - disrupting the data loss prevention (DLP) market with our innovative, cloud native, ML powered platform.
+ Already trusted by Fortune 100 companies and fast growing start-ups alike, we’re embarking on our Next phase of growth (pun intended!). It’s going to be awesome, and we’d love you to join us for the ride!
+ About the frontend team
+ Our Reveal platform collects millions of data/second. Our users need a way to spot trends in these data, search for security breaches, and take effective action. That’s where we come in!
+ We’re responsible for Reveal Web - a rich, performant web application that helps our users keep their businesses safe.
+ Projects we’re currently working on:
+
+User customisable dashboards (including graphs and charts)
+Building out our new UI component library
+Overhauling a core feature to work with our new, highly performant APIs
+
+We’re very proud of our development culture across R&D. We put security first, and our mentorship programmes and QA process ensure that our code is always of the highest quality. As well as writing excellent code, day to day responsibilities include:
+
+Working with the UX team to design and implement new features
+Bringing a technical perspective to discussions with stakeholders across the business
+Participating in peer review of teammates’ work
+Being proactive in taking ownership and suggesting improvements to the product
+
+We’re also very proud of our social culture - we enjoy team lunches, Thursday drinks, and regular company events!
+
+ About you 
+We primarily use Elm and Typescript to build our web applications, but we don’t expect you to have experience with either. You’ll learn everything you need to know through our training courses and mentorship programme. You’ll also gain experience in
+
+Web APIs and the Web platform (HTML, CSS, Javascript, Web Components, …)
+Designing and consuming REST APIs
+Working with continuous integration/deployment tools
+Working collaboratively with Git
+
+If you’re familiar with any of these already, that’s great! Let us know when you apply and be prepared to talk about it in your interview. Otherwise, all we expect is that you can demonstrate an interest in web development and are eager to learn. Perhaps you’ve written a web application as part of a university course, or you've already got a reasonable amount of commercial experience in a similar role? Perhaps you’re self-taught and have enjoyed working with a modern framework like React or Vue? Get in touch and let us know!
+
+ Benefits 
+Attractive salary with possibility for stock options. We believe that people do their best work when they are valued and rewarded.
+ Flexible working hours.
+ A remote-friendly organisation, with colleagues working remotely either part or full-time.
+ A startup with solid financial backing and long-term horizon.
+ We offer regular performance and development reviews, and team-specific training to help support our employees.
+ Maternity and paternity leave.
+ Private Healthcare in the UK with BUPA. Our employees' well-being and health are incredibly important to us at Next DLP.
+ Friendly, open and supportive culture
+ Office in a modern coworking space (dog friendly, free wellness and yoga sessions, drinks on Thursdays!) (https://www.huckletree.com/hubs/west)
+ ️ Frontend Masters subscription to support your personal development (https://frontendmasters.com/)
+
+ Equal opportunities 
+Next DLP is dedicated to encouraging and sustaining a culture of inclusion. We know that we are able to develop and learn better with a diverse group of people. The experiences, ideas, knowledge, self-expression and talent of our employees form our culture and are instrumental in our success.
+ We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to and will not be discriminated against based on age, race, gender, colour, religion, national origin, sexual orientation, gender identity, disability or any other protected category.

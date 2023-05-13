@@ -1,0 +1,47 @@
+
+building an information scraper that takes information mainly from the Internet, i.e. financial feeds, blogs and other websites
+this information will need to be standardised into a curated format, which would require, filtering, extraction, cleansing and formatting of the raw information (where information can become an "Event")
+such emitted Events will be posted onwards for further processing into other workstreams (eg Monday.com API via Python, or a language model to summarise text back), which could be a usability score and other added interactive or static derived information fields
+the Events (and such added information) will have to be stored into a database for future reference and potential development (say Machine Learning)
+each individual individual scraper will need to be maintained and a separate monitoring / back up system will need to be created
+native Python knowledge and experience is a hard requirement
+need someone with extensive web scraping knowledge, eg how to scrape JS content
+need someone that is happy to deploy machine learning modules in Python
+need someone that can work on Monday.com API via Python
+need someone that understand the Liquid format/templating language
+need someone that can handle a server (Digital Ocean) where the scraoing software will run
+phantomJSCloud and Selenium knowledge will come in handy
+
+Job Types: Full-time, Fixed term contract, Temp to perm, FreelanceContract length: 5 months
+Salary: £31,725.34-£79,740.01 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+
+Supplemental pay types:
+
+Performance bonus
+
+Education:
+
+Bachelor's (required)
+
+Experience:
+
+Python: 1 year (required)
+
+Language:
+
+English (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote
+Reference ID: 1729AI_1Flexitime

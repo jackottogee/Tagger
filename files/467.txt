@@ -1,0 +1,46 @@
+
+Software Developer – Virtual Production
+
+ Key Purpose of the Job:
+
+ The Virtual Production R&D team at DNEG creates and maintains a suite of tools, apps and systems to support the various forms of virtual production used by our Production teams. From driving large-scale LED wall virtual production shoots, to on-set AR apps and in-house virtual camera sessions you will work to ensure our clients and artists can merge the physical with the virtual.
+ This is a multi-disciplinary team collaborating with our Virtual Production specialists to help to support the film making process to become more dynamic and versatile where educated decisions can be made upfront, improving the overall creative experience. You will be using a variety of tools, software and hardware to deliver robust and creative solutions to be used on-set with the director and crew as they film.
+ We are looking for a diverse group of people with experience in:
+
+ Virtual Camera and performance tracking
+ AR app development
+ Computer Vision & Optical Tracking
+ Recording multiple synchronised data streams as generated on-set
+ Unreal Engine development (Tools, UI, Blueprint)
+ Integrating virtual production and vfx pipelines
+
+
+ We value your expertise, and with the help of our dedicated Technology Project Managers you will be able to plan your own development projects, working with senior developers and stakeholders to schedule development work and establish your own project deadlines. The variety of opportunities available within the Production Technology department allows our smart, creative and adaptable software developers the opportunity to learn and grow while working at the centre of a dynamic studio.
+
+ Must Have
+
+ Degree in Computer Science, Computer Engineering or similar, or equivalent experience
+ Experience of software development in a Linux and Windows environment (shells, version management with git/perforce, Jira etc.)
+ Programming experience in C/C++ and Python
+ Unreal Engine experience (Blueprints, Tool development)
+
+
+ Nice to Have
+
+ On-set virtual production experience
+ Experience developing VFX-related tools
+ Experience with AR/VR development
+ Experience with iOS App development
+ Understanding of relevant third-party technologies such as Alembic, USD, OpenEXR, OpenImageIO, OpenColourIO, ARKit etc.
+ Experience with APIs for relevant applications such as Houdini, Maya and Nuke
+ Practical knowledge of digital stills and/or video cameras
+ Familiarity with digital colour management
+ Experience with digital image processing and computer vision
+ Experience working on-set
+
+
+ We would not be able to produce award-winning work without our Production Technology department, which is committed to nurturing an inclusive, diverse and exciting workplace. Our technical directors have a variety of backgrounds and originate from a number of different countries, working across the globe at the forefront of technology in the industry.
+
+ About Us 
+We are DNEG, one of the world's leading visual effects, animation and stereo conversion companies for feature film and television, with studios in London, Vancouver, Mumbai, Los Angeles, Chennai, Montreal, Bangalore, Chandigarh, Hyderabad and Goa.
+

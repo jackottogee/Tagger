@@ -1,0 +1,39 @@
+
+ Insilico Medicine is a leading company in artificial intelligence for drug discovery that has launched multiple software products, including the automated drug discovery platform Chemistry42.
+  We seek a Cheminformatician/Python Backend Developer for the R&D team to develop
+  and improve Chemistry42 product features.
+ 
+
+Responsibilities
+
+
+ Analyze, research, and develop product features with advanced chemoinformatics capabilities
+ Integrate the developed algorithms into drug discovery pipelines
+ Develop and maintain a database for chemoinformatics data storage and retrieval
+ Ensure that the code and components comply with internal quality standards
+
+
+ Requirements
+
+
+ 3+ years of experience in Python programming
+ Knowledge of RDKit or a similar library
+ Be experienced in Numpy, Pandas, JupyterLab, Git
+ Experience with MongoDB or other NoSQL databases
+ Strong knowledge of chemoinformatics and molecular modelling
+ Basic understanding of chemistry
+ Chemical space analysis and knowledge of molecular similarity measurements
+ Familiarity with machine learning applications for chemistry
+ Critical thinking skills, experience in research and conducting experiments
+
+
+ Terms
+
+
+ Voluntary health insurance program and language courses (English and Chinese) after the probation period
+ Reimbursement of training programs, participation in conferences and webinars, course certificates
+ Flexible working schedule
+ Friendly team and warm environment
+
+
+ Please send your CV to career@insilicomedicine.com

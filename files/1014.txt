@@ -1,0 +1,71 @@
+TripIQ Background
+TripIQ is part of a group of companies, including Co Wheels, MG Automotive and SAIC Motors, that are seeking to radically change the way we move around. The group turnover exceeded $121 billion in 2019; making it one of the largest mobility businesses in the world.
+At TripIQ, we are building a creative, forward thinking and passionate team of brilliant technology led entrepreneurs and engineers. It is a highly supportive, team orientated place, where we want you to have every opportunity to explore and apply the latest technologies, such as deep learning and electric vehicle telematics, to bring new solutions to market.
+One great benefit of the job is being able to make use of nearly 1000 CoWheels cars and vans located right across the UK, from Shetland to Cornwall. Opportunities to test the latest electric and sports vehicles from MG will also regularly arise. The company has a flexible attitude towards working from home and working from the office, with arrangements tailored to each individual developer.
+Software Developer (PHP and Laravel)
+The team is seeking to expand its platform and system operations to increase resilience and capacity for a rapidly expanding fleet of electric vehicles.
+Our existing developer team is seeking to expand its core capacity, particularly in relation to PHP and Laravel development, alongside full stack competencies.
+The work will involve engaging with a scrum methodology, working in small teams through four week sprints to deliver essential stories and epics.
+This role is suitable for ambitious students in computer science, engineering or mathematics disciplines, graduating this year, who may have invested substantial time in tech start-ups or work experience placements prior to and during their studies. It will also suit experienced developers with an interest in software-as-a-service development.
+Job Requirements
+Candidates will have demonstrated both commitment and ability in achieving excellence with web application software development. This will include writing automated tests, developing high quality, robust code and implementing established patterns and principles of good software architecture.
+Essential experience includes:
+
+PHP/Laravel
+
+
+Postgres and SQL
+
+
+HTML and CSS
+
+
+Web application debugging and diagnostics
+
+An ideal candidate will also have experience with the following technologies:
+
+Git / Gitlab
+
+
+Redis
+
+
+MongoDB
+
+
+HAProxy
+
+
+Vue.js
+
+Working arrangements
+We are open to candidates based anywhere in the UK; and will accommodate home working where necessary. Team members are expected to participate in daily scrum meetings online; in addition to maintaining regular contact with line managers and colleagues.
+Team culture
+We want everyone joining our team to continue a journey towards achieving excellence in their chosen areas of interest; and create both time and opportunities for additional learning, pursuing additional qualifications and exploring their potential. It is therefore vital that applicants are both ambitious and committed to furthering their individual achievement. To those who are; we strongly encourage you to apply, and very much hope to have you onboard for the next stage in your professional journey, and to help us build a brighter, greener future for transportation and mobility.
+Reference ID: 100188
+Job Types: Full-time, Permanent
+Salary: £34,000 per year
+Job Type: Full-time
+Salary: £32,000.00-£36,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Employee discount
+Work from home
+
+Schedule:
+
+Monday to Friday
+Weekend availability
+
+COVID-19 considerations:Our offices in Newcastle have been fully prepared for safe working under the current circumstances. However, all of our development team are currently working remotely. Moving forward, employees will be able to choose, provided key meetings are attended.
+Education:
+
+A-Level or equivalent (preferred)
+
+Experience:
+
+PHP/Laravel: 1 year (required)
+
+Reference ID: 10011988

@@ -1,0 +1,42 @@
+
+Frontend Developer
+ £600 - £650/Day Inside IR35
+ London, hybrid 
+12 Months
+ We are seeking a Frontend Developer for our Government client based London. This role will be office based 2 days per week and the remainder remote. The Frontend Developer role will be an initial 12 month contract, paying between £600 - £650/Day Inside IR35.
+ This role is inside IR35 - Due to the service of the role it will now be based on an Umbrella solution.
+ Role Profile: 
+
+Be involved in the wider web development community, identifying good practices they can adopt and sharing their experiences
+ Have knowledge of tools and techniques used within the wider team, both Developers and Non-Developers
+ Have expert knowledge of HTML5, JavaScript, jQuery, CSS and Sass
+ Have expert knowledge of cross-browser considerations
+ Have expert knowledge of Responsive Web Design
+ Have knowledge of web accessibility and WCAG
+ Have knowledge of UX and usability
+ Have an ability to communicate technical concepts to a non-technical audience
+ Have proven experience maintaining a large and dynamic code base
+ Have experience working on technical projects within a team
+ Have working knowledge of unix-like operating systems such as Linux and/or Mac OS X
+ Have knowledge of the use of version control systems such as subversion or git
+ Have the ability to quickly research and learn new programming tools and techniques
+ Have experience of building high-traffic websites
+ Understand web architecture
+
+ It would also be desirable to:
+
+ Have knowledge of client side build tools: grunt, gulp or similar
+
+Have the skills to build up a useful, robust automated test suite to support a
+ continuous deployment environment.
+
+Have a working knowledge of Mustache templates, Java 7 and Node.js.
+Have experience with test driven development using toolsets such as Mocha and
+ Jasmine
+
+ 
+
+If you are interested in the above role - Click the "Apply Now" button now for immediate review 
+Frontend Developer, Developer, Frontend Developer, Frontend Software Developer, Frontend, JavaScript Developer, JAVASCRIPT ENGINEER, JAVASCRIPT, HTML5, CSS, SASS, NODE.JS, GRUNT, GULP, UNIX, RESPONSIVE WEB DESIGN, FRONTEND WEB DEVELOPER, JAVA, Frontend Developer, Frontend Developer
+ Circle Recruitment is acting as an Employment Agency in relation to this vacancy. Earn yourself a referral bonus if you refer somebody else who fills the role! We also offer an iPad if you refer a new client to us and we recruit for them. Follow us on Facebook - Circle Recruitment , Twitter - @Circle_Rec and LinkedIn - Circle Recruitment.
+

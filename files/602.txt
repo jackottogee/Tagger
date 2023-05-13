@@ -1,0 +1,49 @@
+As a Front End Developer your main responsibility will be converting design concepts into working front end software products and services. This will be done in line with product quality criteria and company brand guidelines. You will work as part of a multi-disciplinary agile delivery team, and will collaborate closely with QA, UX, and Product Management roles.
+Remote Permanent Full Time Closes: 13/05/2023Front End Developer - Remote**Job Description:What you will get up to day to day
+
+Work on front-end development in a variety of different technologies to build and maintain software products ensuring cross platform compatibility across desktop, tablet, and mobile.
+Contribute to the development of code libraries that can be re-used across multiple different software products and services.
+Ensure design and development work meets with company brand guidelines.
+Ensure front end development work meets product quality criteria.
+
+We are looking for someone who
+
+Has previous commercial experience working in a similar role.
+Has excellent written and verbal communication skills: for presenting your ideas and communicating every aspect of designs to the relevant stakeholders.
+Is flexible and adaptable to a fast-changing environment.
+Has experience of working with modern ALM tooling such as Visual Studio, Azure DevOps, Jira, Git.
+Has experience using AngularJs and Angular.io
+Has knowledge of ReactNative with Redux
+Has a good working knowledge of Typescript, SCSS & Web Components.
+
+Some of the key responsibilities
+
+Continuously iterate on your work based on user testing data and qualitative feedback.
+Assist full stack Developers with coding and troubleshooting.
+Collaborate with Developers, Designers, Quality Assurance, and other stakeholders to understand users’ needs and refine front end solutions.
+Where required support the Product Owner/ Manager with respect to agile ceremonies such as planning, review, refinement, and maintenance of the product backlog.
+Where required collaborate with external suppliers, partners, and customers.
+Feedback on UX Design output to ensure it reflects the appropriate technical effort and limitations prior to development implementation.
+Stay up to date on emerging front end technologies such as JavaScript Frameworks, Typescript, HTML5, and CSS3 and share this with the wider development team.
+
+What you will get from NBS
+
+An attractive salary and benefits package
+25 days leave plus bank holidays
+Take your Birthday off
+½ day Christmas Shopping Day
+Training programmes to develop your skillset
+Working with a market leader on their mission to digitise the construction industry
+
+If this sounds like you then we would love to hear from you.Apply NowTo find out more about this role, please get in touch with us recruitment@byggfakta.co.uk**Please note, we can only accept applications from candidates who reside in the UK and have the right to work in the UK**
+
+Effectively manage the day-to-day performance of the functions, ensuring the team supports Group business in a responsive and agile manner, whilst delivering strategic initiatives
+Lead and develop a multi-disciplinary team to remove any single points of failure, boost responsiveness and ensure dissemination of knowledge
+Drive process and system simplification in line with best practice to develop a robust system platform benchmarked against industry standards
+
+
+Effectively manage the day-to-day performance of the functions, ensuring the team supports Group business in a responsive and agile manner, whilst delivering strategic initiatives
+Lead and develop a multi-disciplinary team to remove any single points of failure, boost responsiveness and ensure dissemination of knowledge
+Drive process and system simplification in line with best practice to develop a robust system platform benchmarked against industry standards
+
+Job Types: Full-time, Permanent

@@ -1,0 +1,35 @@
+
+Would you like the opportunity to work with some of the world’s largest brands?
+DCS Group is the UK’s leading Distributor, Manufacturer and Exporter of Health Beauty and Household products. As the uniquely appointed representatives for Procter & Gamble, Unilever, Johnson & Johnson, PZ Cussons, SC Johnson to name a few, DCS has unrivalled multi-channel insight and category expertise. Our latest exciting plans to develop and grow our new Food distribution business has seen major brands such as Whitworths and Danone joining forces with DCS.
+DCS Group is passionate and proud about all that we do, the customers we serve and our people. Operating out of two amazing sites, we have the 26-acre Banbury Head Office and warehousing facilities as well as our new state of the art Health and Beauty manufacturing facility occupying 100,000 sq. ft based in Redditch.
+As a family-owned business, we are very proud of our ethos, our people and 26 years of successive growth. We offer a very special opportunity of being able to join a welcoming, dynamic, fun place to work, and to work directly with the world’s biggest FMCG power brands.
+We are currently looking to recruit an experienced and conscientious Software Developer to join us on a permanent, full-time basis working 09.00-17.00 at our Head Office on site in Banbury.
+As a Software Developer, your duties will include:
+
+Review and maintain current and future systems, present ideas for system improvements including cost proposals in line with the needs and requirements of the business
+Support the testing of applications and contribute to process and procedural development to ensure quality is delivered throughout
+Producing specifications and writing software codes and testing the product in a controlled real-time situation before going live
+Assessing and resolving helpdesk requests as required
+Provide coaching and mentoring to other team members and guidance on trends in the software industry
+
+What we are looking for in our ideal Software Developer:
+
+You must have at least 8 years experience gained in a similar role and have exposure to mentoring less experienced members of the team
+You must possess excellent analytical skills and have working knowledge of C#, ASP.NET including MVC, AngularJS, SQL, Entity Framework/LINQ, HTML, CSS & Javascript and have a solid understanding of Object-Orientated Programming and N-Tier application development
+You will have superb interpersonal skills, be calm and be able to build and maintain effective business relationships
+You will be used to working within a client facing role, therefore be able to engage, motivate and clearly explain complex information to a wide range of clients with differing levels of understanding
+Having experience in the following would be desirable, but not essential: Bootstrap, Agile, TDD and knowledge of version control systems such as GiT or TFS.
+
+Core benefits of working for DCS Group:
+As a family business, we place a great deal of importance on the well-being and happiness of our staff and the benefits they can enjoy.
+
+Life Cover
+Pension
+Medical Cash Plan
+Cycle to Work Scheme
+Well-being
+Subsidised Cafe including free breakfast
+Staff Shop
+Social Events
+
+There’s no place quite like DCS Group and we’re proud of that, which is all down to the people who work here. If you want to be part of our expanding company which offers exciting opportunities for career progression, we would love to hear from you!

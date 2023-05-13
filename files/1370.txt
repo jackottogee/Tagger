@@ -1,0 +1,17 @@
+
+The Company
+An exciting tech start up founded in 2016. They focus on providing data security software solutions by employing AI and Machine learning techniques.
+The Opportunity
+
+A chance to join one of the world's leading RandD teams solving unique challenges.
+Developing on a greenfield project which will handle bleeding edge machine learning and AI approaches.
+You will be comfortable in a research environment - emphasis on solving complex problems which haven't been solved before.
+Want to push the boundaries of software engineering and machine learning.
+
+Expectations
+
+A polyglot approach to programming; you should be comfortable picking up new technologies - the best tool for the job as opposed to being aligned to a certain language.
+Proven ability developing on large scale distributed systems, preferably from an RandD environment or someone looking to join a team that are looking to rock the industry.
+A passion for technology as a whole, whether that is a GitHub or anything else!
+The client is utilising Golang and C but we will be looking for candidates who are able to pick up new technologies and approaches along the way! Golang and C is therefore not a pre-requisite.
+Job Owner: c.rogers (23659)

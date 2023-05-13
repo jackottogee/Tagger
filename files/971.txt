@@ -1,0 +1,30 @@
+
+About The Role
+
+ allpay Limited are one of the fastest growing Fintech companies in the UK and are experts in the payment and financial services arena. 
+We now have a fantastic opportunity for Software Engineer to join our Research and Development team.
+ Within this role you will be:
+
+Assist in the requirements gathering process to help ensure requirements contain enough information and fact to support design, development and implementation.
+Participate in ‘Agile’ development team to develop software designs and specifications based on system level requirements and in accordance with defined development procedures.
+Actively participate in sprint and release planning, daily stand-ups and retrospectives.
+Design software that meets the requirements of the business and users with scope for extensibility, ease of maintenance, supportability and configuration.
+Provide support, consultancy and assistance to colleagues and other areas within allpay as required.
+Maintain and improve current skillset by studying state-of-the-art development tools, programming techniques, and computing equipment; participating in educational opportunities; reading professional publications.
+
+
+About You
+ To be successful in this role you will need to:
+
+Experience of using object oriented programming languages.
+Experience of using SQL Server or equivalent directly via Management interface or software application.
+Ability to solve problems and provide workable solutions or workarounds.
+Ability to continually learn and adapt to new technologies and implement where suitable.
+Experience with Microsoft Azure platform and services desirable.
+Web Frontend development experience beneficial and desirable.
+Possess good knowledge of software and hardware environments including networking.
+
+
+ About Us
+ People are at the heart of allpay and we reward our employee with a competitive benefits package which includes, a defined contribution group pension scheme, income protection, life assurance, an array of health and wellbeing options including private healthcare cover and an onsite gym. This is coupled with our excellent Learning and Development offering.
+ We are a company committed to Equal Opportunities.  All roles at allpay Limited are subject to successful background checks including a DBS and Credit Check.

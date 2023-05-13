@@ -1,0 +1,36 @@
+At Nourish Care Systems we are currently expanding our Development team following our accelerated growth. Are you a passionate person with a desire to work for a company that is having real impact on peoples lives?As a current market leader, Nourish Care provides a digital solution to the health and social care sector which enhances the process of recording, analysing, and sharing of information.As an employer, we offer all the support and development our employees need to grow their skills and expertise and we foster a culture of collaboration and contribution.We are looking for an individual who has passion and drive to continually learn, developer and to contribute to our development teamOur Development Culture:
+
+We deliver incrementally in sprints, within an Agile (SCRUM) environment.
+Every team member is involved in our sprint planning, stand-ups and retrospective ceremonies. Our development process favours pair-programming, code reviews, automated testing and frequent collaboration. We prefer clean code to over-engineering.
+Our current stack is PostgreSQL/DynamoDB (databases), Ruby-on-Rails (backend API), VueJs/TypeScript/Angular (frontend), Python (AWS Lambdas), Git (Github source control), Heroku (for testing/staging), Semaphore (CI).
+We have the freedom and opportunity to work with both established and new technologies, languages, and frameworks. We are encouraged to learn and supported whatever our learning style, books, online courses, certifications and others.
+We enjoy the challenge of being able to use multitude of languages and technologies since we realise these are only the tools we use on our journey to deliver the best experience and value to our users.
+We aim to be truly full-stack, and in addition to covering database to back-end to front-end development. We all have the responsibility of looking after the AWS Infrastructure, DevOps, CI/CD, dependent on the experience level.
+Our systems serve thousands of requests per minute and our databases have 100s of millions of records, therefore we design and architect scalability-first. We manage caches across a variety of end points and we work with third-party integrations.
+We also have opportunities to grow as well-rounded developers capable of requirements gathering, project management, and research.
+We are fully equipped and organised to work remotely, but prefer to come to the office for more intense collaboration, exchange ideas and knowledge or just enjoy the time with other people.
+
+*Are you what were looking for?*
+
+Are you a passionate person with a desire to work on a product that will have real impact on peoples lives?
+Do you have solid understanding of object oriented development and the drive and motivation to learn new technologies and languages?
+Are you driven to constantly review and improve the products you work on, offering opinions and suggestions in a collaborative manner?
+Do you take pride in the work you do?
+Do you have 5+ years commercial experience using object-oriented languages (Java, C#/C++, Ruby, etc.) in a full stack project?
+
+Nourish Benefits:
+
+25 Days paid leave + Public holidays
+Private Medical Insurance
+Group Life Assurance
+Dental Cover
+Optical Cover
+Enhanced Maternity leave
+Pension Contribution
+Employee Assistance Programme
+Benefits Portal
+Birthday Day off
+and many more.....
+
+*At Nourish Care we are dedicated to building a diverse and inclusive workplace. Whatever your background may be, we welcome you to apply. If you dont tick all the boxes required, please apply anyway or get in contact. We are always looking for candidates for other future positions that may come available*
+Salary: £50,000.00-£75,000.00 per year

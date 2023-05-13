@@ -1,0 +1,40 @@
+Senitor https://www.senitor.com/ 
+
+ My client who specialises in EV technology is looking for at least three Javascript Developers to join their Nottingham based Software Engineering Team. Their software is currently outsourced to a local company, also based in Nottingham, but they are now ready to bring their projects in house. They have over 500,000 charging points across the UK and are partnered with global & blue-chip clients such as BMW, Mercedes, Tesco, Royal Mail, Monster Energy, various Housing Developments and more. 
+
+ The ideal candidates will have a passion for learning new technologies and be able to commute to Nottingham 2 days a week. My client is offering an attractive benefits package complete with a company expensed electric car to use for commuting and pleasure. 
+
+
+The role:
+ Support the development and maintenance of scalable systems and applications 
+Maintenance of databases which consist of large data sets 
+Making tweaks and changes to improve existing applications 
+Planning and sharing ideas for the development of new applications 
+Learning and developing your skills on front-end, full-stack or back-end development and cloud technology 
+
+ We are looking for candidates who have an understanding of at least three of the following technologies: 
+Front-end, Back-end or Full Stack Javascript Development 
+Frameworks such as React, React Native, Angular, Node or Express. 
+Azure with AKS, Kubernetes, Docker 
+Relational databases such as SQL Server, MSSQL, MySQL or MariaDB 
+GIT or JIRA 
+If you have an understanding of payment gateways or WebSockets or Socket.io it will be beneficial but is not essential 
+
+
+Benefits:
+ Electric Car Scheme 
+25 days holiday + bank holidays 
+Relocation support if needed 
+Company matched pension scheme (increasing with length of service) 
+Annual salary reviews 
+Free parking 
+
+
+Location: Nottingham, 2 days a week in a central office location 
+
+
+Salary: up to £75K DOE 
+
+ To apply, please send your CV to avril.wood@senitor.com with your full contact details and an ideal time to chat. For more information, please call Avril on 0115 950 8450. 
+
+ For more information about Senitor and the opportunities we have to offer follow us on Twitter @SenitorIT Senitor Associates Ltd is acting as an Employment Agency in relation to this vacancy.

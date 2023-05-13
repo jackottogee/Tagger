@@ -1,0 +1,136 @@
+
+
+
+
+
+Software Engineer - React 
+
+
+
+
+
+
+
+
+Job Req ID: 13927 
+    
+
+
+
+
+
+
+
+Posting Date: 19-Apr-2023 
+    
+
+
+
+
+
+
+
+Function: Software Engineering 
+    
+
+
+
+
+
+
+
+Location: 1 Braham Street, London, United Kingdom 
+    
+
+
+
+
+
+
+
+Salary: Competitive with benefits 
+    
+
+
+
+
+
+
+
+
+
+
+
+
+Why this job matters
+
+
+
+ BT's Enterprise Digital team is responsible for building integrated, scalable, and robust enterprise journeys. We are currently looking for an experienced, cooperative, and passionate Software Engineer with a solid ability to design and execute products that power the enterprise experiences. As a member of Enterprise Digital, you will play a key role in reimagining productivity by shipping transformative products that serve diverse aspects of the enterprise.
+
+
+
+
+
+ What you’ll be doing
+
+
+
+
+Build the next BT Sales machine of the future using the TypeScript stack with React and Node
+Fullstack inclination. We use: BE: Node, APIs, GraphQL, Microservices. FE: CSS, SASS, HTML, React, Redux, Hooks, Microfrontends.
+Quality and Testing: Unit, A11y, Contract Testing (I.e. Jest, Cypress)
+Work closely and cooperatively with the team and the Engineering Manager to build great Software
+Build, measure, and support the Software you create and maintain
+
+
+
+
+
+
+Our leadership standards
+
+
+
+
+ Looking in:
+
+Leading inclusively
+ I inspire and build trust through self-awareness, honesty and integrity.
+         
+Owning outcomes
+ I take the right decisions that benefit the broader organisation.
+        
+
+Looking out:
+
+Delivering for the customer
+ I execute brilliantly on clear priorities that add value to our customers and the wider business.
+         
+Commercially savvy
+ I demonstrate strong commercial focus, bringing an external perspective to decision-making.
+        
+
+Looking to the future:
+
+Growth mindset
+ I experiment and identify opportunities for growth for both myself and the organisation.
+         
+Building for the future
+ I build diverse future-ready teams where all individuals can be at their best.
+        
+
+
+
+
+
+ What You'll Get
+
+
+
+
+
+
+
+
+

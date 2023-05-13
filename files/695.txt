@@ -1,0 +1,53 @@
+
+Who we are:
+
+ Nutmeg is the UK's largest truly digital wealth manager, offering clarity and transparency to both seasoned and first-time investors as they seek to achieve their financial goals. Launched in September 2012, Nutmeg now manages over £4.5bn on behalf of over 200,000 clients who have sought the powerful combination of an easy-to-use, adaptable investment service and market-leading human advice. Nutmeg is a J.P. Morgan company offering investments and digital wealth management services to consumers, complementing Chase's digital bank in the UK.
+ 
+ At a time when people are seeking the closer relationship with money that technology can provide, Nutmeg:
+ 
+
+Has a team of over 240 employees
+Offers award winning stocks and shares ISA, Junior ISAs and Lifetime ISAs, as well as a personal pensions and general investment accounts
+Provides financial planning and advice alongside our award winning client services team
+
+
+*We offer flexible working*
+
+
+Job in a nutshell:
+
+ We are now looking for a Senior Front-End Engineer to help us build the next generation of our customer onboarding experience. We are making good progress migrating to a React Micro-frontend architecture and most of your time will be spent working with React.
+ 
+ We have an in-house bespoke Design System to help us scale the UI for white labelling as well as maintaining a collection of solid domain driven web libraries. We are utilizing node.js to migrate away from legacy code and enabling our developers to create clear and clean pragmatic solutions. We've introduced Kafka, run our systems on AWS, and have built a DevOps team to provide our Engineers with the tools needed to observe their domain. We have built a strong engineering foundation for knowledge sharing with several skill shares, guilds, and open discussions running every month. We brainstorm and work with whiteboards and post-its and collaborate across the entire business to do our jobs.
+  Requirements 
+ 
+Your skills:
+
+
+HTML, CSS/CSS Pre-processors and Vanilla JavaScript
+Consuming REST APIs and keen to dig deeper into the stack
+TDD, Integration and end to end with Cypress
+Building highly-scalable and well-performing web platforms
+Git or other similar distributed SCM systems
+Strong communication skills
+Strong team player
+Proactive and willingness to help others
+
+
+You might also have:
+
+
+ReactJS / Redux and any other JavaScript frameworks/libraries
+Experience with node.js
+Experience with Ruby and Ruby on Rails
+Experience with GraphQL and Express.js
+Delivery experience on cloud platforms and familiarity with AWS
+Experience with Design systems (UI Development)
+Experience with Hooks, XState, SWR
+Commercial experience in the Finance industry
+Contributions to open source projects
+A portfolio of personal projects
+
+ #ICBcareers #ICBEngineering
+  J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

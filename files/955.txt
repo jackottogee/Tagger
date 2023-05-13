@@ -1,0 +1,39 @@
+
+JOB SUMMARY
+ We are looking for talented computer scientists/software engineers to support the development of a suite of Qt5-based GUI tools at Silvaco. This software is crucial in the design and analysis of state-of-the-art semiconductor devices by companies and academic institutions worldwide.
+ You will be part of a fast-moving multidisciplinary team, collaborating with experts in computer science, applied mathematics, physics, and electronics. You will have the opportunity to be instrumental in the design, implementation and maintenance of innovative software tools while being supported in your career development.
+ The roles are suitable for inquisitive minds with a passion for applying cutting-edge technology through code. The team principles are built around technical craftsmanship, continuous learning, and enthusiastic partnership. Each engineer contributes a unique set of skills and perspectives and these distinctive outlooks are recognized and encouraged.
+
+ QUALIFICATION AND REQUIRED EXEPRIENCE
+
+ BSc or MSc in Computer Science or related field
+ Development of professional and advanced applications within agile team.
+ Proficiency in object-oriented C++ development
+ Qt5 framework, including advanced UI, Models and Views, Data Visualization, Network and asynchronous tasks
+ Complexes data model handling, algorithm and plots.
+ Application life cycle: version control, build process, bug tracking and release.
+ Effective interpersonal and communication skills, including fluency in English
+ Cross-platform development on Linux and Windows
+ Experience of scripting languages, such as Python, Perl and JavaScript
+ Development for distributed computing environments
+ Experience in semiconductor industry preferred. 
+Experience in international and remote team building preferred.
+
+
+ PHYSICAL REQUIREMENTS
+
+ Prolonged periods of sitting
+ Prolonged periods of typing
+ Clarity of vision at approximately 20 inches or less (i.e., working with small objects or reading small print), including use of computers
+ Ability to lift (up) to 15 pounds at times
+
+ All Silvaco salary ranges are determined by role, level, and geographic location. Within the range, individual pay is determined by work location, role-related knowledge and skills, depth of experience, relevant education or training, and additional role-related considerations.
+ Depending on the position offered, equity, bonuses, commission, or other forms of compensation may also be provided as part of a total compensation package, in addition to a full range of medical, financial, and other benefits.
+
+ COMPANY INFORMATION
+ For over three decades, Silvaco, based in Silicon Valley, California and with global locations around the world has solved semiconductor design challenges by offering affordable and competitive TCAD (Technology Computer Aided Design) software, EDA (Electronic Design Automation) software, proven design IP (intellectual property), and world class support to engineers and researchers across the globe. Silvaco solutions span from atoms to systems: starting with simulation of material behavior impacting semiconductor devices, to design and analysis of transistor circuits, and lastly providing IP blocks for systems-on-chip (SoC) designs. Our solutions are deployed in production flows across broad industry segments such as leading display companies, automotive OEM suppliers, and top Memory, 5G, and IoT (internet of things) providers.
+
+ WE ARE AN EQUAL OPPORTUNITY EMPLOYER
+ At Silvaco, we do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.
+ If you need assistance or an accommodation due to a disability, please contact us at 408.567.1000.
+ https://www.silvaco.com/

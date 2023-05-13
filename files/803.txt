@@ -1,0 +1,23 @@
+We’re looking for an enthusiastic, highly motivated Principal Software Engineer to lead our cloud software team and help us define and build our next generation automotive platform. If you’re passionate about writing great code, love leading a team, and want to shape the software you build, we want to hear from you.*The Role:*You’ll be involved in all aspects of the software development life cycle; from design and prototyping, through planning and implementation, to testing, deployment and maintenance. We can offer a clear career path, job security, interesting projects, and a friendly team-oriented environment. We also support hybrid working; you’ll only be required to come into the office for activities that can’t be done remotely, e.g. test infrastructure setup, team collaboration days etc.Most of the Cloud team’s code is written in C#, using the latest tools targeting Microsoft Azure.This is a fantastic opportunity for an ambitious, talented software engineer to help create a truly global platform for leading automotive manufacturers and their motoring enthusiasts around the world.Candidate Profile:
+
+Degree in Cloud Computing, Computer Science, Software Engineering or related field, or equivalent practical experience
+Extensive industry experience delivering highly available cloud solutions at scale
+Experience leading teams and managing customer expectations
+Practical understanding of the demands of supporting a platform running 24x7
+Expert knowledge of cloud service and infrastructure concepts
+Expert skills using C# and object-oriented programming
+You can tackle the most complex problems and deliver simplicity in your solutions
+You expect clean, readable code from yourself and others and have meticulous attention to detail
+You thrive in collaborative team environments and enjoy leading from a technical perspective
+You take ownership of product delivery and customer satisfaction
+You enjoy mentoring and supporting your teammates, and encourage open communication
+You demand high standards through code reviews and automated tests
+You are passionate about learning and integrating new technologies to improve productivity and reliability.
+
+Desirable experience:
+
+Technical leadership of cloud-based product development
+Production delivery of Azure-based cloud solutions
+Leadership within an agile environment.
+
+Job Type: Full-time

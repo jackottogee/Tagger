@@ -1,0 +1,57 @@
+Job Title: Azure DevOps Engineer 
+
+
+Function: CIO 
+
+
+Location: London 
+
+ The Azure DevOps Engineer is a new opportunity within TSB aligned with our newly formed Cloud and Platform Services team, delivering new experiences for the bank’s workforce. If you’re ready to create and build, within a collaborative and supportive culture, we can offer you an exceptional opportunity to make a difference, to learn and to grow. 
+
+ You will be a part of a large cloud adoption programme which will see many legacy applications re-written, re-factored, and migrated from on-premises data centres to Cloud hosted. You will play a key part in designing and building CI/CD pipelines, along with infrastructure/application building and deploying to support this strategic programme. 
+
+ What we need today 
+
+ To make sure you’re set up for success you’ll already have these skills and experience: 
+
+ Strong IT experience across diverse technology stacks. 
+
+ Good experience working with Azure DevOps Pipelines. 
+
+ Experience with deployment and support of Azure services. 
+
+ Technically proficient in Azure Log Analytics, Azure Monitor, Azure Storage Accounts, AKS, Azure API Management. 
+
+ Strong experience with Azure PaaS and SaaS, Kubernetes, Docker, PowerShell & bash scripting. 
+
+ Hands-on experience deploying Azure infrastructure with ARM, Bicep and Terraform. 
+
+ Strong experience deploying Azure infrastructure using Jenkins/Azure Pipelines or GitHub Actions. 
+
+ Azure Fundamentals - AZ-900 (required) 
+
+ Azure DevOps Engineer - AZ-400 (required) 
+
+ What we need tomorrow 
+
+ It takes more than experience to be successful in the role. With development and coaching from us, you will: 
+
+ Work on large scale, complex solutions, and delivery. 
+
+ Lead, coach, and mentor team and project members. 
+
+ Demonstrate commercial awareness. 
+
+ Become a technology leader, and trusted ambassador. 
+
+ So if this sounds right up your street, come and join our team. We make things happen! 
+
+ We are TSB. Life Made More 
+
+ #IND2 
+
+ #LI-CC1 
+
+ Inclusion matters at TSB. We want our colleagues to feel at home here, no matter their background . Diverse teams are what helps us deliver Money Confidence. For everyone, Every day. 
+
+ Did our job advert catch you eye, but you don't meet all the requirements? Don't let that put you off. If you meet some of the requirements and have an open curious mindset, we'd love to hear from you.

@@ -1,0 +1,63 @@
+Job Description
+Our client is looking for someone who is committed to deliver valuable applications and services to customers. You will ensure the software meets the agreed acceptance criteria and the team’s definition of done.
+From design, development, testing, deploying and maintaining up-to-date applications and services, you enable The Company to deliver mission-critical communications solutions for customers.
+Key Responsibilities within this role...
+Technical leadership and management
+
+Responsible for the software engineering output of the team
+Lead the design and refinement of complex stories within product(s) the team is responsible for, engaging with other teams or departments as required.
+Lead development projects, coordinating tasks to be carried out by the team, and working with customers as required.
+Lead the team, encouraging best practice within the team and look to how the overall business objectives can be met.
+Mentor direct reports within the same agile team.
+Complete performance reviews and personal development plans for direct reports.
+Assist in recruitment activities, including recruitment days, phone and face to face interviews.
+Build and manage a high performance team, working to develop your team members and address any concerns with support of the wider business.
+Facilitate agile \ Scrum ceremonies, including refinement, planning, review and retrospectives.
+Track and support the team implementing improvements and changes from retrospectives.
+Provide weekly reporting of team progress to the department head.
+Collaborate with other teams and departments to ensure that deliverables from the team will meet the customer’s expectation.
+Collaborate with the Product Owner to manage the Product(s) backlog and give guidance on timeframes for deliverables.
+
+Development
+
+Write code in appropriate languages.
+Design the architecture of new application components and achieve internal sign off for development specifications where required.
+Lead the Agile team to develop applications to meet product/customer requirements.
+Thoroughly test new features or developments to make sure they perform the desired task correctly in all cases.
+Work with Quality Assurance teams/processes to validate builds ready for launch.
+
+Maintenance & improvement
+
+Problem solve and fix bugs as discovered/reported.
+Perform ongoing maintenance or upgrade of the platform as required, following internal change procedures at all times.
+Pair program or peer review colleague’s work.
+Share ideas and work on projects for improving applications, process or the wider platform.
+Review projects/deployments and learn lessons to improve future performance.
+Design and pilot prototype applications where required.
+Stay up to date with software development trends and technological advancements. Learn and test new technologies, frameworks and languages as relevant.
+
+About you...
+
+Bachelor’s Degree in a STEM, Computer Science or related subject, preferably from a Russell Group University.
+Experience of leading successful development teams.
+Good experience of developing commercial projects/applications ideally in C# or React.
+Good experience in SQL and using relational databases such as Microsoft SQL Server.
+Experience in source control, in particular Git.
+Experience working within an Agile environment, in particular Scrum, and applying supporting practices.
+
+In addition any experience in the following would be beneficial:-
+
+Knowledge and experience working to OWASP ASVS or equivalent application security standards.
+Experience of recent .NET versions.
+Experience of Javascript, Typescript and associated frameworks and libraries, in particular React.js.
+Experience in developing containerising applications with Docker and using orchestration such as Kubernetes.
+Experience in NoSQL databases such as ElasticSearch.
+Experience in using test tools such as xUnit, Jest, Cypress, Selenium Web Driver, SoapUI or Burp Suite.
+
+Job Type: Full-time
+Salary: £98,000.00-£98,500.00 per year
+Schedule:
+
+Monday to Friday
+
+Work Location: In person

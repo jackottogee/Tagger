@@ -1,0 +1,50 @@
+Job Description 
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. 
+The management of the MoD LogIS Programme Inventory within the Land and Air communities is achieved using the legacy Stores System 3 (SS3) IT application and future BIWMS system. SS3 is a stable platform developed and launched into service over 30 years ago. The Air community migrated to a new Base Inventory Warehouse Management System (BIWMS) in 2016 leaving Land and Maritime on their current systems. 
+SS3 shares a common VME mainframe with CRISP (Maritime Inventory) with a project underway to migrate the functionality and data onto the BIWMS solution by the summer of 2025. BIWMS is built around the Tapestry Technologies GOLDesp COTS product with the addition of the Demand Solutions forecast and planning tool and the Boeing designed and built message handling capabilities between the various interfacing systems. It consists of application, middleware and database layers that need to be supported and developed, inline with the MoD Inventory Managers business needs. 
+This hands on role with both a technical and customer bias is to support the sustainment function in resolving incidents and adaptive changes on the Stores System 3 service (legacy VME Land inventory system) and the BIWMS GOLDesp (target Air inventory system architecture) to the MoD’s Inventory Managers and their warehousing customers. The primary list of activities include: 
+Triage received Incidents, Service Requests and Adaptive Changes and develop/support resolution if in scope of the team or forward to the appropriate resolver group as required. 
+
+Key Skills: business process knowledge, application/programming knowledge, Business Resolver Groups (MoD) knowledge, service management tool knowledge 
+Support the design, coding and documentation of system corrective and adaptive changes as contracted by the customer 
+Liaise with suppliers and their technical teams as third line support and software solution providers for supporting smaller customer facing services and coordinate configuration, integration, testing for fault investigations and adaptive changes 
+Develop business relationship with the end user community in order to improve understanding of their business and ensure our solutions best meet their needs 
+
+ Essential Experience 
+
+
+
+Strong understanding of the MOD Logistics and Inventory Management processes and system services
+Strong analytical and fault investigation skills
+Good Knowledge of working within an ITIL framework
+Proficient and demonstrable capability in supporting applications in Mainframe (VME) and Linux environments
+Proficient use of Oracle P/SQL
+ Desirable Experience 
+
+
+
+Excellent written and oral communication skills.
+Be passionate and motivated.
+Demonstrates an ability to pick up new technologies and to follow technical instructions, willing to learn new skills.
+Some experience of supporting COBOL applications running on an Fujitsu VME mainframe environment
+Knowledge of Linux, Jenkins and Open Shift environments
+Knowledge of databases both Oracle and Microsoft SQL Server.
+Knowledge of working within the MOD Defence sector would be a significant advantage.
+Ability to work on own initiative with minimal supervision
+
+Important information regarding this requisition:
+ This requisition is for a locally hired position in the UK. Benefits and pay are determined at the local level. 
+Boeing is the world's largest aerospace company and leading manufacturer of commercial airplanes and defense, space and security systems. 
+
+ We are engineers and technicians. Skilled scientists and thinkers. Bold innovators and dreamers. Join us, and you can build something better for yourself, for our customers and for the world. 
+
+ This position requires the ability to obtain a UK security Clearance for which the UK Government requires UK residency. The successful candidate will hold, or have the ability to obtain, Security Clearance (SC). 
+All information will be checked and verified. 
+
+
+Export Control Requirements: Not an export control position 
+
+
+Equal Opportunity Employer:
+ We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law. 
+We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process.

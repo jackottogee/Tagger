@@ -1,0 +1,46 @@
+App Development Intern
+Cambridge
+About the job:
+electronRx are building a predictive healthcare and diagnostics platform combined with digital medicines for the treatment of debilitating conditions.
+This is an exciting opportunity to pick up essential product development and R&D skills in a fast moving entrepreneurial startup environment. Gain exposure to all aspects of developing cutting-edge medical technologies.
+Eligible candidates will be working towards a degree in Engineering, Computer Science, Physics, Mathematics, or another similarly numerate degree.
+We intend to hire an intern who can help us in two or more of the following areas:
+
+Coding in Dart, C++, Python or other programming languages
+App Development using Flutter or other
+Machine Learning
+App Testing
+Data Analysis
+Data Visualisation
+Web Design
+Social Media Marketing
+Project Planning and Management
+Other Related Skills
+
+Candidates don't need to be experienced in all of these areas but demonstrate strong ability in at least two.
+Moreover, all eligible candidates need to demonstrate a high degree of flexibility, initiative, good presentation and documentation skills.
+When:
+The duration of the internship is flexible but likely to last 12 months starting early July 2023.
+What we offer:
+
+The opportunity to join a young, dynamic, interdisciplinary team of engineers, pharmaceutical scientists and clinicians.
+The skills needed to Create, Develop, Test, and Deploy an App into today's medical market.
+Challenging technical problems with solutions that directly impact patient quality of life.
+An Understanding of the running of an award winning startup in Cambridge.
+We have a track record for creating superstars! If you have what it takes, then reachout.
+
+More Information:
+Please take a look at our website https://www.electronrx.com/
+Job Type: Full-time
+Salary: £20,000.00-£21,000.00 per year
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Cambridge: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person
+Reference ID: InternExpected start date: 05/06/2023

@@ -1,0 +1,34 @@
+
+Full Stack Software Developer (Remote)
+ Here at Robert Half, we are delighted to have partnered with one of the largest independent law firms in Europe, to recruit for a Full Stack Developer to join their team based in Bristol (remote working with once a month in the office in Bristol). This business works with clients at the forefront of technical development in the Engineering, Biotechnology and Electronics sectors, where you will play a key part in developing systems and applications for both those clients and internal stakeholders. This is a unique opportunity for an intuitive and passionate developer to join a tech agnostic environment, where you are given the autonomy to work with a variety of technologies.
+ Role
+ As a Full Stack Developer, you will work as part of a small, Agile team, collaborating with colleagues across the wider business, assisting with large scale solutions as well as leading your own projects - this includes having the opportunity to influence the technologies used for specific solutions. The business has a keen eye for automation and is on a journey to automate as much of the business as possible while building on a microservices architecture. Some of your responsibilities will be as follows:
+
+ Understanding the systems development design requirements.
+ Designing, coding, and testing relatively complex functionality.
+ Ensuring version control and deployment procedures are followed consistently.
+ Having a proactive approach to identifying and investigating issues.
+ Ensuring standard procedures and best practises are followed.
+ Working closely with the Senior Developer to keep then up to date on the status of development and any potential delays or risks.
+
+ Competencies:
+
+ Exceptional problem solving and technical capabilities.
+ Positive "can do" attitude with excellent communication skills.
+ Intelligent and proactive approach to any work assigned.
+
+ Technical skills:
+
+ Experience with C#/.NET
+ Experience with .NET Core, including Entity Framework
+ Knowledge of both creating and consuming REST APIs
+
+ Desirable:
+
+ Experience with React
+
+ Salary & Benefits
+ The Full Stack Developer will receive a salary of £50,000 to £65,000, plus excellent benefits including remote working, with once a month in the Bristol office, as well as the opportunity for continuous and fast-paced career development, rewarding you as you develop your skills.
+ If you like the sound of this exciting opportunity, or have any questions at all, then please feel free to reach out to me by phone on 0117 993 5427.
+ Robert Half Ltd acts as an employment business for temporary positions and an employment agency for permanent positions. Robert Half is committed to equal opportunity and diversity. Suitable candidates with equivalent qualifications and more or less experience can apply. Rates of pay and salary ranges are dependent upon your experience, qualifications and training. If you wish to apply, please read our Privacy Notice describing how we may process, disclose and store your personal data: roberthalf.co.uk/legal-information/privacy-notice.
+ Security alert: scammers are currently targeting jobseekers. Robert Half do not ask candidates for a fee or request candidates to send applications through instant messaging services such as WhatsApp or Telegram. Learn how to protect yourself by visiting our website: roberthalf.co.uk/fraud-alert

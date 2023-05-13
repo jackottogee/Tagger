@@ -1,0 +1,71 @@
+
+
+
+Job details
+
+
+
+
+    Salary up to £50,000 per annum 
+   
+
+    LocationManchester
+   
+
+    DisciplineDigital Technology
+   
+
+    Reference010002
+   
+
+
+
+
+N Brown – who we are and why work for us?
+At N Brown, we’re committed to building a diverse workforce and creating an inclusive environment that values equality for all. Our vision is that by ‘championing inclusion, we’ll become the most loved and trusted fashion retailer’. Diversity, Equity, Inclusion and Belonging are, therefore, at the heart of our culture.
+We’re a forward-thinking digital retailer with a financial services proposition to be proud of. We’re customer-obsessed, serving them through three core brands: JD Williams, Simply Be, and Jacamo. We’re experienced, with over 160 years of trading under our belt. We’re inclusive, as we believe in fashion without boundaries; and we’re sustainable, striving to make as little impact on the planet as possible.
+The role
+Here at N Brown, we’re looking for an enthusiastic Frontend Developer to join our development team. You’ll be tackling a wide range of projects within the N Brown e-commerce platform. Working on a multi brand level.
+What’s in it for you?
+
+Hybrid working and flexible start times
+24 days holiday (+ 8 bank holidays) with the option to buy an additional 10 days
+Annual bonus scheme
+Enhanced maternity and adoption leave
+Company pension with up to 8% N Brown contribution
+Mental Health support both internally and externally, including access to our wellbeing champions and counselling services
+A range of financial wellbeing support
+Colleague discount across all N Brown brands
+Onsite café with subsidised rates and local restaurant discounts!
+Life Assurance and Private Medical Insurance
+Paid volunteer time – all our colleagues can take a full day paid to volunteer for a charity of their choice
+
+What will you do as a React Developer at N Brown?
+
+Participate in the technical design of your required deliverables, in addition to contributing to the end-to-end solution with your own ideas. 
+Own, enhance and maintain our front-end platform. 
+Collaborate with other front-end developers and back-end system developers in building out an end-to-end solution that scales. 
+Developing new user-facing features. 
+Highlight and debug production issues. 
+Building reusable components for future use. 
+Collaborate with the UX team to translate designs and wireframes into high quality code. 
+Share knowledge with the wider team to inform decisions. What skills and experience will you have? 
+Excellent skills and experience in modern HTML, CSS and JavaScript (ES6). 
+Excellent skills and experience in the following frameworks: React, Redux, Cypress 
+Experience with Next.js is advantageous but not required. 
+Experience with cross-browser development and W3C standards. 
+Ability to turn prototypes and R&D into production quality products. 
+Experience with user interface development. 
+Experience with browser-based debugging. 
+Excellent troubleshooting skills. 
+Excellent verbal skills and the ability to converse around problem areas or potential improvements. 
+Experience working in an agile workflow. 
+Experience with backend technologies such as Java or Python would be advantageous. 
+Experience with Gitlab-ci would be advantageous. 
+
+Our promise to you:
+We’re an equal opportunity employer and value diversity. We do not discriminate based on race, religion, colour, national origin, sex, gender, gender expression, sexual orientation, age, marital status, veteran status, or disability status.
+What happens when you apply to a role at N Brown?
+As soon as we receive your application, we’ll send you an email to let you know. We always aim to come back to you as soon as possible with an update and we really appreciate you taking the time to apply for a role with us. Good luck!
+
+

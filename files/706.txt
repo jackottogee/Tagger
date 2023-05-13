@@ -1,0 +1,49 @@
+
+ Company Description
+  At AECOM, we’re delivering a better world. We believe infrastructure creates opportunity for everyone. Whether it’s improving your commute, keeping the lights on, providing access to clean water or transforming skylines, our work helps people and communities thrive. Our clients trust us to bring together the best people, ideas, technical expertise and digital solutions to our work in transportation, buildings, water, the environment and new energy. We’re one global team – 47,000 strong – driven by a common purpose to deliver a better world.
+
+
+
+ Job Description
+  This role has been created to meet the growing demands of our wide portfolio of projects and clients. We are also offering significant career progression opportunities within AECOM for a person with a ‘Delivery Mindset’. In our solutions the team are responsible for the full design, implementation and maintenance services to a wide range of internal and external clients.
+ We are looking for a professional with 3 - 5 years' experience as a software developer within the Microsoft .NET stack along with experience of working with, or exposure to, C#, MVC, Web API, HTML, JavaScript, and SQL. You will be working with a team of highly proficient team of web developers.
+ Role Responsibilities:
+ The right candidate will be responsible for developing, maintaining and supporting software applications for the Transportation, Environment and Building sectors. The appropriate level of technical expertise is required in order that the Job/ Project Accountabilities listed below can be carried out to the necessary standards:
+
+ Receive project brief and conduct the work with minimum supervision.
+ Plan and undertake small projects without significant guidance.
+ Ensure technical content and quality of output produced is in line with the project brief.
+ Produce deliverables against agreed timescales and in line with budget.
+ Attend project progress meetings and clearly present task overviews.
+ Contribute to the design and planning of larger projects.
+
+
+
+
+ Qualifications
+ 
+ Minimum qualifications:
+ o Modern Angular or React
+  o C# Language
+  o Asp.Net\MVC\Web API
+  o Entity Framework
+  o SQL Server
+  o HTML\jQuery\CSS
+  o Source code control
+ 
+Preferred qualifications:
+ o .Net core
+  o Azure Cloud hosting
+  o Visual Studio online DevOps
+  o Telerik Kendo UI
+  o Mobile software development
+  o Project and Service Desk management using JIRA
+  o Source Code Control in GIT or equivalent
+  o Experience with Google APIs and analytics
+ 
+ Additional Information
+ 
+ With infrastructure investment accelerating worldwide, our services are in great demand, and there’s never been a better time to be at AECOM! Join us, and you’ll get all the benefits of being a part of a global, publicly traded firm – access to industry-leading technology and thinking and transformational work with big impact and work flexibility.
+ AECOM provides a wide array of compensation and benefits programs to meet the diverse needs of our employees and their families. We also provide a robust global well-being program. We’re the world’s trusted global infrastructure firm, and we’re in this together – your growth and success are ours too.
+ As an Equal Opportunity Employer, we believe in each person’s potential, and we’ll help you reach yours.
+ Join us and let’s get started.

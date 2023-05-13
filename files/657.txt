@@ -1,0 +1,47 @@
+
+We are Basket Building. We assist shoppers in filling their basket with life's essentials, inspiring them to try something new, and empowering our partners to grow their revenue profitably along the way.
+
+ The Findability team helps shoppers to find what they’re looking for, providing an easy, personalised experience when searching or browsing. We are a cross-functional team that consists of talented iOS, Android, web front end and backend engineers, a QA engineer, Team Lead and Product Manager. We also work closely with UX and Product Analyst teams.
+
+ About the role:
+
+ We are looking for an iOS engineer to bring their passion for building polished, effective solutions to the problems we set out to tackle. Our iOS shopping app is fully native Swift with an MVVM architecture, backed by a Java microservice backend.
+
+ Responsibilities:
+
+ Work with UX and Product people to understand problems, propose solutions and bring them to life.
+ Build functionality that works across locales in countries around the globe.
+ Build with performance in mind.
+ Create accessible experiences by default.
+
+
+ Work with your team to deliver valuable contributions of high quality, in the timescales agreed by your team.
+ Contribute to the full delivery lifecycle, from idea generation to value validation.
+ Identify opportunities to reduce wasted effort.
+ Use analysis and diagnostic tools to monitor the operation of your product and be able to communicate your findings.
+
+
+ Design solutions which can be understood and improved upon by others.
+ Take into account the business, technical and economic context when making design decisions.
+ Look for multiple ways to solve problems and communicate effectively the benefits and drawbacks of each.
+ Support other teams to find ways to solve their problems.
+
+
+ What we are looking for:
+
+ You have strong programming and technical design skills.
+ You have an extensive knowledge of the iOS environment from developing high-quality apps.
+ You take pride in writing polished and fully-tested code.
+ You are passionate about great UX.
+ Your collaboration skills allow you to work effectively alongside a cross-functional team.
+ You have a desire to share knowledge and learn from others in order to improve your breadth and depth of knowledge.
+
+
+ What do I get in return?
+
+ Hybrid working and flexible working patterns; Private healthcare; Car salary sacrifice and Cycle to Work schemes ; A range of amazing benefits, including Free Shares and Life Assurance; 15% off your Ocado.com shopping ; Company shop offering discounts of up to 70% on groceries from leading brands and major retailers; Exclusive travel, retail and leisure discounts nationwide ; Incredible Head Office, complete with onsite cafe and restaurant just 20 minutes by train from Kings Cross; A free shuttle bus from and to Hatfield Station ; 22 weeks paid maternity leave and 6 weeks paid paternity leave (once relevant service requirements complete) ; Enhanced Pension scheme, matching employee contributions up to 7% of salary; Employee Assistance Programme
+
+ We’re in it together, we are proud of what we do, we can be even better
+
+ Ocado Group is an equal opportunities employer and as such makes every effort to ensure that all potential employees are treated fairly and equally, regardless of their sex, sexual orientation, marital status, race, colour, nationality, ethnic or national origin, religion, age, disability or union membership
+ status.

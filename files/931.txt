@@ -1,0 +1,55 @@
+
+
+Mission
+ We are looking for a Frontend Developer to join the development team and work on new BigCommerce sites, built from scratch, as well as working on specific projects for existing clients. As part of the frontend team, you will work closely with our designers, project management team, and other frontend developers to ensure that projects are developed according to client briefs and meet our clients’ business objectives.
+ Role & Responsibilities
+
+ Frontend development on BigCommerce
+ Ability to develop and implement custom features and applications, if required for project
+ Work with delivery team and provide demonstrated understanding of project processes and timeline
+ Effective problem-solving and troubleshooting abilities
+ Implementing code using the standards set by the Senior Developers
+ Ability to write clean, healthy coding solutions
+ Approachable, reliable, flexible and cooperative
+ Q.A. focused and ensure best in class output and delivery
+
+ Competencies
+ Technical Skills:
+
+ Excellent HTML, CSS and JS
+ Consuming REST API/GraphQL
+ Experience using Git and Version control
+ Experience of optimising frontend performance
+
+ Desirable Technical Skills:
+
+ Experience of Tailwind CSS is a plus
+ Experience with design tools like Figma is a plus
+
+ Additional Skills
+
+ Organisation and Planning: Strong time management skills in regards to task delivery. An ability to meet deadlines is a must.
+ Experience: Over 4 years of experience as a frontend developer and experience developing on BigCommerce or Shopify
+ Intelligence: Fast learner, who demonstrates the ability to quickly and proficiently understand and absorb new information
+ Attention to Detail: Delivers projects at a high standard with strong attention to detail and focus on thorough review and testing
+ Communication: Excellent communications skills to help explain complex and technical aspects in a more simplified way
+
+ Salary & Benefits
+ Starting Salary: £40k-50k
+ Salaries rise annually in line with inflation; we undertake regular performance reviews and salaries are reviewed annually based on performance.
+ We pride ourselves on having a friendly and inclusive work environment. Benefits vary, but full-time members of staff can expect:
+
+ This role is remote or hybrid
+ A computer of your choice; a monitor can be supplied if required too
+ Flexible hours, working remotely
+ Unlimited holiday allowance, consisting of statutory entitlement (UK), plus bank holidays, plus between Christmas and New Year
+ Co-working opportunities in London with our London based team; remote monthly developer team catchups
+ Weekly self-driven training, plus industry recognised training and accreditation
+
+ Polite request—no recruitment agencies or outsourcing companies please‍
+ ‍
+
+
+ Apply for this job
+
+

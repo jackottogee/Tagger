@@ -1,0 +1,69 @@
+
+
+
+Location:
+2-3 days office based role
+
+
+
+
+
+Disclaimer:
+ Applicants need to be locally based and have a full UK driving license. This is an office based role. 
+   
+
+
+Company description
+ At Silverstone Software we build brilliant software that is tailor-made for our clients. We’re based in rural Northamptonshire in the beautiful village of Blisworth. We pride ourselves on being a friendly and relaxed software house and believe that our staff are our most valuable assets.
+ Since we started, we’ve been creating excellent web and mobile apps for our clients and we’re proud to say that we’re now working with some household names.
+ Job description
+ Software Engineer – The Brief:
+ If you’re a Software Developer with a few years under your belt and you enjoy coding modern web applications in .NET, then we’re keen to hear from you.
+ Location: Blisworth, Northamptonshire
+ Salary: £30,000 – £50,000 per annum + benefits
+ Software Engineer – The Company:
+ At Silverstone Software we build brilliant software for the motor industry. We’re based in rural Northamptonshire in the beautiful village of Blisworth. We pride ourselves on being a friendly and relaxed software house and believe that our staff are our most valuable assets. Since we started, we’ve been creating excellent web and mobile apps for our clients and we’re proud to say that we’re now working with some household names.
+ Software Engineer – The Role:
+ We are looking for a Software Engineer, ideally with 3+ years of workplace experience, to join a dedicated team focused on development of a suite of .NET and .NET Core web applications. We provide excellent on the job training in a friendly, flexible working environment.
+ Software Engineer – Your Experience:
+
+Microsoft .NET and .NET Core
+MVC
+Microsoft SQL Server database design and architecture
+SQL query writing
+Experience in the following is beneficial but not required:
+Microsoft Azure
+SQL Server database optimisation
+Microsoft Devops
+
+Software Engineer – You:
+ You’re a friendly, open person with a good mix of personal and technical skills. You will be working with a team of like-minded people who are all keen to collaborate and drive each other forward to benefit themselves, the company and our clients. You’re keen to learn and develop your skills further.
+ Software Engineer – The Details:
+ Salary will be between £30k and £50k per annum based on your experience and software development skills. You will receive 21 days holiday per year (excluding bank and public holidays) and once beyond your probation period will qualify for flexible working hours.
+ Job Types: Full-time, Permanent
+ Salary: £30,000 – £50,000 per year
+ Benefits:
+
+Casual dress
+On-site parking
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+COVID-19 considerations: To help with COVID-19 we’re allowing all staff to work from home 3 days per week. When in the office we do rigorous cleaning and maintain social distancing.
+ Experience:
+
+C# and .Net: 1 year (Required)
+
+Licence:
+
+driving (Preferred)
+
+Work remotely:
+
+Temporarily due to COVID-19
+
+

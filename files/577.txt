@@ -1,0 +1,65 @@
+
+Location
+
+  Remote, occasional travel to Marlow and Poland
+ 
+Vacancy Type
+
+  Permanent/Full Time
+ 
+Job Summary
+
+Location: The role is remote within the UK but will require occasional travel for meetings. As the role progresses there may also be some travel required to Poland on the odd occasion with due notice.
+About the role
+As a Junior DevOps Engineer, you will be working in a dedicated and hard-working team who are driving the success of our infrastrucutre automations and management and development of our products to the highest quality.
+In this role, you will be responsible for designing, implementing, and maintaining the infrastructure and tools that support our software development process.
+We understand that not every candidate will have every qualification or skill listed, but we encourage you to apply if you have a strong passion for the field and a willingness to learn and grow. Ciphr is all about people, so we want to invest in your career development.
+We are committed to creating a diverse and inclusive work environment and encourage applicants from underrepresented groups to apply.
+About the role:
+
+Collaborate with development teams, such as Site Reliability, Platform and Developer Engineers to identify and resolve infrastructure and application issues.
+Work closely with Developer Engineers to ensure that software builds and releases are properly configured and automated
+Manage and maintain continuous integration and continuous deployment (CI/CD) pipelines
+Implement and maintain build, deployment, and infrastructure automation processes using tools such as terraform.
+Monitor and optimise system performance and scalability.
+Implement and maintain security and compliance controls.
+Keep up to date with the latest industry trends and emerging technologies within DevOps
+
+About you:
+You will have the opportunity to work with cutting-edge technologies and be part of a dynamic and fast-paced environment. We value diversity and are committed to creating a work environment where all team members can bring their unique perspectives and experiences. If you are excited about the opportunity to work in a challenging and collaborative environment, we would love to hear from you.
+
+A strong passion for wanting to progress into the DevOps field.
+Some experience or exposure to cloud infrastructure (Azure)
+An understanding of infrastructure as code (terraform)
+An understanding of the concept of containerisation
+Familiarity of configuration management tools
+Knowledge of scripting languages (For example Python, Bash, or PowerShell)
+Familiarity with Agile software development methodologies
+Strong problem-solving and analytical skills
+Experience or an understanding of .Net development
+Understanding of manging Windows Server Environments
+
+What we offer:
+As well as offering you the opportunity to work with a great team, be part of a growing company and have the chance to learn and enhance your knowledge and qualifications, we offer:
+
+25 days annual leave (28 after 3 years’ service), plus bank holidays
+Pension
+Health cash plan
+Life assurance
+Family National Trust Membership
+Birthday day off
+Family forming support - e.g., time off for family forming appointments or to support your partner.
+Technology Loans
+Cycle to work scheme.
+Enhanced maternity and paternity leave
+Perks at Work – access to exclusive discounts, cinema tickets, etc.
+Free annual health screening
+Regular training
+£1,500 employee referral scheme
+Medical Cover and Dental cover (after 6 months’ service)
+Income Protection insurance (after 12 months’ service)
+
+About Ciphr:
+Ciphr is a leading UK-based provider of integrated HR, payroll, learning and recruitment solutions.
+Ciphr’s integrated HCM platform helps organisations manage their end-to-end employee lifecycle so they can deliver an amazing employee experience. With Ciphr, organisations can be confident they can access all their people data in one place, thanks to secure, time-saving integrations between our own solutions and API connections to specialist, third-party tools.
+

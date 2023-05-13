@@ -1,0 +1,38 @@
+
+Graduate Developer
+Canopius is seeking a highly motivated and technical graduate to assist in the development of the technology stack for the Catastrophe Management Team (CAT). The candidate must have a passion to improve processes, architecture, and the implementation of new technologies
+This exciting role is working within a growing team of developers through continuous and agile delivery of new software applications and enhancing the existing suite. Working within the CAT team offers the chance to work with a breadth of technology. This could be integrating third-party APIs and mapping software, developing dashboards to visualise data, or creating internal workflows to automate data processing.
+The role is 80% development and 20% support, with the technology stack primarily MS, using C# .NET and T-SQL. The role offers the candidate the opportunity to develop across a full stack of technologies and work closely with business users, gaining a highly desirable combination of skills and experience.
+
+Assist in the development and maintenance of applications within the CAT business area.
+Work with senior developers in the CAT team to improve product functionality.
+Write clean, scalable code using .NET programming languages (C#).
+Improve database performance by enhancing stored procedures and views (T-SQL).
+Integrate in-house applications with 3rd party systems.
+Work with application business owners to capture and understand requirements.
+Plan, write, maintain, and test code for applications and platforms
+Participating in code reviews and quality assurance activities.
+Work within Azure DevOps using GIT, Pipelines and Artifacts.
+
+Essential:
+
+BSc degree in numerate discipline preferred (Maths, Computer Science, Natural Sciences, Engineering).
+Familiarity with object-orientated programming concepts (ASP.NET development,, C#).
+Familiar with database design and development (Microsoft SQL Server).
+Knowledge of design and consumption of API technologies.
+Excellent verbal and written communication skills.
+Strong analytical skills.
+Highly developed attention to detail.
+Ability to work well in a team environment.
+Ability to work in a fast-paced environment.
+Demonstrable experience in creative business problem-solving.
+
+
+ Desirable:
+
+Knowledge of insurance terms and business practices
+Experience in developing code within the Catastrophe management function.
+Experience with RMS.
+Experience with ArcGIS.
+Knowledge of Python.
+

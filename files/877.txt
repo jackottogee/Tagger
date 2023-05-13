@@ -1,0 +1,26 @@
+
+A position as Software Engineer (Python) has just become available within one of the teams at a life sciences institute based in Cambridge. 
+This is an opportunity to work in an environment where your work is directly involved in improving human health and helping humanity understand life on Earth. A chance to make your mark by shaping the future to enable or deliver life-changing science to solve some of humanity’s greatest challenges. 
+To give you a little detail about the tech you'd be using over there, they are working with Agile methods like SCRUM, working heavily with Python and popular Python packages with JavaScript being their main front end development tool alongside Python. 
+They work on SQL, databases, and database design and for CI/CD and containerization they use Docker and Singularity. 
+Ideally, we are looking for someone who has some experience in some sort of mentoring/leadership position as this role will be leading a team of mid-level developers. 
+With regards to their development practises, they are using version control, continuous integration, unit testing and workflow management tools like Jira and Gitlab etc. 
+Your day to day in this role will look like 
+
+Developing tools and products. 
+
+
+Developing and testing components (applications, integrations, external product integrations, and data repositories/databases) 
+
+
+Working with other teams, delivering integrated products. 
+
+
+Working in an agile way. 
+
+
+Ensuring all is in place for testing and production. (CI/CD, source control management, issue management and testing). 
+
+Our salary range for this role is between £47,500 - £57,000. 
+If this sounds like something you would be interested in chatting in a bit more detail about then get in touch!
+

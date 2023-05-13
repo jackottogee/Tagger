@@ -1,0 +1,27 @@
+
+Senior C# Developer / Team Lead (C# .Net Core Azure SaaS) Reigate / WFH to £100k
+ Are a collaborative and engaging Senior C# Developer with leadership skills?
+ You could be progressing your career in a hands-on with potential to progress to an Engineering Manager position at a global FinTech.
+ As a Senior C# Developer / Team Lead you will head up a team of 5-6 high skilled Software Engineers working on the company's flagship SaaS Risk Calculation product. There's a modern tech stack with a focus on back end C# .Net Core and Azure, with some exposure to the Angular 14 front end. You'll have a 50/50 split between hands-on design and development and team leadership. You'll lead the team, removing any blockers, acting as a technical mentor and help to coach and develop others in an Agile Scrum team environment.
+ You will partner closely with the Engineering Manager who has a wealth of experience, contributing to technology choices, software development processes and procedures.
+ WFH Policy:
+ There's a flexible work from home hybrid model, you'll join colleagues in the Reigate office twice a week for team meet-ups and stakeholder meetings with the other three days work from home. 
+Requirements:
+
+ You have strong C# .Net Core backend development skills with experience of developing highly available, scalable systems
+ You have a strong knowledge of Azure cloud based services and SaaS products
+ You have mentoring and leadership experience with aspirations to further your skills in this area and progress to an Engineering Manager role in the future
+ You're collaborative and pragmatic with excellent communication skills
+ You have a good understanding of modern microservices, Kubernetes and Docker, CI/CD, IaC
+ You're able to produce PoC using the latest technology and present findings 
+
+Salary & benefits: 
+As a Senior C# Developer / Team Lead you will earn a competitive salary (to £100k) plus substantial benefits package including:
+
+ Bonus
+ 25 days holiday (and ability to buy more)
+ Pension, Health Care, Life Assurance
+ Enhanced maternity / paternity packages 
+
+Apply now or call to find out more about this Senior C# Developer / Team Lead (C# .Net Core Azure SaaS) opportunity. 
+At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

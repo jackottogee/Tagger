@@ -1,0 +1,38 @@
+Skills:
+
+Able to demonstrate expertise with the TIBCO - WebFOCUS (8.2, 9)and BI expertise in the current market
+Knowledge of InfoAssit and Developer web clients for minimum of 3 years
+SQL skills for querying and creation of views/tables, functions, and stored procedures.
+Working knowledge with IBM Netezza source data
+Good foundation of design and build concepts for dashboards, reports and cubes from Back End like IBM Netezza 2.1.9, and other traditional tools from Excel.
+Experience of the end-to-end full development life cycle
+Manage and utilize the WebFOCUS platform to extract meaningful insights from it for business decisions preferably with some Retail knowledge.
+Push down SQL skills are a plus.
+Articulate and document architectural solutions and processes
+Worked on enterprise-level report development with an understanding of scalable solutions
+Experience working with clients as part of a consulting environment
+Excellent stakeholder management skills and communication skills, both verbally and in writing
+Ability to act as a mentor and/or technical expert for the team and business partners
+Ability to engage with stakeholders and help deliver what they need.
+A proponent of collaborative software engineering techniques and methods: agile development, continuous Integration, code review or pairing, unit testing, refactoring, and related approaches
+Ability to evangelise WebFocus usage across the organisation.
+Exposure to ETL tools like IBM Infosphere DataStage, hands-on working knowledge not necessarily needed.
+Should be able to show the Art of the Possible' to the customers and bring out the WOW factor in dashboarding.
+Help identifying insights hidden under the database/data warehouse.
+
+Job Type: Full-time
+Salary: £200.00-£225.00 per day
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+ Ipswich, IP1 1QT: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: In person
+Reference ID: wf_10010

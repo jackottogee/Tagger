@@ -1,0 +1,325 @@
+
+
+
+Details
+
+Reference number
+
+     281078 
+    
+
+
+Salary
+
+      £49,835 - £60,649
+    
+
+
+
+      London Salary: £54,535 - £65,431
+    
+
+
+Job grade
+
+
+       Grade 7
+     
+
+
+
+ Contract type
+
+      Permanent
+    
+
+
+ Business area
+
+      DFT - Corporate Delivery Group (CDG) - Digital, Information & Security Directorate
+    
+
+
+ Type of role
+
+      Architecture and Data
+      Digital
+      Information Technology
+    
+
+
+ Working pattern
+
+      Flexible working, Full-time, Job share, Part-time
+    
+
+
+ Number of jobs available
+
+      1
+    
+
+
+
+
+
+
+ Contents
+
+
+
+ Location
+ About the job
+ Benefits
+ Things you need to know
+ Apply and further information
+
+
+
+ Location
+
+
+
+      Birmingham, Hastings, Leeds, London, Swansea
+    
+
+
+ About the job
+
+
+ Job summary
+
+ We recognise the challenges that people with (multiple) protected characteristics may experience on the job market and in their career progression. We are fully committed to being an inclusive employer and ensuring equal opportunities. We are keen to make our workforce as diverse as possible, and we hope to attract applications from underrepresented groups, including ethnic minorities, people with a disability, and people with gender diverse identities.
+ In recent years DfT’s Digital Service team has implemented a range of innovative services, using the latest technology and methods. All of our services are cloud-hosted, with high user satisfaction rates. We are proud of what we have achieved and as we continue to develop and grow, you can too. 
+We are looking for a Lead developer, with the drive and passion to join a talented, experienced delivery team in shaping the future of our delivery our digital and data services.
+ We’ll help you to reach your full potential, offering rewarding and challenging opportunities, alongside access to the latest training and technologies. 
+At DfT, we recognise that everyone has different needs and aspirations. We have created an inclusive and welcoming working environment so you can feel comfortable to be yourself at work. 
+
+
+
+Job description
+
+ In the Lead Developer role, you will:
+
+ guide the ways in which the team works
+ be proficient in a wide range of technical systems
+ be involved in identifying appropriate technology and approaches, deciding when software should be written
+ contribute to the developer community
+ provide technical leadership, coaching and mentoring 
+promote knowledge sharing and adoption of good practice
+
+ In return, we can offer you:
+
+ access to new and emerging technologies
+ varied projects developed in a cloud-first environment.
+ support and investment to further your training and development.
+ flexible and hybrid working supporting a healthy work-life balance.
+ industry-leading pension and employee benefits package.
+
+
+
+
+ Person specification
+
+ As a Lead Developer you will play a key role in the design, build, support, implementation and improvement of digital services, products and platforms across DfT. You will have good communication and leadership skills and be confident in managing and developing a small team. You will have experience of developing MS Power Platform solutions and a passion to enable colleagues across the business to create solutions that make them efficient and effective in their work.
+ DfT: Digital Service  Find out more about what it's like working at DfT: Digital Service
+ Additional Information
+ A minimum of 40% of your working time should be spent at your principal workplace, although requirements to attend other locations for official business, or carry out detached duty in another DfT workplace, will also count towards this level of attendance.
+
+
+
+ Behaviours
+
+We'll assess you against these behaviours during the selection process:
+
+Changing and Improving
+Working Together
+Managing a Quality Service
+
+
+
+
+Technical skills
+
+We'll assess you against these technical skills during the selection process:
+
+Modern Standards Approach Click Here
+Development Process Optimisation Click Here
+Programming & Build Click Here
+Availability and Capacity Management Click Here
+
+
+
+
+Benefits
+
+
+
+ Being part of our brilliant Civil Service means you will have access to a wide range of fantastic benefits.   This includes:
+
+ a generous annual leave entitlement
+ attractive pension options with an average employer contribution of 27%
+ flexible working
+ good career development opportunities
+ a variety of career paths
+ inclusive working environments and much more to support a healthy work/life balance.
+
+ Find out more about what it's like working at the Department for Transport
+ DDaT Allowance  The Lead Developer role is part of the DDaT profession and attracts an enhanced pay scale which is mapped to capability levels. The successful candidate's starting salary will be determined by performance at interview and assessed capability level. There are two components to DDaT pay - base pay and DDaT allowance.
+ The role may also attract a DDaT allowance of up to £10,000. The amount, if afforded is determined by several factors one of which is assessed capability level.
+ The successful candidate will be required to undergo yearly capability assessments which may result in pay increases or decreases. A drop in capability in any given assessment period results in 12 month pay protection to allow candidates to retain prior capability level.
+
+
+
+ Things you need to know
+
+
+ Selection process details
+
+
+       This vacancy is using Success Profiles (opens in a new window), and will assess your Behaviours, Experience and Technical skills.
+     
+
+
+
+ How to Apply
+ As part of the application process you will be asked to complete a CV and personal statement. Further details around what this will entail are listed on the application form.
+ When considering applying please look at how your experience relates to the role, and within your CV and Personal Statement please provide detailed evidence of your experience of the following:
+
+ proficient skills set in a wide range of technical systems.
+ experience/involvement in identifying appropriate technology and approaches, deciding when software should be written.
+ experience of identifying and implementing process optimisation opportunities/solutions.
+
+ Sift & Interview Dates
+ The sift is due to take place from 2nd May.
+ Interviews are due to take place from 15th May.
+ This interview could be conducted via a video interview, details of which will be provided to you should you be selected for interview.
+ We will try to meet the dates set out in the advert. There may be occasions when these dates will change. You will be provided with sufficient notice of the confirmed dates.
+ The selection process will be designed specifically for the role. As a result, your assessment will include:
+
+ an interview
+
+ You’re encouraged to become familiar with the role profile, as you may be assessed against any of the criteria recorded within.
+ The Department for Transport alongside other Government Departments recruit using Success Profiles. This means for each role we consider what you will need to demonstrate in order to be successful. This gives us the best possible chance of finding the right person for the job, drives up performance and improves diversity and inclusivity.
+ For further information on Success Profiles visit our Careers website.
+ If you are experiencing accessibility problems with any attachments on this advert, please contact the email address in the 'Contact point for applicants' section.
+ Further Information
+ For more information about how we hire, and for useful tips on submitting your application for this role, visit the How we hire page of our DfT Careers website.
+ Before submitting your application, we encourage you to visit our Recruitment in detail page of the DfT Careers website. You will find detailed information about the entire recruitment process and what to expect when applying for a role in the Civil Service.Throughout this job advert there are links to the DfT Careers Website, which provides you further information to support your application. Should you be unable to access the information on our website, please email DRGComms@dft.gov.uk for assistance.
+ Applicants who are successful at interview will be, as part of pre-employment screening, subject to a check on the Internal Fraud Database (IFD). This check will provide information about employees who have been dismissed for fraud or dishonesty offences. This check also applies to employees who resign or otherwise leave before being dismissed for fraud or dishonesty had their employment continued. Any applicant’s details held on the IFD will be refused employment.
+ A candidate is not eligible to apply for a role within the Civil Service if the application is made within a 5 year period following a dismissal for carrying out internal fraud against government.
+ Feedback will only be provided if you attend an interview or assessment.
+     
+
+
+
+ Security
+
+
+       Successful candidates must meet the security requirements before they can be appointed. The level of security needed is security check (opens in a new window).
+      
+ See our vetting charter (opens in a new window).
+     
+
+
+
+       People working with government assets must complete baseline personnel security standard (opens in new window) checks.
+     
+
+
+
+ Nationality requirements
+
+
+This job is broadly open to the following groups:
+
+UK nationals
+nationals of Commonwealth countries who have the right to work in the UK
+nationals of the Republic of Ireland
+nationals from the EU, EEA or Switzerland with settled or pre-settled status or who apply for either status by the deadline of the European Union Settlement Scheme (EUSS) (opens in a new window)
+relevant EU, EEA, Swiss or Turkish nationals working in the Civil Service
+relevant EU, EEA, Swiss or Turkish nationals who have built up the right to work in the Civil Service
+certain family members of the relevant EU, EEA, Swiss or Turkish nationals
+Further information on nationality requirements (opens in a new window) 
+     
+
+
+
+Working for the Civil Service
+
+
+       The Civil Service Code (opens in a new window) sets out the standards of behaviour expected of civil servants.
+      
+ We recruit by merit on the basis of fair and open competition, as outlined in the Civil Service Commission's recruitment principles (opens in a new window).
+     
+
+
+
+       The Civil Service embraces diversity and promotes equal opportunities. As such, we run a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+     
+
+
+
+       The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+     
+
+
+
+ Apply and further information
+
+
+
+      This vacancy is part of the Great Place to Work for Veterans (opens in a new window) initiative.
+    
+
+
+
+      The Civil Service welcomes applications from people who have recently left prison or have an unspent conviction. Read more about prison leaver recruitment (opens in new window).
+    
+
+
+
+      Once this job has closed, the job advert will no longer be available. You may want to save a copy for your records.
+    
+
+
+ Contact point for applicants
+
+ Job contact : 
+
+
+       Name : 
+       
+        Digital Resourcing
+       
+
+
+        Email : 
+       
+        DigitalResourcing@dft.gov.uk
+       
+
+
+ Recruitment team : 
+
+
+       Email : 
+       
+        dftrecruitment.grs@cabinetoffice.gov.uk
+       
+
+
+
+
+
+ Further information
+
+
+       If you feel your application has not been treated in accordance with the Recruitment Principles and you wish to make a complaint, in the first instance, you should contact Government Recruitment Services via email: dftrecruitment.grs@cabinetoffice.gov.uk 
+       If you are not satisfied with the response you receive from the Department, you can contact the Civil Service Commission: Visit the Civil Service Commission website Here
+     
+
+
+
+
+

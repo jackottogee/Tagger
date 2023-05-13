@@ -1,0 +1,13 @@
+
+FULLY REMOTE - Front End Developer (SvelteKit / React / Angular / Vue)
+ Gleeson Recruitment Group are working with learning services organisation with a strong social conscience. 
+
+They are currently rewriting their applications with Cloudflare and trimming down their toolsets. They will be moving to Sveltekit for all frontend development and require developers who are comfortable looking at existing applications written in many languages and frameworks, and porting to Sveltekit served via Cloudflare Pages.
+
+ 
+
+The role will involve reading many codebases and connecting to many datasources. Backends are currently being rewritten in GraphQL, porting existing applications to the new stack, the primary focus will be frontend development with a good UI. You will be expected to be a good team player, capable of working with all levels of the business, willing to learn new toolsets, and capable of sharing your skills.
+
+ Any SvelteKit experience is a bonus but strong JavaScript is a must (Angular, Vue, React). 
+Please apply asap if interested. GleeIT. Front End Developer 
+By applying you will be registered as a candidate with Gleeson Recruitment Limited. Our Privacy Policy is available on our website and explains how we will use your data.

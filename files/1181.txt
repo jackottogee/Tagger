@@ -1,0 +1,63 @@
+We’re looking to hire x2 talented Embedded Software Engineers to develop embedded software (firmware) for our custom battery pack and charger products specifically for our automotive battery applications, including light automotive applications such as scooters, forklift trucks and three-wheel vehicles.
+This role requires a skilled embedded software engineer or an electronics engineer with a strong firmware focus.
+Responsibilities
+
+Design and development of firmware related to custom battery packs:
+Control of battery management and protection circuits;
+Implementing CAN bus and SMBus communications;
+Implementing new features such as such as display/LED controls, application-specific firmware functionality and peripherals, and other ‘smart’ battery features.
+Meeting requirements of the product development process – supporting Project Engineers with estimates, and delivering to deadlines. Delivering software meeting requirements and passing appropriate tests.
+Supporting Electronics Design Engineers with the product design and with preliminary firmware releases.
+
+Knowledge, Skills and Experience
+
+Experience of developing bare-metal embedded systems on resource-constrained microcontrollers. Must be able to design firmware systems from the ground up, implement brand-new functionality, and modify existing codebases.
+Careful and methodical attitude to creating reliable, safety-critical firmware.
+Degree in Electronics Engineering, or equivalent electronics knowledge gained through professional experience.
+Strong C programming skills are required (C99 and vendor-specific extensions).
+Ability to troubleshoot, debug and improve firmware and electronics, working closely with other engineering disciplines.
+Ability to write drivers for new peripherals and communications methods when required.
+Familiarity with automotive firmware is highly desirable.
+Experience with ISO 26262 is a plus
+Implementing CAN bus in line with ISO 11898 will be required.
+Familiarity with bootloaders is desirable.
+Experience with unit testing and other software testing is highly desirable.
+Applications software programming (in C++, C# or other high-level language) is not required but some experience with non-firmware applications would be useful for helper programs and internal product-testing software.
+Must be self-motivated with a high degree of creativity and initiative.
+
+Job Type: Full-time
+Salary: £45,000.00-£55,000.00 per year
+Benefits:
+
+Company pension
+Free parking
+On-site parking
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+Peterlee, SR8 2RL: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+software engineering: 2 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Hybrid remote in Peterlee, SR8 2RL
+Reference ID: Embedded Software Engineer

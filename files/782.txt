@@ -1,0 +1,45 @@
+
+About Us
+ We're an award-winning innovative tech consultancy - a team of creative problem solvers. Since 1993 we've been finding better, more sustainable ways to solve complex technology problems for some of the world's leading organisations and delivered solutions that millions of people use every day.
+ In the last 30 years we won several awards, including a prestigious Queen's Award for Enterprise in the Innovation category for our Enterprise Agile delivery approach.
+ Operating from 26 locations across the world, we bring together teams of creative experts with diverse backgrounds and experiences, who enjoy working and learning in our collaborative and open culture and are committed to world-class delivery.
+ We want to continue to grow our team with people just like you!
+ About the Role
+ We love to experiment with the latest tools, technologies and techniques to improve how we deliver our solutions and as a Software Engineer we will look to you to possess:
+
+Very good knowledge of Java, plus related tools and technologies and open-source libraries such as Spring.
+Good understanding of the fundamentals of computing (e.g. logic, data structures, algorithms, low-level architecture, systems infrastructure, network stack).
+Experience with data persistence frameworks and databases (relational or No-SQL databases)
+Exposure to cloud (AWS, Azure or GCP), and/or deployment technologies such as Docker & Kubernetes.
+Experienced with CI/CD ways of working, and familiar with tools and practices that support a DevOps approach.
+Good working knowledge of version control systems such as Git.
+Solid experience working in an Agile delivery team.
+Strong Object-Oriented design skills.
+
+Strong Java knowledge and varied technical experience is key, as is a focus on delivering fully tested, high quality code.
+ About You
+
+You consider yourself a talented engineer, driven by your love of technology.
+You're comfortable operating in an Agile environment with a good working knowledge in areas such as CI/CD, build pipelines, testing and architecture
+You are always looking for ways to expand your knowledge and grow your skills.
+A collaborative environment spurs you on, and you get a kick out of delivering high-quality, fully-tested, working software, together with the team.
+You are self-sufficient, self-motivated, and strive for a successful outcome.
+You love nothing more than grabbing a pen and whiteboarding the next challenge.
+
+Some of the Perks
+
+Flexible benefits allowance – you choose how to spend your allowance (additional pension contributions, healthcare, dental and more)
+Industry leading health and wellbeing plan - we partner with several wellbeing support functions to cater to each individual's need, including 24/7 GP services, mental health support, and other
+Life Assurance (4 x annual salary)
+25 days annual leave plus bank holidays
+Hybrid working - Our roles are not fully remote as we take pride in the tight knit communities we have created at our local offices. But we offer plenty of flexibility and you can split your time between the office, client site and WFH
+Discounts – we have preferred rates from dozens of retail, lifestyle, and utility brands
+An industry-leading referral scheme with no limits on the number of referrals
+Flexible holiday buy/sell option
+Electric vehicle scheme
+Training opportunities and incentives – we support professional certifications across engineering and non-engineering roles, including unlimited access to O'Reilly
+Giving back – the ability to get involved nationally and regionally with partnerships to get people from diverse backgrounds into tech
+You will become part of a squad with people from different areas within the business who will help you grow at BJSS
+We have a busy social calendar that you can chose to join– quarterly town halls/squad nights out/weekends away with families included/office get togethers
+GymFlex gym membership programme
+

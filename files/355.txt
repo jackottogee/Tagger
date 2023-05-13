@@ -1,0 +1,24 @@
+
+ We are helping a fast scaling tech business in Milton Keynes. We need a skilled Lead Developer with expertise in PHP to join our growing team. The ideal candidate will have a strong passion for software development. The role can be remote within the UK.
+ 
+ Responsibilities:
+ 
+
+Collaborate with the development team to design, develop, and deploy web applications using PHP (Laravel or Yii)
+Write high-quality, reusable, and efficient code
+Develop and maintain unit tests to ensure high-quality code
+Participate in code reviews to ensure code standards are being met
+Troubleshoot and debug issues in production and development environments
+Keep up-to-date with emerging trends and technologies in software development
+ Requirements:
+ 
+
+4+ years of experience in Full Stack development
+Strong experience in PHP (Laravel or Yii)
+Familiarity React (or similar – open to vanilla JS)
+Understanding of code versioning tools such as Git
+Experience with front-end technologies such as HTML, CSS, and JavaScript
+Familiarity with RESTful APIs and experience in designing and consuming them
+Experience with cloud platforms such as AWS is a plus
+Excellent communication skills and ability to work collaboratively in a team environment
+ If you are a passionate Full Stack Developer with expertise in PHP and React, we encourage you to apply for this exciting opportunity. We offer a competitive salary, comprehensive benefits package, and the chance to work on innovative projects with a dynamic team of developers.

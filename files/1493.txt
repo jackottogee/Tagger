@@ -1,0 +1,36 @@
+
+
+Global Publisher based in Glasgow are adding to their software testing team
+ Opportunity to join a global brand with excellent career opportunities
+
+About Our Client
+ Global publishing business with sites throughout the UK with Development, BI and Data operations managed from Glasgow are looking to recruit a Software Tester to join a team of software developers, QA and DevOps resources and as they develop software applications for the UK business.  Quality Assurance for these applications, in terms of functionality, performance, security, compliance and data accuracy is a business priority. The role of the software tester is to enhance the quality of applications that the business develops itself and third-party products it configures for use by the company.  Software testing as a function supports applications through their lifecycle: spanning initial development, planned change and in the investigation and fixing of issues that arise in operation. The software tester uses a structured approach to assessing testing requirements, planning test cycles, executing tests and reporting their results. Diligence and attention-to detail are key qualities they require.  The software tester works closely with developers, devops engineers and support staff on testing activities, and with project managers, business analysts and end users on requirements and planning so the role requires good collaboration and communication skills.
+Job Description
+
+ Meet with users to understand the scope of projects and test needs.
+Identify test requirements from business requirements and derive test cases from these.
+Write and execute functional tests on various applications. Follow test scripts and record results.
+Test applications across different environments and platforms.
+Assist business users with their testing activities.
+Coordinate user acceptance testing.
+Plan and execute data quality tests on various applications. Check test outputs against source data and calculations.
+Test data integrations using test source data and evaluating outputs of integrations and transformations.
+Plan and execute performance test
+Record test defects for applications in development in the issue tracking system (Jira).
+Record defects for in-service applications in the service catalogue in the ITSM system (service now).
+Analyse and communicate ways to improve user experience of applications.
+Monitor and perform ad hoc tests on live applications.
+Devise and use tests to troubleshoot application issues and establish root causes.
+Work with development teams, application owners, external vendors, and project managers across multiple projects at once in different locations.
+
+The Successful Applicant
+
+ Knowledge of key principles of software testing and test techniques.
+Knowledge and experience of using software applications.
+Confidence using internet browser software.
+Proficiency with MS Word and Excel.
+Good written and verbal communication.
+Ability to self-organise and detail-oriented mindset.
+
+What's on Offer
+ An opportunity to join a global brand and become a key figure in the software testing function for a household name while being heavily involved in their adoption of new technologies. A competitive salary and package is also on offer.

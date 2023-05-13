@@ -1,0 +1,138 @@
+
+
+
+
+
+
+We are looking for a Software Engineer to support the Kapsch DYNAC Advanced Traffic Management System and Intelligent Transportation Systems (ITS).
+
+ Your responsibilities:
+
+
+
+         Design software components using object-oriented design principles
+       
+
+
+         Implement software designs through iterative detailed design, code, and unit test cycles
+       
+
+
+         Troubleshoot and correct software defects
+       
+
+
+         Produce software documentation following company software process and templates
+       
+
+
+         Participates in software product review meetings and team meetings
+       
+
+
+         Makes major contributions to architecture and design discussions
+       
+
+
+         Perform analysis and software studies and evaluate alternative and recommend solutions
+       
+
+
+         Develop software for a large, complex traffic management system
+       
+
+
+         Accountable for cost and schedule performance
+       
+
+
+         Use and integrate many and varied Java software packages
+       
+
+
+ Your profile:
+
+
+
+         Bachelor´s degree in Computer Science, Telecommunications or similiar. We would also consider other technical degrees (higher education).
+       
+
+
+         3-5 years' experience in sofware development (Java)
+       
+
+
+         Experience with Linux or Unix operating systems
+       
+
+
+ Highly desirable: 
+
+
+
+        Concurrent (multi-threaded) programming
+       
+
+
+         Familiarity with agile development such as Scrum
+       
+
+
+         Fluent in English
+       
+
+
+         Spring Application Framework
+       
+
+
+         Virtualization
+       
+
+
+         RESTful, SOAP UI Web Services, Web Socket
+       
+
+
+         Experience with Relational Databases including PostgreSQL
+       
+
+
+         Experience with Git
+       
+
+
+ Our offer to you:
+
+
+
+         An interesting full-time position within a global renowned family owned company
+       
+
+
+         Hybrid working model (2 days of remote work/ week)
+       
+
+
+         Additional benefits: private medical care, life insurance, pension plan 
+       
+
+
+        International working environment with growth opportunities
+       
+
+
+
+
+ Zurück zur Übersicht
+ Zurück zur Übersicht
+
+
+ Jetzt Bewerben
+ Jetzt Bewerben
+
+
+
+
+
+

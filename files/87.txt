@@ -1,0 +1,58 @@
+Job Title: Software Engineer (Data) 
+
+
+Job Location: Remote 
+
+
+Industry: Oil and Energy, Tech 
+
+
+Contract Length: 6 Months (Subject to extension) 
+
+
+Key Requirement: Experience working on large data projects, coding and design capability 
+
+
+Daily Rate: Negotiable based on experience 
+
+ Engagement via an Umbrella company 
+
+
+Summary:
+ Critical to achieving BP’s digital ambitions is the delivery of our high value data and analytics initiatives, and the enablement of the technologies and platforms that will support those objectives. 
+
+ Join us in creating, growing, and delivering innovation at pace, enabling us to thrive while transitioning to a net zero ‎world. All without compromising our operational risk management. 
+
+ As an Engineer you will be developing and maintaining data infrastructure and writing, deploying and maintaining software to build, integrate, manage, maintain, and quality-assure data at BP. You are passionate about planning and building compelling data products and services, in collaboration with business partners, Data Managers, Data Scientists, Software Engineers and Architects in BP. 
+
+ Key Responsibilities 
+
+
+
+Architects, designs, implements and maintains reliable and scalable data infrastructure.
+Writes, deploys and maintains software to build, integrate, manage, maintain, and quality-assure data.
+Adhere to and advocate for software engineering best practices (e.g. technical design, technical design review, unit testing, monitoring & alerting, checking in code, code review, documentation),
+Responsible for deploying secure and well-tested software that meets privacy and compliance requirements; develops, maintains and improves CI / CD pipeline,
+Responsible for service reliability and following site-reliability engineering best practices: on-call rotations for services they maintain, responsible for defining and maintaining SLAs. Design, build, deploy and maintain infrastructure as code. Containerizes server deployments.
+Actively contributes to improve developer velocity.
+ Skills/Experience 
+
+
+
+Must have 6 years' proven experience in data engineering, software engineering (but have had data engineering experience) or data architecture (must have programming experience)
+Development experience in one or more object-oriented programming languages (e.g. Python, Go, Java, C++)
+Advanced SQL knowledge
+Experience designing and implementing large-scale distributed systems
+Deep knowledge and hands-on experience in technologies across all data lifecycle stages
+Strong stakeholder management and ability to lead large organizations through influence
+Continuous learning and improvement mindset
+BS degree in computer science
+ Desirable criteria 
+
+
+
+Data Governance: validated understanding of data governance and management processes and how to apply them in data platforms
+Software Engineering: hands-on experience with SQL and NoSQL database fundamentals, query structures and design standard processes, including scalability, readability, and reliability; you are proficient in at least one object-oriented programming language, e.g. Python [specifically data manipulation packages - Pandas, seaborn, matplotlib], Apache Spark or Scala;
+Scalability, Reliability, Maintenance: confirmed experience in building scalable and re-usable systems that are used by others; knowledge and experience in automating operations as much as possible and identifying and building for long-term productivity over short-term speed/gains, and execute on those opportunities to improve products or services.
+Data Domain Knowledge: proven understanding of data sources and data and analytics requirements and typical SLAs associated to data provisioning and consumption at enterprise scale.
+ If the offer fits you and you have the relevant experience, don't hesitate to apply!

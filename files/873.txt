@@ -1,0 +1,74 @@
+
+ Job Summary: 
+ 
+   Advanced Application Developers are involved in the full systems life cycle and therefore are responsible for designing, coding, testing, implementing and supporting application software that is delivered on time and within budget. Responsibilities beyond development of software may include participation in component and data architecture design, technology planning, product evaluation, advanced testing processes and buy vs. build recommendations. Works closely with business users, business analysts and team members to understand the business requirements that drive the analysis and design of quality technical solutions.
+ 
+
+
+ The Advanced Applications Developer reports to the Software Development Manager – ITAM and is performed remotely out of the UK.
+  About Us:
+ 
+
+ Established for over 30 years, SHI has continued to grow from once a small software only reseller to a global industry leading IT solutions provider. With our organic growth and stability within the global market, we are able to provide a variety of technology products, solutions and services to businesses including Cloud Computing, Data Centre Infrastructure, Networking and Security solutions, Configuration and Integration services, Enterprise Mobility and IT Asset Management.
+ 
+
+
+ With the support from our International partners and colleagues, we offer the opportunity to progress and develop a career within the IT Industry while working in a diverse and fun environment. From sales, technical and support personnel, SHI offers positions ranging from entry-level to seasoned experts.
+ 
+
+
+ SHI provides innovative solutions and world-class support from over 30 offices throughout the U.S., the U.K., Republic of Ireland, Canada, France, Hong Kong and Singapore.
+  Responsibilities: 
+ 
+ Include but not limited to:
+
+
+ Write and maintain documentation for applications and processes
+ Understand client requirements and how they translate to application features
+ Collaborate with a team of IT professionals to set specifications for new applications
+ Write high quality source code (using C#, .NET, Angular, JSON, CSS, HTML, and emerging technologies) to implement application features within project deadlines
+ Design, implement, and maintain test plans for new and existing projects
+ Perform unit and integration testing
+ Develop code pipeline jobs and procedures
+ Troubleshoot and debug applications
+ Evaluate existing applications to refactor and add new features
+ Perform design and code reviews and help maintain code quality, performance and application responsiveness
+ Resolve support issues related to deployed applications.
+ Maintain confidentiality with regards to the information processed, stored or accessed
+ Engage in Project Architecture Reviews to help maintain code quality, performance and adhere to best practices
+ Monitor and analyze application and process performance and take action to address deficiencies.
+ Qualifications: 
+ 
+Bachelor's Degree in computer science or relevant work experience required
+ 2+ years of experience working with the skills outlined below.
+ Required Skills: 
+ 
+
+
+C# / .NET Core development using Visual Studio.
+ MS SQL Server / MySQL.
+ Excellent understanding of software design and programming principles.
+ Strong problem solving, organizational, and time management skills.
+ Strong written and verbal communication skills.
+ Receptive listening skills, with ability to present ideas in a clear, concise fashion to technical and non-technical audiences.
+ Ability to self-manage, take initiative and be resourceful.
+ Ability to work both individually and in a team environment.
+ Ability to multitask and complete tasks with efficiency and accuracy.
+ Ability to self-learn new technologies / systems.
+ Desirable Skills
+
+ Building RESTful API’s.
+ Building Angular SPA’s.
+ AWS Cloud (S3, Elastic Beanstalk, SQS, Lambda, RDS).
+ Experience working in an Agile / Scrum environment.
+ Code reviews / testing automation / CI / CD.
+ Experience with any of HTML / CSS / JavaScript / JSON.
+ Experience with any of Postman, Git, Jira, Jenkins, Splunk, SonarQube, Locust.io.
+
+ Unique Requirements: 
+ 
+Extended hours are required to complete some special projects 
+Additional Information: 
+ 
+   #SHIUK
+  Job Wrapping 1: #SHIUK Job Wrapping 2: #LI-JM1

@@ -1,0 +1,30 @@
+McCollum Consultants is the UK's leading chambers of medico-legal experts. We offer our services to law firms in personal injury, clinical negligence, employment law, criminal and private law matters. The role would suit applicants who are looking to work in a Company that is rapidly expanding.
+The role is to work as a full-stack web application developer on internal and external facing products.
+Requirements:
+Knowledge of Elixir/Phoenix, EcmaScript 6, VueJs, PostgreSQL.
+A good knowledge of API design principles and considerations (REST/RPC etc).
+Understanding of design and the data models, and optimising queries for a relational
+database (we use PostreSQL).
+Openness and willingness to learn new technologies.
+Take personal responsibility for component technical delivery - collaborating with
+other senior developers and architects to design robust, scalable technical
+solutions.
+Job Types: Full-time, Permanent
+Salary: £35,000.00-£40,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: In personFlexitime

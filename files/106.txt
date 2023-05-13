@@ -1,0 +1,60 @@
+Junior Front End Developer Job Description
+As a leading software development company, we strive for excellence in everything we do and are dedicated to making a positive impact on our customers, employees, and the community. We are looking for a talented and ambitious developer to join our team.
+Your role as a Junior Front End Developer
+As a Junior Front End Developer, you will collaborate with other team members to develop user-friendly and maintainable websites, apps, and other digital products. Your clean, efficient, and well-documented front-end code will meet our high-quality standards. You will conduct thorough testing to ensure proper functionality and participate in code reviews to improve overall quality and maintainability.
+Leveraging your technical skills and knowledge, you will contribute to the development of innovative software solutions that enhance our clients' experiences. Your ability to stay up-to-date with emerging technologies, tools, and best practices in UX development will enable you to excel in this role.
+What We're Looking For
+As a Junior Front End Developer, you should have a genuine passion for programming, problem-solving, and building high-quality user-centred products.
+We are seeking a candidate who is eager to learn and grow within the company. You should be motivated to take on new challenges and continually develop your skills to progress to mid-level and lead roles. We value enthusiasm, adaptability, and a positive attitude in the workplace.
+Our Values
+At our company, we take our valuesseriously. Continual Learning, Ambition, Optimism, Trust, Collaboration, and Ingenuity are at the core of everything we do, and we expect all our team members to embrace and embody these values every day.
+In your role, we expect you to make decisions and assess others based on these values. We believe that by living our values, we can create a positive and supportive work environment that fosters personal and professional growth for everyone.
+As a team member, we expect you to be enthusiastic, hardworking, and self-motivated. You should have a strong desire to improve yourself and help others in their development. We also expect you to push yourself to deliver consistently high-quality work.
+By demonstrating a passion for learning and a commitment to personal and professional growth, you will be able to develop a deep understanding of your role and contribute to our success in a meaningful way. We are looking for someone who is enthusiastic, curious, and always striving to improve themselves and our organisation.
+Our Commitment to You
+At our company, we have a hard-working, fun, and creative team that is committed to the continual professional development of all staff members. As part of our team, you will have the opportunity to work in a dynamic, fast-paced environment where innovation and excellence are highly encouraged.
+We understand that your compensation is important to you, and we are committed to keeping your salary competitive. Additionally, we are dedicated to supporting your professional growth year after year.
+We know that enjoying your work is essential to your overall well-being, and we are committed to maintaining a healthy work/life balance for all of our team members. We understand the importance of respecting boundaries and ensuring that you do not experience unreasonable levels of stress or burnout.
+We also believe in recognising and rewarding your achievements. We want you to feel valued and appreciated for your hard work and contributions to the success of our company.
+Responsibilities
+
+Collaborate with the UX design team to translate wireframes and mockups into front-end builds using PHP, HTML, CSS, and JavaScript, as well as modern frameworks such as Tailwind, React, VueJS, and Yii2.
+Ensure that front-end builds are responsive, meet accessibility and usability standards, and provide an exceptional user experience across all devices and platforms.
+Write clean, efficient, and well-documented code that meets established coding standards and is easy for others to work with.
+Participate in code reviews to improve code quality and maintainability, providing constructive feedback and implementing changes as needed.
+Conduct usability testing, and data analysis to gain insights and ensure a high level of build quality, optimising the user experience and engagement.
+Troubleshoot and resolve technical issues promptly, collaborating with the development team to identify and implement effective solutions.
+Participate in team meetings to review project progress, discuss new ideas, and collaborate on problem-solving to ensure project goals and timelines are met.
+Assist the UX design team in their creation of wireframes, storyboards, user flows, and other design artefacts to ensure feasibility and smooth implementation.
+Stay up-to-date with emerging technologies, tools, and best practices in UX development, sharing your knowledge and recommendations with the team to continually improve our processes and offerings.
+
+Requirements
+
+Strong proficiency in front-end web development technologies including HTML, CSS, and JavaScript.
+Hands-on experience with JavaScript frameworks such as React, VueJS, etc.
+Understanding of common software design patterns and concepts
+Familiarity with common workflow tools including Git and NodeJS.
+Excellent troubleshooting skills with the ability to promptly resolve technical issues.
+Ability to collaborate effectively within a development team.
+Proficiency in at least one back-end language such as PHP, Ruby, Python, etc. is preferred but not required.
+A degree in software/computer engineering or a related field is desirable but not required. Relevant work experience and a strong portfolio will also be considered.
+
+We are an equal opportunity employer committed to creating a diverse and inclusive workplace. If you have neurodiverse needs and require accommodations, we encourage you to inform us during the application process.
+Job Types: Full-time, Permanent
+Salary: £17,999.95-£28,000.00 per year
+Benefits:
+
+Casual dress
+Cycle to work scheme
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Northampton: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Northampton
+Reference ID: Junior Front End Developer

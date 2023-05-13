@@ -1,0 +1,66 @@
+
+Defaqto is a leading financial information, ratings and fintech business. Its unbiased fund and product information provided as Star, Diamond and Service Ratings, coupled with its market-leading software solutions helps consumers, financial institutions and financial advisers make better informed decisions.
+ We're looking for a passionate Front End Developer to join the team. In this role you'll be working on the front end of our web application Defaqto Engage. It's powerful financial planning software used by UK advisers to manage their end-to-end financial planning process. You can expect to create exciting new features as well as improve on the user experience for existing ones. This is a very collaborative role and you'll be working in our team triad of UX, product and development.
+ As our Front End Developer, ideally you'll have experience developing modern web applications or websites in a technical position; either as a dedicated front-end or in a mixed discipline role. you'll be responsible for creating re-usable code and libraries for business as usual and future projects. You will enhance our Angular front-end and use new frameworks and technologies as required and set out coding standards and perform code reviews to lead the team.
+ This role is based in our Haddenham office (HP17) where we operate a hybrid working model providing a balance of home and office working.
+ What you'll be doing
+
+You'll be the front-end principal in our agile development team.
+Acting as a translator in our team triad of UX, Product and Development
+Ensuring feasibility of all business requirements and associated UI/UX designs
+Producing diagrams and writing specifications to outline any code you plan to write
+Providing estimates and evaluating the complexity of tasks
+Writing comprehensive automated test coverage with ambitions to cover 100% of code
+Staying abreast of areas that need improvement and maintain all front-end code
+Seeking out learning opportunities and keeping your skills and knowledge up to date
+
+What you need to succeed
+ Qualifications & Training
+
+ Degree in a numerate / technical / scientific discipline - or able to demonstrate equivalent intellectual ability
+
+ Knowledge
+
+Able to deconstruct a technical problem and propose a solution(s).
+Understanding and practice in implementing modern front-end coding standards
+Understanding of modern front-end architectures and building of performant web applications or websites
+Understand the importance of build pipelines to assert consistency and quality
+
+Skills
+
+HTML5
+CSS, SCSS and utility-first CSS
+JavaScript (ES6)
+Typescript
+Angular
+RxJS
+Unit testing (Jest)
+Git
+Package management (npm)
+Gulp and Webpack: configuration and running custom tasks
+Responsive web development
+Accessible web development
+
+Experience
+
+Developing modern web applications or websites in a technical position either as a dedicated front-end or mixed discipline role
+Coding JavaScript, Typescript and Angular.
+Has understanding of RxJS and skilled in unit testing code 
+
+Approach to Work
+
+Passionate about programming an ensuring our team design and develop exceptional interfaces
+Confident and convincing in presenting, to inspire and persuade technical peers of your vision and approach
+Has empathy for developers not specialist in front-end. Our team of generalists all have different skills, experiences and perspectives
+Efficient and effective collaboration with other team members, always keeping teamwork in mind while coding
+Able to organize and set priorities accordingly, in order to meet all deadlines set.
+Able to interpret and analyse business requirements, UX designs and produce a high level code blueprint(s)
+Excellent written and oral communication skills
+Energetic and positive
+A team player that wants everyone to succeed
+
+
+Fintel plc and all the businesses within it adopt a zero-tolerance approach to discrimination on any of the protected grounds in the Equality Act 2010.
+ We are committed to providing equal opportunities to all current and prospective employees regardless of age, disability, sex, sexual orientation, pregnancy and maternity, race or ethnicity, religion or belief, gender identity, or marriage and civil partnership.
+ We aspire to have a diverse workforce because, in our view, diversity enables better business outcomes. We also believe that a more inclusive workplace, where people of different backgrounds work together, ensures better outcomes for all staff. From application to interview, we place inclusion at the heart of all we do.
+ For these reasons we strongly encourage suitably qualified applicants from a wide range of backgrounds.

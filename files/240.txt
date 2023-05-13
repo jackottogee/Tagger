@@ -1,0 +1,48 @@
+
+ Overview: 
+ 
+   Role: 
+  Front End Developer
+
+
+   Location: 
+  London with the option for 2-3 days remote working
+ 
+
+
+ About the role: Front-End Developers are required to join Wipro’s Global Energy practice. You will be part of the specialist software engineering team delivering key value add digital transformation solution to our top tier customers in the energy transition sector.
+ 
+
+ Responsibilities:
+
+
+ Work closely with the team to plan and deliver on client strategy.
+ Develop and implement scalable front-end systems. 
+Requirement gathering, design through to implementation.
+
+
+   Accountable for the delivery of high-quality code to production.
+ 
+
+ Resolve issues identified from performance testing.
+ Remove tech debt.
+ Support the acceleration of feature development.
+ Refactor Polaris reporting solution separate ODS datastore for PowerBI intra-day reporting.
+
+
+ Essential required Skills:
+
+
+ Frontend/React (TypeScript)
+ JavaScript, CSS, HTML5
+ User Interface development including supporting application solutions (assisting in production issue resolution)
+
+
+ What is in it for you?
+ 
+
+   This is a lifetime opportunity to work with best if IT Talent and grow your skills multi-dimensionally. As well as developing leading products for the energy transition sector. If you are interested and meet the criteria required, then we at Wipro would like to see you CV. 
+ 
+
+  Wipro is ranked as a “Top Employer” as part of the Top Employer Institute annual listings. We were assessed on several key HR practices including Diversity and Inclusion.
+ 

@@ -1,0 +1,36 @@
+
+Introduction
+
+
+We are looking for a Software Engineer to tackle complex and challenging problems and deliver cost effective, reliable, supportable solutions by using modern software engineering methods and cutting-edge techniques. You will have the opportunity to work across the entire Software Lifecycle and have the responsibility of developing and deploying web-based applications to a number of systems across the defence space.
+ My client does offer some flexibility on remote working, however due to the level of security clearance required you will need to be based on-site in their Cheltenham office for the majority of work.
+ My client is an industry leader in all aspects of IT, computer network operations, cyber security and defence and they are at the forefront of finding innovative solutions that can effectively defend networks and offer protection across the entire cyber and defence domain. Due to the nature of the work, candidates must hold an active DV Clearance or be willing to undergo this clearance.
+
+
+Key responsibilities
+
+
+
+Perform hands-on development and actively contribute to the code base including peer review of code
+Perform design of software features to realise the product road map and be able to explain design choices
+Support breaking down of large pieces of work into well-defined tasks to be implemented in an Agile manner
+Support setup and maintenance of continuous integration and deployment pipelines
+Perform demonstrations to internal and external customers of development work
+
+
+
+Skills & experience
+
+
+
+Ideally two of the following languages: Java, JavaScript, C++ or Python
+Cloud-based architectures: AWS or Azure
+DevOps Automated Deployment: Jenkins, Docker, OpenShift or Kubernetes
+Database Technologies: SQL, Elasticsearch or MongoDB
+Testing Technologies: Cypress, Selenium or Cucumber
+
+Our client is committed to providing a diverse and inclusive workplace and welcomes applications from all backgrounds.
+ RECOMMEND A FRIEND: If you have professional friends/colleagues who would be interested in one of our roles and our excellent levels of service too, we'd like to recognise your recommendations with a 'thank you' of our own. For every colleague you refer who then starts a role through Datasource either Contract or Permanent, we will send you £250 of Love to Shop Gift Vouchers!
+ (c) Copyright Datasource Computer Employment Limited 2022.
+
+

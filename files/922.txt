@@ -1,0 +1,82 @@
+
+Job Description
+ Do you want to be a part of our Shopper Technology team at the LEGO Group?
+
+ We are looking for a Lead Software Engineer to join our growing team based in London to help support our teams building the digital retail experience at the LEGO Group.
+
+ Core Responsibilities
+ You’ll initially spend your time working in our product team building the platform to enable our colleagues to place orders for sets and replacement parts on behalf of shoppers and consumers calling in to our call centres around the world. Our platform is based on a front end application (Next.js + GraphQL) and back end Node.js microservices running in AWS.
+
+ Lead the solution design and build of efficient and reusable solutions for one of our largest and most complex requirements
+ Actively lead engineering strategy for a critical area of Marketing & Channels Technology focused on both current requirements and long-term direction
+ Proactively sponsor and mentor senior engineers across an area.
+
+
+ Play your part in our team succeeding
+ Working closely with Product Managers and Engineering Managers, our Lead Engineers play a key role in the team providing technical guidance and helping to make critical technical decisions ensuring that the applications we build are secure, scalable, maintainable and meet our performance expectations.
+
+ Do you have what it takes?
+
+ Previous experience of working with modern JavaScript-focused front-end frameworks and technologies – Node.js, Next.js framework, React and associated libraries and tooling including GraphQL (Apollo), Webpack, Babel and Jest
+ Experience working in a resilient and scalable microservices environment – our API event-based services layer is built mainly on the AWS Serverless stack – Lambda, API Gateway, SQS, SNS, Kinesis and DynamoDB
+ In depth understanding of modern CI/CD and engineering tooling – we use Amazon Web Services, GitHub Actions and Terraform extensively
+ Extensive experience working with technical and commercial partners outside of your own team
+ Able to delegate engineering tasks to balance your workload and enable individual growth of other engineers
+ Lead by example to create a safe and inclusive engineering culture
+ Be an active contributor to open source or inner-source initiatives and communities and be recognised for your thoughtful and considered contributions
+
+
+ #LI-KM3
+
+ What’s in it for you? 
+Here are some of what to expect:
+
+ Family Care Leave – We offer enhanced paid leave options for those important times.
+ Insurances – All colleagues are covered by our life and disability insurance which provides protection and peace of mind.
+ Wellness – We want you to be your best self, so you'll have access to the Headspace App and lots of wellbeing initiatives and programmes run by local teams where you are based.
+ Colleague Discount – We know you'll love to build so from day 1 you will qualify for our generous colleague discount.
+ Bonus – We do our best work to succeed together. When goals are reached and if eligible, you'll be rewarded through our bonus scheme.
+ Your workplace – When you join the team you'll be assigned a primary workplace location i.e. one of our Offices, stores or factories. The hiring team will discuss the principles of our hybrid work model 'Best of Both', role eligibility and frequency with you during the recruitment process.
+
+
+ Children are our role models. Their curiosity, creativity and imagination inspire everything we do. We strive to create a diverse, dynamic and inclusive culture of play at the LEGO Group, where everyone feels safe, valued and they belong.
+
+ The LEGO Group is proud to be an equal opportunity employer. We are committed to equal employment opportunity and equal pay regardless of e.g. race, colour, religion, sex, national origin, sexual orientation, disability or gender identity.
+
+ The LEGO Group is fully committed to Children’s Rights and Child Wellbeing across the globe. Candidates offered positions with high engagement with children are required to take part in Child Safeguarding Background Screening, as a condition of the offer.
+
+ Thank you for sharing our global commitment to Children’s Rights.
+
+ Just imagine building your dream career.
+ Then make it real.
+ Join the LEGO® team today.
+
+
+
+
+
+
+Location
+
+
+     London, United Kingdom
+   
+
+
+
+
+ Job ID
+
+
+     0000001646
+   
+
+
+
+
+ Category
+
+
+     IT, Telecom & Internet
+   
+

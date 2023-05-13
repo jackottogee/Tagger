@@ -1,0 +1,41 @@
+
+ Insilico Medicine is looking for a frontend developer to be part of a cross-functional team consisting of frontend and backend developers, QA engineers, designers, and analysts. Our processes are based on Agile development methodologies, so experience working in a similar environment is highly welcomed.
+ 
+
+Responsibilities
+
+
+ Develop features and improvements for the Chemistry42 product according to the requirements/designs and the latest JS specifications in a secure, well-tested, and performant way with minimal guidance from other teammates; 
+Use 2D and 3D molecular visualization frameworks to improve the visualization of molecules and their interactions 
+Fix prioritised issues from the backlog. 
+Craft code that meets our internal standards for style, maintainability, and best practices for an enterprise web environment. Maintain and advocate for these standards through code review. 
+Help improve the overall experience of our product through improving the quality of the Frontend features both in your team and features that might benefit other teams. 
+Help identify areas of improvements in the code base, both specific to your team and outside your group (eg. component library) and help contribute to make it better 
+Learn, collaborate and teach other Frontend Engineers.
+ Contribute to and follow our workflow process, alongside the rest of the Frontend Engineers.
+
+
+ Requirements
+
+
+ Professional experience with React, JavaScript libraries (es6+, event loop), web sockets, HTML5, CSS3
+ Experience with writing automated tests
+ Experience using Git/GitLab in a professional/workplace environment
+ A solid understanding in core web and browser concepts (eg. how the browser parses and constructs a web page)
+ A solid understanding of semantic HTML, CSS, and core JavaScript concepts.
+ Good level in the English language, both written and verbal, sufficient for writing and understanding technical requirements and communication with other team members;
+ Comfort working in an agile, iterative software development process
+ Positive and solution-oriented mindset
+ Effective communication skills: able to achieve consensus with teammates, and clear status updates
+
+
+ Nice-to-haves
+
+
+ Working knowledge of Plotly/Hicharts, 3Dmol.js, Material-ui, Nodejs, TypeScript, Jest, Webpack 
+Experience working with a remote team 
+Enterprise software company experience
+ Domain knowledge relevant to Computer-Aided Drug Design and Medical Chemistry
+
+
+Please send your CV to career@insilicomedicine.com

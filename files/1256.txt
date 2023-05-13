@@ -1,0 +1,29 @@
+
+Full Stack Developer / Software Engineer (TypeScript React Node.js) London / WFH to £90k
+ Are you seeking a role where you can make a real impact, take ownership and progress your career in a hands-on lead position whilst working with a range of technology across the full technology stack?
+ You could be joining a long-established specialist insurance company that provide white-labelled services to a range of manufacturers and retailers as they undergo a massive tech transformation.
+ As a Full Stack Developer you'll collaborate with the CTO and other senior engineers to help drive this change; bringing on-prem services to the Cloud (AWS) and modernising the tech stack using TypeScript, React and Node.js primarily. There's a strong pipeline of new projects to support the complete rebuild of the technology platform; you'll take ownership whilst also collaborating with other teams such as DevOps / SecOps with a broad remit of responsibilities across the full tech stack.
+ WFH Policy:
+ You can work from home most of the time, meeting up with in the Wimbledon office once a month with flexibility; there's a relaxed atmosphere with casual dress code.
+ Requirements:
+
+ You have a strong software engineering background with full stack experience
+ You have strong technical skills with technologies such as JavaScript, TypeScript, React, Node.js (or other backend language e.g. Java, Python)
+ You have a good knowledge of AWS
+ You have a thorough understanding of Computer Science fundamentals such as OOP, Data Structures, Design Patterns, Algorithms
+ You have a strong knowledge of software development best practice, Agile methodologies, CI/CD pipelines, test automation tools (e.g. Cypress, Jest)
+ You're collaborative and pragmatic, happy to take a lead role and mentor others
+
+ Salary & benefits:
+ As a Full Stack Developer / Software Engineer you will earn a competitive salary (to £90k) plus bonus and a comprehensive benefits package including:
+
+ Bonus
+ Pension
+ 25 days holiday (with option to buy 5 more)
+ Life Assurance
+ Private Healthcare
+ Employee Assistance Programme
+ Perks such as retail discounts, cycle to work scheme
+
+ Apply now or call to find out more about this Full Stack Developer / Software Engineer (TypeScript JavaScript React Node.js) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

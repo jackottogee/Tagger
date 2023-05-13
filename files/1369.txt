@@ -1,0 +1,29 @@
+
+Backend Web Developer Cardiff / WFH to £80k
+ Do you have strong PHP backend development skills and exposure across the full tech stack? You could be progressing your career in a senior, hands-on role for a digital transformation consultancy / agency, working on a range of complex and interesting projects.
+ As a Backend Web Developer you will work on a project for a long-term client to migrate functionality to more modern tech stacks including the optimisation, evolution and continual extension of the client's complex and high traffic web application in the leisure / active lifestyle space. You'll architect solutions to complex problems and take ownership of a product, feature or task, seeing it through from concept through to production.
+ WFH Policy:
+ You'll join colleagues in the Cardiff office 1-2 days a week with flexibility to work from home the rest of the week.
+ Requirements:
+
+ You have strong PHP development skills, ideally with Laravel framework (or Symfony / similar)
+ You have experience of building and evolving complex web applications, APIs and performant data storage solutions
+ You have strong problem solving skills and are able to prototype and develop new concepts to solve business and technical problems
+ You have unit testing experience and experience of using TDD
+ Ideally you will also be familiar with AWS or Azure cloud based services' other tech in the stack includes Node.js, TypeScript, React, Redux, Gatsby, Cypress, Protractor so experience with any of these would also be great but if not you can pick up on the job where necessary
+ You're collaborative and pragmatic with great communication skills
+
+ Salary & benefits:
+ As a Backend Web Developer you will earn a competitive salary (to £80k) plus a range of benefits including:
+
+ Employer pension contribution matched up to 6%
+ Healthcare plan including access to professional mental health support, nutritional advice, screenings and GP appointments
+ Life Assurance
+ Income Protection
+ Enhanced maternity / paternity and adoption packages
+ Professional development and skills training including up to 5 days study leave per year
+ Up to 5 days per year for Charity work
+ Plus more including financial advice, long term service awards and social events
+
+ Apply now or call to find out more about this Backend Web Developer (PHP Laravel API) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

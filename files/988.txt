@@ -1,0 +1,34 @@
+THE POSITION – SENIOR SOFTWARE ENGINEER 
+We are looking for a talented software developer for a fixed term to cover a maternity leave. You will be joining a rapidly expanding R&D team within a dynamic, high-tech and forward-thinking organisation. You will be responsible for the support and continual development of our commercial applications. The goal is to take our world class solutions to an unmatched level of sophistication, security and flexibility. 
+
+ COMPANY OVERVIEW - NAVTECH RADAR 
+Navtech Radar is a world-leading innovator, and multi-award-winning designer and manufacturer of commercially deployed radar solutions. Our ground-breaking technology is utilised by clients worldwide, across many industry sectors, from Perimeter Security Surveillance and Industrial Automation to Traffic Incident Detection on Smart Highways and as part of Intelligent Transport Systems (ITS). 
+
+ Renowned for investing heavily in innovation and R&D, we have earned an unrivalled reputation for products that are high performance, robust and extremely reliable. Our radar solutions are often used in mission critical applications where safety and security are vital. 
+
+ As part of Halma plc, a FTSE 100 company, you will be joining a group of companies whose mission is to make the world cleaner, safer, and healthier. 
+
+ OUR WORK HEADQUARTERS 
+Our offices are nestled in the picturesque village of Ardington, South Oxfordshire, within an easy commute from areas of Reading, Swindon, Newbury and Oxford. 
+
+ The office is a modern farm conversion and offers excellent facilities in a beautiful environment with plenty of space, including ample free parking. 
+
+ OUR CULTURE, AND BENEFITS 
+We help create the right environment for our dedicated staff by providing a flexible, fun, friendly, and family feel. We are dog friendly and enjoy family, friends and group events. We have plenty of free parking for our employees and provide you with options to join colleagues on lunchtime walks, biking and other pursuits. We care about our staff, in fact, our culture is developed by them, for them! 
+
+ Unlike larger companies we can offer you exposure to all our development technologies including a close working relationship with our hardware developers. All members of our team, are expected to drive change and contribute to the continuous improvement of our products and processes. We have a proud history of engineering excellence and our strong reputation is based on the quality of our products. 
+
+ KEY ACCOUNTABILITIES 
+
+
+Developing all aspects of the company software products, including, but not limited to, device firmware, the commercial applications and the internal production tools.
+Adopting and integrating new technologies and languages as appropriate.
+Contributing to the software and system architecture.
+Driving improvement across all the software projects, in coding, best practice and processes.
+ YOUR COMPETENCIES 
+
+ The team uses a range of development technologies, including the latest web technologies, .NET C# and the newer generation of C++. Our aim is for developers to be able to work with any technology, and we want to support you to develop new skills and enhance existing ones. However, we do need you to have a technical degree or higher with a solid maths background and a strong track record of application software development which must include .NET experience and some C++. 
+
+ To fit into the environment, you will need to be an energetic individual who is used to consistently delivering quality work under pressure. This is a demanding, yet exciting role in a business within which you can make a very large impact and where there is plenty of scope for personal growth and development. 
+
+ Experience with any hardware-software integration work will be a significant advantage, but we are happy to consider suitable candidates with a keen interest to work in this field.

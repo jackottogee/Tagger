@@ -1,0 +1,61 @@
+
+Summary
+ Software Developer Role available for innovative derivatives trading technology firm based in London. 
+SALARY - Market + bonus dependent upon experience.
+
+
+ Company
+ Cassini Systems Limited is a financial technology company, headquartered in London, with offices in New York and Sydney.
+
+
+ We are a small and growing company so a forward looking, enthusiastic personality who is not afraid to stretch themselves and learn rapidly is the best fit. This is an exciting opportunity for anyone who wants to work for a dynamic young software company building software for the financial services industry.
+
+
+ Cassini offers an analytics platform for OTC trading combining risk, limits, fees, margin and collateral. At pre-trade stage users can access What-If trade testing, Best Execution and Best Hedge recommendations alongside Regulatory and Operational Limits Monitoring. Post-trade users can access Collateral Optimization along with Portfolio Optimization services including compression, novation and porting. Cassini’s vision is to provide a holistic platform that allows the front office to include all post-trade factors in trade decisions.
+
+ Role
+ We're offering the opportunity to be part of a dedicated and motivated team, working on award winning and market leading software. The role presents a great chance to learn all about capital markets and derivative products, as well as end to end delivery of cutting-edge analytic technology.
+ The role covers all parts of the development cycle including prototyping, build-out, testing and deployment. You will have the opportunity to work on all parts of our platform (no pigeonholing), get to see your work go rapidly from ideation to release, and have real responsibility and impact.
+
+
+ As a Software Developer, your primary responsibilities will include:
+
+Developing and maintaining APIs, integrations and ETL pipelines.
+Developing and maintaining analytic and calculation components.
+Ensuring standard patterns are adhered to and improving the quality of our codebases.
+Contributing to architecture, design, performance and scalability discussions.
+
+
+
+ Since we are a small but growing firm, our employees work on a wide variety of tasks so there are many opportunities to learn new skills and get involved in other parts of the business.
+
+ Candidate
+ We're looking for proactive developers with a solid understanding of software systems, analytical minds and a passion for software development. Motivated not only to learn new things and work outside of their comfort zone, but who also have a good understanding of the basics and can deliver value from day one.
+
+
+ As a fast-growing company with a flat structure, we see a forward looking, enthusiastic person who is keen to learn rapidly, pick up responsibility and really make a difference as the best fit.
+
+
+ We're looking for candidates who have:
+
+Min 2.1 university degree in a technical subject.
+2+ years experience developing enterprise software systems.
+An analytical and inquisitive mindset.
+An understanding of distributed software systems.
+A proven ability to problem solve under pressure.
+Strong communication and teamwork skills.
+
+
+
+ A successful candidate will have a strong understanding of at least some of the technologies we work with:
+
+Python (SQLAlchemy, Flask, SciPy, NumPy, Jinja2)
+MySQL
+RabbitMQ
+Docker
+Linux
+AWS (EC2, S3, Serverless, Cloudformation)
+GitLab
+Elastic stack (Elasticsearch, Logstash, Kibana)
+Jira, Confluence
+

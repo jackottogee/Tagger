@@ -1,0 +1,53 @@
+
+
+
+Job Specification
+
+The role
+ As a Junior Full Stack Developer, you will help to design, develop, and maintain our web applications both on projects for our diverse range of customers and working with the product team on innovations, POCs and new applications. You will work with a variety of Google technologies, across Workspace and GCP, to create customer solutions. 
+
+Responsibilities
+
+Responsibilities
+ Work alongside the development team and wider Engineering function to:
+
+Deliver development projects for customers focussed on Google Cloud/Workspace technologies
+Translate designs (and POCs) into high-quality, scalable code
+Create reusable components and maintain them for use in future projects
+Maintain existing web apps and projects, primarily in React JS, with updates, new functionality, and bug fixing
+Assist in the creation of standard development templates to be used for all development POCs
+Document projects thoroughly, consistent with Netpremacy standards, for maintainability, deployment and customer guides.
+
+
+Requirements
+
+Requirements:
+
+Experience working on fast, scalable web applications
+Experience working in Javascript (ES6)
+Good knowledge of React JS framework (components, hooks etc.)
+Experience with cloud-based back end services
+Familiarity with source control and deployment (Github)
+Familiarity with REST APIs
+Experience working with databases
+Knowledge of Microservice architecture
+Experience with a Project Management tool, such as Asana or Jira.
+
+Desirable experience:
+
+Google Cloud Platform experience
+Working with Google Workspace APIs
+Backend development with Node JS
+Material Design React theming and components
+Automation or service implementation using Python, Golang
+Implementing CI/CD pipelines and other DevOps principles
+Firebase or other backend-as-a-service technologies
+NoSQL databases, such as Firestore
+Cloud security principles, including identity and access management (IAM), OAuth, service accounts and certificates
+Software testing and automation.
+
+
+
+Hours: Full-time.
+ Closing date: Ongoing. How to apply: Please send your CV and cover letter to careers@netpremacy.com
+ If you are interested in working for Netpremacy, but this is not the right role for you, head over to our careers page to see our current vacancies. We are always looking for like-minded individuals who are ready to take on a new challenge and join our expanding team.

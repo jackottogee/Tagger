@@ -1,0 +1,32 @@
+
+Salesforce Developer
+
+Manchester
+
+£70,000 - £80,000 per annum
+
+ We are currently looking for a Salesforce Developer to join one of our growing clients as they are going through a Salesforce Implementation across the whole of the business. The Salesforce Developer will be reporting to the Head of Development and be part of a wider development team but will be the main point of contact for Salesforce related development queries.
+ 
+ Salesforce Developer- Responsibilities :
+ 
+
+
+You will be the Salesforce and MuleSoft expert, supporting the growth of the team to support ongoing expansion into these technologies.
+You will be responsible for development of the Salesforce And Mulesoft development within the wider business in the Azure estate, including some containerized .NET services which provide abstractions to external an internal systems and processes.
+Responsible for liaising with the current consultancy partner to make any relevant changes and help with the heavy lifting of the implementation.
+
+ Senior Salesforce Administrator - Requirements: 
+ 
+
+
+3+ years' experience as a Salesforce Developer
+Salesforce Certification (Admin/Developer) - highly advantageous
+Knowledge of different Salesforce clouds (Sales/Marketing/Service/Community/Commerce)
+Knowledge of the wider Salesforce portfolio of products and ecosystem
+Experienced at integrating Salesforce systems into an existing application landscape.
+Experience of Docker
+Experience of Microsoft Azure
+Knowledge of Event Driven Architecture
+Knowledge of Service (or micro service) Architecture
+
+ INDHP

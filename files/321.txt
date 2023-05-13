@@ -1,0 +1,57 @@
+We are looking for an ambitious Java Developer to join us as an intern for a duration of 6 months.
+The Business Plan Shop is a fast-growing international SaaS company that looks to transform the way businesses owners plan their journey.
+With 90% of businesses in the OECD being small businesses, their successes and failures matter. We're on a mission to build industry-leading software that this year will help 150,000+ small businesses plan their growth, secure financing, and get visibility on their cash flows.
+In this Graduate Java Developer role, you will be working across the full spectrum from developing new features for existing web applications, refactoring code using best practices, and designing microservices.
+This is a great opportunity for someone who is hands-on, entrepreneurial, and wants to join a small team where they can take on more responsibilities and progress their career much faster than in a large company.
+What it’s like to work at The Business Plan Shop
+We’re a small team that packs a punch. We work in a highly collaborative environment with great in-house training and development, where you have the freedom to try new things and accelerate your learning curve rapidly.
+Our current stack in a nutshell:
+Java, Maven, MySQL, BigQuery, Jersey, JWT, GWT, Bootstrap, Docker, Gulp, TypeScript, GCP.
+Successful candidates will have:
+
+Studying or recently graduated with a Bachelor or Master Degree in Computer Science
+Some commercial experience within Java would be beneficial, but essential is an understanding of any of Java, C#, C++, or Python
+Good communication skills and knows how to work with a team
+Fast learner, open-minded, and ambitious (we hire for potential)
+Wants to write code that makes an impact and likes tackling technical challenges
+Legal right to work in the UK
+
+Interview process is 2 stages:
+
+Remote interview to discuss your CV, career goals, and technical questions
+In person interview at our HQ where you get to meet the team and show us your coding skills
+
+Benefits and perks on offer:
+
+Flexible working - We understand some of us are night owls and others early birds.
+Great location and offices – in artsy MainYard Studios in Hackney Wick along the canal with plenty of greenery, cafes, bars and independent breweries
+Relaxed office environment – dress code is whatever you feel comfortable in
+Learning and development opportunities
+Team events and regular social events
+
+And more to come. If you're a Java Developer with the above skills, looking to further your career in the ever-evolving SaaS sector and like the look of our company culture, then please apply by forwarding your CV today.
+If you are interested please apply with:
+
+Your CV
+A link to your LinkedIn, Github, or StackOverflow profiles
+
+Only candidates, please.
+Job Types: Full-time, InternshipContract length: 6 months
+Benefits:
+
+Casual dress
+Company events
+
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Diploma of Higher Education (preferred)
+
+Work authorisation:
+
+United Kingdom (preferred)
+
+Work Location: In person

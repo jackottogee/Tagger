@@ -1,0 +1,50 @@
+
+
+
+Senior Software Engineer (Java)
+
+
+ Location: London – Blended* Salary: £ Competitive Salary + Bonus + Benefits Hours: Mon-Fri 37.5
+
+ Safety Notice: To ensure candidate and employee safety, we are continuing with our virtual hiring and onboarding processes until further notice.
+
+ We're looking for a talented and enthusiastic Senior Software Engineer to join our Digital Engineering team in London, bringing with you a broad range of experiences and a passion for modern development technologies and practices.
+
+ We innovate, invent and continuously improve, Vodafone UK Digital works within the heart of our business. Empowering Vodafone’s mission of being a digital-first company is in everything we do.
+ What will you be doing?
+
+
+ You will be developing micro-services as part of a development squad using Scrum/Kanban
+ You will drive the quality and performance of owned micro-services using standards and best practices
+ You will establish a culture of continuous improvement through learning, training, and coaching
+ You will ensure quality is at the heart of everything you and your team does 
+
+
+
+
+
+ Who are we looking for?
+
+
+
+
+ You will have experience in designing and developing RESTful APIs within a micro-services architecture
+ You will have extensive commercial experience of Java
+ You will have experience in testing your code through the use of TDD/BDD and associated tools
+ You will have experience or have the ability to support and coach junior developers
+ You will have experience with AWS or any other cloud provider.
+ You will have experience with Docker or other container management.
+
+
+ What’s in it for you?
+
+ An excellent remuneration and bonus package with 28 days holiday entitlement, in addition to bank holidays and paid leave for charity projects. We offer an extensive and flexible benefits package that can be tailored to suit you and your family. We’re proud to provide a Reconnect programme with flexibility for individuals returning to work after a career break. From our market-leading parental leave policies through to employee discounts, retail vouchers, pension plan and share schemes we are committed to supporting you throughout your career with Vodafone.
+
+
+ Blended
+
+ Vodafone UK’s blended working approach means you’ll come to your contracted hub location office as and when needed to get things done for your role and for tasks that require it, otherwise you will be able to work from home. Our ‘Office in a Box’ home-working kit will be available for all who need it during your onboarding journey.
+ Together we can
+ Vodafone UK are regulated by the Financial Conduct Authority and all offers of employment for this role are subject to background checks, including criminal (DBS) and financial checks to meet the regulators standards.
+
+

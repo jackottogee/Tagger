@@ -1,0 +1,28 @@
+We are an innovative Health tech software company based in UK and Australia. Our mission is to help people live longer, better lives through innovative health IT and we are expanding our UK team for our new healthcare deployments.
+We have an opportunity for a Graduate/Junior Developer to join our team on a permanent full-time basis. You will receive training and help design and develop solutions to support our web based solutions as part of an enthusiastic dev team.
+This role would suit home working with occasional travel to London for monthly tech team meetups and innovation days.
+If you want to be part of something great, and at the forefront of Medical Software advancement then please apply.
+Key Requirements
+
+an interest in solving complex problems
+a passion to learn and an interest in cutting-edge technologies
+general software development experience with exposure to SQL, PHP and JAVA
+strong written and verbal communication skills
+the ability to work well in small teams
+A Degree in Software Development or equivalent qualification
+Experience with source code control systems such as GIT
+Familiarity with project and software development frameworks
+Health systems integration experience an advantage E.g. medical imaging devices, Mirth, FHIR, Hl7
+
+General Conditions
+You will be asked for a DBS Check
+Candidates must have the right to live and work in uk
+Candidates may be asked to sit an online technical test
+Job Types: Full-time, Permanent
+Salary: £25,000.00-£35,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in London
+Application deadline: 01/06/2023Reference ID: TKApr23Expected start date: 01/06/2023

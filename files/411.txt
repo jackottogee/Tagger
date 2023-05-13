@@ -1,0 +1,101 @@
+
+
+  End Date
+  Sunday 07 May 2023
+ 
+
+   Salary Range
+  £41,715 - £60,255
+ 
+
+ Agile Working Options
+  Flexibility in when hours are worked
+ 
+
+   Job Description Summary
+  Lloyds Banking Group is committed to help Britain prosper and become the best bank for customers. As part of this we’re transforming our digital capability, providing customers with simpler, seamless interactions across online, mobile and branches. LBG digital channels have over 12 million active online customers with over 1 billion logons per year.
+ 
+ Our aim is to build a forward-thinking engineering capability that supports the business in delivering high quality, efficient and positive impact outcomes for customers. Our Software Engineers ensure the products we deliver are fit for purpose and meet the quality and standards that our customers expect.
+ 
+ This role is within the Stockbroking Lab which supports Halifax Share Dealing LTD (HSDL) on a range of initiatives using agile tools and methodologies to deliver iterative change safely for the Group and our customers.
+ 
+
+   Job Description
+ 
+
+   Lloyds Banking Group is committed to help Britain prosper and become the best bank for customers. As part of this we’re transforming our digital capability, providing customers with simpler, seamless interactions across online, mobile and branches. LBG digital channels have over 12 million active online customers with over 1 billion logons per year.
+  
+ Our aim is to build a forward-thinking engineering capability that supports the business in delivering high quality, efficient and positive impact outcomes for customers. Our Software Engineers ensure the products we deliver are fit for purpose and meet the quality and standards that our customers expect.
+  
+ This role is within the Stockbroking Lab which supports Halifax Share Dealing LTD (HSDL) on a range of initiatives using agile tools and methodologies to deliver iterative change safely for the Group and our customers.
+ 
+
+
+   What will I be doing?
+ 
+
+   Within the lab there are four feature teams working on initiatives through route to live. You’ll be placed into one of these teams. Working collaboratively with the Scrum Master, Product Owner, and other team members you’ll be delivering a variety of initiatives across the platform. As an engineer you’ll need to be a proficient developer and be able to turn requirements into stories when delivering change across the application estate. You’ll manage and merge changes, alongside the other feature teams, as we work towards releasing the changes into production.
+ 
+
+
+   What does an average week look like?
+ 
+
+ Agile ceremonies such as the daily stand up, backlog planning and prioritisation sessions and retrospectives
+ Collectively come together across the lab on daily scrum of scrums to update on progress and issues/blockers
+ Developing in Microsoft technologies (.NET and ASP)
+ Supporting build and test
+ Supporting live planning
+ Supporting any service incidents
+ Productionising code via our DevOps pipeline
+ Using your problem-solving skills to come up with innovative solutions!
+
+
+
+   What we’re looking for
+ 
+
+ A strong, proven, and consistent track record when developing in Microsoft technologies (.NET and ASP)
+ Experience in managing source code with GitHub
+ Experience in DevOps tooling (Jenkins, Urban Code and Sonarqube)
+ Any experience in Oracle PL/SQL, Oracle RAC technology and shell scripting in Linux would be beneficial
+ Understand of agile tools to manage scrum team activity (JIRA and Confluence)
+ Able to understand business requirements and replay them into technical stories and see these through delivery as well as giving updates to non-technical parties
+ Be comfortable taking on tasks outside your engineering discipline to benefit your team and keep delivery on track.
+ Be comfortable working within a multi-disciplined team, engaging with product owners, fellow engineers and quality engineers and the scrum masters.
+ Understanding of governance to ensure we land change safely for our business and customers
+ Experience integrating applications with 3rd party owned systems and shared Group services.
+ Happy to support the on call rota for applications within your area of technical expertise.
+
+
+
+   If you're motivated by
+ 
+
+ Working on a diverse range of projects with an appetite to learn new skills and grow
+ Working closely with a phenomenal team to get great outcomes for our customers
+ Working in a fast pace growing business that supports the Group’s strategic direction
+
+
+
+   So, what can we offer you in return?
+ 
+
+   We offer phenomenal packages including; private medical insurance, discretionary bonus, various share plans, a pension where we contribute up to 15%. 30 days holiday, plus 9 bank holidays and a variety of other benefits.
+ 
+
+
+   Our flexible work options mean your work/life balance can be preserved while fully-paid training and certification programmes ensure your skills remain fresh. This includes time off and support to help you gain them, e.g. helping to sit and pass your Google Accredited Cloud Engineer exam.
+ 
+
+
+   We're an equal opportunities employer and are delighted to receive applications from people of all backgrounds to join our diverse team. If you have particular needs regarding working patterns, childcare, or anything else we can do to accommodate you, please don’t shy away from talking to us – we’re here to support
+ 
+
+
+   At Lloyds Banking Group, we're driven by a clear purpose; to help Britain prosper. Across the Group, our colleagues are focused on making a difference to customers, businesses and communities. With us you'll have a key role to play in shaping the financial services of the future, whilst the scale and reach of our Group means you'll have many opportunities to learn, grow and develop.
+ 
+
+
+   We're focused on creating a values-led culture and are committed to building a workforce which reflects the diversity of the customers and communities we serve. Together we’re building a truly inclusive workplace where all of our colleagues have the opportunity to make a real difference.
+ 

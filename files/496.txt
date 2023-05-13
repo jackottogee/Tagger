@@ -1,0 +1,85 @@
+
+
+
+
+
+     Role description
+    
+
+
+
+
+We are looking for a Front End Software Developer with Angular experience and a general knowledge of other javascript frameworks to join our talented engineering team. This is an excellent opportunity for an ambitious engineer to influence the design and technical direction of our upcoming products and solutions. You will be working within a cross-functional agile development team to deliver software solutions for a variety of diverse customers across defence and public sector. 
+
+
+
+We are an innovative data and technology consultancy, proudly awarded the coveted Megabuyte Best Enterprise Software Award, in recognition for our outstanding organic growth in recent years. We work with our customers to solve some of their toughest data challenges, and help them make better, faster, and more informed decisions. We’re now looking to grow and build a team that are hungry for success.
+We’re creating a culture that is fun, supportive yet challenging, and we’re looking for talented like-minded people to join us on this journey. We’re also looking for people who are comfortable in challenging the norm so we can get truly diverse thinking when solving problems and not just senior management making decisions – we really believe in empowerment across the board.
+We are looking for a Front End Software Developer with Angular experience and a general knowledge of other javascript frameworks to join our talented engineering team. The ideal candidate will have a keen interest in user experience design and a track record of delivering optimised user experiences. If you also have some Java backend programming experience, then this would also be very useful. 
+This role can be based in our Horsham office, fully remote or a mixture of both. 
+This is an excellent opportunity for an ambitious engineer to influence the design and technical direction of our upcoming products and solutions. You will be working within a cross-functional agile development team to deliver software solutions for a variety of diverse customers across defence and public sector.
+You will need to be self-sufficient and have the ability to work independently whilst being fully supported by our more senior and experienced engineers.
+Essential Skills:
+
+Adaptable, ability to pick up new technologies and learn quickly
+
+
+Design, write and test code, refining and rewriting it as necessary, supporting and collaborating with other developers involved in the project
+Highly proficient at User Interface development using Angular and knowledge of other JavaScript frameworks such as React, Vue.js and native js desirable
+A strong interest in User Experience Design principles
+Ability to build and translate wireframes, build prototypes and iteratively refine user interfaces in partnership with users
+Experience of developing responsive, accessible, mobile-first web applications
+Capable of breaking down customer requirements into an actionable user experience design
+
+Desirable Skills:
+
+Experience with working with backend teams to define and utilise appropriate service APIs
+Experience developing on cloud infrastructure
+Agile development methodology and use of TDD and BDD
+Java programming experience building and RESTful microservices
+Working knowledge of DevOps and CI/CD pipelines
+Experience with geospatial tools and techniques
+
+What we offer you:
+
+Competitive Base salary reviewed quarterly throughout the year
+Bonuses, driven by business performance (work as a team, win as a team?!)
+Promotion in correlation with business growth – you grow as we grow
+Learning and development support (training days, exam funding, and professional memberships)
+Enhanced Employer Pension Contributions
+Subsidised Monthly Gym Membership
+Life Assurance 4 x your annual salary
+BUPA Private Healthcare scheme
+Employee Benefits Platform – Perkbox subscription
+Birthday off (in addition to 25 days holiday)
+
+Recruitment Process
+
+
+Introductory call with our HR department
+
+
+Technical interview with our Head of Engineering
+
+
+Security Clearance Requirements
+Many of our public sector customers require UK Security Clearance as a mandated requirement. You’ll need to provide proof of identity, employment history, and right to work in the UK, along with proof of UK residency, for at least three years.
+
+
+
+
+
+
+
+
+
+
+
+
+       Interested in this job opportunity? Email careers@envitia.com for more information
+      
+
+
+
+
+

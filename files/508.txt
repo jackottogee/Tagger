@@ -1,0 +1,57 @@
+
+Position Type : Full time
+  Type Of Hire : Experienced (relevant combo of work and education)
+  Education Desired : Bachelor of Computer Science
+  Travel Percentage : 15 - 25%
+  Are you curious, motivated, and forward-thinking? At FIS you’ll have the opportunity to work on some of the most challenging and relevant issues in financial services and technology. Our talented people empower us, and we believe in being part of a team that is open, collaborative, entrepreneurial, passionate and above all fun.
+
+ About the team
+ Work closely with customers, business analysts and team members to understand business requirements that drive analysis and design of quality technical solutions ensuring alignment with business and IT strategies and complying with FIS architectural standards.
+
+ What you will be doing
+
+
+ Design, code, test, implement, maintain and support applications software that is delivered on time and within budget
+ Provides application software development services or technical support typically in a defined project.
+ Develops program logic for new applications or analyzes and modifies logic in existing applications.
+ Codes, tests, debugs, documents, implements and maintains software applications.
+ Maintains, tests and integrates application components.
+ Makes recommendations towards the development of new code or reuse of existing code
+ Ensures system improvements are successfully implemented.
+ Demonstrates an understanding of FIS systems and the financial services industry.
+ Analyzes requirements and translates business requirements into product designs.
+ Writes technical specifications and other forms of documentation.
+ Suggests technical alternatives and improves/streamlines processes and systems.
+ Completes project assignments and special projects commensurate with job expectations.
+ Conducts planning, analysis and forecasting activities to plan projects and tasks.
+
+
+May participate in component and data architecture design, performance monitoring, product evaluation and buy vs. build recommendations.
+
+ May provide leadership and/or guidance to other technical professionals.
+
+
+ What you bring 
+
+
+Experience in Development using Cobol, JCL DB2, VISAM, CICIS
+ Exposure to Banking and Financial domain is a plus but not required
+ Knowledge of end-to-end systems development life cycles, i.e., waterfall, iterative and other modern approaches to software development
+ Excellent customer service skills that build high levels of customer satisfaction for internal and external customers
+
+
+ What we offer you:
+
+ Competitive salary and Attractive benefits
+ A multifaceted job with a high degree of responsibility and a broad spectrum of opportunities
+ A modern, international work environment and a dedicated and motivated team
+
+ Privacy Statement
+
+ FIS is committed to protecting the privacy and security of all personal information that we process in order to provide services to our clients. For specific information on how FIS protects personal information online, please see the Online Privacy Notice.
+
+ Sourcing Model
+
+ Recruitment at FIS works primarily on a direct sourcing model; a relatively small portion of our hiring is through recruitment agencies. FIS does not accept resumes from recruitment agencies which are not on the preferred supplier list and is not responsible for any related fees for resumes submitted to job postings, our employees, or any other part of our company.
+
+ #pridepass

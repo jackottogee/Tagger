@@ -1,0 +1,63 @@
+Software Design Engineer
+Beccles, Suffolk
+Full time, Permanent
+Monday – Friday Days
+Salary: £30,000 - £40,000
+25 days hol + BH
+Our client provides cutting edge automated solutions to global markets, spanning a variety of industry sectors, including Medical/Ocular and Pharmaceutical. With over 40 years’ experience in providing bespoke turnkey automation, ranging from stand-alone machines to fully integrated high throughput cells. They pride themselves on being able to offer customers the complete in-house solution - from design to delivery.
+Due to continued growth they are currently seeking a Software Design Engineer to join their growing and ambitious team in Beccles Suffolk.
+The successful candidate will contribute to the growth and success of the business through the development of innovative controls-based solutions ensuring that the company retains its highly regarded market leading position within the industry.
+Responsibilities
+
+Proactively collaborate as part of the wider design department to scope befitting technical solutions for projects. This would include hardware specification such as safety devices, communication architectures/protocols etc, where product selection would have direct implications on the software solution.
+Apply commercial awareness when determining solutions suitable to the price point of the project.
+Write and test code for large scale projects (Motion, Robotics, Integrating 3rd Party Equipment, PLC, HMI)
+Author (internal/external) design philosophy documents to support the intended functions of the automated equipment.
+Ensuring all software is written, documented, and controlled in accordance with company procedures and processes.
+Ensure that the solutions determined adhere to all relevant Codes of Practice, Company and Industry Standards.
+Maintain an awareness of existing and emerging technologies to ensure the company remain at the forefront of the industry.
+Develop and maintain code libraries and standardised practices to deliver commonality and reduce commissioning timelines.
+Review customer project documentation to fully understand project requirements.
+Participate in customer meetings of either existing or potential projects.
+Participate in internal design reviews on existing or potential projects.
+Collaborate with other Mechanical and Electrical teams and community members.
+Develop handover documentation for the commissioning team and assist with fault finding.
+
+Requirements
+
+Degree in relevant engineering discipline or equivalent recognised qualifications.
+Ability to follow electrical and pneumatic schematic diagrams and drawings.
+Comprehensive knowledge of diagnostics, test and repair of electronic/electrical and mechanical systems.
+Thorough knowledge of safety procedures and applicable regulations and guidelines.
+Programming experience of PLC’s/HMIs. Primarily Rockwell’s suite of automation software, but knowledge of Mitsubishi, Siemens, B&R, and Codesys would be advantageous.
+Knowledge of script-based programming would be an advantage.
+In depth knowledge of Motion Control and 6 Axis Robot systems.
+Experience with robotics, AI and machine learning.
+Ability to troubleshoot equipment and perform complex system tests.
+A desire to continually upgrade technical knowledge
+Excellent critical thinking and problem-solving ability.
+Strong leadership and problem-solving skills.
+Excellent organizational skills and attention to detail
+
+INDALX1
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£40,000.00 per year
+Benefits:
+
+Company car
+Company pension
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Experience:
+
+Software Design Engineering: 2 years (preferred)
+
+Work Location: In person
+Reference ID: SOFTDESBECC

@@ -1,0 +1,97 @@
+
+
+
+
+
+
+
+Salary: £60,000 to £75,000+ joining salary, negotiable – we’re keeping an open mind. Location: Fully remote working from a UK-compatible timezone.
+ Flexys is looking for senior Front End Software Engineers adept with Angular (12+ preferred). This is an opportunity to positively impact a suite of fintech applications and to help build a customisable user interface.
+ We build responsive and scalable single-page applications that manage debt more effectively and provide a sustainable and positive experience for consumers. Our cross-functional DevOps team use modern agile approaches and has a permissive and flexible approach.
+ We’re always open to new things and you can influence where we go and how we get there. At all times you’ll have a lot of freedom in design, technology choice and influence over our approach.
+ Who we are
+ We work at the forefront of debt management technology, improving the speed, ease and efficiency of the debt collection process for creditors and their customers. It’s a sensitive and important area to work in, where the combination of creative thinking and modern technology can make a big difference.
+ Our cloud-native Control+ platform is leading the field and transforming the way organisations engage with their customers, and improving their employee experience. Our clients include banks, financial services, utility companies and motor finance providers.
+
+
+
+
+
+
+
+
+
+
+
+
+ Role Overview
+ As a Front End Developer you will
+
+ Prototype a notification system for the consumer portal.
+ Work with delivery engineers to understand requirements and customise applications.
+ Design and implement improvements to a cross browser testing strategy.
+ Build integrations between third party analytics visualisation and the agent portal.
+ Contribute to our CLI (built with Typescript on node).
+
+ We’re looking for someone with
+
+ Advanced front end skills and strong technical knowledge of Angular.
+ Experience with unit and acceptance testing.
+ Good Knowledge of JavaScript/TypeScript.
+ Knowledge of building single page applications, displaying complex information in intuitive ways.
+ Passion for building beautiful, responsive and accessible UIs.
+ Familiarity with a ‘mobile first’ approach.
+ Familiarity with Agile and continuous delivery.
+ Clear desire to learn, improve and share knowledge with colleagues.
+
+ Familiarity with back end development and functional programming would be a bonus.
+ Current stack – we’ll welcome your influence
+ Angular with RxJS and TypeScript | Bootstrap | HTML5 | CSS | SCSS | BEM | REST APIs | SSE | Elasticsearch | Json Schema and more…
+ Team values
+ We offer a flat team structure with responsibility and autonomy. We strive to be honest, transparent, non-bureaucratic and supportive, and we offer real creative freedom. We strongly value learning and doing things well. We are proponents of open source, functional programming, TDD and Agile. You will be someone who shares our belief in providing highly effective infrastructure solutions and who is positive about improving their craft.
+ We are looking for people with ability and potential who are reliable, honest and empathetic. You are welcome to apply and will be considered on merit, no matter what your ethnicity, gender identity, neurodiversity, sexual orientation, age, family or civil status, disability, religion or socio-economic background.
+ We positively encourage applications from creative people who think outside the box and we believe diversity makes both our products and our working lives better. We provide a stimulating, safe and rewarding work environment where every one of our team is free to contribute ideas and value to the company, express themselves and grow in experience and knowledge.
+ We offer a range of class-leading benefits including
+
+ 30 days holiday
+ Private medical insurance
+ Group life insurance
+ Contributory pension scheme
+ Discounted onsite state-of-the-art gym membership
+ Annual professional development/training contribution
+
+ Flexible working environment – tell us what you need. Open source friendly | personal development budget | conference involvement encouraged.
+ If this sounds like you, we want to hear from you.
+ To apply, please send your CV to careers@flexys.com or get in touch to arrange an informal discussion about the role.
+ We are not seeking help from recruitment agencies at this time, thank you.
+
+
+
+
+
+
+
+
+
+
+ Interested? Let’s talk
+ Get in touch to arrange a meeting or to book a demo
+
+
+       enquiries@flexys.com
+     
+
+
+
+       +44 (0)117 463 6660
+     
+
+ For enquiries in the APAC region
+
+
+       enquiries-anz@flexys.com
+     
+
+
+
+

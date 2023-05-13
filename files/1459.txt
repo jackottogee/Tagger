@@ -1,0 +1,11 @@
+
+This company is within the automotive industry and has been established for over 13 years now. They have been expanding their team within the last year they are now looking to expand their IT team further to get stuck in and grow with the company.
+If you are looking for a company to grow your skills and be a part of the early establishment then this is a company for you! There will be the opportunity to grow your skills and progress quickly within the company as they are currently within a small team.
+The role will mainly be working as part of a small IT team as they start to grow into private equity.
+This is an ASP.NET Core software engineering role in which you will have a vital role in becoming part of the next evolution of the company. You will be looking to help develop applications and platforms.
+Other stacks you may be using will include REST APIs, MSSQL Server (T-SQL), Bootstrap, and others.
+Essential Skills
+
+Commercially experienced with ASP.net (Core and C#)
+Beneficial to have MVC
+Job Owner: a.chan (31511)

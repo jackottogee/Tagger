@@ -1,0 +1,88 @@
+Mphasis applies next-generation technology to help enterprises transform businesses globally. Customer centricity is foundational to Mphasis and is reflected in the Mphasis’ Front2Back™ Transformation approach. Front2Back™ uses the exponential power of cloud and cognitive to provide hyper-personalized (C=X2C2TM=1) digital experience to clients and their end customers.
+Mphasis’ Service Transformation approach helps ‘shrink the core’ through the application of digital technologies across legacy environments within an enterprise, enabling businesses to stay ahead in a changing world. Mphasis’ core reference architectures and tools, speed and innovation with domain expertise and specialization are key to building strong relationships with marquee clients.
+Position Overview:
+As a Graduate Software Engineer, you will be responsible for supporting our software development team in all aspects of development, testing, implementation, support and maintenance of the application. You will also work on improving the application and avoiding future problems by proactively identifying issues and fixing them. After a few years, you may be able to move into a senior software engineer position in which you will be creating entire programs on your own.
+Essential Job Functions:
+
+Coding, testing, and implementing configuration changes in software applications to meet business requirements
+Good technical coding skills
+Developing, refining, and tuning integrations between applications.
+Participating in execution and documentation of tests.
+Analysing and resolving technical and application problems.
+Working closely with peers to improve the application’s functionality by sharing innovative ideas
+Attending developer meetings / daily stand-ups
+Participating in code reviews and quality assurance activities
+Packaging and supporting deployment of releases.
+Continually improving coding skills
+Preparing reports, manuals and other documentation on the status, operation and maintenance of software.
+Provide technical, administrative or operational support to the business
+
+Vacancy Location: Hybrid – Remote and Glasgow
+Requirements:
+
+Recent Graduate or soon to graduate with Bachelors in Computer Science, Engineering or Information Technology
+Basic computer coding languages: .Net, Java, HTML, Python
+Excellent interpersonal, verbal, and written communication skills
+Strong business acumen
+Passion for learning and ability to learn in a fast-paced environment
+Demonstrated creative, analytical thinking and troubleshooting skills are required
+Ability to work seamlessly within a team as well as manage individual tasks
+Should be willing to relocate to any Mphasis operating location
+Willingness to travel
+Strong work ethic
+Effective time management skills and the ability to perform under pressure
+Eager to learn new technologies and methodologies
+
+What You Will Receive
+
+Access to a high-quality, flexible Training and Development Programme where you will be guided through both online and classroom-based training in some of the latest tools and technology that we deploy to our large client base
+Ongoing support throughout the training programme via a dedicated mentor
+Exposure to exciting projects that are typically reserved for experienced consultants
+Continuous opportunities to build your skills and understanding in new and exciting areas
+Ongoing professional and developmental support from your dedicated People Manager
+A range of other benefits including Pension and Life Insurance
+
+Why You Should Join Us
+Our training programmes, access to exciting clients and projects, and dedicated support will accelerate your career much faster than most other graduate schemes. You can expect to quickly get involved with real client work alongside more experienced consultants. We will be here to support you throughout that journey.
+Career Interest
+Interest in pursuing career in technical software development, This will enable the candidate to enhance his career towards becoming a senior Java/SPM programmer and Architect.
+Recruitment & Assessment Process
+
+Initial application is the submission of a CV (no more than 2 pages) and Covering letter (no more than 1 page). For your covering letter please ensure you describe a project or piece of work where you actively used your JAVA skills.
+Your applications will then be assessed by the recruiting team and any successful applications will be invited for further assessment.
+As this role requires a strong degree in Java Technical Capability, candidates undergo technical interviews with technical experts. All candidates are assessed on cultural fit. Candidates may be asked to take a written test or an online test during the interview or assessment. This will be a virtual assessment.
+Successful candidates at this stage will be invited for a final interview which will consist of a combination of technical, competency and behavioral questions. This will be a virtual assessment.
+This concludes the assessment process and candidates will be informed of the decision as soon as possible.
+
+Please Note: If you require any adjustments to be made during the recruitment process, please send us a message through here to confidentially discuss further.
+APPLICATION DEALINE: Sunday 26 March Midnight. We recruit on a rolling basis so we may fill the positions prior to the deadline. We actively encourage you to apply early.
+Equal Employment Opportunity
+Mphasis is an equal opportunity/affirmative action employer committed to a diverse workforce. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, disability or genetic information, gender identity or national origin.
+Job Types: Full-time, Graduate
+Salary: £25,000.00-£30,000.00 per year
+Benefits:
+
+Additional leave
+Company pension
+Private medical insurance
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Ability to commute/relocate:
+
+Glasgow: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (required)
+
+Work Location: Hybrid remote in Glasgow
+Application deadline: 23/04/2023Expected start date: 24/04/2023

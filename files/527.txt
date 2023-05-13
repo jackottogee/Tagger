@@ -1,0 +1,38 @@
+Calex UK Ltd, are recruiting for an Insights and Analytics Developer based in the Midlands area. The position holder will act as the central point of contact for reporting and data analysis within the Network Excellence Reporting & Analytics Team, providing insights to stakeholders through business Intelligences (BI) dashboards and reporting.
+The role requires excellent communication and organisational skills and an ability to coordinate multiple tasks at once. You will need to be flexible and thrive at working in a high demand and rapidly changing environment.
+Successful applicants will be able to demonstrate strong understanding of SQL and Data Visualisation Dashboards (via Tableau). Candidates with experience in Python would be looked upon favourably.
+Key Accountabilities and Responsibilities
+
+Act as a central point of contact for reporting and data analysis within the Network Excellence reporting & Analytics Team
+Capture new Business Intelligence (B.I.) reporting and analysis stakeholder requirements, identify and source relevant data and develop the necessary reports / analysis / insights
+Develop and deliver high quality Business Intelligence (B.I.) reporting solutions to the JLR Network Excellence department and the wider business as necessary
+Maintain and continuously improve existing regular reporting (weekly, monthly, annual) and support Regions, Markets & other key stakeholders with any associated queries
+Maintain Local Work Instructions for regular reports to ensure business continuity
+Supporting other members of team with technical questions and providing necessary upskilling to support continuous improvement of the reporting capability
+Providing actionable insight from regular report data and presenting these to the business stakeholders
+
+Essential Knowledge and Skills:
+
+Experience of Data Transformation and Change, with the ability to manage and interpret large quantities of data
+Strong SQL (Data aggregation, transformation, relational table joins, etc.)
+Strong experience of working with a range of tools and packages to interrogate data and build reports e.g. Tableau
+Strong communication, critical thinking and analytical skills
+Strong workload management, prioritisation, stakeholder management
+Ability to extract actionable insight from data and presenting these to key business stakeholders
+
+Beneficial but non-essential Knowledge and Skills:
+· Basic Python
+This role provides an excellent remuneration package, 25 days holiday, pension, life assurance, employee benefits scheme and group health scheme.
+This is a hybrid role with some working from home and other days working at the Jaguar Land Rover offices in the West Midlands.
+Pre-employment Checks
+Calex will undertake the relevant/standard employment checks with any successful candidate. This includes contacting all nominated references, as well as checking candidate ID, driving licence (if appropriate) and right to work in the UK. Some roles may also be subject to further pre-employment checks (confirmation will be provided through the recruitment process). The nature of this role may necessitate that we undertake a DBS check.
+How to Apply
+To apply, please provide a full and up to date copy of your CV together with a covering letter detailing why you feel you would be suitable for this role.
+Applications without a cover letter will not be considered.
+Unfortunately, we cannot respond to everyone. If you have not heard back from us with 14 days your application will not have been successful.
+Job Type: Full-time
+Ability to commute/relocate:
+
+Coventry, West Midlands: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person

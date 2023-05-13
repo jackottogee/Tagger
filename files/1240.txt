@@ -1,0 +1,26 @@
+
+Python Developer {NASA, European Space Agency}
+ Belfast
+ £60,000 - £80,000 + Market leading Training + Progression opportunities
+ Are you a skilled Python Developer looking to play a crucial role with an extremely talented team of developers, working for an award-winning software company on hi-tech projects with organisations such as NASA and the European Space Agency?
+ Do you want the rare and exciting opportunity to play a pivotal part in the growth and success of a company specialising in the creation of innovative solutions for a range of complex and demanding industries?
+ On offer is a great opportunity for a gifted Python Developer to join an incredibly exciting, ever growing company who since their inception, have grown into a world class software solution provider developing solutions that are intelligent, platform-independent and adaptable.
+ In the role, the Successful Python Developer will work on core products and major customer solutions. Our industry leading clients is looking for a web developer responsible for the development of both server-side logic and front-end elements using the latest web technologies.
+ This role would suit a Python Developer who is highly technically proficient in Python, Django, PostgreSQL and be able to write, deploy and maintain web applications.
+ The Role:
+
+ Developing new Geospatial web applications
+ Based on requirements implement, build and maintain web applications
+
+ The Person:
+
+ Experience in web application product development using Django framework
+ Experience developing with Python
+ Experience in building REST APIs
+ Experience with relational databases, specifically PostgreSQL
+
+ Keywords: Python, Docker, AWS, Django, Belfast, Dublin, Hybrid
+ Reference Number: BBBH7624
+ If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV.
+ We are an equal opportunities employer and welcome applications from all suitable candidates. The salary advertised is a guideline for this position. The offered renumeration will be dependent on the extent of your experience, qualifications, and skill set.
+ Ernest Gordon Recruitment Limited acts as an employment agency for permanent recruitment and employment business for the supply of temporary workers. By applying for this job, you accept the T&C's, Privacy Policy and Disclaimers which can be found at our website.

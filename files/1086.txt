@@ -1,0 +1,26 @@
+Jellyhaus, based near Warwick, are looking for a Junior-Level or Mid-Level PHP Developer to help support on-going contracts with Blue Chip clients using PHP programming and MySQL Server databases. As a small team with a big output and well-established great clients, we are looking for someone who is self-motivated, happy working on their own and as part of the team, role is office based with some remote working.
+Responsibilities
+Perform a mix of maintenance, enhancements, and new development as requiredWork in a data analyst role and with business intelligence applicationsAbility to liaise directly with clients for our existing support contracts and work with Jellyhaus team. Role can be based on contract, freelance or possibly full-time.
+Essential Skills
+Expertise in PHP frameworks, MySQL databases and front-end technologies (HTML, JavaScript, CSS).
+Attention to detail, structure and desire to 'get it right first time'.
+Additional Preferred Skills
+Linux Server Management
+GIT
+Front End Javascript Frameworks (Node, Vue, etc.)
+Mobile App Build via Frameworks (Ionic, Framework7, Cordova, etc.)
+Database Optimisation (mySQL)
+Please email hello@jellyhaus.com with your CV if interested in finding out more.
+No contact needed from recruitment companies at this stage - thank you.
+Job Type: Fixed term contractContract length: 6-12 months
+Salary: £40,000.00-£55,000.00 per year
+Benefits:
+
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Sherbourne, Warwickshire
+Application deadline: 21/03/2023Reference ID: JHPHPDevExpected start date: 24/04/2023

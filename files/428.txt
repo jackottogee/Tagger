@@ -1,0 +1,54 @@
+Summary
+Are you passionate about joining a fast-paced software start-up with high ambitions to virtualise the industrial world? You have come to the right place!
+At Virtual Arts, we imagine a future that will allow us all to explore the world virtually using immersive technologies. We are a small but talented highly motivated team who have a burning passion for software engineering in all its forms. We are enthusiastic about constantly learning to develop our skills and expand our knowledge into new areas. We strongly believe that professionalism and a positive can-do attitude is key and will do whatever it takes for the company to succeed.
+Description
+As a Graduate Software Engineer, you will be learning about all areas of software development and collaborate with other software engineers, 3D artists, scrum masters and product owners to deliver high quality industrial experiences, serious games and software tools.
+Joining us at Virtual Arts you will use a diverse collection of languages and software to support customers and fulfil their requirements across many differing projects. Part of this role will be to create and maintain various software tools and automation flows as well as writing software documentation, blogs, video tutorials, etc.
+Due to the nature of the projects that we handle here at Virtual Arts, Graduate Software Engineers will need to be able to quickly learn new skills that are outside of their knowledge base in order to independently solve problems. We require all employees to be in our Cambridge office to allow the team to work efficiently and achieve these goals, therefore this role does not offer any remote working opportunities.
+Key Qualifications and Education
+
+Degree in Computer Science, Game Programming, STEM or equivalent
+Passionate about all areas of software development
+Enthusiastic about serious games and industrial experiences
+Interested in immersive technologies such as VR, AR and MR
+Highly driven, independent and well organised
+Attention to detail skills
+Eagerness to learn and adapt
+Self-critical and willing to take constructive criticism
+Good skills in a programming language such as C#, C++, Python or similar. More than one is desired
+Good knowledge of developing in a game engine such as Unreal, Unity or similar
+Knowledge of software version control systems such as Git, Subversion, Perforce, etc.
+Desirable knowledge of other areas of software engineering such as full stack development, embedded programming, machine learning or similar
+
+Equal Opportunity
+Virtual Arts is proud to be an equal opportunity employer. We do not discriminate based on race, ethnicity, colour, ancestry, national origin, religion, sex, sexual orientation, gender identity, age, disability, veteran status, genetic information, marital status or any other legally protected status.
+Job Type: Full-time
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Discounted or free food
+Life insurance
+On-site parking
+Profit sharing
+Sick pay
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Application question(s):
+
+What areas of software development are you passionate about?
+What do you find appealing about working for a start-up?
+Tell us about yourself
+Describe a project that you are proud of and why?
+Explain one time when you worked on a project that did not go well and what you learnt from it?
+Do you have any questions for us?
+
+Work Location: In person

@@ -1,0 +1,50 @@
+C# Software Engineer required by leading SaaS provider to work in dynamic expanding Agile dev team. They work on exciting forward-thinking products that are making a difference to organisations all over Europe.
+They work fully remotely but you will need to be UK based so can attend company get togethers from time to time. You can use their offices in London or Glasgow if you like but do not have to.
+Salary: To £45,000 plus 25 days holidays (bank hols on top)
+The Job:
+
+Designing, developing and maintaining software applications and services in C#, .NET, SQL, ASP.NET environment.
+Collaborative working with other team members and a focus on high quality robust software solutions in a SaaS environment.
+Writing clean, maintainable and well-documented code.
+Translating business requirements into technical specifications.
+
+Skills:
+
+Software development experience in C#, .NET including strong knowledge of OOP concepts and patterns.
+Worked with web technologies such as ASP.NET, JavaScript, HTML/CSS and frameworks (Angular or React or Vue.js).
+Visual Studio, SQL Server and Agile experience.
+Worked in a cloud platform environment – Azure or AWS ideally.
+Knowledge of DevOps, automated unit tests for your code, integration patterns & tech (REST, SOAP, XML, JSON) would be ideal.
+
+Nice to have: Any microservices architecture, Docker containers or RESTful API’s experience.
+Who & why should you apply:
+If you want to work in an amazing team, in a role that has come from expansion, for a supportive technology company that encourages growth then you should apply.
+They require you to be comfortable working remotely, be innovative, a problem solver, want to progress your skills and have a passion for high quality code/solutions.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£45,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Flexitime
+Store discount
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Experience:
+
+Software development: 2 years (required)
+C#: 2 years (required)
+.NET: 2 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote
+Reference ID: ZC3978Flexitime

@@ -1,0 +1,48 @@
+
+Quantitative Developer London  As a Barclays Quantitative Analyst, you’ll join our Quantitative Analytics Torus team. Torus is being integrated into bank’s IT applications & replaces the existing legacy valuation engines, so you’ll be involved in writing & supporting codes in a variety of languages. This is an exciting opportunity to be part of a knowledgeable team, where you will showcase your technical expertise & your willingness to learn/develop new skills, supporting the team on the delivery of a key Quantitative Analytics project.
+Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+  We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally are able to request work patterns to reflect their personal circumstances. Please discuss the detail of the working pattern options for the role with the hiring manager.
+  
+
+What will you be doing?
+ • Designing, building and supporting core technological components of Torus
+  
+
+Managing the communicating code design and ensuring it will be clear to others
+Providing support to teams in Quantitative Analytics (QA) and IT regarding efficient development within the Torus code base
+Maintaining and continuously improving the code base and related tooling
+Developing and supporting tools and techniques that assist with on boarding of Torus
+Being responsible for delivering Torus to IT for integration into new systems in the bank
+Interacting with senior stakeholders in Quantitative Analytics (QA), Risk, IT and Front Office
+Ensuring that all activities and duties are carried out in full compliance with regulatory requirements, Enterprise Wide Risk Management Framework and internal Barclays Policies
+
+
+What we’re looking for:
+ • Bachelor’s Degree in Computer Science, Maths, Physics or Engineering from a top school
+  
+
+Basic understanding of concepts such as: market data, life cycling, pricing, risk, hedging, discounting and calibration
+Experience at testing code with a deep C++ knowledge
+Excellent written and verbal communication skills
+
+
+Skills that will help you in the role:
+ • Master’s Degree or PhD
+  
+
+Financial model development experience
+Experience at bringing financial models or analytics into production
+Multi-platform development skills (Windows, Linux), with Proficiency in Python
+
+
+Where will you be working?
+ 5 North Colonnade is home to our investment bank and is in the heart of Canary Wharf, just a short walk from our headquarters at Churchill Place. It boasts an array of onsite amenities such as dry cleaner as well as a deli and buffet style staff restaurant. The building is easily accessible by tube, docklands light railway and all major bus links. The atmosphere is second to none with a real buzz being created around the offices within.
+  
+
+
+
+
+ #LI-Hybrid
+   #LI-LW2020
+ 

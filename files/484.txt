@@ -1,0 +1,51 @@
+Software Developer – Salesforce
+Reference No.: MC2023_2136_82
+PRINCIPAL RESPONSIBILITIES
+
+Develop, build, configure and unit test solutions from designs documentation
+Communicate with internal colleagues to understand the needs of the department and the organization as a whole in relation to a specific project/task.
+Implement complex development and configuration activities for clients
+Participate in estimating and writing requirements, deliverables, assumptions and exclusions documentation
+API Integration with payment gateway using FinDock
+Payment Gateway Integration with Stripe and Paypal
+Developed a roistering mechanism for managing Sales Manager shifts and opportunity assignment and key reusable components
+Develop Lightning Web components, Aura components, Apex classes
+Ensure the teams are producing high quality, well-tested software that conforms to all technical guidance and standards.
+Ensure any reusable code created and any innovative work done within the team is communicated.
+
+Experience and Qualifications (Desirable)
+
+BSc in Computer Science, Engineering or relevant field.
+Experience in Lightning Web Components, Custom Metadata, Aura components, Apex classes.
+Experience with common JavaScript frameworks such as AngularJS, React, etc
+Experience in API Integration with payment gateway using FinDock.
+Experience with data migration and ETL/integration tools.
+Ability to effectively translate and communicate business requirements into technical solutions
+Experience with web application development including JavaScript, CSS, or HTML5.
+Ability to drive projects to successful, on-time completion, and influence stakeholders and team members
+
+Salary
+The position offers an annual gross salary from GBP 30000 to 40000 depending on experience.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£40,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+Software Developer – Salesforce: 1 year (preferred)
+
+Language:
+
+English (preferred)
+
+Work authorisation:
+
+United Kingdom (preferred)
+
+Application deadline: 03/05/2023Reference ID: MC2023213682

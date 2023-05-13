@@ -1,0 +1,86 @@
+
+
+Experience Required:
+
+
+    Renovite Technologies specialises in transforming mission critical payments systems using 21-century cloud-native technology. We are a global team of payments experts in the ever-evolving field of electronic payments with a proven track record of delivering and managing innovative solutions worldwide. We have offices in the USA, Scotland and India, where we develop, deliver and support our products.
+   
+
+    We are looking for talented individuals to join our software development team, working on the development of the products within our suite of cloud-native payment solutions. You will be passionate about developing high-quality software, using the latest technologies, and will be keen to learn and further your knowledge within the payments industry. 
+   
+
+    You'll join a working in agile environment where teams around the globe are working together to lead the way in cloud-native payment solutions. 
+   
+
+    We will provide learning opportunities through a combination of on-the-job coaching, self-guided learning, and dedicated training days led by our experts, and would expect the successful candidate to progress rapidly to become a fully self-sufficient developer encompassing a range of highly marketable skills.
+   
+
+
+
+What we are looking for
+
+
+    A recognised qualification in Computing or Software Development
+   
+
+    Java programming experience, preferably with knowledge of Spring / Spring Boot
+   
+
+    Experience of web technologies (HTML, JavaScript, Angular)
+   
+
+    Experience using version control systems e.g. Git
+   
+
+    Knowledge of Agile methodologies, particularly Scrum
+   
+
+    An understanding of SQL/databases 
+   
+
+    Familiarity with industry-standard data formats e.g. XML/JSON/YAML
+   
+
+    Proactive nature, and the ability to work in a fast-paced environment
+   
+
+    A desire to continually improve your knowledge of software & technology trends 
+   
+
+    Excellent communication skills and enthusiasm for teamwork and collaboration
+   
+
+    A basic understanding of cloud environments (e.g. AWS)
+   
+
+    Any experience in containerisation (e.g. Docker/Kubernetes) is beneficial
+   
+
+
+
+What we offer
+
+
+    A competitive salary 
+   
+
+    25 days annual leave + 9 Scottish Bank Holidays
+   
+
+    Renovite contributes 5% of gross salary to the pension 
+   
+
+    Casual dress code
+   
+
+
+
+
+    Free parking
+   
+
+
+Email cover letter and CV to: hr.uk@renovite.com
+
+
+

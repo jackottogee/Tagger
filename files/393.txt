@@ -1,0 +1,67 @@
+
+
+Remote
+Posted 1 week ago
+
+
+Kaiku 
+
+
+Title: Remote Full Stack Developer Apprentice
+ Company: Kaiku
+ Full Address: 71-75 Shelton Street, London, Greater London, United Kingdom, WC2H 9JQ
+ Weekly Hours Worked: 37.5 hours
+ Salary: £21,000 PA
+ Please contact Nabila on Nabila.Lotfy@estio.co.uk or call 01133 500 333
+
+
+ About the company:
+ What do we do? Kaiku is a platform that helps startups become investment ready, source early stage funding, and find the right partner network to scale-up (www.kaiku.co). We work with over 100 referral partners accelerators, universities, incubators. In parallel, we work with over 300 institutional investors (family offices, venture capital and corporate venture capital). Currently, we are a team of 13 members with experience from Asif Ventures, Strategy &, Lazard, Aberdeen Standard Investments, Station F, and many more. Kaiku launched the first iteration of the platform in November 2020. Additionally, we are part of Startup Wise Guys, which is the largest B2B accelerator in Europe.
+ Brief job description:
+ Estio Training have an exciting new opportunity for a Remote Full Stack Developer Apprentice with Kaiku, a Tech Firm based in London.
+ Job Description:
+ At Kaiku you’d be building software in a young, agile, and international development team. The application you’d be working on, is a modern, scalable, and cloud-native web app written entirely in JavaScript. The frontend is built with React and Storybook. The backend is written with Node.js and fastify. The job includes the following responsibilities:
+ Furthermore, the job offers a lot of flexibility and we can tailor it to your personal preferences. This should facilitate a positive working and learning environment with great benefits:
+ Your duties and responsibilities in this role will consist of:
+
+Independently develop high-quality software and maintain great test coverage.
+Work closely with the product team to add new features to our user-facing platform.
+Actively participate in the ideation process and contribute to the direction of the platform.
+
+Qualifications:
+
+5 GCSEs grades A*-C/9-4 or equivalent (including English Language and Maths)
+Will need 104 UCAS points.
+
+Skills Required:
+
+JavaScript (ES6+)
+
+
+React.
+Experience with REST-APIs.
+Good command of Git.
+Testing your code comes naturally to you (Jest)
+Designing UI/UX with stakeholders.
+
+Bonus Qualities:
+
+Experience with functional programming.
+Working with DevOps code pipelines incl. Terraform + GitLab CI.
+Previous experience with agile projects SCRUM.
+
+Future prospects:
+
+The role offers long term security and the opportunity to progress into a permanent position.
+
+Training to be provided:
+ Estio/BPP apprenticeship training programmes are delivered virtually by our fully qualified and industry experienced training team. Using their expert knowledge, we’ve purposefully built our programmes around the real-world use of modern technology, so that the skills we create can be directly applied in the workplace.
+ Throughout the apprenticeship learners receive coaching, help and guidance from a dedicated team who are there to ensure they get the most from their work experience.
+ Successful completion of this apprenticeship gives you an accredited Level 6 Digital and Technology Solutions Professional Degree Apprenticeship.
+
+
+
+
+To apply for this job email your details to Nabila.Lotfy@estio.co.uk.
+
+

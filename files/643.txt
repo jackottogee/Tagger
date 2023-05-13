@@ -1,0 +1,54 @@
+
+Show more
+
+Job Overview:
+
+ Do you love finding answers to sophisticated problems? When you write software, do you think of how to make software better for other software developers? The Developer Relations Team is looking to recruit an enthusiastic software engineer to interact and establish relationships with some of the most innovative games companies in the industry!
+ 
+
+ Responsibilities:
+
+ This role bridges finding deep technical problem solving for our partner's questions, to collaborating with our partners to find their exact needs. You’ll be identifying issues and producing solutions and feedback for partners. 
+  
+ The role involves presenting your findings and explaining solutions to both partners and the engineering teams at Arm, as well as giving recommendations to improve performance for the future. You'll be working closely with internal software product development and graphics research teams, provide valuable insight for the GPU engineering teams, and be part of the teams looking at the long-term vision for how Arm's technology is used. You will have strong analytic and communication skills to work independently and collaboratively with internal teams to solve customer raised issues and requests related to GPUs, games and graphics.
+ 
+
+ The role is also responsible for creating and maintaining links to our partners. As part of the Developer Relations Team, this will involve attending conferences and partner meetings, and creating engaging content based on building strong links in the gaming industry. You will also help represent the voice of the developer to internal and external team members regarding their technology outlook, and how developers use software in real world use cases. Expect to develop material around the capabilities and opportunities for Arm across our graphics and gaming outreach programs.
+ 
+
+ Required Skills and Experience:
+
+
+ Great communication skills: ability to express ideas and connect with other team members, customers and the wider developer community Arm engages with.
+ Have crafted Android applications or mobile games in the past.
+ Working knowledge of C++ and C#.
+ Familiarity with Unity or Unreal, Vulkan or OpenGL ES, or willing to learn more about game engines and graphics APIs.
+ Curiosity about the GPU hardware and software stacks at Arm and learning how to extract the best possible performance in real-world use-cases.
+
+
+ “Nice To Have” Skills and Experience:
+
+
+ Experience with performance profiling tools for mobile
+ Experience with shader development and optimization
+ Understanding of power modelling and analysis along with code optimization for GPUs is useful for this role.
+ Knowledge of mobile GPU architectures, and how they compare to desktop/console GPUs
+ Familiarity with open-source software would be appreciated, as well as having an interest in keeping up with new graphics technologies.
+ Have written or presented technical work in the form of blogs, videos, technical papers, and roadmaps.
+
+
+ In Return:
+
+ All arm employees are provided with vital training to succeed in their respective roles. As well as a friendly and high-performance working environment, Arm offers a competitive benefits package including private medical insurance, sabbatical, supplementary pension, and wellness benefits.
+ 
+
+ We are offering a hybrid approach to home and office working to provide an adaptable experience for all employees. We expect some working time to be spent in office, to promote a strong collaborative environment with good team integration but are accommodating to different home working requirements.
+ 
+
+
+   #li-JB1
+ 
+Equal Opportunities at Arm
+Arm is an equal opportunity employer, committed to providing an environment of mutual respect where equal opportunities are available to all applicants and colleagues. We are a diverse organization of dedicated and innovative individuals, and don’t discriminate on the basis of any characteristic.
+Hybrid Working at Arm
+Arm’s hybrid approach to working is centred around flexibility, where we split our time between the office and other locations to get our work done. Within that framework, we empower groups and teams to determine their own particular hybrid working pattern, depending on the work and the team’s needs. Details of what this means for each role will be shared upon application. In some cases, the flexibility we can offer is limited by local legal, regulatory, tax, or other considerations, and where this is the case, we will collaborate with you to find the best solution. Please talk to us to find out more about what this could look like for you.

@@ -1,0 +1,34 @@
+
+We're looking for a skilled Frontend Developer, a master of Vue.js, to join our Tebex team and drive the evolution of our innovative platform. As our Vue.js Frontend Development champion, you'll be the essential link between our platform and in-game creators, ensuring they excel in crafting the most remarkable gaming experiences.
+ Being our first dedicated frontend developer, you’ll have a significant opportunity to shape our frontend development tooling and processes moving forward, with an opportunity to lead the frontend development team as future hires are made.
+ So if you’re eager to immerse yourself in hands-on technical challenges, make significant contributions to some of our most important projects, and strengthen our position as a market leader in empowering in-game creators - come, join our adventure.
+ This position is a remote position, available for UK residents only.
+ Requirements: 
+ 
+
+Eligibility to work in the UK
+ 3+ years of experience with HTML, CSS, and Vue.js, with a demonstrable understanding of the requirements when working on complex, multi-team projects
+ Experience with automated testing tools such as Jest, Selenium, etc.
+ High standards and attention to detail, with the ability to produce high-quality, maintainable code
+ Strong communication skills, with the ability to work effectively in a team environment
+ Openness to feedback and ideas, with a willingness to learn and grow.
+ Strong problem-solving skills, with the ability to identify and resolve issues efficiently
+
+
+ As part of Overwolf, the leading modding platform in the game industry, Tebex supports thousands of server owners and content creators on various platforms, including Minecraft, Rust, Discord, Ark, FiveM, and more.
+ Overwolf is the world’s leading platform for in-game creators and gamers who build or consume user-generated content around their favorite games. We’re talking about some of the biggest AAA titles out there – games like Minecraft, The Sims, League of Legends, World of Warcraft, PUBG, and Fortnite – to name just a few.
+ The way people create and play games around the world is changing, and Overwolf is leading the revolution. We empower just about 165K creators to make the best games even better - giving them everything they need to create unique gaming experiences that serve more than 35M gamers every month.
+ Our mission is to turn in-game creation into a new profession and build the next generation of games. And we’re just getting started.
+ Are you ready to join the pack and shape the future of gaming?
+ Responsibilities:
+ 
+
+In this role, you will:
+
+ Take the lead in producing the frontend for all our products and services – HTML, CSS and Vue.js
+ Communicate with the product teams and backend developers to ensure frontend aligns with design/vision, and the backend APIs enable this.
+ Investigate and resolve bugs, as well as performance issues of existing code 
+Share your experience and unique knowledge with the rest of the development team 
+Consider the security & performance impacts of all code being produced on projects you are assigned to
+ Work collaboratively with the product team to ensure that user experience remains a key focus throughout the frontend development process.
+

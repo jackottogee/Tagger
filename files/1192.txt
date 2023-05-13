@@ -1,0 +1,22 @@
+
+.NET Developer - Global Fitness Movement - London
+ (Tech stack: .NET Developer, .NET 7, ASP.NET, C#, React, Angular 14, Microservices, Vue.js, TypeScript, Azure, Web API 2, Agile, SQL Server 2022, Programmer, Full Stack Engineer, Architect, .NET Developer)
+ Born in 2012 in California, our client began development on an app and website that made finding and booking classes effortless for fitness goers across the state. The company is now changing how people live their lives, bringing together a community of enthusiasts, helping people find the activities that make their true selves come alive or supporting small businesses and studios across the entire globe. They believe that being active is the key to living a happy and healthy life. Our client is now active in over 15 countries and continues rapid growth on a yearly basis.
+ It takes a team to make things happen and this team includes some of the most talented .NET Developer in the industry. They don't just have the best developers - but also the best karaoke stars, community activists and amateur chefs. Together, they are making the world an active place, which makes every day pretty damn gratifying.
+ They are looking for .NET Developer with excellent knowledge of object orientated development principles and technologies such as: .NET, .NET Core / ASP.NET MVC, C# and SQL Server. You'll receive expert training on the latest technologies including: .NET 7, JavaScript, React, Angular 14, Microservices, MongoDB, Vue.js, TypeScript, Azure, AWS, Web API 2, Entity Framework, Node.js, Elasticsearch, Agile, TDD, BDD, Scrum, Kanban and SQL Server 2022.
+ All positions come with the following benefits:
+
+Annual bonus.
+Free medical, dental and vision coverage.
+Flexible work hours.
+£5,000 training allowance.
+Healthy (and unhealthy) snacks.
+Charitable giving programs.
+Casual dress - fitness wear encouraged!
+Team classes, events and happy hours.
+
+There is no 'I' in team. By working with talented individuals and developing upon innovative ideas, the team continues to succeed and grow. They are a global movement with big plans for the future. It's an incredible opportunity so if you're interested, act and apply today!
+ Location: London, UK / Remote Working
+ Salary: £140,000 - £160,000 + Bonus + Pension + Benefits
+ Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+ NOIRUKNETREC NOIRUKREC

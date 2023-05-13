@@ -1,0 +1,148 @@
+
+
+  FactSet’s product suite of smart analytics and unique data empower the world’s leading financial service professionals to make more informed decisions every day. At our heart is an inclusive community unified by the spirit of going above and beyond. Our philosophy is to embrace diversity, and that our best ideas can come from anyone, anywhere, at any time. We continuously look ahead to advance the future and technology of our industry, by rolling up our sleeves to solve tough problems together, and by learning from our successes, as well as our failures.
+ 
+
+
+   Being a software engineer at FactSet is to shape the future of investments technology. Our engineers use cutting edge technologies including machine learning, natural language processing, predictive analysis, and cloud computing to solve some of the investment community’s greatest challenges – relying every step of the way on some of our most creative minds to create sleek and intuitive UIs that make our products among the industry’s easiest to use.
+ 
+
+
+   We’re looking for hard-working and out-of-the-box thinkers from all software engineering disciplines to bring new perspective and fresh ideas to our team. Engineers are aligned with specific teams where they design and implement applications for integration within the FactSet product suite and deployment to investment professionals worldwide.
+ 
+
+
+   Our engineers find the right balance between FactSet's flexible environment where everyone can contribute individually, yet at the same time cultivate a community where they can depend on each other for help, learning, and development.
+ 
+
+
+
+    What you will be doing:
+  
+
+    FactSet relies on innovators like you to build and maintain the technology that helps us solve our clients’ greatest challenges by being a powerful and reliable partner. You will be part of a global and fast-growing company where you will:
+  
+
+
+
+      Code for new releases, fixes and enhancements within a structured environment (including test driven development and agile approaches)
+    
+
+
+      Conduct ongoing reviews of system design and architecture
+    
+
+
+      Deliver clean, well-tested code that’s reliable, maintainable and scalable
+    
+
+
+      Partner with other engineers in proposing and implementing new processes, designs and engineering practices that make the team more effective
+    
+
+
+      Take responsibility for software performance analysis and system tuning
+    
+
+
+      Wide range of roles available including web, services, infrastructure, dev-ops, data processing, database and full-stack development
+    
+
+
+
+    Job Requirements
+  
+
+
+
+      Passion and enthusiasm for software engineering and keeps up to date with the latest technologies
+    
+
+
+      Working towards a degree in Computer Science or related technology subject
+    
+
+
+      Good understanding of an object orientated language and familiarity with a scripting language
+    
+
+
+      Thorough understanding of data structures and algorithms
+    
+
+
+      Willingness to handle occasional on-call duties depending on team
+    
+
+
+
+    Why Life is Better as a FactSetter:
+  
+
+    We believe that a good working environment and happy people are key to success and we continuously look at ways to support this. FactSet has once again been included on the list of the UK Best Workplaces, which marks the 12th consecutive year. We consider this a testament to the great people, strong culture and benefits we have here.
+  
+
+
+
+      FactSet looks to foster a globally inclusive culture. From leadership commitment, to employee led resource groups, FactSet has diversity, equity, and inclusion as a priority. Read more about our priorities here: 
+     
+      https://www.factset.com/company/diversity-equity-and-inclusion
+     
+
+
+
+      Reimbursement for eligible expenses related to the CFA, CIPM, CAIA and FRM exams
+    
+
+
+      Free lunch and daily fresh fruit
+    
+
+
+      Unlimited snacks and drinks, fully stocked kitchen
+    
+
+
+      Collaborative and social working environment
+    
+
+
+      No limit on volunteering opportunities
+    
+
+
+      Yearly 24-hour Hackathon
+    
+
+
+      Dedicated social committee
+    
+
+
+      Regular Engineering social events, including BBQs, happy hours, gaming nights
+    
+
+
+      VitalityHealth rewards for healthy living; free cinema tickets, discounted gym memberships and much more
+    
+
+
+      Pension, life and medical insurance, stock purchase plan
+    
+
+
+      Mentoring scheme and regular 1-2-1 meetings with your Team Lead
+    
+
+
+
+    As a new graduate, you will go through a 4-week training programme, which will teach you the ins and outs of our technology stack. After training, you’ll be matched with a team suiting your skill set and interests; here you’ll grow your career supported and challenged by a strong network of engineering colleagues from a range of backgrounds.
+  
+
+    FactSet is an organically grown company. We want to give our engineers the opportunity to grow and develop within the organisation and therefore always seek to promote internally rather than hire externally.
+  
+
+
+    We hire on a first come first serve basis, so we would encourage you to apply early to avoid disappointment.
+  
+

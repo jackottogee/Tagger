@@ -1,0 +1,71 @@
+Software Developer 
+
+Do you want to work for a company that deliver all their code in-house?
+Are you an ambitious software developer who wants to work with a vibrant team who are expanding due to their success?
+Do you want to work for a software house that encourage you to expand your development skillset?
+Can you add value working in a team that value collaborative working?
+
+My client is looking to expand their Software Development team. We’re looking for a person with a high attention to detail to help us produce industry leading solutions through the updates and release cycles of their products and software. The role will involve working on improving the existing architecture and working on new products and features.
+Here's what one of the Software Developers have to say:
+“Coming from desktop software development background, moving to Web and Cloud based software company was a daunting thought. However, I have been helped and encouraged to develop my skillset on the job and I have learnt so much since I joined. Knowing that there is a strong team alongside me for the journey as the software continues to grow and change to keep up with an ever-evolving industry has helped the confidence in my own work grow. I am looking forward to seeing what the company does next!”
+What will you be doing?
+We are working to re-architect the ecommerce software, and improve the architecture, scalability and reliability of the Cloud POS platform using the latest technology (Vue.js 3 and .Net Core)
+Our next big projects are to fully internationalise our products and create a new user interface for our Cloud POS platform.Key Responsibilities
+
+Developing industry leading solutions together with your team.
+Write software which is thoroughly tested and adheres to our code review standards.
+Ensure all work follows company standards and is properly managed thru our Jira issue management platform.
+Work closely with your team and other development teams as well as QA engineers, product, and project managers.
+The ability to work well in a team as well as independently on individual projects and challenges.
+Participating in daily stand-up meetings & Sprint meetings.
+Attention to best practices, quality and detail, and a personal drive to deliver great results.
+
+Essential Skills/Qualifications
+
+Microsoft .Net.
+C# experience.
+General understanding of UX best practices, HTML, CSS, jQuery, and AJAX.
+A strong curiosity with a problem-solving attitude.
+A sound grasp of ICT, such as using MS Office.
+Excellent verbal and written communication skills.
+Strong numeracy skills.
+Ability to work to deadlines under pressure.
+Upbeat and friendly attitude.
+Ability to be able to pick up new systems with ease.
+
+Desirable Skills/Qualifications:
+
+Azure DevOps and Git
+Azure
+Entity framework
+Vue.Js
+Microsoft SQL Server
+C# Web API
+.Net Core
+Experience using Jira
+Legacy knowledge of Vb.Net and ASP Web Forms
+
+It is not often that roles come up in companies that have been successful and grown because they believe in their employee’s skills and creativity. Being part of a great team can make the difference to how you grow and develop whilst being part of something you can genuinely enjoy.
+This role is hybrid working - home/ofice. Working Monday to Friday.
+Company health care cover included.
+The role is site based in Cumbria and my client is not looking to sponsor visas for this role.
+Work Remotely
+
+No
+
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£55,000.00 per year
+Benefits:
+
+Private medical insurance
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+Software development: 3 years (required)
+
+Reference ID: DS Soft Dev Jan 22

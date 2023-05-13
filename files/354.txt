@@ -1,0 +1,25 @@
+
+
+A growing SaaS organisation are looking to bolster their development team with several PHP Developers over the next 1-2 years. Off the back of recent funding and further growth in their client portfolio, they are looking for PHP Developers, preferably with experience of Laravel and Vue.js to take their SaaS platforms to the next level. You will be joining a team of guys who are very passionate about their product, and the people who develop the product. We are looking for a techy individuals who are keen to bring ideas to the table that will improve their product moving forwards. Above all, they are family guys, offering a very flexible working environment.
+
+ Job Title: PHP Laravel Developer aka, PHP Developer, Web Developer, Laravel Developer
+ Location: 100% Work from home
+ Salary: £40k-£55k base plus great benefits
+ Benefits: 25 days holiday, BUPA Private Healthcare, Pension, Hybrid Working
+
+ What you will bring to the team:
+
+ A passion for development and being part of a growing company
+ Laravel development skills
+ JavaScript, HTML and CSS
+ GIT version control
+
+
+ The below would be great, but we know you’ll pick it up if not:
+
+ Vue.js
+ AWS
+
+
+ Excited about making a difference and being rewarded for future success? Please get in touch by clicking apply and sending through a CV.
+

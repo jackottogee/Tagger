@@ -1,0 +1,49 @@
+
+Senior Embedded Software Developer - Android
+
+Location: London
+
+£75,000 - £100,000 per annum
+
+ We are seeking a talented and experienced Senior Embedded Software Developer to join our core team in London. You will be working on innovative products and experiences that sit at the intersection of media and technology.
+ 
+ As a Senior Embedded Software Developer, you will be responsible for developing performant customizations to Android system level components and built-in apps. You will also be responsible for integrating custom devices into the Android platform, writing kernel drivers, and maintaining device-tree files.
+ 
+ Additionally, you will contribute to the exploration and definition of a highly complex product during the prototyping stage, in collaboration with designers and other engineers.
+ 
+ As a Senior Embedded Software Developer, you will bring best practices to the productization stage of development.
+ 
+ Responsibilities:
+ 
+
+
+Develop performant customizations to Android system level components and built-in apps
+Integrate custom devices into the Android platform, write kernel drivers, and maintain device-tree files
+Port kernel drivers from different platforms
+Test and verify delivered software
+Contribute to the exploration and ongoing definition during the prototyping stage for a highly complex product, in collaboration with designers and other engineers
+Bring best practices to the productization stage of development
+
+ Required Skills: Technical:
+ 
+
+
+Embedded Linux and/or Android development
+Experience with Android build systems
+Experience as a System Level Programmer, including bootloader & HAL layers
+Experience working on graphics components such as window managers, compositors, etc
+Integration of a hardware platform, such as writing Linux kernel device drivers
+Performance optimization
+Experience with C/C++, Java
+Understanding of networking and security from an application point of view, in particular in low-latency use cases
+Strong Linux kernel fundamentals, Linux structure
+
+ Teamworking:
+ 
+
+
+Comfortable in an agile environment
+
+ If you meet the qualifications and are excited about the prospect of joining a team working on cutting-edge products, please submit your resume for consideration. We offer competitive compensation packages, including comprehensive healthcare benefits and opportunities for career growth.
+ 
+ INDHP

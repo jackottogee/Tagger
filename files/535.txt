@@ -1,0 +1,76 @@
+
+
+Northamptonshire
+Posted 1 week ago
+
+
+Verto UK 
+
+
+Title: Software Developer Apprentice
+ Company: Verto UK
+ Full Address: 3 Swallow Court, Kettering Venture Park, Kettering, Northamptonshire, United Kingdom, NN15 6XX
+ Weekly Hours Worked: 40 Hours
+ Salary: up to £22,000
+
+
+ Please contact Megan on Megan.Dover@estio.co.uk or call 01133 500 333
+ About the company:
+ The company has been established for over 19 years in Kettering and is a leading website design agency in the East Midlands, developing websites for the region’s growing and best companies.
+ They are constantly growing and are proud to have a team of long serving staff. You will be working in a friendly and welcoming team which encourages co-operation and helping each other.
+ Brief job description:
+ Estio Training have an exciting new opportunity for a Level 4 Software Developer Apprentice with Verto, a Web Design, Social Media & SEO Agency based in Kettering.
+ Job Description:
+ Verto are looking for an enthusiastic Apprentice Software Developer to join a team of over 12 coders, reporting to the Head of the Web Development and the MD. The developer will have website development experience but not necessarily commercial experience. You will ideally have examples of websites you have produced.
+ Your duties and responsibilities in this role will consist of:
+ Building database-driven websites and web applications in ASP.Net MVC using C#. No graphic design experience is required, but you will be provided with designs in Adobe Illustrator format and be expected to develop a website which matches the design perfectly, so a keen eye for detail is important.
+ You will produce Content Management Systems for every website built, however there is an in-house system which you will be expected to integrate with.
+ Taking on a new website will involve direct contact with clients, so you will be expected to have good interpersonal skills.
+ Qualifications:
+
+5 GCSEs grades A*-C/9-4 or equivalent (including English Language and Maths)
+
+Skills Required:
+
+Have excellent HTML/CSS skills.
+Be proficient in .Net MVC using C#.
+Have experience using MS SQL Server.
+
+
+Experience in JavaScript, Foundation, IIS management and SagePay integration is advantageous.
+Some knowledge of ASP.Net webforms will be helpful for working on legacy systems.
+Be efficient, organised and able to work accurately to tight deadlines.
+Demonstrate the ability to work on more than one project at any given time.
+Be asked to undertake a test before interviews are considered.
+
+Personal qualities:
+
+Hard Working.
+Intelligent.
+Interested in a career in Website Design.
+
+Extra Information:
+ Applicants will be asked to complete a test to see the level they are at with their coding skills before being interviewed.
+ Future prospects:
+ The role offers long term security and the opportunity to progress into a permanent position.
+ Training to be provided:
+ Estio apprenticeship training programmes are delivered virtually by our fully qualified and industry experienced training team. Using their expert knowledge, we’ve purposefully built our programmes around the real-world use of modern technology, so that the skills we create can be directly applied in the workplace.
+ Throughout the apprenticeship learners receive coaching, help and guidance from a dedicated team who are there to ensure they get the most from their work experience.
+ Successful completion of this apprenticeship gives you an accredited Level 4 Software Developer, with training in how to:
+
+Create logical and maintainable codes for software development.
+Apply security best practice to the software solution throughout the software development life cycle.
+Apply appropriate recovery techniques to ensure the software solution being developed is not lost.
+
+
+Implement accurate and effective change control.
+Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and resolve issues.
+Apply suitable ‘bug fixes’ based on severity and priority.
+
+
+
+
+
+To apply for this job email your details to Megan.Dover@estio.co.uk.
+
+

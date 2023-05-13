@@ -1,0 +1,49 @@
+
+Job Description
+At Tradeweb, we're constantly moving forward. We were the first to electronify the bond market, and we've been innovating ever since. Come join our team and find out what it means to lead the way into the future of electronic trading. Collaborate with our creative thinkers who have the vision and the drive, and learn how you too can make an impact of your own.
+What's in it for you?
+As an intern, you won't just be along for the ride. You'll work with our technologists and business experts to gain practical, hands-on experience that you can actually use. Our program combines traditional classroom-settings with project-based work where you can get involved with the products and services the firm is working on. Along the way, you'll have guidance from people at all levels of the organization so you can start to build a long-lasting professional network and build relationships with the intern class through interactive outings and projects.
+Group Details:
+We are looking for JavaScript interns to help build HTML5-based UI products for our global, market-leading trading platform.
+As a self-starter, you will be able to take a complex problem and use your own engineering and debugging skills to dissect and analyse it, and distil a clear solution. You will be able to proactively identify problems faced by our customers, and figure out creative technological solutions to these.
+
+
+As traders rely on our platform to trade and consume real-time data about hundreds of financial products simultaneously, performance of our UI is critical. Therefore, interest in JavaScript and HTML5 application performance and optimisation is important. Ideally, you will be keenly in touch with the JavaScript community and keeping an eye on the latest developments in ECMAScript, JS engines like V8, web browsers, and TypeScript. Experience in applying automated testing e.g. unit testing, its benefits, and associated practices like TDD, on large-scale codebases will be valuable.
+.
+Responsibilities:
+
+Responsible for delivering software end-to-end.
+Liaising with product managers and designers, to coordinating across international development teams on engineering and architecture, to working with our QA and dev ops teams.
+To deliver a quality, innovative product to the traders and investors who depend on our platform every day.
+Architecture, implementation, and delivery of new web-based trading UI functionality.
+Problem solving and debugging skills, especially for production issues.
+Hosting and participating in code review
+
+
+
+Qualifications:
+
+Currently pursuing an undergraduate or Master's degree in Bachelor's or Master's degree in Computer Science, Computer Engineering or related field.
+At least 3 years’ academic web application development experience
+Basic knowledge of and interest in financial markets and technology
+Ability to analyse a problem, take a view and present a plan of action
+Ability to manage multiple projects at once
+Be motivated by team work
+Confidence to ask questions to further their knowledge and understanding of electronic trading and market structure
+Proactive and team player who can deliver in a high-pressure demanding environment
+Interest in UX and UI design implementation
+
+
+About Tradeweb:
+
+Tradeweb Markets is a world leader in the evolution of electronic trading. A fintech company serving approximately 2,500 clients – including the world’s largest banks, asset managers, hedge funds, insurance companies, wealth managers and retail clients - in more than 65 countries across the globe. Since our first trade in 1998, we have helped transform and electronify the fixed income markets. Tradeweb is a culture built on innovation, creativity and collaboration. Through a combination of very talented and driven people, innovative products and solutions, cutting-edge technology, market data, and a vast network of clients, we continue to work together to improve the way financial markets trade.
+
+Mission: Move first and never stop. Collaborate with clients to create and build solutions that drive efficiency, connectivity, and transparency in electronic trading.
+
+Tradeweb values diversity of culture and thought and seeks talented, qualified employees in all its operations around the world regardless of race, gender, national origin, religion, sexual orientation, disability, age or any other protected classification under country or local law.
+
+#LI-Hybrid
+
+Private Policy Statement Link:
+
+https://www2.tradeweb.com/l/105492/2021-05-05/h7v2kl/105492/1620231674fqv9j2ci/Tradeweb_EU_Applicant_Privacy_Policy.pdf

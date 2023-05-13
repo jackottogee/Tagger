@@ -1,0 +1,15 @@
+We are bringing our user interface software development inhouse and are looking for an experienced Software Engineer with experience of JavaScript, HTML, CSS to join us and continue the work that makes our products user friendly. 
+
+ If you have previous experience of delivering code as part of a product development team, then we would love to hear from you. This role would offer you the opportunity to shape the user interface software for our NanoScience products. For those that are interested, we can also offer the opportunity to work on the user experience, or embedded software development. 
+
+ The opportunity 
+
+ In this role you will be responsible for the design and development of the user interface aspect of the software for our market leading research tools. You will be working as part of an Agile team to delivery high quality functionality to agreed specifications and timescales. We are looking for someone that can develop robust software components and systems, participate in design reviews and trials of new techniques. The role includes developing new code, new applications, and maintenance for existing products. You will also be required to produce and update appropriate documentation that facilitates others to further develop or maintain software and systems that you produce and enables internal customers to do their work. 
+
+ About You 
+
+ It is essential that you have experience in web-based software development, using JavaScript, HTML, CSS and Visual Studio, as well as source code control systems, a bug or issue tracking system and a browser debugger. It is also a requirement that you have experience of cross browser web user interfaces using the following libraries; jQuery, Bootstrap and SVGjs. It would be ideal if you have prior experience of developing complex software applications for high tech instrumentation, or of creating bespoke customer solutions. 
+
+ Benefits 
+
+ In addition to a competitive starting salary, Oxford Instruments offers flexible working hours and a half-day on Fridays. We also offer 25 days annual leave, private healthcare, a share incentive plan, a defined contribution Group Personal Pension Plan, and a flexible benefits package that you can tailor to your own requirements. We also invest in our talented employees by supporting them in their ongoing career and development so that they reach their full potential. We care and work hard to provide a workplace where you can grow and learn. #LI-JR1

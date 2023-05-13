@@ -1,0 +1,58 @@
+
+
+job description: 
+The role
+ Key responsibilities
+ The Group Internal Audit Team are seeking a creative, driven individual with a technical coding background to assist in developing automated tools to enhance day to day Internal Audit operational processes. The role will involve working closely with a developer to pursue a number of planned workstreams and provide support across the entire development lifecycle.
+ You will be responsible for the development of operational enhancement tools, contributing to solution design, production, testing and deployment. There may also be further innovation opportunities and proofs of concept.
+ While strong developer skills are desired, significant support will be provided. For individuals able to learn quickly there is opportunity to upskill in programming languages such as Python.
+ The role offers a unique opportunity to gain experience working in a corporate environment to enhance operational processes through innovative application of coding, problem solving and analytical skills.
+ The role requires the equivalent of 20 weeks full time work to be completed during 2023 and can be delivered flexibly to suit existing commitments.
+
+
+
+person specification: 
+
+The successful post holder will possess the following capabilities: Strong organisational and time management skills
+ Innovative problem solving skills and the courage to apply them
+ Experience in problem solving and solution development
+ Proven experience with project work
+ Interest in programming and software development
+ Strong knowledge of the Microsoft Office suite, including Teams and Sharepoint
+
+ Though not essential, stronger candidates will also have:
+
+ Experience with programming languages, particularly as part of project work. Python preferred
+ Experience with low-code development tools such as Microsoft Power Apps
+ Beginner level data analytics and visualisation experience, particularly using SQL and Tableau or Power BI
+ Experience providing communicating technical ideas to a non-technical audience 
+
+ About Hiscox
+ Who are we?
+ Hiscox is an international specialist insurer and reinsurer. We provide market leading products and excellent service to individuals and businesses across a range of non-life insurance and reinsurance needs. A FTSE 100 company, we can trace our roots to the Lloyd’s market in 1901. We employ over 3,500 highly professional staff, with offices and customers across a global network. 
+We underwrite reinsurance and insurance risks that range from marine, terrorism, aerospace, technology, media and professional indemnity through to high value personal insurance, such as homes and contents, fine art, luxury motor, and kidnap and ransom, and are market leaders in many of our chosen areas.
+ We are not a mass producer of insurance policies but focus on key areas of expertise and strength and we do business according to our core values of courage, quality, integrity, excellence and human.
+ The Hiscox Group is made up of the following business units:-
+
+ Hiscox London Market underwrites mainly internationally traded business in the London Market – generally large or complex business which needs to be shared with other insurers or needs the international licences of Lloyd’s.
+ Hiscox Re our combined reinsurance teams in London, Bermuda and Paris, provide market leading expertise and a wide range of reinsurance products to high-quality insurers around the world.
+ Hiscox Retail
+
+
+Hiscox US operating since 2006 from six locations offering professional liability, specialty and property insurance. Hiscox US also provides small business insurance direct to consumers.
+Hiscox UK and Hiscox Europe offers a range of specialist insurance for professionals and business customers, as well as high net worth individuals and also provides home and small business insurance directly to consumers.
+Direct Asia underwrites car, motorcycle and travel insurance direct to customers. The business, based in Singapore and Thailand, was acquired by Hiscox in 2014.
+
+
+ Hiscox Group is the umbrella function that supports all areas of the organisation, home to our operations, IT, Finance, HR, Marketing, Communications and Modelling teams.
+
+ Our values define our business. They are the fundamental principles we believe in and they are qualities we wish to be known for. They drive who we hire, what we expect of each other, and what we do for our customers.
+ The team
+ Our scope
+ The Group Internal Audit team provides independent and objective assurance and advice to the Group Audit Committee, and to the Boards of Directors of the companies within the Group, over the processes and systems of control and risk management operating in the Group. Its scope covers all aspects of the Group and its activities. It also liaises closely with other monitoring functions across the Group, including Group Compliance and Group Risk. Its Audit Plans are developed using a risk-based approach.
+ How we work
+ We are a small but dynamic team, organised in three hubs – UK, US and Europe. The Directors of these hubs, along with the Group Chief Auditor, form the Internal Audit Leadership Team. Supporting them are Managers, Senior Internal Auditors and Internal Auditors located across the hubs.
+ We actively operate an intent-based leadership model, where we give ownership, control and decision-making into the team where the knowledge and information lie. We complement this with a Business Alignment approach; team members across the levels of the team own and are aligned to specific parts of the business, not for the purposes of solely auditing those areas, but to become the primary point of knowledge and contact for their ongoing developments, strategies and risks.
+ In common with this, our Vision is centred around our people. People is at the heart of our strategy, supported by our innovation, to help us achieve our desired performance and position. Through this, we aim to achieve our Vision to protect, challenge and strengthen the Hiscox Group to an exceptional standard.
+
+

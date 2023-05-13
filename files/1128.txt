@@ -1,0 +1,41 @@
+
+UTEC, part of Acteon Group, is one of the world's largest independent offshore and onshore survey providers. We provide a wide range of survey, positioning and data management services using the most advanced equipment and techniques. The data we generate provides our clients with the information they need to make critical, well informed, business decisions.
+  UTEC are currently looking to hire an Applications Developer on a full time, permanent basis. Based at their location in Aberdeen or Livingston, reporting to the Senior Applications Developer, the Applications Developer will undertake software development in association with the organisations aspirations to develop the iSite digital application for use in a variety of Industry sectors. UTEC is keen to develop/enhance their successful iSite digital software solution, providing a varied role for the successful candidate. They will undertake quality control of Company deliverables to customers in relation to the applications developed.
+ Duties
+
+ Develop application solutions both for internal and external customers as prioritised by the Senior Applications Developer and Senior Applications Architect.
+ Support client access to the iSite, through administrative interfaces.
+ Maintain security of the iSite at all times, protecting client data.
+ Support the Senior Applications Developer to ensure that applications are checked prior to sending to the customer, develop and maintain Quality Control procedures relevant to the role.
+ Any other duties as required by the business that are within your capabilities i.e., support to IT and solution development.
+ Provide technical input to tenders as required including technical support to other UTEC offices.
+ Promote Company services during day-to-day contact with existing and potential clients.
+ Regularly review project costs within the time frame required for accounts department to process and report at regional monthly P&L meeting.
+ Help identify HSE, technical and personal development training needs within the Company.
+ Adhere strictly to the Company's policies including, but not limited to, anti-bribery, anti-slavery, and Foreign Corrupt Practices.
+ Perform other duties or tasks as assigned.
+
+ Required
+
+ Experienced in Object Oriented PHP, JQUERY, JAVASCRIPT, CSS, and HTML.
+ Experienced with MYSQL database design
+ Experienced in Applications and Server Security
+ Knowledge of LINUX Scripting and Server Management
+ Minimum 2 years of experience of working in an applications Development environment, be prepared to train in other systems as required.
+ Excellent written and oral communication skills.
+ Good IT skills, with the ability to use Microsoft Office software (Word, Excel, Outlook, Visio, etc.).
+ Must be team-oriented, possess a positive attitude and work well with others.
+ Proficiency with Microsoft products.
+ Ability to perform tasks and achieve results with a high degree of accuracy and precision.
+ Ability to work both independently and within teams.
+
+ Desirable
+
+ Azure cloud server experience
+ Unity & Unreal Engine experience
+ AI development
+ Experience developing in a 3D environment
+ Experience developing digital twins
+ Experience of conducting presentations and group training courses is desirable
+
+

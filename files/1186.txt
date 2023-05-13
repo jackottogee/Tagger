@@ -1,0 +1,100 @@
+Company Selling Points
+✔ Small business with a super friendly, driven and dynamic culture
+✔ They adapt very quickly to clients, and deliver quality work which is why they are growing
+✔ The leaders care as much about their employees as they do about their clients
+✔ They will listen to your career aspirations and will adapt to them when they can
+✔ Technologically advanced and complex projects to get involved in, to develop your skills
+✔ Talented and balanced CTO
+✔ Progression is definitely available for strong performers
+✔ Flexible working and thoughtful benefits
+Company Overview
+Providing bespoke data capture software solutions and device procurement, including developing mobile applications and maintaining existing software packages, with contracts in the defence industry.
+Job Description
+
+Design, develop, and maintain mobile and desktop applications using C#, .NET Framework, and .NET Core
+Collaborate with cross-functional teams to define, design, and ship new features
+Participate in code reviews, ensuring adherence to coding standards and best practices
+Debug, optimise, and improve application performance
+Produce detailed technical documentation for new and existing applications
+Mentor and support junior team members in their personal and professional development
+Stay up-to-date with the latest industry trends, technologies, and best practices
+
+Essential Skills & Experience
+
+5+ years of experience in software development using C#
+Strong understanding of .NET Framework and .NET Core
+Experience with desktop development using WPF and UWP
+Proficient in object-oriented programming and design patterns
+Knowledge of SQL and experience with database design and development
+Familiarity with source control systems such as Git
+Excellent problem-solving and critical-thinking skills
+Strong written and verbal communication skills
+Ability to work effectively in a team environment and independently with minimal supervision
+
+Desirable Skills
+
+Experience with mobile development using Xamarin/MAUI
+Experience with native Android development
+Experience with Javascript/Typescript/Angular
+Experience with Agile methodologies
+Knowledge of Azure or other cloud platforms
+Familiarity with unit testing frameworks such as NUnit or xUnit
+Exposure to UI/UX design principles
+
+Personality Fit
+
+Takes a pragmatic approach to problem solving
+Communication / Emotional intelligence - ability to speak, listen to and negotiate with internal staff
+Ability and willingness to learn is most important
+Organised, able to prioritise workloads
+Strong work ethic, self-disciplined
+Positive and proactive attitude, able to roll sleeves up and work on any task required
+Discreet, trustworthy
+Motivated by making work better for others
+Adaptable and flexible, to move between projects as required
+
+Location: Poole, Dorset
+Hybrid Working: 3 days in the office (of your choice), 2 days from home with flexibility.
+Salary: £45,000 - £50,000, depending on experience
+Benefits:
+
+Annual bonus scheme – up to 10% of salary
+Six free wellness sessions / year
+25 days holiday plus bank holidays
+
+Start: May / June 2023
+Please note that all job adverts are regularly revised and refreshed. We may close an advert before a stated closing date, so make sure to apply as soon as possible to ensure that your application is considered.
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£50,000.00 per year
+Benefits:
+
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+Poole, BH15 1BT: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+Will you now or in the future require sponsorship for employment visa status?
+How many years of experience do you have in software development, specifically using C#?
+Do you have a strong understanding of .NET Framework and .NET Core?
+Do you have experience with desktop development using WPF and UWP?
+Do you have knowledge of SQL and experience with database design and development?
+Are you proficient in object-oriented programming and design patterns?
+Do you have familiarity with source control systems (such as Git)?
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Hybrid remote in Poole, BH15 1BT

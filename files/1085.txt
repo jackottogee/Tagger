@@ -1,0 +1,61 @@
+We have an Embedded Software role for a global robotics software company. The hiring division for this position has created components for some of the world's most well-known consumer electronics. The company has a very friendly work environment with plenty of working flexibility. The R&D centre has almost a university campus feel to it.
+The Role:
+You will be part of a division creating the next generation of technologies. In addition, you will be involved in developing real-time embedded software used within systems. Initially, the role will require the individual to be in the office 3 days a week, but this will reduce once the person has settled in.
+Experienced Required:
+
+Real-time embedded system design experience
+Knowledge of ARM microcontrollers
+C programming language
+Good understanding of electronics
+
+Benefits
+
+3 days a week in the office which will then reduce once the person has settled in, onsite gym and restaurant, 9% pension, private healthcare, bonus, flexible working, 12.30 finish on Fridays, discounts and other fringe benefits.
+
+Job Types: Full-time, Permanent
+Salary: £37,888.00-£55,555.00 per year
+Benefits:
+
+Additional leave
+Canteen
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Discounted or free food
+Employee discount
+Employee mentoring programme
+Flexitime
+Free or subsidised travel
+Free parking
+Gym membership
+Life insurance
+On-site gym
+On-site parking
+Private medical insurance
+Sick pay
+Store discount
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Yearly bonus
+
+Ability to commute/relocate:
+
+Dursley: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+C: 1 year (preferred)
+ARM Microcontrollers: 1 year (preferred)
+Embedded software: 1 year (preferred)
+
+Work Location: Hybrid remote in Dursley
+Application deadline: 31/03/2023Reference ID: EMSW/717Flexitime

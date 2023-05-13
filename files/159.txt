@@ -1,0 +1,32 @@
+We are looking for a technically sound Full Stack Developer with a minimum 1.5 - 2+ years of Python Django experience to join our development team.
+Required Skills:
+
+Strong Python Django practical skills are essential
+Prioritizing development projects, setting timelines and assigning tasks to team members.
+Develop and deploy test cases to ensure code quality and reliability
+Should have strong development skills in JavaScript libraries and frameworks.
+Should possess a strong understanding on web security and vulnerabilities.
+You will be a part of a creative team that is responsible for all aspects of the ongoing software development from the initial specification, through to developing, testing, and launching.
+Integrate various front-end technologies (HTML, CSS, Bootstrap & React) with the back end.
+You will work closely with our project managers, strategists, and design team members to develop specifications and make recommendations on the use of new and emerging technologies.
+Working closely with our in-house designers on UI/UX elements to develop new solutions.
+Experience with version control systems, and a thorough understanding of the architecture of web applications and web security and encryption.
+The ability to work independently and in mixed teams.
+The ability to manage a complex range of tasks and meet deadlines.
+Excellent written and verbal communication skills (email, phone, etc.).
+
+Beneficial Skills & Knowledge
+
+Experience of working with popular front-end technologies
+Linux shell
+JavaScript
+GIT / Jenkins
+
+Job Types: Full-time, Permanent
+Salary: £26,000.00-£40,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote
+Application deadline: 23/01/2023Reference ID: #ZG0028Expected start date: 25/01/2023

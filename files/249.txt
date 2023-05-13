@@ -1,0 +1,132 @@
+
+
+
+
+
+     Requisition ID
+    
+
+     33478
+    
+
+
+
+
+     Office Country
+    
+
+     United Kingdom
+    
+
+
+
+
+     Office City
+    
+
+     London
+    
+
+
+
+
+     Division
+    
+
+     Information Technology
+    
+
+
+
+
+     Contract Type
+    
+
+     Regular
+    
+
+
+
+
+     Contract Length
+    
+
+
+
+
+
+     Posting End Date
+    
+
+
+
+
+
+
+Purpose of Job
+
+
+The Associate, Software Developer is responsible for design and implementation, support and maintenance of the Bank’s applications and analytic tools, supporting Banking, Treasury, Risk, Finance, Corporate and other teams in the execution of their business processes.
+
+
+The role includes leading all aspects of the enhancement, maintenance and support of multiple business applications and associated initiatives which are based on enterprise development platforms and related frameworks, often involving collaboration with internal application owners and other members of staff to deliver changes using Agile principles, supporting complex and dynamic business requirements. The role involves applying both business and technical expertise to deliver customer focused support and development services, potentially in a DevOps pipeline with Continuous Integration and Continuous Deployment (CI/CD), but also facilitating manual deployment for legacy applications where necessary.
+
+
+The individual will be expected to adhere to the core principles of the IT department, these include, but are not limited to - putting our users first; delivering technology that is useful, elegant and reliable; knowledgeable and engaging about both technology and our business; reliable and effective in both provision and execution; innovative and inquisitive; integral to the success of the Bank
+
+
+Accountabilities & Responsibilties
+
+
+
+Deliver working software in line with agreed quality and risk standards
+Maintain expected service levels of the key applications you support and maintain
+To adhere to, develop and enhance the working practices, standards, processes and practices in and out with your team.
+Contribute to and improve the community of practice that you belong to
+To follow standard development working practices e.g.
+Participate in all the daily and weekly ceremonies in your team
+Test driven development, Behaviour driven development, Test Automation, Secure by design
+Work with users from business teams and Product Owner, as appropriate, to understand user needs and develop appropriately innovative and practical solutions.
+Estimate and plan with your team colleagues, such as, Business Analyst (BA), Quality Assurer (QA), developers.
+Work closely with Architects, Business Analysts (BA), Quality Assurers (QA) and other developers to build or enhance systems.
+To liaise with members of the Infrastructure and Operations team, as necessary to ensure consistent implementation of features into a test and production environment, either via associated DevOps tooling, or manually as appropriate.
+Delivering operational delivery automation and continuous improvement in conjunction with DevOps suppliers and IT Operations.
+Adhere to and support audit, control and risk activities on behalf of the Bank 
+Helping your team to succeed at all times and continuously improve
+Working in technologies beyond your core disciplines as required by strategic and project demands
+Motivate self and others to continually reflect and adapt to improve quality and delivery cadence
+Mentor and develop other developers in your team whether staff, contract or third party.
+Participate in the technical development programme in order to ensure that system changes, patches, enhancements and developments are sound, support the Bank’s operational priorities and are conducted according to the Bank’s and IT’s procedures.
+Provide production support coverage of business application responsible incidents as required.
+Helping others, by undertaking general tasks not related to your core discipline if required
+
+
+
+
+Knowledge, Skills, Experience & Qualifications
+
+
+
+Tableau Suite 10+, IBM Cognos 10+, Oracle 11g, Star schema design (Kimball methodology). 
+Desirable to have analysis and design experience within Informatica PowerCentre, (Workflow Designer, Monitor, Manager).
+Direct experience of Oracle PL/SQL.
+Good understanding of Kimball methodology / star schema design.
+Experience in finance services data solutions.
+
+What is it like to work at the EBRD?
+
+
+Our agile and innovative approach is what makes life at the EBRD a unique experience! You will be part of a pioneering and diverse international organisation, and use your talents to make a real difference to people's lives and help shape the future of the regions we invest in.
+
+
+The EBRD environment provides you with:
+
+Varied, stimulating and engaging work that gives you an opportunity to interact with a wide range of experts in the financial, political, public and private sectors across the regions we invest in;
+A working culture that embraces inclusion and celebrates diversity;
+An environment that places sustainability, equality and digital transformation at the heart of what we do.
+
+
+ 
+Diversity is one of the Bank’s core values which are at the heart of everything it does. A diverse workforce with the right knowledge and skills enables connection with our clients, brings pioneering ideas, energy and innovation. The EBRD staff is characterised by its rich diversity of nationalities, cultures and opinions and we aim to sustain and build on this strength. As such, the EBRD seeks to ensure that everyone is treated with respect and given equal opportunities and works in an inclusive environment. The EBRD encourages all qualified candidates who are nationals of the EBRD member countries to apply regardless of their racial, ethnic, religious and cultural background, gender, sexual orientation or disabilities. As an inclusive employer, we promote flexible working and expecting our employee to attend the office 50% of their working time.
+
+ Job Segment: Testing, ERP, Bank, Banking, Developer, Technology, Finance

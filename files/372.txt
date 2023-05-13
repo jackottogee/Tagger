@@ -1,0 +1,106 @@
+
+Job Summary: 
+Lead Back End Engineer 
+Location: Remote, UK 
+Contract Terms: Permanent 
+
+THE TEAM 
+
+You will be joining the diverse London team of dedicated, highly skilled engineers. As a Lead Back End Engineer at Ticketmaster, you will be leading an engineering team and will be responsible for analysing, coding, and maintaining the next generation of fan-facing services for Ticketmaster, the global leader in ticket management for large-scale sports and entertainment. You will work closely with other engineers, product owners and managers, and representatives from the business, to deliver unique, high quality, efficient, maintainable, and easy to use services. The software you will work on will be used by millions of people worldwide. 
+A career at Ticketmaster will challenge and engage you. We support the creators and producers of shows and live performances while connecting more passionate fans to these events. As a global and growing business, we can truly offer a world of opportunities to expand your skills and develop your career. Visit any of our offices, and you'll find a diverse mix of passionate employees, helping fans around the globe connect with the artists, teams and events they love. It truly is a unique and rewarding environment. 
+
+THE JOB 
+
+In the role of Lead Back End Engineer, you’ll lead the development and delivery of our global Consumer Platform which drives over 10 billion dollars of revenue annually. You will be accountable for delivering high quality, maintainable and performant solutions. You must think about solving complex technical problems and the long-term maintenance and cost of change of software solutions. 
+
+You will lead, manage, and inspire engineers to deliver the best ticketing experience across the globe. You’ll help teams fulfil technical, operational, and business requirements by putting yourself in the trenches. 
+
+You will emphasise collaboration and mutual support – sharing project workflow with globally distributed teams, contributing code to core global services and applications, and cultural exchange between development groups. It is an exciting time to join Ticketmaster as we are working towards aligning our technologies and products globally. 
+
+Because our business is online 24/7, you may on occasion be required to work out of hours or provide on-call duty on a rota basis. 
+
+WHAT YOU WILL BE DOING 
+
+
+Lead a team of engineers of mixed levels and skill sets 
+Participate and drive development work across globally distributed software teams 
+Provide technical guidance to the team, including architecture and design decisions, code reviews, and technical problem-solving 
+Own the full development and deployment cycle for your team’s software and product 
+Encourage and grow developers in their craft through mentorship and leadership 
+Work with Engineering Management to help set SMART goals for your team and provide feedback 
+Organise, prioritise; multitask while coordinating team efforts, reporting to stakeholders and management on the progress of goals 
+Connect with a series of stakeholders in order to gather as much information as possible regarding the problem at hand and implement short-mid term strategies to evolve products for future success. (UX / Design / Product / PMO…etc.) 
+Make technical recommendations outside of the immediate team 
+Debug and triage production application issues, often not your own 
+Automate testing, deployments, performance, and recovery 
+Support recruitment activities including conducting interviews 
+
+
+WHAT YOU NEED TO KNOW 
+
+Demonstrable leadership experience 
+Experience with Agile methodologies 
+Strong backend development skills 
+Java 11 programming language experience or of other JVM languages 
+Experience with modern frameworks such as Springboot 
+Test-Driven Development experience 
+Understanding of Continuous Integration practices 
+Knowledge of current software architectural trends and practices 
+Previous experience with Design Patterns and SOLID principles 
+Experience working with AWS or other Cloud Provider 
+Experience with CI/CD servers (Gitlab/Jenkins) 
+Experience with Docker and Kubernetes or other orchestration/scheduling framework 
+Experience working in an SOA development environment 
+Working knowledge of one or more database products (e.g. Oracle, MySQL, PostgreSQL) 
+Strong communication skills and the ability to collaborate closely with remote team members 
+Ability to clearly communicate technical topics to non-technical people 
+Experience of mentoring lower-level team members and will delegate work accordingly 
+
+
+NICE TO HAVE 
+
+Familiarity with Prometheus, Graphana, ELK stack 
+Experience working with Terraform 
+Experience with Helm package manager 
+Experience with distributed systems 
+Knowledge of best practices and IT operations in an always-up, always-available services 
+Demonstrated ability to work well in a fast-paced, multidisciplinary team environment 
+Ability to organise, prioritise; multitask while coordinating team efforts 
+
+
+It is ok if you lack some of the skills listed above, the single most important skill is being able to learn quickly. We believe that a motivated, team-oriented professional will always succeed in mastering a new toolset when a need arises. 
+
+YOU ARE 
+
+You are autonomous and proactive 
+You focus on results and desired outcomes and how best to achieve them 
+You can consider multiple approaches and recommends the best technical direction including logic and reasoning 
+You can work with minimal supervision and to direct and improve a small team through mentorship and leadership 
+You can solve complex technical issues through debugging, research, and investigation 
+You promote cooperation and commitment within a team to achieve goals and deliverables 
+You maintain and fosters relationships within, across, and external to organisational boundaries 
+You are passionate about technology, software development and transformation 
+You desire to continually improve your own skills, and ability to transfer that to the skills of others 
+
+
+LIFE AT TICKETMASTER 
+
+We are proud to be a part of Live Nation Entertainment, the world’s largest live entertainment company. 
+
+Our vision at Ticketmaster is to connect people around the world to the live events they love. As the world’s largest ticket marketplace and the leading global provider of enterprise tools and services for the live entertainment business, we are uniquely positioned to successfully deliver on that vision. 
+
+We do it all with an intense passion for Live and an inspiring and diverse culture driven by accessible leaders, attentive managers, and enthusiastic teams. If you’re passionate about live entertainment like we are, and you want to work at a company dedicated to helping millions of fans experience it, we want to hear from you. 
+
+Our work is guided by our values: 
+
+Reliability - We understand that fans and clients rely on us to power their live event experiences, and we rely on each other to make it happen. 
+
+Teamwork - We believe individual achievement pales in comparison to the level of success that can be achieved by a team 
+
+Integrity - We are committed to the highest moral and ethical standards on behalf of the countless partners and stakeholders we represent 
+
+Belonging - We are committed to building a culture in which all people can be their authentic selves, have an equal voice and opportunities to thrive 
+
+EQUAL OPPORTUNITIES 
+
+We are passionate and committed to our people and go beyond the rhetoric of diversity and inclusion. You will be working in an inclusive environment and be encouraged to bring your whole self to work. We will do all that we can to help you successfully balance your work and homelife. As a growing business we will encourage you to develop your professional and personal aspirations, enjoy new experiences, and learn from the talented people you will be working with. It's talent that matters to us and we encourage applications from people irrespective of their gender, race, sexual orientation, religion, age, disability status or caring responsibilities. #LI-JCK #LI-Remote

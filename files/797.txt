@@ -1,0 +1,86 @@
+
+
+
+   At R3 you would be at the cutting edge of decentralized Digital Ledger Technology (DLT) technology.
+   
+
+
+
+
+   Corda is a distributed DLT platform designed for running complex workflows between businesses, with or without any centralized points of control. You will work on a digital ledger platform trusted by banks, insurance companies, stock exchanges, payment companies, and other highly demanding industries, while dealing with the interesting technical challenges that come with them.
+  
+
+
+ Digital Currencies Team
+
+
+    You will join the R3 Digital Currencies team to build the next generation digital currency systems that integrate directly to the blockchain.
+  
+
+
+ This is an exciting time in the digital currency space. As part of the Digital Currencies engineering team you can expect to work on truly unique Central Bank Digital Currencies (CDBC) as Central Banks the world over are preparing for this transformation. Our Digital Currencies work also encompasses cutting edge products such as tokenised cash and other types of digital assets (e.g. digital bonds/derivatives) etc.
+  
+
+
+ About You
+
+
+    No team is an island - you will work with many others across the company, to help ensure we build the best possible products across the digital currencies, tokenised cash and digital asset DeFi ecosystem. You will have the opportunity to showcase your work and help influence your colleagues’ thinking.
+  
+
+
+ You’re a highly motivated software engineer embarking on a career after completing your university degree. You have gained knowledge on the software development/design/architecture practices through your academics as well as work experience, and you’re excited to learn more and develop in this space. You have a strong grasp of Computer Science fundamentals and are curious to learn what it takes to build a secure, high quality, business critical system that supports extreme high volume transactions. You are curious and quick to learn about new technologies, and are keen to build on your skills by learning on the job. You have an interest in distributed systems generally and DLT more specifically.
+  
+
+
+ Our software development is based on JVM languages, more specifically Java and Kotlin, but while advantageous, expertise in these languages is not an essential requirement. The important thing is that you have the software development expertise in some modern high level language and are willing to learn what is required for the role.
+  
+
+
+
+    We believe that customer experience, quality, security, developer experience, and operational experience are everyone’s responsibility, so you’ll be driven by a passion to ensure excellence in all of these.
+  
+
+
+
+Responsibilities:
+
+
+ Work as part of a team within the larger engineering group to deliver high quality and well tested code.
+ While working, learn the fundamentals of design elements of a larger software application and understand the pros and cons of the same. After building your confidence, you will start to actively contribute to the design through discussions with your team.
+ Assist in estimating and planning complex engineering tasks.
+ Implement / code solutions keeping in view of the functionality, non-functional requirements and better design elements including reusability, overall architecture, security etc.
+ Build unit tests as well as assist QA engineers in their testing.
+ Team work is important.
+
+
+
+
+
+
+Required Qualifications:
+
+
+ Very strong programming competencies.
+ Strong understanding of Computer Science and engineering principles, most likely obtained through a combination of advanced academic study and work experience.
+ Proactive in identifying goals for yourself and seeking approvals / direction as needed while developing skills and confidence to build solutions on your own.
+ Proven problem-solving skills and ability to work under pressure.
+
+
+ At R3, we encourage a diverse and inclusive workforce. If you don’t meet all of the above criteria, but you think you’d be a great addition to R3, send us your CV. We’re always interested in meeting collaborative people who are excited to work with us
+     
+
+
+
+
+
+
+Preferred Qualifications:
+
+
+ Kotlin or other JVM based language experience would be a significant advantage.
+ Process driven mindset with flexibility to allow processes to evolve while keeping them lean and efficient.
+
+
+
+

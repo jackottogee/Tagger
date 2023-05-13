@@ -1,0 +1,16 @@
+
+My client is a true leader in its field. They have been established since the 1970's and they provide automated analysis and testing tools for software applications on which people's lives depend. They have a client base which spans a range of sectors including aerospace, defence, nuclear, medical and automotive sectors. Their clients use the firm's software to make sure that their systems are safe and compliant.
+ These roles are flexible in start date and the client will consider those who have already graduated as well as those in their final year.
+ These roles will be 100% office based, and the client would love it if you are already based in the NW or have ties to the local area.
+ Duties:
+ Working on generic products or for individual clients providing bespoke solutions by:
+
+Scripting and automating tasks using batch, bash, python etc
+Translating software requirements into workable programming code and maintain and develop programs for use in business
+Writing specifications and designing, building, testing, implementing and sometimes supporting applications using programming languages and development tools
+
+ Skills:
+
+Computer science or other relevant degree
+Knowledge of high level programming languages (C/C++, Java and Ada considered an advantage), Windows, UNIX and Linux, IDE’s/Processors;
+

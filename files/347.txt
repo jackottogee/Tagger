@@ -1,0 +1,94 @@
+
+
+  We believe in better. And we make it happen.
+ 
+
+   Better content. Better products. And better careers.
+ 
+
+   Working in Tech, Product or Data at Sky is about building the next and the new. From broadband to broadcast, streaming to mobile, SkyQ to Sky Glass, we never stand still. We optimise and innovate.
+ 
+
+   We turn big ideas into the products, content and services millions of people love.
+ 
+
+   And we do it all right here at Sky.
+ 
+
+
+   What you'll do
+ 
+
+   Based at Leeds Dock, the Identity team is at the heart of Sky’s global digital platforms. You will be joining a diverse team where the focus is on building scalable applications with security and reliability built in.
+ 
+
+   Our team develops and supports market-leading video streaming services, underpinned by state-of-the-art engineering principles. We do this at huge scale: for over 50 million customers globally, spanning NBCUniversal Peacock in the US and Sky, NOW and SkyShowtime across Europe. No matter the device, the time or the place, we make sure that our diverse audiences can easily find and enjoy whatever they want to watch, choosing from the world’s best entertainment, news and sport.
+ 
+
+ Assist the UX designers in our user experience lab to create robust well tested user interfaces.
+ Work closely with the UI designers to bring the design to life.
+ Embrace working with a wide range of technologies, including but not limited to ReactJS, NodeJS, Java, Scala, Docker, and Kubernetes.
+ Be a part of an agile environment primarily using open source technologies and the best deployment techniques.
+ Practice and drive the best technology and software development practices into the team with passion and enthusiasm.
+ Utilise pair-programming on a regular basis and mentor less experienced developers where appropriate.
+ Actively participate in some of the administrative activities within the team, i.e. recruitment, work planning and estimation, release planning, etc.
+
+
+
+   What you’ll bring
+ 
+
+ Good knowledge of React, TypeScript and NodeJS.
+ Ability to write and publish NPM packages.
+ Knowledge of React State management.
+ Docker and Kubernetes knowledge.
+ Strong Frontend experience with HTML and CSS.
+
+
+
+   The rewards
+ 
+
+   There's one thing people can't stop talking about when it comes to #LifeAtSky: the perks. Here’s a taster:
+ 
+
+ Sky Q, for the TV you love all in one place
+ The magic of Sky Glass at an exclusive rate
+ A generous pension package
+ Private healthcare
+ Discounted mobile and broadband
+ A wide range of Sky VIP rewards and experiences
+
+
+
+   How you’ll work – hybrid working
+ 
+
+   The world has changed. And so have we. We’ve embraced hybrid working and split our time between unique office spaces and the convenience of working from home.
+ 
+
+   You’ll find out more about what hybrid working looks like for your role later on in the recruitment process.
+ 
+
+
+   Your office space
+ 
+
+   Leeds
+ 
+
+   Our spacious tech hub is less than a mile from Leeds train station. There’s plenty of parking in the surrounding streets and at the nearby CitiPark.
+ 
+
+   Need a break? You can blow off steam over a game of pool or table tennis, and stay fit at our subsidised gym.
+ 
+
+
+   Inventive, forward-thinking minds come together to work in Tech, Product and Data at Sky. It’s a place where you can explore what if, how far, and what next.
+ 
+
+   But better doesn’t stop at what we do, it’s how we do it, too. We embrace each other’s differences. We support our community and contribute to a sustainable future for our business and the planet.
+ 
+
+   If you believe in better, we’ll back you all the way.
+ 

@@ -1,0 +1,52 @@
+
+About the role
+ At T101 we write software that powers a network of over 550,000 members and allows gay men to find, connect and interact with each other. At peak times we have around 60,000 concurrent members online globally across 3 platforms, which brings its own unique set of technical challenges.
+ We’re currently working on a green fields re-architecture and redesign of our flagship product, including a transition to microservices and containers on the back-end, Angular PWA on the web front end, and Swift UI on iOS.
+ You’ll be responsible for developing the Progressive Web App as well as helping to refine the architecture, API and coding standards, and maintaining the high quality our customers have come to expect from us.
+ Skills and Requirements
+ Required Technical Skills
+
+Strong experience building web-based applications using Angular
+Observable based programming using RxJS
+Experience with redux type data stores using NgRx
+Experience using a JSON RESTful API
+Experience with source control systems, preferably Git
+HTML5, CSS3, JavaScript and/or TypeScript
+Strong debugging, troubleshooting, testing and peer reviewing skills
+Knowledge and understanding of common attack vectors (e.g. SQLi, XXS)
+
+Nice-to-haves
+
+Familiarity with using public cloud services such as GCP or AWS
+Familiarity with cloud-native and/or microservice architecture
+Object-oriented programming fundamentals and experience with common OO design patterns
+Experience developing responsive websites
+Experience with CI/CD pipelines
+Localisation experience
+Experience writing secure code
+
+Ideal Candidate
+
+At least 5 years’ commercial development experience.
+You have a strong sense of responsibility and commitment to drive your own work. You see your code through development, testing and on to live deployment. You care about the success of your development and proactively monitor for issues and fix defects after release.
+You are focused and attentive to detail and have strong analytical and problem solving skills.
+You are friendly, have great communication skills and enjoy working with a small, highly productive team. You enjoy discussions and collaboratively arriving at the optimal solution.
+You are smart, eager, humble and open-minded. You are receptive to feedback from your peers and have equal willingness to learn and teach.
+
+What’s it like to work in the development team at T101?
+
+The development team has a strong emphasis on collaboration, problem solving and getting things right, yet we’re supportive when things go wrong.
+We are dedicated to keeping up with the latest technologies, practices, patterns and tools related to software development. We take time out to share our knowledge with one another and improve both our skills and our development environment.
+We are open to new technology and often experiment with, and integrate new tools into our environment. Some of the tools and technologies we're currently using are: Swift, ASP.NET Framework 4.6 (C#), .NET Core 2.x, Visual Studio, GitHub, SQL Server, MySQL, Aurora, Amazon Web Services, Google Cloud Platform, RESTful web services, Angular, Less, NUnit, Moq, Responsive web design and AWS cloud services and hosting.
+
+Package details
+
+Salary in the range of £45-£60K depending on experience
+Performance-based bonus and salary review every April
+Private health cover, with dental and optical cash back
+Group life insurance
+Cycle to work scheme
+20 days holiday as standard
+Option to buy up to 6 additional holiday days per year
+Up to 3 additional days’ holiday awarded upon long service
+Send Email with your CV

@@ -1,0 +1,27 @@
+Responsibilities 
+TikTok is the leading destination for short-form mobile video. Our mission is to inspire creativity and bring joy. TikTok has global offices including Los Angeles, New York, London, Paris, Berlin, Dubai, Singapore, Jakarta, Seoul and Tokyo. 
+
+ Why Join Us 
+At TikTok, our people are humble, intelligent, compassionate and creative. We create to inspire - for you, for us, and for more than 1 billion users on our platform. We lead with curiosity and aim for the highest, never shying away from taking calculated risks and embracing ambiguity as it comes. Here, the opportunities are limitless for those who dare to pursue bold ideas that exist just beyond the boundary of possibility. Join us and make impact happen with a career at TikTok. 
+
+ At Ads Data and Foundation team, we will support our GBS (Global Business Solutions) team through implementing the sales assessment policies specified by the Revenue Enablement Team and improving operational efficiency of sales with the Productivity and Efficiency Team. 
+
+ We provide services that include sales performance management, rebate accounting, financial accounting, and post-paid strategy for TikTok commercial business to improve the efficiency of sales operations while safeguarding capital and meeting financial compliance requirements. 
+
+
+Responsibilities:
+
+
+Responsible for the design and development of applications and data services related to TikTok's sales accounting business.
+Ability to continuously optimize the system so that it can evolve rapidly with business needs and support business development.
+ Qualifications 
+
+
+Bachelor's degree or equivalent practical experience in Computer Science, or related technical field.
+3+ years of coding experience with a general purpose programming language such as Java/Python/Go.
+Proficiency with common storage technologies such as MySQL/Redis/Memcached/Kafka.
+Experience with big data technologies such as Hive, Flink, etc.
+Good communication and project management skills.
+Experience with business-to-business and sales management is a plus.
+Speaking mandarin is a plus.
+ TikTok is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At TikTok, our mission is to inspire creativity and bring joy. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.

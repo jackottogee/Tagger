@@ -1,0 +1,50 @@
+Are you a developer seeking a new challenge? Are you passionate about making a positive impact on the environment and working with an innovative global think tank? If so, we want to hear from you!
+InfluenceMap is a world-renowned non-profit organization working on cutting-edge climate and sustainability issues. We are best known for our LobbyMap platform, which analyzes corporate lobbying on climate policy. Our work has been featured in the media globally, used by hundreds of investors, and informed numerous campaigns. Other workstreams include the FinanceMap platform, assessing the financial sector, and the Japan Energy Transition Initiative.
+With offices in London, New York, Tokyo, and Seoul, joining our team means the opportunity to be part of a growing, friendly, and dynamic team, work with our global network of partners, and help develop our cutting-edge content, shaping the climate crisis agenda.
+We seek a Junior Developer to join InfluenceMap, to support our teams, to build and maintain public facing platforms, research systems and content management.
+As a Junior Developer you will play a central role working with our Technical Director and Chief Front End Developer. You will contribute to systems investigating business, policy, NGO and financial sectors.
+You will build and maintain public facing platforms to display our data, and the systems used to gather and evaluate the intelligence that informs its creation.
+To be successful in this new role at InfluenceMap, you should have:
+
+at least two years’ experience of software development using Python
+experience of core web technologies including html, css, javascript
+experience the use of relational databases, preferably MySQL
+proficiency in user experience design, rapid prototyping, implementation of stakeholder feedback
+a keen eye for visual detail
+fluency in English
+
+A knowledge of our work area (climate change/finance/business) is useful, and you must have the right to work in the UK.
+Details and Benefits:
+
+This is a full-time position, starting as soon as possible
+Can be based anywhere in the UK
+Salary from £30K per year depending on experience
+24 days of annual leave per year and extra day of paid holiday after each year of service (capped at 29 days)
+Extra 3 paid days Christmas closure
+Private Health Insurance including dental and optical
+Bike2Work scheme + frequent social events
+
+If you are excited about this role, but your experience does not align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or have transferable skills that would be valuable to our team.
+If you are passionate about making a difference on the climate crisis agenda and want to work in a mission-driven, highly analytical, data-orientated organization, we invite you to apply for this role. Please provide your CV, cover letter, and reference/s in one PDF file, emailed to: response@influencemap.org. Please state clearly in the subject line of your email which position you are applying for.
+The closing date for applications is the end of 14 May 2023. Early applications are encouraged and will be processed as received.
+Job Types: Full-time, Permanent
+Pay: From £30,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Cycle to work scheme
+Paid volunteer time
+Private dental insurance
+Private medical insurance
+Sabbatical
+Work from home
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Work Location: Hybrid remote in London
+Application deadline: 14/05/2023

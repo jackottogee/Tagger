@@ -1,0 +1,24 @@
+
+For more than twenty years, Criterion Games has entertained millions of players around the world with our award-winning games. Our experienced people have expressed their passion for phenomenal game feel, AAA audio-visual quality, and technical innovation across many beloved franchises including Burnout, Battlefield, Star Wars Battlefront and Need for Speed.
+We believe that healthy, engaged teams make great games, so we place enormous value on collaboration, fresh ideas, and unique perspectives. We'd love to hear yours! Crunch doesn't help make a better game. We don't do it. For the sixth year in a row, we are very proud to have been recognised by gamesindustry.biz as one of the best places to work in the UK.
+We're looking for an experienced engineer to be part of the Criterion's online team. Reporting to a Lead Engineer, daily you will work in C++ across our client, dedicated server and backend online services. You will oversee the end-to-end implementation of our social features, including matchmaking, parties, friends, inviting/joining games and game management. You will use both first party API and internal online tech. The team will be also involved with the systems test process and launch of our titles, ensuring that the experiences we create are delivered safely to our players.
+Responsibilities
+
+You will become part of the Need for Speed online team to help deliver connected services through our internal technologies (C++/MySQL)
+Work with production and design to understand our social requirements and translate them into technical designs which are reviewed and signed off
+Oversee our first party integrations and work with other domains to provide the smooth social experience
+You will have opportunities to work on other online features once social features are completed
+Work with EA Central Tech to integrate systems into Need for Speed
+
+Qualifications
+
+5+ years of experience in C++ software development
+Experience shipping titles (consoles and PC) and involving in live services
+Experience with client-server methodology, scalability, and security considerations
+Source control experience (Perforce)
+Proficiency in integrating and maintaining large-scale systems
+Skills debugging complex applications
+
+#LI-Hybrid, #LI-Onsite #FlexibleWork
+
+ We are a global team of creators, storytellers, technologists, experience originators, innovators and so much more. We believe amazing games and experiences start with teams as diverse as the players and communities we serve. At Electronic Arts, the only limit is your imagination.

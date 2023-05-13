@@ -1,0 +1,52 @@
+
+OVERVIEW:  Are you our next Frontend Engineer (Midweight)? This role exists to create quality, scalable digital solutions for Gymshark and its customers, with a focus on the design and development of client-facing applications.
+ WHAT YOU'LL BE DOING:
+
+
+
+
+
+Proactively brings formed decisions to senior team members to reinforce ideas and ensure they're on track.
+Works collaboratively with Engineering colleagues and Leads to meet sprint goals, and ensure sprints are successful.
+Collaborates with Product Owners to ensure that expectations are managed, delivering as required within the specified timelines.
+Collaborates with Frontend peers and other teams as necessary to understand and work towards outcomes.
+Assists POs/BAs in refining stories to ensure that they meet the team's Definition of Ready.
+Presents on the work delivered within an iteration to key stakeholders, clearly demoing the business value in language that non-technical stakeholders can understand.
+Consistently looks to adapt and improve their individual performance whilst contributing to the continuous improvement of the team (including quality, process, teamwork, but not limited to these things) through all appropriate channels.
+Using 10% time to increase knowledge and capability of industry-relevant technologies and practices.
+Documenting solutions and projects to an appropriate level including; technical diagrams, associated links and technical notes.
+Appreciable awareness of the Web Platform, and how we can best use the tools and interfaces it provides.
+An understanding of common Software Design Patterns, and how we can employ them.
+A current knowledge of fundamental web technologies, including but not limited to; HTML, CSS, JavaScript (exposure to React and Next.js ideal).
+
+
+
+
+
+WHAT YOU'LL NEED:  Essential Criteria:
+
+
+
+
+
+
+Hands-on delivery of Software solutions according to the sprint backlog, working closely cross-function with design and QA teams to achieve sprint goals.
+Comfortable integrating and maintaining native codebases with third-party software (e.g. Shopify).
+Implementing solutions that deliver genuine value to their users.
+Performing a suitable degree of testing against a given solution before delivery.
+Supporting the QA team members in their creation and performance of robust test plans.
+Able to create, review and understand software architectural diagrams and identify areas of improvement and / or dependencies to current project work.
+Comfortable creating all technical documentation related to your work.
+
+
+
+
+
+This is a hybrid role and would require the successful candidate to attend at least 3 days a week in GSHQ, Solihull, UK.
+ CLOSING DATE: 2nd May, 2023
+ BELONGING AT GYMSHARK.
+ Our mission is to be a place where everyone belongs. We're an equal opportunities employer, and for us that means we always strive to be as inclusive as possible in all aspects of employment, right from your application. We're committed to finding reasonable adjustments* for candidates with specific needs or have a disability during our recruitment process, and all applicants will be considered fairly and equally. We do not tolerate discrimination of any kind. *If you'd like to request a reasonable adjustment please email talent@gymshark.com.
+ ABOUT US.
+ We're here to unite the conditioning community. We believe that putting the sweat in today, prepares us for tomorrow. So, we give people the tools they need to reach further, go faster, be stronger. We celebrate those who show up – for themselves – to be their physical or mental best, whatever that means for them. It's what we want for our community, and our team. A team that's growing rapidly around the world. A collective of talented individuals working together to invent Gymshark's future. Our plans are ambitious, and we're looking for people who want to join us for the ride – our growth will be your growth.
+ THE PERKS.
+ Competitive 'Win Together, Lose Together' Bonus Choice of Private Medical Insurance or Healthcare Cash Plan, paid for by us! 25 days holidays + your birthday and all the Bank Holidays which can be substituted and taken whenever you want. A truly Flexible Working Culture A collaborative, creative and inspiring working environment Employer pension contributions up to 7% Life Assurance at four times your basic salary 50% Gymshark Discount Gymshark Gift Card for each year of service Financial, Physical and Mental Wellbeing Support Great Training and Learning Resources Choice of hardware and access to the best software Paid time off when you're physically and mentally unwell Very Generous Family Leave package – we support you extending your family Refuel - Healthy fresh food at GSHQ ️‍️ Lifting Club (LC) Gym Membership Free monthly massages Beauty and Barber facilities Free on-site parking

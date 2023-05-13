@@ -1,0 +1,39 @@
+
+DNEG is looking for an experienced python application developer to design, build, deploy, and maintain pipeline integration tools for editors and database administrators. As well as demonstrating technical skill and initiative, you will need to be an excellent communicator – your ability to communicate between a wide range of technical and non-technical stakeholders will help you thrive in this role. Prior experience developing software for a VFX or film production studio is a must for this position.
+ About Editorial and IO Product Team
+ As a leading global VFX studio, DNEG handles huge amounts of data on a continual basis, receiving reels of raw footage from production studios, distributing it across the company, and delivering finished or work-in-progress VFX content back to clients in a wide variety of video and image formats to very tight deadlines. The efficient processing and distribution of this data is essential to the operations of the business. As such, our Editorial and IO Product Team is building ever more optimized and flexible software applications to enable editors and database administrators to do their tasks quickly and efficiently.
+ About the Role
+ As the Editorial and IO Product Developer you will be working in a small, global, yet tightly knit team to develop software tools that support DNEG’s crucial ingestion and delivery pipeline. You will have influence in all aspects of the software development life-cycle; designing, supporting and maintaining software as well as integrating tools into our existing pipeline. You will use your technical skills across the ‘full stack’. On the backend you will be largely working in the Python programming language and leveraging powerful image processing and transcoding tools like ‘Nuke’ and ‘FFmpeg’. On the front end you will be building excellent user facing web interfaces and QtWidgets applications providing the best user experience for our editors and database administrators who use these tools day in and day out. You will also act as a consultant to the wider Imaging team, advising on strategies to modify code, develop appropriate unit tests and produce first class documentation appropriate for consumption by colleagues elsewhere in the wider industry.
+ We follow Agile development methodologies and you will work closely with product owners and stakeholders to understand artist needs and deliver bespoke software products. You will engage with stakeholders to establish a problem definition, scope project objectives, and get sign-off on project deliverables. Together with the Software Development Manager you will have the opportunity to take an active role in maintaining high standards of software quality within the team by establishing best practices and habits.
+ About the Product Department and Imaging Domain
+ Unique among VFX studios, the Product Development Department is disparate from show-supporting technology groups, and is focused on developing stand-alone applications and DCC plugins to enable new creative capabilities and improve production efficiency. The Editorial and IO Discipline is part of the Imaging Domain under the general Product Development umbrella. Other disciplines under this domain include Colour Science, Playback and Review, and Computer Vision, you will also have the opportunity to work in these technology areas too.
+ Must have:
+ Technical:
+
+ Degree in Computer Science, Engineering or similar, or equivalent experience
+ Experience developing software in a VFX or Film Production studio
+ Excellent programming skills in Python
+ Proficiency in Bash scripting and Linux CLI commands
+ Proficiency in Linux local/network filesystems
+ Experience of application development in a Linux environment
+ Experience with unit/integration testing
+ Experience with source control systems and developing within a team
+ Knowledge of a typical VFX pipeline, from ingestion to delivery
+ A passion for excellence in UI design and UX
+
+ Interpersonal:
+
+ Excellent written, verbal, and graphical communication
+ Professional experience of agile development
+
+ Nice to have:
+
+ Experience in Qt, OpenTimelineIO, OpenColorIO
+ Knowledge of Nuke, FFmpeg, or other image processing libraries
+ Experience in modern C/C++ (2011, 2014)
+ Experience with graphical programming APIs such as Qt (C++), QML, OpenGL, GLSL
+ Knowledge of the core principles of digital photography and imaging
+ Experience in Javascript (React/Redux), Flask
+
+ A note on Equal Opportunities
+ We would not be able to produce award-winning work without our Production Technology Division, which is committed to nurturing an inclusive, diverse and exciting workplace. Our teams have a variety of backgrounds and originate from a number of different countries, working across the globe at the forefront of technology in the industry.

@@ -1,0 +1,75 @@
+
+Location: Birmingham, UK or Exeter, UK
+
+ Home working vs. office: we are flexible with regard to home working vs. office; we want you to work where you do your best work. As a guide, across our business we will typically do 1 or 2 days a week in the office. In the early stages of our relationship we may ask you to be in the office more but we will always seek to be accommodating (e.g. of child care; appointments; etc.)
+
+ Who we are
+ Good Growth is a Data and Technology business, trusted by global brands to grow market share and profitability of e-commerce and digital channels. You can find out more about us at https://goodgrowth.co.uk/.
+
+ We are based in Birmingham, Exeter and London. Broadly speaking these are the homes of our Tech, Data, and Consultancy Teams respectively.
+
+ We believe passionately in allowing our clients to innovate at speed within their current constraints. Through our experience of doing this we have developed a software platform - Good Growth Technology (GGT) - that you would both use and contribute to the ongoing development of.
+
+ The role
+
+ We are looking for someone to join our Tech Team as a Software Developer. You would be joining a collaborative and supportive team and work across a range of technologies.
+
+ Our core platform stack is made up of Go, Node.js, PostgreSQL, and MongoDB. The tooling layer which sits on top of this consists of React, GraphQL and TestCafe. All our tech is deployed onto Google Cloud Platform, with an increasingly large percentage of this being automated through Terraform.
+
+ We care deeply about quality and place a heavy emphasis on automated testing and peer reviews.
+
+ Although exactly what you were working on would evolve over time the role would initially have two primary focuses:
+
+
+ Delivering the tests for our Test and Learn programmes - this involves using our GGT software and writing code for deployment into CRO tools.
+ Contributing to our tooling layer - as a user of our tech you would be empowered to make changes to it based on what we learn through using it.
+
+
+ The process
+
+
+ Informal Interview (either in person or on video call) - this is for you to find out about Good Growth and us to find out more about you.
+ Skills test - we will ask you to show evidence of your skills in a relevant area.
+ Work date - If steps 1. and 2. go well, we will invite you to work with us for a day so that we can see how you fit in, and you can get a real feel for what your job would be like. You will be paid for your time.
+
+ Skillset
+ Essential
+
+ (Vanilla) JavaScript
+ HTML
+ CSS
+ A proven track record of delivering projects to a high standard and on time.
+ A proven ability to work within an agile team.
+
+
+ Desirable
+
+ JavaScript frameworks (e.g. React, Vue, etc.).
+ Automated testing.
+ CRO tools (e.g. Optimizely; Google Optimize; Monetate; etc.).
+
+
+
+ Benefits
+
+ Competitive Salary 
+25 days holiday plus bank holidays each year 
+Employee benefits platform giving you access to a range of discounts
+ Workplace pension scheme 
+Annual bonus scheme 
+Company away days 
+Regular social activities 
+
+
+
+Plus the chance to learn from the best in the industry, coaching you in professional and personal development to help you develop the skills you need to thrive.  
+
+
+We offer flexible hybrid working with the opportunity to work in our Birmingham or Exeter head office some or all of the time. 
+
+
+Hours: 37.5 per week
+ Salary: £35-40k depending on experience
+
+ Good Growth welcomes applicants from diverse backgrounds with different lived experience and perspectives. A diverse team means we can better serve our portfolio of global clients.
+ 

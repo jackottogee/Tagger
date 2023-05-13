@@ -1,0 +1,64 @@
+
+Company overview:
+ Namesco Limited (names.co.uk) is one of the UK's biggest domain name and hosting providers. Domain names and web hosting are our specialities, but we also provide everything else needed to run a booming online business.
+ Since 2019, we have been part of team.blue, a European group of brands enabling entrepreneurs to succeed online. As a group, we operate across 15 countries, manage over 1.9 million domains, host more than 650,000 websites, and provide 2 million email accounts to our customers. Our incredible team of nearly 1,700 experts make this happen - are you ready to share your passion and join our team?
+ Why choose names.co.uk?
+ We want every member of our team to achieve more than they thought possible so that we can keep supporting our customers to succeed. We do this with:
+
+A diverse and inclusive culture
+Access to flexible working opportunities
+A relaxed, collaborative atmosphere
+Motivational, coach-style leadership
+Employee perks, including an enhanced holiday scheme and a birthday bonus
+
+What we do
+ We make succeeding online as easy as it can be for our customers. We:
+
+Provide award-winning IT services
+Keep our products accessible and competitive
+Offer a diverse range of products to allow customers to grow
+Are customer-obsessed, offering multi-channel exceptional support
+
+Our values
+ The five characteristics that drive our behaviours and the heart of our business culture.
+
+We put our customers at the heart of everything we do
+We’re stronger together and we trust each other to do the right thing
+We tell it like it is, and keep doors and mind open
+We treat each other with respect and regard
+We’re always thinking ’what’s next?
+
+Job Description
+ An opportunity has arisen for a Software Engineer to join our team in Reading, UK or anywhere in the UK working completely remote. The successful applicant will work as part of the team responsible for the development and maintenance of the applications behind the Company’s Dedicated and Virtual Products. The team frequently liaises with other departments in the company especially Systems and Support, to help resolve issues, identify areas that require work and implement new features or produce tools to enable the support department to troubleshoot problems. 
+We are looking for one talented candidate who will work with international teams, with contacts across Europe and cooperate with different people. They will feel at home in Python or PHP development with focus on web development. Knowledge of other programming languages would be a plus as would Linux system administration as well.
+ Key responsibilities
+
+Develop and maintain all aspects of existing software, covering front-end customer web applications, back-end provisioning systems, libraries and microservices.
+Assist with integration of secondary systems.
+Understand technical and functional requirements.
+Collaborate with colleagues and internal users to ensure requirements are met.
+Ensure work is well tested and consistently meeting best practices, processes, and procedures.
+
+Required skills and experience
+
+Linux and Windows operating systems.
+Python or PHP with emphasis on web development.
+MySQL or a similar relational database.
+Experience using Git for revision control.
+Ability to adhere to best practices and code guidelines.
+
+Key Competencies
+
+Excellent time management.
+Resilient with the ability to problem solve.
+Clear written and verbal skills.
+Attention to detail.
+Commendable Project Management skills
+
+Working Hours:
+ The normal hours of the business are 9:00 a.m. to 5:30 p.m. Monday to Friday inclusive. Some flexibility can be offered in start and finish times as per discussion with the hiring manager.
+ For the first two-four weeks training will be provided, on a full-time basis from our offices in Reading, UK, which may be open for a discussion.
+ Following initial training, we will offer hybrid working which can be discussed with the hiring manager. 
+Right to work
+ At any stage please be prepared to provide proof of eligibility to work in the UK.
+ Unfortunately, we are unable to support Sponsorship Visas.

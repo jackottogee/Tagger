@@ -1,0 +1,75 @@
+
+ Automation Engineer | S2 | Automation | Milton Keynes/Hybrid 
+ Country: United Kingdom 
+ 
+WHAT YOU WILL BE DOING 
+
+This role is offered on a hybrid basis, which can be discussed with the recruitment team during the hiring process. 
+
+Join our community. 
+
+We are recruiting for an Automation Engineer to join the Automation Team responsible for the facilitation and implementation of new capabilities for full Infrastructure Automation. 
+
+This role will be responsible for developing, assisting with and implementing Infrastructure Automation solutions across the IT estate. The Automation Engineer will deliver solutions aligned with the Automation roadmap and aligned to our Corporate strategy. 
+
+You will strive to enhance automation capability and logic to improve migrations to the cloud and BAU service provisioning, as part of a programme to implement “Infrastructure As Code.” 
+
+The difference you’ll make. 
+
+Being a subject matter expert and taking on a consultative role as it pertains to infrastructure automation. 
+Setting standards/guidelines for IT Automation, both of the code itself and the level of documentation. 
+Assisting other Produban teams to resolve automation challenges as part of a centre of excellence for Infrastructure Automation. 
+Training team members on automation technologies. 
+Understanding I AM Risk principles and following and promoting a risk culture within your area of responsibility. 
+Identifying, assessing, managing and reporting risks using the appropriate Company procedures and channels. 
+
+
+What you’ll bring. 
+
+Automation & Configuration Management Software (Ansible - *Mandatory Requirement) 
+Python development 
+Code Repository software (GitLab) 
+Experience with automation of Linux, Windows & VMware 
+Experience with automating at least one the following Cloud Platforms (vCloud, AWS & Azure) 
+Experience with Docker, Swarm & Kubernetes 
+Good communication and writing skills 
+
+
+It would also be nice for you to have. 
+
+Job Scheduling and Runbook Automation (e.g. Rundeck) 
+Code Validation and Deployment Software (SonarQube/Jenkins) 
+Network troubleshooting 
+
+
+What else you need to know. 
+
+This is a permanent role to be based at our Milton Keynes office with some remote working. 
+
+Time spent working from the Milton Keynes site is expected to be 2-3 days per week initially. 
+
+As part of this role you will occasionally be on call for go live and on support whenever required, out of hours. 
+
+Everyday Inclusion 
+At Santander we’re creating a thriving workplace where all colleagues feel they belong and are supported to succeed. We all help to make Santander a workplace that celebrates diversity and attracts, retains and develops the most talented and committed people through living our values of Simple, Personal, and Fair. 
+
+How we’ll reward you. 
+Opportunities to embrace Agile with us as we transform our business, work in an environment with leading edge technology, attend ‘Meet Ups’ and be part of internal and external technology communities and work for an organisation that’s dedicated to your learning and ongoing development. 
+
+As well as a salary, we offer a wide range of benefits that you can choose from and tailor to your needs. 
+
+£500 annual cash allowance to spend on our great range of benefits 
+Eligible for a discretionary performance-related annual bonus 
+We put 8% of salary into your pension, even if you don’t contribute yourself. We’ll pay in up to 12.5% of salary, if you contribute as well, and you can take some of our contribution in cash if you prefer 
+27 days’ holiday plus bank holidays, which increases to 28 days after 5yrs service, with the option to purchase up to 5 contractual days per year 
+Voluntary healthcare benefits at discounted rates. Including : Bupa medical insurance, dental insurance, healthcare cash plan and health assessments 
+Benefits supporting you and your family, such as death-in-service benefit, income protection, and voluntary life assurance and critical illness cover 
+24/7 access to an online employee discount platform including retailers, entertainment, eating out, travel and more 
+Share in Santander’s success by investing in our share plans 
+Support your favourite causes through charitable giving and our community partnerships 
+
+
+What to do next. 
+If this sounds like a role you’re interested in, then please apply. 
+
+If there’s anything we can do in the recruitment process to help you achieve your best, get in touch. Whether it’s a copy of our application form in another format or additional assistance, we’re available through telephone, email, or face to face. You can contact us at resourcing@santander.co.uk or call 0870 414 9080.

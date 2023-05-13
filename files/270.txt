@@ -1,0 +1,47 @@
+This is an opportunity to join our Test and Automation Team.
+Your job will consist of developing frameworks, using tools and applying manual techniques to test our software.
+We take quality very seriously. You will make a big contribution to our product by:
+Testing new features to check that they work, fit requirements and are user friendly
+Building and using test frameworks and tools
+Expanding our existing automated test coverage and improving existing regression tests
+Investigating the limits of the products in terms of scalability, endurance and interoperability
+Proactively finding problems before our customers do
+Getting to the bottom of complex issues
+Directly contributing to the company’s success within your first few weeks
+About you
+You’re not expected to have all of the following skills, but any you do have will be useful for this role.
+We are looking for someone who has:
+The desire to learn new things and new technologies
+Curiosity to take things apart in order to understand how they work
+Strong troubleshooting, attention to detail and communication skills
+Outstanding technical ability or achieved excellent academic results from a recognised university
+It’s also a bonus if you have experience of:
+Programming and scripting
+Networking and API testing
+Scale and performance testing, e.g. profiling or benchmarking
+Development of test strategies and creation of test cases
+Cloud platforms, containerisation and virtualisation
+Service-Oriented Architectures
+Cybersecurity
+Security testing.
+However, all experience levels will be considered.
+We use a wide variety of different languages and frameworks in the Test and Automation Team, with a focus on Go and Python. It’s not expected that you would be familiar with any of the languages we use, but you should be enthusiastic and willing to learn new things.
+We are looking for a team player who can think out of the box, enjoys solving complex problems and thrives working things out themselves, while not afraid to ask for help and learn from their teammates if they’re stuck.
+Does this sound like you? We’d love you to apply, even if you don’t meet 100% of the requirements and qualifications.
+Mayflower is acting as an Employment Agency in relation to this vacancy.
+Job Type: Full-time
+Salary: £35,000.00-£45,000.00 per year
+Schedule:
+
+8 hour shift
+
+Supplemental pay types:
+
+Bonus scheme
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Remote
+Reference ID: SD890TA

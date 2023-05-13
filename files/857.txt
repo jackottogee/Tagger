@@ -1,0 +1,49 @@
+The post is to perform the duties associated with that of a Systems and Applications Developer for the Business Intelligence function. To design, build and maintain applications to deliver Business Information Solutions to our customers. This role is critical to support key decision makers to monitor performance, enhance service planning and lead to better delivery of services across a wide spectrum of needs and settings. 
+
+ Should be proficient with Microsoft Asp.Net Technologies and Web Frameworks. Should keep him/herself up to date with latest versions and features of Web Technologies. 
+
+ Take ownership for completion of development activities as determined by Application Development Manager and highlight any risks / impediments for timely delivery. 
+
+ To design and develop web application code in C# is mandatory. 
+
+ To design and develop databases using SQL server technology is mandatory. 
+
+ To read and understand complex technical specification material so that these can be further developed into specifications for design and development 
+
+ To work in a matrix with the other teams in the Arden & GEM CSU to ensure that technologies integrate and that data is delivered in a usable and timely manner 
+
+ To participate in peer code reviews and strive to improve quality, clarity and performance of the system either developed by yourself or by other team members. 
+
+
+Why join us:
+
+
+We will provide you with the opportunity to work on a continuous stream of new and exciting developments using new and varied technologies
+We will provide a unique opportunity to develop your skills by enabling you to participate in code reviews and building software using established design principle
+ A chance to contribute to the way we develop software such as implementing industry standard practices using test driven development 
+
+
+Should be proficient with Microsoft Asp.Net Technologies and Web Frameworks. Should keep him/herself up to date with latest versions and features of Web Technologies.
+Take ownership for completion of development activities as determined by Application Development Manager and highlight any risks / impediments for timely delivery.
+To learn and implement industry wide best practices around Technologies and Agile Development methodologies to ensure quality product is delivered.
+Be open to learning new technologies and be available to undertake any specific training arranged by the Organisation to support development work.
+To design and develop web application code in C# is mandatory.
+To design and develop databases using SQL server technology is mandatory.
+To have good problem solving skills and have a strong attention to detail in a software development capacity.
+To be available as Tier-3 Support to resolve any Show Stopper Incidents/Bugs during Business Hours, but sometimes work extended hours during the day depending on the Urgency.
+Should be prepared to work during After Hours and Weekends to Execute / Support any Disaster Recovery , Migration or System Change Activities which need to be carried outside Business Hours .This will be pre-planned and compensation day-off / overtime can be arranged with your Manager.
+To read and understand complex technical specification material so that these can be further developed into specifications for design and development.
+To be able to communicate IT language in a way that service users can understand
+To work in a matrix with the other teams in the Arden & GEM CSU to ensure that technologies integrate and that data is delivered in a usable and timely manner.
+To be comfortable learning niche technology products and be able to develop solutions within the development work program.
+To participate in peer code reviews and strive to improve quality, clarity and performance of the system either developed by yourself or by other team members.
+To adhere and contribute towards improving coding guidelines utilised by the Application Development team.
+Work with the Development Operations team to provide support on established products to end-users.
+The developer will be responsible for testing their own work to ensure that all products are both robust and of a high standard before being released into to a production environment for the user base.
+To support training and induction of new staff
+To be able to demonstrate their own development work to new staff
+The post holder shall be responsible for any software licences and IT equipment allocated to him (or her) as part of their work.
+The post holder shall assist the Software Development Manager and contribute to the drawing up of budget for Software Developer licences (cross the Directorate and beyond) and technical training and consultancy.
+The post holder is required to comply with and actively promote the Organisation’s equal opportunities policy.
+To work autonomously, guided by national policy, regulations or guidance. To advise customer organisations on the interpretation and impact of policies and initiatives.
+This job description is not exhaustive but is intended to outline the main roles and responsibilities of the post holder. It will be subject to regular review and amendment in consultation with the post holder.

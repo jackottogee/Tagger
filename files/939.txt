@@ -1,0 +1,59 @@
+
+
+
+Job description
+
+As a Software Engineer, a typical day may include the following: 
+Design and build new modules that help us move towards a cloud-native distributed system. 
+Provide technical advice and weigh in on technical decisions that impact other teams or the company at large by collaborating with stakeholders. 
+Research and propose new technologies. 
+Take initiative to identify and solve important problems, and coordinate with others on cross-cutting technical issues. 
+Identify and proactively tackle technical debt before it grows into debt that requires significant up-front work to resolve 
+Partner with our architectural and platform teams. 
+Improve and support our existing services and integrations.
+ Skills:
+ Must Haves: 
+Strong problem solving and critical thinking skills. 
+5+ years building and supporting well architected, service-based systems. 
+3+ years writing Java code with experience with Spring Framework. 
+Experience writing complicated SQL and an understanding of relational databases. 
+Experience working with Hibernate. 
+Experience working with message queues/messaging frameworks. 
+Success in writing understandable and testable code while embracing unit and integration test concepts.
+ Experience with test driven development, unit testing and mocking frameworks. 
+Working with a team of people on engaging problems which often require independent research that excites you. 
+You can clearly articulate technical concepts to developers, managers, and less technical colleagues. 
+Experience working with CI/CD pipelines. 
+Nice to Haves: 
+Containerization, Docker, Kubernetes. 
+Experience with cloud providers (AWS, Azure) and cloud native solutions. 
+Experience working with Spring Boot. 
+Experience working with MariaDB. 
+Experience with Apache Camel and Apache ActiveMQ. 
+Experience working with Mockito or EasyMock. 
+Experience with Vaadin or similar Java UI frameworks 
+Experience with automation testing frameworks such as Selenium
+ Benefits:
+ This position is also eligible for an annual corporate bonus of 8%.
+ Regular opportunities for executive leadership exposure 
+Access to top-notch learning courses through LinkedIn Learning 
+Regular manager check-ins to drive performance and career growth 
+A growing network of employee resource groups 
+Pension scheme – Pension scheme with Standard Life. 
+Life Assurance scheme – Cover in place for 4 x base salary.
+ Private Medical Insurance scheme – Company funded family cover with vitality. Equal Opportunity
+
+     If you feel you have the skills and experience needed for this role; please do apply now.
+   
+
+
+
+Job reference
+PS14219
+Job type
+Full Time, Permanent
+Job Location
+Remote
+Salary
+£44100-62200 / year
+

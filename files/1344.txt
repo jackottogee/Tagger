@@ -1,0 +1,137 @@
+
+
+Job Details
+
+
+Location(s): UK, Europe & Africa : UK : Guildford 
+
+ BAE Systems Digital Intelligence is home to 4,800 digital, cyber and intelligence experts. We work collaboratively across 16 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+    
+
+BIO
+
+ BAE Systems Applied Intelligence works with governments and businesses around the world to help them defend against cyber threats, reduce their risk in the connected world, comply with regulation and transform their operations.
+    
+ The Wireless Products group works with customers to develop innovative mission critical technology. Applications include software radios, space technology and underwater systems.
+    
+
+JOB ROLE
+
+ We are looking for bright, enthusiastic and committed individuals to work as software developers in one of our customer-facing product teams. Relevant industry experience is preferable but most of all we are looking for bright, enthusiastic and committed individuals with a strong academic background and the ability to learn quickly.
+    
+ We have a range of roles available, from graduate entry through to experienced developers. We are interested in hearing from anyone who can make a strong contribution to our work.
+    
+
+What you could be doing for us:
+
+ Depending on your project assignment and level of experience, you may work on some or all of the following:
+    
+
+ High performance application design and development in C++ and related languages.
+ Developing and deploying software which typically includes low level development (eg real-time software, drivers, embedded software etc.) and requires an understanding of the underlying hardware systems. 
+Managing technical tasks/projects and people
+ Be involved in customer-facing delivery, sometimes to challenging deadlines.
+ Customer-facing technical consultancy
+ Have a strong interest in expanding technical knowledge both in areas of core expertise and more generally.
+ Work towards gaining the experience required to take technical lead roles.
+ Mentoring and coaching junior colleagues
+
+
+ What background are we looking for?
+
+ We are looking for ambitious, high-calibre people with the following characteristics:
+    
+ Essential:
+    
+
+ Highly motivated with a strong academic background typically in Engineering, Physics or Mathematics with a 2:1 or 1st class degree. PhD applicants also encouraged.
+ Proven problem-solving skills
+ Broad interest in wireless technology, embedded systems and awareness of latest industry developments.
+ Ability to multi-task and stay organised in a dynamic work environment
+ Excellent team working abilities
+ Ability to learn quickly
+ Ability to produce high-quality software
+ Understanding of low-level computing concepts
+ C++ experience
+
+ Desirable:
+    
+
+ Development on and for Linux based embedded systems
+ Range of other development skills, including C (for embedded systems), Java, HTML5, React/Redux, Python, GDB.
+ Modern software development methodologies such as Agile and Test Driven Development
+ Proven track record of successfully delivering high quality software solutions
+ Understanding of radio communication systems and concepts
+
+
+ How we will support you:
+
+
+ Work-life balance is important; you'll get 25 days holiday a year and, via our flexible benefits package the option to buy/sell and carry over from the year before
+ Our flexible benefits package includes; private medical and dental insurance, a competitive pension scheme, cycle to work scheme, taste cards and more
+ You'll have a dedicated Career Manager to help you develop your career and guide you on your journey through BAE
+ Don't know a particular technology? Your learning and development is key to your future career
+ You'll be part of our bonus scheme 
+You are welcome to join any/all of our Diversity and Support groups. These groups cover everything from gender diversity to mental health and wellbeing.
+
+
+ About BAE Systems Applied Intelligence:
+
+ We help nations, governments and businesses around the world defend themselves against cyber-crime, reduce their risk in the connected world, comply with regulation, and transform their operations. We do this using our unique set of solutions, systems, experience and processes. 
+    
+ Our success is down to our people. The changing nature of our business means that we're constantly looking for the brightest talent to help us fulfil our ambitions. As an experienced professional, we'll entrust you with responsibility; this means that you'll have client contact, variety and support from day one.
+    
+ We'll encourage and support you to develop your skills and reward you as you grow. Whatever your area of expertise, you'll be much more than just a job title; you'll be an integral part of the business where your individual contribution makes a difference every day. Great minds deserve great rewards, so we also offer a very competitive salary and benefits package.
+    
+ Diversity and inclusion are integral to the success of BAE Systems Applied Intelligence. Staying competitive in today's global marketplace requires an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds - the best and brightest minds - can work together to achieve excellence and realise individual and organisational potential. We also welcome discussions about flexible working.
+    
+
+Security Clearance
+
+ Only those with the permanent and unrestricted right to live and work in the UK will be considered for a position within BAE Systems Applied Intelligence. Due to the nature of our work, successful candidates for this role will be required to go through Government SC clearance prior to starting with us. https://www.gov.uk/guidance/security-vetting-and-clearance
+    
+ #regular
+     #hiring
+     #AIcareers
+    
+
+Life at BAE Systems Digital Intelligence 
+
+ We are embracing Hybrid Working. This means you and your colleagues may be working in different locations, such as from home, another BAE Systems office or client site, some or all of the time, and work might be going on at different times of the day.
+    
+ By embracing technology, we can interact, collaborate and create together, even when we're working remotely from one another. Hybrid Working allows for increased flexibility in when and where we work, helping us to balance our work and personal life more effectively, and enhance well-being.
+    
+ Diversity and inclusion are integral to the success of BAE Systems Digital Intelligence. We are proud to have an organisational culture where employees with varying perspectives, skills, life experiences and backgrounds - the best and brightest minds - can work together to achieve excellence and realise individual and organisational potential. 
+    
+
+Division overview: Capabilities
+
+ At BAE Systems Digital Intelligence, we pride ourselves in being a leader in the cyber defence industry, and Capabilities is the engine that keeps the business moving forward. It is the largest area of Digital Intelligence, containing our Engineering, Consulting and Project Management teams that design and implement the defence solutions and digital transformation projects that make us a globally recognised brand in both the public and private sector.
+    
+ As a member of the Capabilities team, you will be creating and managing the solutions that earn us our place in an ever changing digital world. We all have a role to play in defending our clients, and this is yours.
+   
+
+
+
+Company
+
+
+
+BAE Systems Digital Intelligence is home to 4,800 digital, cyber and intelligence experts. We work collaboratively across 16 countries to collect, connect and understand complex data, so that governments, nation states, armed forces and commercial businesses can unlock digital advantage in the most demanding environments.
+Launched in 2022, Digital Intelligence is part of BAE Systems, and has a rich heritage in helping to defend nations and businesses around the world from advanced threats.
+
+
+
+Find Us
+
+
+
+     Location
+    
+
+     Guildford, Surrey
+      GB
+    
+
+
+

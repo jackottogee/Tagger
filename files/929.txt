@@ -1,0 +1,133 @@
+
+
+
+
+
+
+
+
+Help our trading business build a Front Office risk calculation platform, using the latest cloud-based technologies and distributed stream techniques. Our trading technology division have embarked upon a greenfield programme which will deliver a new risk platform, capable of providing real-time as well as end of day risk calculations across all asset classes.
+
+
+We’re building this platform in-house, with a team of dedicated and highly skilled Engineers. You will be working with the latest technologies including AWS, Docker and Kubernetes and interfacing directly with the business. This platform will be used by our primary revenue generators. If you have worked in a similar environment that would be useful but isn’t essential.
+
+
+You will be:
+
+
+
+delivering well designed, testable, and efficient code 
+
+
+
+
+
+
+contributing to all phases of the development lifecycle 
+architecting and building solutions from requirements through to delivery 
+engaging with stakeholders across our global team including business users 
+enhancing and maintaining the existing code base 
+
+
+
+We anticipate to excel in this role, you will ideally have:
+
+
+
+
+
+Python development skills with at least a couple of years of professional experience 
+good knowledge of object-oriented analysis and common design patterns 
+hands-on experience with source control systems such as git 
+hands-on experience with build and dependency management tools 
+a willingness to work with various technologies 
+
+
+
+
+
+
+good interpersonal skills 
+
+
+
+It would be a bonus if you’re familiar with:
+
+
+
+Cloud platforms (AWS, Google, Azure), Containers, Docker, and Kubernetes 
+SQL/NoSQL databases and service-oriented architecture 
+Experience working in a Linux development environment 
+
+
+
+
+
+
+Hands-on experience with basic shell scripting and Python 
+
+
+
+In this role you will be able to see first-hand the positive impact your work has, how it supports revenue growth and operational efficiencies, and how we as a firm respond to external challenges and opportunities.
+
+
+We operate in a flat structure. The members of the team are encouraged to take ownership and accountability of their work, with the empowerment to collaborate with senior members of the business and identify new opportunities.
+
+
+We encourage our team members to play multiple roles; from business analysis and requirements gathering to delivery and risk management. Through this process our team gains a better understanding of the process of product delivery and has an opportunity to develop different skills and explore different career paths.
+
+
+The team operates a hybrid working approach, making the most of the benefits of both office-based collaboration and remote working.
+
+
+
+Having a Learning Mindset is a key value of our group, and we support our staff by giving them access to a variety of learning resources and industry wide accreditations.
+
+About the Corporate Operations Group
+ The Corporate Operations Group brings together specialist support services in Digital Transformation & Data, Technology, Operations, Human Resources, Business Services, Business Improvement & Strategy, and the Macquarie Group Foundation. We deliver service excellence to ensure Macquarie is open for business, deliver on transformational change, invest in our people and have deep relationships with our customers.
+ Our commitment to Diversity, Equity and Inclusion
+ The diversity of our people is one of our greatest strengths. An inclusive and equitable workplace enables us to embrace that diversity to deliver more innovative and sustainable solutions for our people, clients, shareholders and communities. At Macquarie, you'll be encouraged to be yourself and supported to perform at your best. If you're inspired to deliver on our purpose of ‘empowering people to innovate and invest for a better future’, we want you on our team. If you need adjustments made to the recruitment process, please reach out to your recruiter.
+ As an inclusive employer, Macquarie does not discriminate on the grounds of age, disability, sex, sexual orientation, gender identity or expression, marriage, civil partnership, pregnancy, maternity, race (including colour and ethnic or national origins), religion or belief.
+ Joining Macquarie means you’ll be able to work in a way that suits you best. With the right technology, support and resources, our people can work in a range of flexible ways. Talk to us about what working arrangements would help you thrive.
+
+
+
+
+
+
+
+
+
+About Macquarie
+
+A career at Macquarie means you’ll have the opportunity to develop and utilise new skills, explore interesting fields and do challenging work that will impact the lives of people around the world—whether it’s accelerating the green energy transition, helping sustain global food supplies, financing social housing projects or investing in essential infrastructure. At Macquarie, we’re empowering people to innovate and invest for a better future.
+Our size and international presence means your work can take you anywhere—across business groups, disciplines, sectors and borders. With 19,200+ employees and offices in 34 markets around the world, we’re a truly global organisation.
+You’ll be supported by a diverse team where the unique perspectives, ideas and experiences that all of our people bring are valued. You’ll be empowered to address unmet needs in our communities whilst advising and investing alongside our clients and partners. Working with us, you’ll have the opportunity to make a difference.
+Macquarie is a global financial group providing clients with asset management, retail and business banking, wealth management, leasing and asset financing, market access, commodity trading, renewables development, specialist advisory, capital raising and principal investment.
+
+
+
+
+
+
+
+Job no: COG-965353
+      
+Work type: Permanent - Full time
+      
+Location: London
+      
+Category: Technology
+      
+Group: Corporate Operations Group
+      
+Division: Technology
+      
+Recruiter: Calum Brown
+      
+Opening Date: 12/3/2023
+     
+
+
+
+

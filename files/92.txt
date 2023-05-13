@@ -1,0 +1,83 @@
+
+
+
+
+    44338BR
+   
+
+
+
+    Great Britain-Edinburgh 
+   
+
+
+Job Description and Requirements
+
+    Virtual Prototypes are simulation models for a variety of electronic platforms in the automotive, enterprise, telecommunications or cloud market today. Our Virtual Prototyping team delivers these models to our worldwide customers and enables them to start with product development long before hardware is available.
+    
+ In your new Virtual Prototyping Software Engineer role you will:
+    
+ Work in a team environment developing high-performance pre-silicon Virtual Platforms and processor models
+ Integrate models and platforms from Synopsys partners
+ Configure and bring up complex software stacks and drivers on the simulated hardware
+ Identify issues and investigate their root cause
+ Work closely with other development teams, 3rd party suppliers, support engineers and customers to identify, implement and deliver solutions
+
+ Based in central Edinburgh with flexible working from home arrangements.
+    
+
+Key Requirements:
+
+ Good programming skills, ideally with some C++
+ Scripting Languages, preferably Python
+ Excellent problem-solving and communication skills
+ BS or MS Computer Science / Electronics or similar
+
+
+Useful to Have:
+
+ Exposure to open-source software, ideally including QEMU
+ Linux/Android OS build, configuration and debug
+ Embedded, and ability to interpret H/W device specifications
+ Experience with Arm cores and/or knowledge of Arm architecture or is an advantage
+ Experience in a C++ software development role
+ SystemC and transaction-level modelling knowledge would be beneficial but not essential
+
+
+ At Synopsys, we’re at the heart of the innovations that change the way we work and play. Self-driving cars. Artificial Intelligence. The cloud. 5G. The Internet of Things. These breakthroughs are ushering in the Era of Smart Everything. And we’re powering it all with the world’s most advanced technologies for chip design and software security. If you share our passion for innovation, we want to meet you.
+     
+ Our Silicon Design & Verification business is all about building high-performance silicon chips—faster. We’re the world’s leading provider of solutions for designing and verifying advanced silicon chips. And we design the next-generation processes and models needed to manufacture those chips. We enable our customers to optimize chips for power, cost, and performance—eliminating months off their project schedules.
+     
+
+Inclusion and Diversity are important to us. Synopsys considers all applicants for employment without regard to race, color, religion, national origin, gender, sexual orientation, gender identity, age, military veteran status, or disability.
+
+
+
+
+
+
+Job Category
+
+    Engineering 
+   
+
+
+Country
+
+    United Kingdom 
+   
+
+
+Job Subcategory
+
+    R&D Engineering 
+   
+
+
+Hire Type
+
+    Employee
+   
+
+
+

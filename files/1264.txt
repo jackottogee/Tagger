@@ -1,0 +1,62 @@
+Putting the ‘i’ back into British Innovation
+Putting the ‘i’ into Inventing the Future
+Putting the ‘i’ into Inspiring the Nation
+myenergi Ltd is a young, progressive, innovative and fast-growing company with it’s HQ born and based right here in Stallingborough, with subsidiaries based in Germany, Benelux, Northern Ireland, Australia and ambitions to open facilities right across the world. We specialise in the design and manufacture of groundbreaking renewable-energy technology products.
+Due to a very exciting stage of growth and development, we’re now looking to recruit a Senior Production Software Engineer.
+As part of the Manufacturing Engineering Team, contribute to the completion of projects for NPI, new test systems and improvement of existing test systems. Support existing test assets and processes in manufacturing centres working closely with members of the Manufacturing Engineering Team.The purpose of this role is to engineer safe Test solutions within the production environment, facilitating, efficient, reliable, and stable platforms across manufacturing sites.
+Responsibilities:
+This role is a combination of both practical and engineering solutions. Required to undertake project tasks to contribute to their successful completion in line with the project plan and to support manufacturing centres globally.
+The role:
+
+Uncompromising approach to safety both personally and equipment
+Safety inspection and testing of equipment (Included into the Preventative Maintenance Schedule)
+Provide functional test solutions to meet requirements with the main focus on the use of in house created software solutions
+Development of a range of test equipment, evaluation and approval of manufacturing equipment
+Produce all aspects of design and documentation for electrical equipment (to include jigs and test equipment)
+Produce machine documentation including manuals and operating instruction to allow support teams to be able to maintain and support test equipment along with operator instructions on running of equipment, while carrying out on-site training.
+Must be able to work to supplied estimates on budgets, and timescales within the project pipeline with minimum supervision.
+Experience on software development and test solutions
+Must have an electronics background or experience
+Must have a basic understanding of mechanical systems
+Must be comfortable working with engineers from other disciplines
+You will favour a collaborative, open approach to development and have the ability to inspire others and maintain momentum during development. The software that you develop will be used across various equipment and sites, so strong communication skills and the ability to motivate others are essential
+Designing test procedures
+Working with test equipment such as oscilloscopes, power meter and injection test sets
+Coding in C, Python etc
+Developing automated test scripts
+Adapting and developing test equipment
+Maximum flexibility in terms of working hours
+
+Required Qualifications and Experience:
+Electrical or Electronic Engineering Degree5 years working in a Software Development Background
+
+A relevant engineering degree or equivalent experience.
+Experience testing electrical / electronic equipment
+Coding in C, Python etc
+
+Experience in creation of software solutions and a knowledge of mechanical and electronics is essential
+Skills & Abilities:
+1. Interpersonal skills. The ability to work within a team comprising of multiple different skill sets. They will need to be able to interact with other departments within the business to provide or gather information.2. Organizational skills. This key characteristic is critical to this person’s ability to prioritise workload and present accurate information to the manager. The ability to provide information relevant to project deliverables will ensure that we meet requirements for project reporting and taking action to mitigate risk.3. Communication skills. The ability to communicate effectively is essential to this role. The requirement to communicate with overseas team members and third parties is crucial to delivering assigned tasks, along with other internal departments on technical matters.4. Problem-solving skills. The ability to take the lead in situations specific to their skill set is paramount, as is producing best fit solutions to issues. They must be able to handle unexpected situations and be effective in resolving them when they arise.
+Job Type: Full-time, Permanent
+Salary: £36K -£45K per annum DOE
+What myenergi offer you:
+
+Free charging of electric vehicles on site.
+Private Medical Insurance
+Cycle to Work Scheme
+25 days holiday + Bank Holidays
+Mental Health First Aiders across the business, let's be there for each other
+Career Development & Encouragement
+Employee Empowerment
+Free onsite parking
+Positive working environment
+
+Job Types: Full-time, Permanent
+Salary: £36,000.00-£45,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Bachelor's (preferred)

@@ -1,0 +1,15 @@
+
+SOFTWARE ENGINEER – CONTRACTS 6+ MONTHS – WINFRITH Nr Dorchester in Dorset
+ I seek a Java Software Engineer to work on a contract basis within the Commercial Marine & Marine Defence sectors. Solid UML Object Orientated design skills are essential for this role.
+ UML modelling to derive / decompose software requirements and produce software architectural designs such as Use cases, domain model, class diagrams, sequence diagrams.
+ The ideal candidate will be versed in Java / JavaFX and come from a highly regulated industry background. Knowledge of DEF STAN 00-56 & IEC 61508 or equivalent is a distinct advantage.
+ ESSENTIAL SKILLS 
+
+Java or JavaFX
+ NetBeans or other IDE.
+ UML or Enterprise Architect for design pattern modelling.
+
+
+OOA / OOD
+
+ ADDITIONAL SECURITY INFORMATION: I SEEK A SOFTWARE ENGINEER WHO HAS WORKED IN A MILITARY / DEFENCE ENVIRONMENT / INDUSTRY WITHIN THE LAST 12 MONTHS OR WHO IS CAPABLE OF OBTAINING SECURITY CLEARANCE (SC LEVEL MINIMUM)

@@ -1,0 +1,41 @@
+
+D365/Power Platform Developer (FTSE250)
+ Are you looking to work for an innovative High Growth company?
+ Do you have a Dynamics 365 background and some experience with Power Platform? Do you want to be a Fully Blown Power Platform Developer? Are you currently a D365 Admin and want to transition into a Developer?
+ Then apply now!
+ The role will be split between maintaining an existing SQL database and working on a new D365 system. You will work alongside the Business Systems Manager is a varied role where you will work with the userbase to scope, design and build out new features in D365 as well as providing user support and training.
+ 
+Additionally, they will be looking to utilise the Power Platform to enhance their internal systems which you will be able to get hands on with.
+ The requirements are
+
+ Strong knowledge of Dynamics 365
+ Strong SQL skills
+ MUST HAVE Power Platform 
+Skilled in customisation and configuration of Dynamics
+ Experience providing support and training on Dynamics
+ Strong communication and stakeholder management skills
+
+ 
+We're looking for someone who has a few years' experience in a similar role and is now looking to move on, perhaps following their first or second job after university. You will need to be comfortable with independent working, including identifying and solving tricky technical problems with minimal supervision.
+ The role will require skills in the following (in decreasing order of importance):
+
+ Power Platform - including experience of entity customisation, form scripting using JavaScript and development of workflows and plugins.
+ Power Automate * SQL Server - building queries, creating data structures (note - we're not looking for a DBA!) 
+
+PowerBI report development * PowerApps Portals (& JavaScript development)
+
+ C# (or equivalent) experience with the ability to contribute to technical architecture, solution development, unit testing.
+
+ We currently have a team of 3 and anticipate growing to 10 over the next twelve months. You would be working with a very experienced team leader and two consultants who are strong in MS Dynamics and MS power Platform. If you like coding C# from other people's functional specs with little or no variety then this is not for you.
+ If you enjoy picking up and running with projects in a role that offers autonomy, a bigger challenge in the form of learning new technologies; and consulting with customers who are eager for solutions that solve their challenges, then we would like to hear from you. +60% of the above skills and a hunger to learn would work for us.
+ We have a thirst for knowledge to enable us to learn and improve. Agile We are agile in our thoughts and actions, anticipating and adapting quickly to new opportunities and situations. We manage changing priorities to work flexibly and with resilience.
+ Benefits What we can offer you Competitive salary depending on your experience.
+
+ 25 days per year plus your birthday Learning environment; the opportunity to work alongside experts in the latest technologies Training allowance
+ Healthcare
+ Pension
+ 10% Bonus
+ Hybrid Working in Central London
+
+ Robert Half Ltd acts as an employment business for temporary positions and an employment agency for permanent positions. Robert Half is committed to equal opportunity and diversity. Suitable candidates with equivalent qualifications and more or less experience can apply. Rates of pay and salary ranges are dependent upon your experience, qualifications and training. If you wish to apply, please read our Privacy Notice describing how we may process, disclose and store your personal data: roberthalf.co.uk/legal-information/privacy-notice.
+ Security alert: scammers are currently targeting jobseekers. Robert Half do not ask candidates for a fee or request candidates to send applications through instant messaging services such as WhatsApp or Telegram. Learn how to protect yourself by visiting our website: roberthalf.co.uk/fraud-alert

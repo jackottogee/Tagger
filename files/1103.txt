@@ -1,0 +1,76 @@
+At Picniq, we make family time fun – but we also want to make your work life fun! So, if you want to get your hands on some of the latest technology and be an instrumental part of our digital transformation, we’d love to hear from you.
+Working with attractions, tour operators and trusted partners, our vision is to inspire moments of joy and excitement for everyone as one of the UK’s most loved and trusted family leisure brands. We have a highly engaged family focused audience and big ambitions for our technology and how we can continue to use our platforms to inspire millions of parents every week to search and book attractions and holidays.
+We’re a forward-thinking, friendly team and we’re looking for a like-minded person that really wants to push their career and our business forward. And as well as the accolade of helping to build an industry-leading product, you’ll also get free and discounted tickets for attractions and discounts on holidays – bon voyage!
+What you’ll get up to with us:
+
+Plan, architect and build new products and features across our web platforms following best practices.
+Advise on and implement the latest javascript frameworks (such as React or Vue) into new products and features.
+Build and maintain APIs for services or to integrate with 3rd parties to add to our product offering.
+Maintain and support existing legacy platforms whilst we transition to newer platforms.
+Collaborate closely within the team (Software engineers, PM, Directors, 3rd party designers)
+Work autonomously and transparently to produce high-quality work.
+
+We’re after someone who has:
+
+Experience with modern javascript frameworks such as React or Vue and best practice knowledge on how to implement in greenfield developments.
+Solid experience of PHP
+Solid knowledge of a modern PHP framework such as Laravel
+Experience creating and using APIs
+Solid experience working with MySQL or PostgreSQL
+Experience with testing methodologies and writing clean, testable code
+Ability and willingness to work within a legacy codebase and a desire to progress them and move to a modern framework
+Working knowledge of modern HTML5 and CSS3 to build amazing UIs
+Ability to work independently and demonstrating an ability to handle the pressures of working autonomously.
+
+You’ll really stand out if you have experience with the following:
+
+SOLID Design Principles
+Familiarity with version control (ideally Git)
+DevOps – Linux, NGINX/ Apache, Docker
+Working with, and building microservices
+noSQL
+
+We have a unique culture and relaxed office environment that makes everyone feel welcome, but we’re also offering…
+
+Salary up to £45k, depending on experience
+Hybrid working, although we’re sure you’ll want to be in as much as possible (The Picniq team are office based, so around 3-4 days in our Bournemouth office would be great)
+Regular personal progression meetings
+Free and discounted tickets to attractions
+Discounts on holidays
+Team lunches and days out
+Increase of annual leave, yearly
+Company pension
+
+Next Steps:
+Please apply with your CV and cover letter explaining why you think you’d be a good fit for the team along with any examples of relevant experience.
+This job description was NOT written by ChatGPT.
+No recruitment agencies at this point please!
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£45,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Employee discount
+Transport links
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Bournemouth: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+Have you provided a cover letter with your CV explaining past experiences?
+
+Experience:
+
+Front-end development: 3 years (preferred)
+PHP / Laravel: 3 years (preferred)
+
+Work Location: Hybrid remote in Bournemouth

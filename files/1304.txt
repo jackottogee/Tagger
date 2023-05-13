@@ -1,0 +1,36 @@
+
+We're looking for a Power Platform Developer to join our IT team at Burges Salmon. Working closely with a diverse range of IT, Innovation and Project Management colleagues, in this role you will play a vital part in designing, developing, testing and deploying custom applications and workflows that leverage the Power Platform to meet business needs and drive profitability. This is key to achieving our client service delivery ambitions, ensuring we are delivering bespoke, efficient and valuable cutting-edge technology solutions for our clients' needs.
+ We're looking for a confident developer with sound knowledge of the engineering lifecycle who can act as a subject matter expert for the Power Platform, working with our Business Analysts to translate business requirements into technical designs and integrate the Power Platform with 3rd party systems and applications such as iManage, InterAction, Aderant or cloud-based SaaS services; you will also act as technical lead to ensure compliance with data governance policies and practices.
+ What we are looking for:
+
+Minimum of 18 months experience as a Power Platform Developer (hands on experience withPower Apps, Power Automate and Power BI)
+Strong applied knowledge of the Microsoft Power Platform services, Dataverse JavaScript, JSON, TypeScript, C#, HTML,.NET/ASP.NET, RESTful Web APIs, Microsoft Azure, and Microsoft 365
+A strong understanding of the development lifecycle.
+
+There may be occasions when you will need to work outside of regular business hours to support solution go-live activities or to address critical incidents. This may include performing system upgrades, testing and deploying new features or resolving production issues. As such, flexibility in working hours and a willingness to work occasionally out of hours is essential for this role
+ About Burges Salmon
+ Our six core values – Ambition, Collaboration, Commitment, Fairness, Quality and Respect - are at the heart of everything we do and help to shape our unique culture. As well as high quality work and exciting development opportunities, we offer our people a professional, friendly and sociable working environment with a real sense of community.
+ A full overview of all the benefits of working at Burges Salmon can be found on the ‘working at Burges Salmon' section of our careers page.
+ We were delighted to be awarded RollonFriday's “Law Firm of the Year 2022” and listed in The Times Top 50 Employers for Women 2021. Our commitment to excellence has recently been recognised by the IIP who have awarded us Platinum certification for investment in people.
+ It's important to us that our organisation represents the diverse community in which we operate and we encourage applications from people of all backgrounds and identities. As a Disability Confident employer we will provide a fully accessible recruitment process and offer an interview to disabled applicants who meet the minimum criteria for the job. We're committed to finding the right person for this role and are open to discussing flexible working, full time or part time working patterns.
+ For more information please see the job description attached below, any questions regarding the role or the interview process please contact Sophie Russell (Resourcing Advisor) at Sophie.Russell@Burges-Salmon.com
+ This job advert will close as soon as sufficient applications have been received. If you are interested in applying, please submit an application as soon as you can
+ INDBS
+
+
+
+
+Benefits
+
+Competitive Salary
+25 days annual leave
+2 paid days leave volunteering
+Pension and life assurance
+Private medical insurance
+Parental leave
+Flexible working
+Personal/Professional development
+Cycle to work
+Social club
+
+

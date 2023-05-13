@@ -1,0 +1,115 @@
+
+
+
+
+
+About The Role
+
+ 
+
+
+
+
+
+
+Regarded as an Subject Matter Expert (SME) for Cloud and responsible for providing strategic expertise to ensure effective management of the technical and business Services for their specialist area.
+ The Senior Cloud Engineer will look for improvement opportunities within the team and its processes/procedures on a continuous basis. You will have a strong background in implementing and supporting new infrastructure within medium-large enterprises. You also enjoy developing code and have made the leap to bring these two aspects together to automate the delivery of new infrastructure solutions, making it easy to deploy.
+ An effective team member who provides support and guidance to peers and other team members and contributes to team efficiency through the creation of accurate technical documentation.
+
+Provides technical guidance on implementation and maintenance of new Cloud technology into the CBS estate, particularly focused on CBS Digital Spine,
+Responsible for independently troubleshooting and resolving product and service incidents, supporting less Senior team members in this area when issues are escalated.
+Undertake technical tasks such as maintaining scripts, automated code, reviewing logs, assisting build and configuration activity and maintaining the technical estate.
+Effectively prioritise tasks to ensure high priority activities are completed first
+Supporting change and implementation where appropriate technical competence has been reached and maintaining an enterprise view.
+
+The role also includes the provision of assistance to the Architecture, Development and Support teams to implement and support solutions into the CBS estate. Looks for improvement opportunities which involve coaching, mentoring, planning, supervising, supporting and training of team members. 
+
+
+
+
+
+
+
+About You
+
+ 
+
+
+
+
+
+
+
+A willingness to learn, a desire to embrace new technology and open to a challenge
+Able to deliver clear and logical documentation for team members and end users to follow
+Able to work under pressure.
+Thorough, with a good attention to detail.
+Able to deliver to agreed timescales.
+Flexible approach to working hours, including being part of a callout rota to meet own objectives and assist colleagues in meeting their objectives.
+
+
+       Completes tasks to agreed levels of quality, within stated timescales with no supervision.
+      
+
+       Demonstrable expertise in their chosen technical discipline.
+      
+
+Essential skills
+
+Experience of working in a complex, pressurised production environment with proven delivery experience. 
+Solid experience of core AWS Cloud infrastructure including EC2, S3, ELB’s, Auto scaling, Lambda, RDS, VPC’s, Security Groups, IAM, Cloud Formation or equivalent Azure
+Previous experience of supporting virtualization technologies (or equivalent)
+Scripting/automation skills, particularly Terraform, PowerShell, BASH. Ansible Tower
+Experience in use of CBS core platform systems (Kubernetes, Docker, ArgoCD)
+Continuous Integration concept and experience (goCD, Github Actions or similar)
+
+
+Desirable skills
+
+
+Monitoring and analytics APM tools (DataDog/Crashlytics)
+Familiarity with the concept of infrastructure/software development paths such as AGILE and LEAN
+Certified in AWS/Azure
+Previous experience as a Network\Linux\DBA\Windows system administrator building & supporting enterprise computing platforms and systems (or equivalent)
+Knowledge of Enterprise level database solutions, such as Oracle and MS-SQL
+Financial services or other regulatory environment experience would be desirable
+      
+
+
+
+
+
+
+
+About The Company
+
+ 
+
+
+
+
+
+
+Flexibility
+ We offer flexibility that counts - and we recognise that will look different for different people. We’ll consider a range of flexible working, and where we can we’ll make it happen. So whether it’s part time hours, job sharing or other flexible working patterns, have a chat with us before you apply to see what the possibilities are.
+ UK's Best Workplaces for Wellbeing by Great Place to Work
+ Coventry Building Society has been named as the one of the UK's Best Workplaces for Wellbeing by Great Place to Work ! To determine our place on the UK's Best Workplaces for Wellbeing list, the Great Place to Work culture experts analysed thousands of employee surveys, assessing peoples’ experiences of wellbeing at work through things like: - Work-life balance - Sense of fulfilment - Job satisfaction - Psychological safety - Financial security
+ Benefits Package:
+
+
+Discretionary Bonus scheme up to 20%
+28 days holiday + bank holidays,
+Buy and sell holiday,
+Pension Employer Contribution – 5%,
+Death in Service – This is 6 times your salary
+We’ll support your physical and mental health with paid sick leave
+Choose where you want to work with hybrid working
+We offer fair compensation if you need to work unsociable or additional hours, through shift, overtime, and callout payments
+
+
+
+
+
+
+
+

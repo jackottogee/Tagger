@@ -1,0 +1,38 @@
+
+Job Description:
+
+ Quant Developer, Fidelity, London
+ Fidelity Digital Assets is looking for a driven Quant Developer to advance the research and development of AI/ML methods as components to creative investment management solutions.
+ Come join a start-up within Fidelity to prototype, learn, and ultimately deliver solutions using techniques within financial machine learning, artificial intelligence, and sophisticated data analytics!
+ You will have a strong programming background with experience combining statistical modelling, machine learning methods and cloud computation within a STEM environment.
+ It will be important for a candidate to be curious, creative, and agile in learning and apply software engineering practices to our research framework.
+ Principal Responsibilities
+
+ Work to develop new machine learning solutions within asset management with a focus on alpha research
+ Train and tune machine learning models and hyper-parameters
+ Research, evaluate, explore and optimize new algorithms
+ Validate model inputs and outputs
+ Research and implement appropriate ML algorithms and tools
+ Develop machine learning applications according to requirements
+ Run machine learning tests and experiments
+ Perform statistical analysis and fine-tuning using test results
+ Stay on top of developments in the ML/FML field
+ Evaluate new data sources and systems for potential use cases
+
+
+ Qualifications
+
+ BSc/MSc degree in Computer Science, Mathematics, Statistics, or other quantitative field.
+ Proficiency in Python, C and SQL required
+ Knowledge of the principles of machine learning, classification models, time series regression and stochastic statistics to deliver improved business performance
+ Deep knowledge of data structures, data modelling and software architecture
+ Experience developing AI/ML cloud solutions such as AWS and Azure
+ Excellent time management, organizational and interpersonal skills as well as attention to detail
+ Positive attitude and self-motivated with ability to learn quickly, adjust to changes and think creatively
+ Excellent communication skills
+
+ Additional Information
+ At Fidelity, we are passionate about making our financial expertise broadly accessible and effective in helping people live the lives they want! We are a privately held company that places a high degree of value in creating and nurturing a work environment that attracts the best talent and reflects our commitment to our associates. We are proud of our diverse and inclusive workplace where we respect and value our associate for their unique perspectives and experiences. For information about working at Fidelity, visit FidelityCareers.com. Fidelity Investments is an equal opportunity employer.
+
+ Certifications:
+

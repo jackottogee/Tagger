@@ -1,0 +1,65 @@
+
+
+
+
+
+
+
+Cardiff / Remote (UK) | £35,000 - £45,000
+Company Description
+ Aforza aims to transform the lives of every consumer on the planet by helping the world’s best Consumer Goods companies become more agile, efficient, productive, and sustainable. We do this by introducing never-before-seen capabilities, including 'Active' Customer Segmentation, Real-Time Promotion Execution and AI-driven Predictive Ordering.
+ At Aforza, we feel lucky to rub shoulders with some of the finest talent available in our industry. If you are looking for the opportunity to learn from others and challenge yourself, there is no better place to be. We are a young, well-funded and fast-moving company. We recognise the exceptional talent we are lucky to have in our team and reward them accordingly. However, not all rewards are financial; we also are passionate about giving back with a strong culture and focus on Corporate Social Responsibility.
+  About the Role
+ Aforza is looking for a mid-level Software Engineer to join our growing Mobile Engineering team, where you will be working with a friendly team of highly talented engineers building out Aforza’s industry-leading mobile applications.
+ You will be involved in the entire development lifecycle, from design and analysis to development and testing of new features. The ideal candidate will be eager to join a fast-paced, dynamic environment where every employee directly affects the company’s success.
+
+
+ What you'll do
+
+Help us enhance and improve our mobile applications, using React Native and Typescript.
+Write unit tests using Jest
+Write e2e test using Detox
+Become an integral part of our Agile Scrum team: 
+         
+Contribute to sprint planning, reviews and retrospectives
+Perform code reviews to promote and maintain best practices
+
+
+What we're looking for
+ We’re looking for someone who has a few years’ of commercial Software Development experience under their belt and is now looking to embark on a new challenge with an amazing team of engineers. Ideally you are someone who has:
+
+Experience with React or React Native (redux, sagas, hooks, context).
+Experience with Typescript
+Experience working with SQL databases.
+Experience working within an Agile Scrum environment.
+Experience working with Git, using the Gitflow methodology.
+A keen eye for detail and a real passion for building beautiful and intuitive user interfaces.
+Good understanding of unit testing frameworks.
+Good understanding of e2e testing frameworks.
+Knowledge of different mobile platform (iOS, Android) capabilities and limitations.
+
+Compensation/Benefits
+ Working at Aforza is awesome! We offer a flexible working environment and our engineers are able to work where they’re most comfortable - whether that’s at home (in the UK), in our brand new office or a mix of both.  All of our R&D team get fantastic benefits, including:
+
+Work on cutting edge technologies with world leading customers
+Competitive salaries
+Stock options
+25 days PTO & bank holidays
+Pension
+Private health cover & income protection
+Flexible hours and hybrid UK remote / office working
+Fantastic, brand new office space in the heart of Cardiff city centre
+
+Our Interview Process
+
+A 30 min intro call with an Engineering Manager
+A 1-2 hour interview with an Engineering Manager and engineer(s). This will either be in person in our Cardiff office or remote over Google Meet. We will ask you questions on your experience and history and dive into your technical skills.
+Two 30 min final stage interviews with our Executive Leadership, including our CEO and Chief Product Officer
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+
+Java Developer / Software Engineer (Java 8 SQL) Maidenhead / WFH to £55k
+ Are you a data centric Java Developer with SQL coding skills?
+ You could be joining a market leading software house, working on complex systems and progressing your career within a friendly and supportive team.
+ As a Java Developer you will design, develop, test and support the core product; a critical systems management platform used by airline operators across the globe. You'll work across the full Java development lifecycle and will gain exposure to the web front end but will focus on backend Java development and design of new features.
+ WFH Policy:
+ You will be based in Maidenhead with flexibility to work from home three days a week.
+ Requirements:
+
+ You have strong core Java development skills, including Java 8
+ You have strong SQL querying skills
+ You have experience with JDBC, JPA or Hibernate
+ You have a good understanding of Java Web Services frameworks (SAOP, REST) and Application Servers (Tomcat, Glassfish)
+ You're collaborative with great communication skills
+
+ As a Java Developer / Software Engineer you will earn a competitive salary (to £55k) plus benefits.
+ Apply now to find out more about this Java Developer / Software Engineer (Java SQL Hibernate SOAP REST Java 8) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

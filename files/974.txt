@@ -1,0 +1,112 @@
+
+
+  Tessian protects every business’s mission by securing the human layer
+ 
+
+
+ We're building intelligent security that works for human beings
+   as they are, not how security policies would like them to be. Using machine learning technology, Tessian automatically predicts and eliminates advanced threats on email caused by human error - like data exfiltration, accidental data loss, business email compromise and phishing attacks - with minimal disruption to employees' workflow. As a result, employees are empowered to do their best work, without security getting in their way. You can read more about Human Layer Security here.
+ 
+
+
+ Tessian has raised a $74m Series C led by renowned security investors, March Capital (Crowdstrike, Knowbe4), with follow-on from Sequoia, Accel, Balderton, Latitude, Okta, Sozo, Citi & Schroder Adveq, to further our mission to secure the human layer.
+ 
+
+
+ Founded in 2013, Tessian is backed by world-class venture capital investors, is dual headquartered in San Francisco (US) and London (UK), with office hubs in Boston & Austin, and is one of the Top-3 2021 Best Places to Work for Women.
+  
+
+
+
+
+Backend Engineering at Tessian
+
+
+
+ At Tessian, we're building the world’s first Human Layer Security platform. We’re making a difference by providing automatic, real-time protection against threats such as social engineering, human error, & data exfiltration, for people all around the world.
+ 
+
+
+ We're looking for backend engineers to build out our platform, drive our ability to scale, and grow with us as a company. You’ll stop criminal threats and prevent embarrassing mistakes for millions of people.
+ 
+
+
+ Our high-volume, low-latency backend systems power the whole product. From deploying data science models in production to integrating with our front end, you'll be involved in projects that span all aspects of the business. Our mission critical product and high volumes of data mean you will have many challenging problems to solve.
+ 
+
+
+ You’ll be surrounded by incredibly smart, talented and friendly colleagues. Engineers at Tessian love to learn from each other and pull together as a team to succeed. We all have a say in what we build and how we build it and you will be empowered - and encouraged - to have an opinion.
+ 
+
+
+ We know that we do our best work and have the most fun as a diverse team that represents our users and the world we live in. We work hard to develop our incredible Tessians and ensure that the Engineering team is a fantastic place to work for every gender, ethnicity, age, race, sexual orientation and educational background. We also seek diversity of experience:some of our engineers have been building distributed backend systems in Python for years, and some have learned the ins and outs of their tech stack and language on the job.
+ 
+
+
+ Read more about Engineering at Tessian:
+ 
+
+   https://cdn2.hubspot.net/hubfs/1670277/Life%20as%20a%20Tessianeer.pdf
+ 
+
+   Safely migrating millions of API requests
+ 
+
+   Our First Growth Framework
+ 
+
+   Why Diversity and Inclusion is important to us
+ 
+
+
+ We can hire this role to be office based or hybrid from our London office, or offer full remote working within the UK. 
+
+
+
+
+We cannot offer visa sponsorship/relocation or remote working outside of the UK for this position.
+
+ As a Tessian Backend Engineer for threat engineering you will;
+
+ Design and build reliable distributed systems that handle high volumes of data with low latency
+ Work with a cross functional team of Data Science, Back & Frontend Engineers, Product Manager, Product Designer
+ Maintain and support business-critical systems
+ Ship code to production every day using CI/CD
+ Tackle the challenges that come with processing highly sensitive data
+ Learn to build with security in mind
+ Make your mark on ambitious projects 
+
+Our backend tech stack includes
+
+ Python 3 Required 
+Environments built around Docker and AWS
+ High volume PostgreSQL databases
+ Concourse for CI/CD
+ Terraform built environments
+
+ We'd love to meet someone who
+
+ Worked in the past on a fast moving team with focus on delivering value
+ Is ready to go beyond engineering responsibilities to move team forward
+ Considers product metric and quality upfront
+ Delivers scalable solution as a default
+ Previous experience with event driven, distributed systems
+ Some exposure to threat intelligence or security is preferable
+
+
+
+ Our mission to empower and protect people is a reflection of two of our values: Human First and We Do the Right Thing. For us, Diversity, Equity and Inclusion is also a reflection of these core values.
+ 
+
+
+ As a human first company, we are committed to creating a diverse, equitable and inclusive environment where all our Tessians have the opportunity to thrive. We strive for a better Tessian, and a better world. We're working inside and outside Tessian to improve diversity and equity in our industry, and foster an environment where everyone feels a sense of belonging.
+ 
+
+
+ Our strategy touches each part of a Tessian’s life cycle, from applicant to employee, ensuring that we keep DEI at the core of every point in our candidate and employee experience. Read more about our DEI commitments here.
+ 
+
+
+ By submitting your application to Tessian, you consent to Tessian retaining your information and contacting you about future job opportunities, that may be of interest, for up to 2 years in accordance with our Privacy Policy
+ 
+

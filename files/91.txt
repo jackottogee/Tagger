@@ -1,0 +1,47 @@
+
+
+This role comes at a fantastic time for an established yet growing part of the business. Our staff put the customer first, and we encourage your suggestions on how we can continue to exceed their expectations while providing a market leading service.
+About Admiral Money
+Admiral Money is an exciting, new division of Admiral Group. We have the freedom and innovation of a small start up with the security of a large parent company, Admiral.
+The journey started when we launched unsecured personal loans in June 2017. We went on to be the first direct to consumer car finance provider in December 2017. Since then, we have gone from strength to strength and have some exciting plans for the future.
+We’re looking for people who are keen to learn, excited about getting stuck in and are ready for a challenge to help us to achieve our aim of creating a special lending business for our customers.
+The Role
+You’re a highly skilled developer who will be working closely with designers, product owners, testers, and other developers as part of a multi-disciplinary team to build and maintain our customer-facing and internal-facing software.
+The creation of APIs and web platforms will be the focus, but you’ll also be working on some Express.js APIs which integrate with our wider microservice architecture written in Go.
+Key Duties
+
+Write clean, idiomatic, maintainable code that is well-aligned with business requirements
+Take a pragmatic approach to strike the right balance between delivery and perfection
+Proactively collaborate with others as both an active participant of your multi-disciplinary team and as a member of the wider engineering team
+Act as a subject matter expert for web technologies and stay well-informed as technology evolves
+Write comprehensive unit tests
+Ensure that all work is correctly tracked in source control and project tracking software
+Document your technical designs where appropriate
+Contribute to the continual improvement of the software, the team, the engineering discipline and to the overall company
+
+Essential Skills
+
+Previous development experience in a professional environment building software
+Good working experience with TypeScript
+Experience of SDLC technologies (such as GitLab, Git, GitHub, Jenkins, CircleCI, TravisCI, Spinnaker)
+A proven track record of delivering software as part of a team
+An understanding of the security vulnerabilities that can be exposed by web sites and how to guard against them
+
+Desirables
+
+Experience using Next.js and Nx
+Experience of building secure, performant web APIs
+Experience in the development of React applications
+Experience in microservice architecture development and delivery
+Familiarity in Go / Java
+Familiarity with Agile methodologies such as Scrum and Kanban
+
+Salary, Benefits and Work-Life Balance
+At Admiral, we are proud to be a diverse business where we put our people and customers first. We have great benefits to ensure employees have a great work-life balance; it's one of the reasons we’re consistently voted one of the Sunday Times Best Big Companies to Work For in the UK.
+All colleagues will receive 33 days holiday (including banks holidays) when they join us, and this will increase with length of service, up to a maximum of 38 days (including banks holidays). You also have the option to buy or sell up to five days of annual leave in addition to your allocation.
+You can also view some of our other key benefits here
+Our Commitment to You
+At Admiral, we are committed to being a diverse and inclusive workplace. Admiral is proud to be an equal opportunities employer and does not discriminate on the basis of race, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), national origin, gender, gender identity, sexual orientation, disability, age, or any other legally protected status.
+All qualified applicants will receive equal consideration
+#LI-HJ1
+

@@ -1,0 +1,23 @@
+
+Software Developer (Junior, Mid And Senior Level) Are you a Software Engineer looking for a new role?
+  Are you looking for a change of environment?
+  Do you have experience with either JavaScript or Python?
+ 
+ Role: Software Engineer (JavaScript or Python)
+  Location: Southwark, London (Hybrid working)
+  Salary: £50,000-£65,000 per annum + benefits
+ 
+ We are currently recruiting for a number of Software Engineers across Mid and Senior levels who have experience with either JavaScript or Python for a client of ours based in London. They are looking for Developers who have experience across different areas of programming to work on varied development pieces within the organisation.
+ 
+ Skills and experience you should have include:
+ 
+
+ JavaScript or Python
+ Agile methodology
+ Laravel, Drupal, TypeScript or similar programming languages
+ Knowledge of DevOps
+ CI/CD pipelines
+
+ This role will be hybrid with 2 days per week expected onsite in Southwark, please consider this before applying for the role.
+ 
+ If you are interested in the position and would like to apply, please send a copy of your latest CV to be considered.

@@ -1,0 +1,88 @@
+
+
+
+
+
+Are you looking for a local developer role and the opportunity to work in an innovative software company within a purpose built environment?
+ We use agile methodology resulting in good planning, realistic expectations and a commitment to clear direction. Our people focus equally on the right things and feel driven to improve in a team environment, whilst VERY IMPORTANTLY, enjoying what they do with a healthy worklife balance.
+
+
+
+Who are we?
+ WPM Software, as part of the WPM Group, develops market leading software products through our unique combination of people, passion and values.
+ Our activities encompass a broad range of technologies, systems and tasks, but essentially we provide software to manage incoming payments and their associated processes, as well as helping large organisations manage complex document, printing, scanning, compliance and reporting requirements.
+ We embrace that our success is down to our great team; the right people with the right skills doing the right things. We do not chase headlines, and actively pursue quality over quantity - we seek to add value every step of the way.
+
+
+
+
+
+
+
+What are the benefits for you?
+ We offer a great place to work; inspiring our people to be the best they can be. We want our people to enjoy the variety in their work and to feel challenged and driven to improve, whilst also understanding and thriving in a strong team culture.
+
+
+
+Work-life Balance
+
+
+Challenge & Stimulate
+
+
+Innovation & Thought-leadership
+
+
+Agile Methodology
+
+
+Competitive Salary
+
+
+Private Medical Insurance
+
+
+Contributory Pension
+
+
+25 Days Holiday
+
+
+Social Events
+
+
+Complimentary Food & Drink
+
+
+
+
+
+
+What are we looking for?
+
+App 
+Advanced knowledge of JVM (inc. security architecture, Classloader, packaging, JAR dependencies)
+JME/JSE targeted for environments with constrained resources and limited performance (e.g. mobile, tablet, embedded devices)
+Authentication/Authorisation techniques
+Servlets
+AWT or other GUI framework
+IDE's (Eclipse, NetBeans or Android Studio)
+
+Experience of:
+
+Object Orientated Architecture / Design (OOA / OOD)
+Service Orientated Architecture (SOA)
+Real-time systems & multi-threading
+All project lifecycle activities
+
+Familiarity with some of these:
+
+Android Development
+Spring Framework
+Design Patterns
+Test Driven Design (TDD)
+Web Services (e.g. REST / SOAP)
+XML (XSD, XSLT)
+Cryptography
+
+

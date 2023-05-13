@@ -1,0 +1,32 @@
+
+Drive the future of collaborative open source development tooling as part of the Launchpad team. This is an opportunity for a motivated engineer with a passion for open source software, Linux, and web services to join our distributed team.
+ Launchpad is a platform for managing open source development projects. It includes code hosting and review, bug tracking, package building, translations, and other facilities used by free and open source software developers. It provides essential development and collaboration infrastructure for major projects such as Ubuntu.
+ Launchpad is a mature project, mainly written in Python (primarily Zope, with some Flask). You'll be striking a balance between keeping our business-critical services running and expanding our feature set: among other things, we are currently working on expanding our package building capabilities, improving the development flows provided to our users, and modernising our web UI. If you love keeping large projects well-organised and well-maintained, care about supporting developers, and believe that continuous improvement is the key to innovation, higher velocity, and reliability, you'll fit right in.
+ Build a rewarding, meaningful career working with the best and brightest people in technology at Canonical, a growing international software company.
+ What you'll do
+
+Proactively collaborate within and contribute to design, architecture, and feature-selection for solutions across distributed teams
+Write high-quality, API-first Python code with unit tests
+Debug issues and produce high-quality fixes
+Review code produced by other engineers
+Work from home with global travel 2 to 4 times a year for internal and external events
+
+Who you are
+
+You love technology, working with brilliant people, and solving interesting problems
+You are a strategic thinker
+You are curious, flexible, articulate, and accountable
+You value soft skills and are passionate, enterprising, thoughtful, and self-motivated
+You have a Bachelor's or equivalent in Computer Science, STEM or similar degree
+You have proficiency delivering robust code to production, preferably written in Python.
+You have experience and enjoy maintaining and improving large and mature web applications.
+You have experience with databases, ORMs (PostgreSQL a plus), data management, and data modelling.
+You have an interest in, or experience with, integration, infrastructure and operations.
+You believe that robust security requires conscious efforts at every stage of delivery.
+You have familiarity with Ubuntu as a development and deployment platform.
+You have a solid understanding of the structure of various software packaging systems, including Debian/Ubuntu packages.
+
+Canonical is proud to foster a workplace free from discrimination. We truly believe that diversity of experience, perspectives, and background will lead to a better environment for our employees and a better platform for our users and customers. This is something we value deeply and we encourage everyone to come be a part of the world of Ubuntu.
+ #LI-remote
+ #stack
+

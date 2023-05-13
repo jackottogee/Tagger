@@ -1,0 +1,149 @@
+
+ The purpose of this role is to develop required software features, achieving timely delivery in compliance with the performance and quality standards of the company.
+ 
+
+   Job Title:
+  Developer
+ 
+
+   Job Description:
+ 
+
+   ABOUT DENTSU CREATIVE
+ 
+
+
+   Dentsu Creative operates in over 21 markets worldwide with more than 2,200 dedicated specialists. Bringing together our Japanese heritage in craft, data and technology, and our deep understanding of media and contemporary culture,
+   Dentsu Creative is a new global creative agency. Born in Japan, raised in a digital world. We help transform brands and business through the power of Modern Creativity: which creates culture, changes society and invents the future and is accelerated by our deep specialist expertise in digital experience, earned attention and entertainment.
+ 
+
+
+   ROLE PURPOSE
+ 
+
+
+   The purpose of this role is to produce code and thinking that meets our client’s technical requirements accurately and robustly.
+ 
+
+
+   KEY ACCOUNTABILITIES
+ 
+
+
+   Delivery of development projects on time and to specification. Well-tested and documented code that has been built in collaboration with our Client, Design, QA and Product teams. Continued learning to ensure up to date knowledge on Web Development best practices. Participation in team meetings and project reviews.
+ 
+
+
+   PERSON SPECIFICATION
+ 
+
+
+
+     Good knowledge of modern HTML, CSS (and other CSS pre-processing) and JavaScript (including ES6)
+   
+
+
+     Good knowledge of object-oriented modern PHP
+   
+
+
+     Good knowledge of CMS implementation in either Drupal, Craft CMS or Expression Engine
+   
+
+
+     Good knowledge of Progressive Enhancement and browser limitations
+   
+
+
+     Good knowledge of Responsive Design techniques
+   
+
+
+     Good knowledge of build processes and deployment
+   
+
+
+     Good knowledge of command line tools and systems
+   
+
+
+     Experience in working in an agency environment
+   
+
+
+
+   WORKING WITH US
+ 
+
+   Joining Dentsu Creative, you will become part of a powerhouse, delivering ideas that are brought alive in new ways that are unparalleled in the market. Along the way, you will team up with inspiring colleagues from award winning agencies and become part of a truly inclusive culture where everyone is given the opportunity to thrive and create the best work of their careers; always learning and always listening to shape ideas, create culture and change behaviour. There will be no compromise on the opportunities you can experience at Dentsu Creative.
+ 
+
+
+   WE ARE UNITED BY FOUR SIGNATURE STREGHTHS:
+ 
+
+
+   BOUNDLESS CREATIVITY
+ 
+
+   Kitsune Fox: In Japanese culture the Kitsune Fox sees the future. We run towards
+   the future, forever asking: what’s next? Our imagination has no limit. Our clients seek us out because we believe there is no problem we cannot solve with the power of modern creativity.
+ 
+
+
+   INTELLIGENT SCALE
+ 
+
+   Ryujin Dragon: The Ryujin Dragon controls the ocean and the tides. We flow the
+   right talent around the right brief in the right moment, wherever it sits in the world.
+   We scale our unique ideas with precision, using intelligent technology to make personal connections with millions around the world.
+ 
+
+
+   OBSESSIVE CRAFT
+ 
+
+   Orizuru Crane: The Orizuru Crane carries the soul up to paradise. It inspires the most classic and iconic Japanese origami. We elevate the soul of our work with
+   an obsessive focus on craft, nurturing the next-gen craft skills needed to soar in
+   a modern world.
+ 
+
+
+   RADICAL COLLABORATION
+ 
+
+   Kohaku Koi: The Koi swim upstream against the tide, united as one. We chart
+   new territory through the power of radical collaboration. We seamlessly connect Creativity, Media and CXM to imagine new solutions at the intersection of craft,
+   data, culture, and innovation.
+ 
+
+
+   OUR VALUES
+ 
+
+
+   We believe our work can only resonate in the modern world if the people
+   behind it reflect the modern work. We can only be truly relevant when we create
+   a truly inclusive culture where everyone can thrive. That means we are tough on
+   the work but gentle with each other. We lead with empathy and are always listening and always learning. We support each other, we cheer for each other, we win together. We celebrate difference as the only way to make the work that makes a difference.
+ 
+
+
+   #LI-DNI
+ 
+
+
+   Location:
+  Edinburgh
+ 
+
+   Brand:
+  Whitespace
+ 
+
+   Time Type:
+  Full time
+ 
+
+   Contract Type:
+  Permanent

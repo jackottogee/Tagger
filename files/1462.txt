@@ -1,0 +1,49 @@
+
+What's in it for the Power BI Developer?
+ 
+
+A Permanent contract
+ Salary up to £60,000 (Dependant on experience)
+ 33 days annual leave, including bank holidays
+ Death in Service
+ Pension scheme
+ A friendly and helpful team
+ Excellent working conditions
+ Full training provided
+ Chance for further development
+ Hybrid 
+
+
+My Client is well established, industry leading Medical Device Manufacturing company. Based in the Cheltenham area, they have seen year on year success, with further growth plans for 2023/24. They offer a range of products which are supplied across the UK and Europe. An exciting opportunity has arisen for a Power BI Developer to join their team on a Permanent basis.
+ The role will be to cover Mon - Thurs 8:00am-4:30pm and Friday 8:00am-3:00pm
+ Power BI Developer Main Duties:
+
+ Developing and maintaining visual reports, scorecards and dashboards via Power BI desktop.
+ Creating and maintaining Power BI datasets to ensure consistent data use through report landscape, and to empower colleagues to customise their own reports.
+ Develop and maintain write-back reporting to several SQL databases.
+ Build and develop pipelines to ensure implementations are automated in line with IT procedures
+ Assisting with the regular review of support incidents to help reduce or resolve further occurrences
+
+ Power BI Developer Role Requirements:
+
+ Must a have understanding of the following: 
+   
+Power BI or similar BI reporting solutions
+ Microsoft SQL
+ Proficiency in DAX
+ Microsoft Office Applications
+
+ Two year's experience in a similar role
+ A good understanding or rational modelling
+ Microsoft Power Platform certification (Desirable)
+ High Attention to detail
+ Effective communicator with both internal and external stakeholders
+ You will be analytical in your approach
+ Enjoy working under pressure towards tight deadlines
+ Show a firm understanding of data models and database design
+ Power Apps 
+Pagniated reporting 
+Write back 
+
+
+INDJP

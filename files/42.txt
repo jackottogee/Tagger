@@ -1,0 +1,44 @@
+
+
+Full Time 
+Hertfordshire / Remote 
+
+The Role
+
+We are looking to hire a skilled WordPress Developer to implement and maintain a number of company's websites, including OnlineBingo.co.uk and MrSpieler.com. You will be responsible for both back-end and front-end development including the implementation of WordPress themes and plugins. To be a successful WordPress developer, you should have in-depth knowledge of front-end programming languages, a good eye for aesthetics, and strong content management skills.
+
+
+
+
+
+
+Responsibilities
+
+Designing and building the website front-end
+Creating the website architecture
+Designing and managing the website back-end including database and server integration
+Generating WordPress themes and plugins
+Conducting website performance tests
+Troubleshooting content issues
+Monitoring the performance of the live website
+
+
+
+
+
+
+
+
+The Ideal Candidate
+
+Proven work experience as a WordPress developer
+Knowledge of front-end technologies including CSS3, JavaScript, HTML5, and jQuery
+Knowledge of Git code versioning tool
+Experience working with debugging tools such as Chrome Inspector and Firebug
+Good understanding of website architecture and aesthetics
+Good communication skills
+
+
+
+
+

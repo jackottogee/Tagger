@@ -1,0 +1,18 @@
+We primarily use Elm and Typescript to build our web applications, but we don’t expect you to have experience with either. You’ll learn everything you need to know through our training courses and mentorship programme. You’ll also gain experience in
+Web APIs and the Web platform (HTML, CSS, Javascript, Web Components, …)
+Designing and consuming REST APIs
+Working with continuous integration/deployment tools
+Working collaboratively with Git
+If you’re familiar with any of these already, that’s great! Let us know when you apply and be prepared to talk about it in your interview. Otherwise, all we expect is that you can demonstrate an interest in web development and are eager to learn. Perhaps you’ve written a web application as part of a university course, or you’re self-taught and have enjoyed working with a modern framework like React or Vue.Mayflower is acting as an Employment Agency in relation to this vacancy.
+Job Type: Full-time
+Salary: £35,000.00-£45,000.00 per year
+Schedule:
+
+8 hour shift
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: Remote
+Reference ID: SD569

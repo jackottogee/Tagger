@@ -1,0 +1,47 @@
+You will help lead ETL solutions for the delivery of BI and data warehousing projects as part of the technology and digital team. You will spearhead work on a variety of data engineering projects combining technical expertise with strong eye for business and data proven experience to bring value by defining, building and supporting big data & analytics products.
+You will lead teams and will also continue to be hands-on, for example writing and reviewing code, architecting distributed data systems and providing actionable, pragmatic insights in technical design reviews.
+You will support the team by leading, coaching, developing and mentoring squad members, creating positive engagement and driving an inclusive work environment
+
+Previous data analytics software experience, leading, growing and developing a data engineering team of around 10-30 people
+Deep and hands-on experience (typically 10+ years) designing, planning, productionizing, maintaining and documenting reliable and scalable data infrastructure and data products in complex environments
+Detailed development experience in one or more object-oriented programming languages (e.g. Python, Pyspark)
+Advanced SQL knowledge
+Knowledge of AWS Cloud (S3, IAM, Redshift)
+Strong stakeholder management and ability to lead large organizations through influence
+Continuous learning and improvement mindset
+Prior experience in the energy industry essential
+Able to scope new integrations and translate analytical user needs into technical requirement
+Strong SQL knowledge and experience with relational databases as well as ideally familiarity with cloud-based databases such as Snowflake, Redshift, BigQuery
+Good understanding of ETL processes
+Experience with noSQL databases such as MongoDB, Document DB
+Worked in a Cloud services environment – GCP (Google Cloud Platform) Azure, or AWS
+Source Control, CI/CD and deployment through CI Pipelines
+Some Python programming – able to perform complex transformations with commercial data
+Familiar with modern data tools and technologies like: Snowflake, Airflow, Terraform, Amplitude, Azure DevOps, Kafka, Beam, Cloud Dataflow, Redshift, AWS, Google Big Query, Hive, Fivetran, or Stitch, etc
+Experience of datawarehouse and BI modelling implementations like Kimball’s modelling techniques for data marts.
+Experience data modelling for BI implementations needed for a variety of traditional and cloud based BI and reporting tools (Qlikview, Qliksense, Tableau, Chartio, Looker etc.)
+Knowledge and strong interest to work with modern cloud-based data architectures and platforms built on Google cloud (GCP and BigQuery) or equivalent cloud based platforms.
+Excellent communication, analytical and problem-solving skills.
+
+Job Type: Full-time
+Salary: £45,718.00-£48,809.00 per year
+Benefits:
+
+Company pension
+Employee discount
+Language training provided
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Enfield: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+GCSE or equivalent (preferred)
+
+Work Location: In person
+Reference ID: Software Developer / EngineerExpected start date: 29/05/2023

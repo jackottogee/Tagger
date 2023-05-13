@@ -1,0 +1,25 @@
+
+DNEG is offering an exciting opportunity for an experienced desktop application engineer with a focus on user interfaces to join a team creating a cutting-edge cross-platform system for video playback, editing and review.  Viewing moving images is an activity fundamental to almost every role in a VFX and Feature Animation studio. This goes a long way beyond simple video playback – VFX and animation artists, supervisors, and producers all require fast, accurate, highly interactive and flexible interfaces for examining their work, submitting notes and feedback as well as producing their own creative edits. Large format image sequences with high bit depth and high frame rate demand the utmost in performance optimization to make the most of available graphics resources. And in addition to this, collaborative working is an increasingly important aspect of the workflows, requiring innovative solutions to allow multiple users to work together fluently. All this must be delivered by a solution that offers the very best in UX and UI design. To meet these requirements and to take advantage of recent advances in associated technologies, such as HDR displays and projectors, new graphics rendering pipelines and modern video formats, DNEG is investing in a proprietary solution for image review that will be used throughout our global workforce of VFX professionals. On successful deployment through the business our ambition is to eventually open the project to the wider community by taking the project to open source.  We are looking for developers with experience within the associated technology domains to expand the team and help deliver a ground breaking product to the company and hopefully beyond. In particular, for this role, we are seeking engineers with a passion for excellence in UI/UX design and implementation.
+ Other disciplines within the Imaging domain span Colour Science, Computer Vision and Editorial I/O so you will also have the opportunity to work in these technology areas.
+ As well as demonstrating technical skill and initiative, you will need to be an excellent communicator – your ability to communicate between technical developers and non-technical artists and end users will help you thrive in this role. We encourage a technically creative attitude and are looking for individuals who are willing and able to bring their own solutions and ideas to the table.
+ We follow Agile development methodologies and you will work closely with Product Owners and Stakeholders to understand artist needs and deliver bespoke software products. You will have influence in all aspects of the software development life-cycle; designing, supporting and maintaining software as well as integrating tools into our existing pipeline.
+ This is an exciting opportunity to join a growing Product Development department, contributing to the technology behind exceptional VFX and Feature Animation work, partnering with smart, creative and versatile teams of technologists and artists.
+
+ Must have:
+
+ Degree in Computer Science, Engineering or similar, or equivalent experience.
+ Strong programming skills in modern C/C++ (2011, 2014) and PythonExperience with graphical programming APIs such as Qt (C++), QML, OpenGL, GLSL.
+ Strong comprehension of concurrent programming and performance optimisation.
+ A passion for excellence in UI design and UX.
+
+ Nice to have:
+
+ Experience with the following APIs: C++ Actor Framework, OpenColourIO.
+ Experience with source control systems and git workflow.
+ Experience of software development in a Linux environment (shells, version management etc).
+ Experience of cross platform development including any exposure to Apple and Windows graphics APIs (Metal/DirectX).
+ An understanding of image processing techniques including image sampling and filtering, colour science and video codecs.
+
+
+ A note on Equal Opportunities
+ We would not be able to produce award-winning work without our Production Technology department, which is committed to nurturing an inclusive, diverse and exciting workplace. Our teams have a variety of backgrounds and originate from a number of different countries, working across the globe at the forefront of technology in the industry.

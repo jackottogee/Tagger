@@ -1,0 +1,78 @@
+Candidates must have a strong academic background typically with a masters or PhD in a numerate subject such as physics, engineering or maths. We look for candidates with the aptitude to learn quickly and take on our customers’ most challenging problems. We help our staff develop the skills they need through on-the-job training coupled with readily available support and guidance. Although not a pre-requisite, capabilities in any of the following areas are of particular interest:
+
+RF system design and implementation
+Signal processing algorithm design
+Software development (eg C/C++)
+VHDL implementation for FPGAs
+Analogue/digital electronics design and implementation
+PCB schematic capture and layout
+
+As we are a small company everyone must be able to present their work to clients. Strong verbal and written presentation skills are therefore essential.
+The work we undertake is driven by our clients’ needs so we are looking for flexible individuals with a good range of skills and an enthusiasm to learn new ones. The projects range from a few days to several months and provide a wide variety of challenges.
+Working for a small company provides an excellent opportunity to be involved in all aspects of the business. The high degree of personal responsibility and close customer contact makes the work both technically demanding and rewarding.
+Job Description
+Experienced software developers work on their own projects and support junior developers in their work. They use a range of different technologies to meet our customers varied requirements.
+You will:
+
+be self-motivating, capable of working independently
+have a good (1st/2.1) undergraduate degree or a PhD in a numerate discipline
+have a strong academic background typically including A’s in A level Maths and Physics
+have strong verbal and written presentation skills
+have 3 or more years software development experience
+have developed and maintained complex real-world systems
+understand the importance of clear, efficient software design
+be familiar with using and configuring Linux systems
+
+You will have experience of some of these skills:
+
+software development in C/C++
+software development in Python/MATLAB
+GUI development in HTML/Javascript
+source control systems using Subversion or Git
+
+You will be responsible for:
+
+developing novel signal and image processing applications
+developing secure Cross Domain Solutions
+developing user interfaces in HTML/Javascript
+providing support and training to our customers in using the software
+mentoring and leading others.
+
+Location
+All our work is done on-site at our offices in Guildford. We offer flexitime with core working hours being 10am-4pm Monday-Thursday.
+Security Clearance
+Due to the nature of our work, all our staff are required to go through security clearance. Therefore we can only accept applications from UK nationals.
+Applications
+CVs must include candidate's A-level results (or equivalent) and university degree.
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£100,000.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Life insurance
+Profit sharing
+Referral programme
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Ability to commute/relocate:
+
+ Guildford: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+Are you a UK national capable of obtaining security clearance?
+
+Education:
+
+Bachelor's (required)
+
+Work Location: In personFlexitime

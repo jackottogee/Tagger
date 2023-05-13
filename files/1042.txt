@@ -1,0 +1,72 @@
+We have an exciting 12-month Fixed Term Contract for a Salesforce Developer **within Centrica’s Design and Engineering Function, responsible for Development and Operational capabilities of the Salesforce platform for internal use.Our team is supporting significant digital transformation across the organisation, including transforming the experience, the technology, and our ways of working. We’re building products that help our customers manage their energy and their homes.The Salesforce Developer will be responsible for Development and Operational capabilities of the Salesforce platform for internal use. You will maintain, consolidate, optimise, and continuously enhance the Salesforce instance solutions and capability they provide to our business.Key responsibilities include:
+
+Take development and operational responsibilities of number of Salesforce instances, and enhance the capability and efficiencies of run
+
+
+Provide internally as platform with service and guidance on how to develop and operate solutions for our business, where it’s appropriate
+
+
+Balancing the work on features and operational backlog requirements
+
+
+Continuously learning and keeping abreast of best tech
+
+
+To ensure that the software delivery pipeline is as efficient as possible. Building and operating software to help development, operations, and support teams.
+
+
+Working as part of a team of likeminded engineers to develop systems and software that help increase IT reliability and performance
+
+
+Fixing support issues in an automated “fix it once” manner
+
+
+Conducting post-incident reviews and trend analysis, training AI models to alert/prevent future occurrences
+
+
+Building a culture of engagement and service excellence within the organisation
+
+
+Continuously sharing knowledge and educating others on responsible DevOps practices
+
+
+Evangelising Cloud and DevOps practices by openly and honestly showcasing capabilities, understanding the outcomes customers are seeking and forever searching for the most simple and elegant solutions
+
+
+Ensuring the feedback cycle is employed at all levels of the role
+
+What we need from you
+
+Experience in Salesforce and DevOps practices
+You'll be curious to learn new tools
+
+
+Process driven, structured and an analytical approach
+
+
+Ability to engage, build and sustain stakeholder relationships
+
+
+Salesforce Developer Certification
+
+Location: Home basedWe are proud to be recognised as a disability-confident employer. Our customers come from a variety of different backgrounds, and so do we. We hire great people from all walks of life, not just because it’s the right thing to do, but because it makes our company stronger. We will continue championing inclusivity while investing in our local communities to create a better, more sustainable world for everyone. We are incredibly proud to have been recognised by The Times for being one of the Top 50 Employers for Women.Our people are the beating heart of our business. We are incredibly proud of our commitment to being FlexFirst. From childcare to furry friends, we listened to our people and understood that they work best when they are comfortable and have a flexible working model that suits their individual needs.We have tailored our well-being & benefits package around our employees as follows:
+
+Competitive salary and bonus potential
+
+
+Employee Energy Allowance
+
+
+Pension scheme
+
+
+Electric car lease scheme
+
+
+33 days holiday allowance, inclusive of public holidays, and the option to buy up to 5 additional days
+
+
+Excellent range of flexible benefits, including technology vouchers & travel insurance
+
+At Centrica we embrace diversity and actively seek to attract individuals with unique backgrounds and perspectives. To build a more sustainable future, we need the best team – a team with a diverse mix of people and skills, where everyone feels welcome and able to succeed. We are dedicated in helping to close the diversity gap and would love to see more females, people of colour and LGBTQ+ employees, as well as those from a variety of cultures and ethnicity to veterans and the differently abled. Supporting diversity and inclusion is a big part of who we are, we are not looking for people to fit into our culture but to add to it!**PLEASE APPLY ONLINE* by hitting the 'Apply*' button.Applications will ONLY be accepted via the ‘Apply’ button.This role is being handled by the Centrica recruitment team and NO agency contact is required.
+Job Types: Full-time, Contract

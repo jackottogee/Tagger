@@ -1,0 +1,55 @@
+Full – Stack Web Developer
+Job Type: Full Time, Permanent
+Location: Norwich
+Working Hours: 40 hours per week over 5 days (7am-8.30am start and 4pm-5.30pm finish)
+Salary: £30,000 - £35,000 per annum
+Benefits
+
+25 days annual leave
+Contributory pension scheme
+Sick pay after probation
+Fresh fruit Tuesday and Thursday
+Company events
+Free parking
+
+Redpack Packaging Machinery are the number one solution provider in the flow-wrapping machine and product conveying business. We manufacture flow-wrap machines in our factory in Norfolk on the outskirts of Norwich. We successfully serve a wide range of industries from fresh produce to cosmetics, bakery products, greeting cards, gifts, toys, household products and many more.
+The Role – Full-Stack Web Developer:
+We are seeking a talented full-stack web developer with expertise in ASP.NET Core, C#, Node.js, Vue.js, React, and Linux server management to join our team. The successful candidate will work on developing and maintaining web applications that meet our clients' needs and expectations.
+Responsibilities – Full-Stack Web Developer:
+
+Develop and maintain web applications using ASP.NET Core, C#, Node.js, Vue.js, and React.
+Collaborate with designers, project managers and other developers to create high-quality software solutions.
+Participate in code reviews and ensure the code meets industry standards and best practices.
+Write clean, efficient, and maintainable code.
+Troubleshoot and debug issues in web applications.
+Build interfaces for machines using web technologies.
+Develop and maintain technical documentation for projects.
+Stay up to date with emerging trends and technologies in web development and Linux server management.
+Manage and maintain Linux servers to ensure high availability and performance of web applications.
+Manage the Linux GUI for use on machines.
+
+Requirements – Full-Stack Web Developer:
+
+Strong expertise in ASP.NET Core, C#, Node.js, Vue.js, React, and Linux server management.
+Familiarity with database technologies such as SQL Server, MySQL, and MongoDB.
+Strong understanding of software development principles and methodologies.
+Experience with agile development methodologies.
+Excellent problem-solving skills and attention to detail.
+Strong communication skills and ability to work well in a team environment.
+Ability to manage multiple projects simultaneously and prioritize tasks effectively.
+
+If you are passionate about creating high-quality web applications using the latest technologies, have strong Linux server management skills, and are eager to learn and grow in a dynamic environment, we encourage you to apply for this exciting opportunity.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£35,000.00 per year
+Benefits:
+
+Company pension
+Free parking
+On-site parking
+Sick pay
+
+Schedule:
+
+Day shift
+
+Work Location: In person

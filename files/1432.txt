@@ -1,0 +1,30 @@
+
+Java Developer / Backend Software Engineer London / WFH to £90k
+ Would you like to work on a modern Java, SpringBoot microservices tech stack whilst taking a lead role and contributing to technical decisions in a diverse, supportive environment?
+ You could be joining one of the country's leading Property Tech companies that have revolutionised the way we find property for rent and sale and working on apps that are used by millions of people on a daily basis.
+ As a Java Developer you will design and develop new features and enhancements on the core platform, collaboratively problem solving as an integral part of a supportive Agile team. There's a modern microservices tech stack encompassing Java, SpringBoot, Kafka, ElasticSearch, Gradle, Hibernate, SQL and Docker amongst others (you don't experience with them all).
+ You'll be encouraged to investigate and recommend emerging technologies and contribute to key design decisions and, as a senior developer help to provide mentoring and technical guidance, promoting best practice.
+ WFH Policy:
+ There's a hybrid work from home policy with two days per week in the London office.
+ Requirements:
+
+ You have strong core Java development experience; you'll be mainly using Java 8 but there is also Java 11 and 15 in the stack
+ You have experience with SpringBoot and microservices
+ You have a good knowledge of databases e.g. SQL, MySQL, CouchDB
+ You're an advocate of Agile methodologies, TDD and software development best practice
+ You're familiar with Docker and / or Kubernetes
+ You're collaborative with great communication skills, happy to mentor
+
+ Salary & benefits:
+ As a Java Developer / Backend Software Engineer you will earn a competitive salary (to £90k) plus a host of benefits including:
+
+ Pension
+ Private healthcare including optical and physio
+ Life Assurance
+ Enhanced maternity / paternity packages
+ Travel loan and cycle to work scheme
+ Savings schemes
+ Tax free charity donations
+
+ Apply now or call to find out more about this Java Developer / Backend Software Engineer (Java 8 SpringBoot Kafka ElasticSearch TDD) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

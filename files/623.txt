@@ -1,0 +1,48 @@
+
+
+Our team of professional game developers is looking for a 3D Programmer.
+Jobs description:
+ 
+
+Develop an online game project
+An existing graphics engine modify and update
+Improving applied technologies
+Writing shaders
+
+
+Requirements:
+ 
+
+At least 2 years of experience graphics programming 
+Excellent knowledge of C++
+Understanding of graphics pipeline
+Strong knowledge and experience of 3D graphic applications development using MS DirectX 9/10/11, OpenGL and HLSL
+Knowledge of key algorithms and understanding of their working speeds
+Strong background in mathematics
+Knowledge of Python or a readiness to learn it
+Ability to understand borrowed code
+Technical English (ability to understand technical texts)
+University degree or equivalent industry experience
+Excellent team working skills
+
+
+Desirable skills:
+ 
+
+Experience in game applications development
+Experience with IntelGPA, NVIDIAPerfHUD
+Skills in efficiency optimization of complex high load graphic applications
+
+
+We offer:
+ 
+
+Interesting and complicated work on unique game project
+Various exciting tasks and a freedom of creation
+Unique experience of with the best professionals in the industry
+Good working conditions
+Realization of your best qualities and professional skills.
+
+
+This is a full-time position.
+

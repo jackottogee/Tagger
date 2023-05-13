@@ -1,0 +1,206 @@
+
+
+  Full Stack Developer
+ 
+
+
+
+
+
+
+
+ Job Number:
+3232323
+
+
+   POSTING DATE: Mar 1, 2023
+ 
+
+   PRIMARY LOCATION: Europe, Middle East, Africa-United Kingdom-United Kingdom-Glasgow
+ 
+
+   EDUCATION LEVEL: Bachelor's Degree
+ 
+
+   JOB: Development
+ 
+
+   EMPLOYMENT TYPE: Full Time
+ 
+
+   JOB LEVEL: Associate
+ 
+
+
+
+
+
+ DESCRIPTION
+
+
+
+    Full-stack Developer
+  
+
+   Glasgow
+  
+
+   3232323
+  
+
+
+
+   Fund Services department, this wholly owned subsidiary of Morgan Stanley, administers over $400 billion of hedge fund and Private Equity assets. Using the Firm’s proprietary, globally accessible technology platform, the business provides a full range of fund administration services, including daily accounting and financial reporting; transfer agency and investor services; middle and back-office support; and integrated portfolio analytics. Morgan Stanley Fund Services is supported by more than 1,000 professionals (Operations and Technology) based in New York, London, Hong Kong, Dublin, Glasgow, Mumbai, and Bangalore. #LI-MS2
+  
+
+
+
+   Fund Services technology team have presence in Bangalore, Mumbai, New York, London, Glasgow, and Hong Kong and is expanding radially in India at the moment to support business growth. Investor Accounting is one of the biggest team in Fund Service technology which deals with investing accounting and reporting applications, such as investor allocations, investor statements, audit statements, financial highlights, liquidity, fee and nav calculator, side-pocket investments, waterfall calculator, master/feeder etc. Fund Services business is expected to expand significantly and is investing heavily in this area to become market leader in Fund Services.
+  
+
+
+
+   Report Creation Tool (RCT) is an innovative solution which is currently being built within Morgan Stanley Fund Services Technology. RCT is a web-based self-service tool which is used by business users to create reports using standard widgets and data dictionary to generate PDF, Word, HTML, CSV and Excel reports. RCT gives users full controllability and flexibility on full life cycle of the report template design and generation with Zero IT-involvement. This essentially improves the client service quality with much faster turnaround and reduces human cost by easy learning curve. From technology perspective, in order to achieve all these business benefits, developers in this team are highly encouraged to adopt the most modern system design, best programming practices, as well as the latest technologies. The platform is still at the early stages, there are plenty of opportunities to explore all kinds of possibilities to define the future state and scope of this product, we are planning to expand this tool to more business units across Morgan Stanley.
+  
+
+
+
+
+   About Morgan Stanley 
+  
+
+   Morgan Stanley is a leading global financial services firm providing a wide range of investment banking, securities, investment management and wealth management services.
+  
+
+
+
+   As a market leader, the talent and passion of our people is critical to our success. Together, we share a common set of values rooted in integrity, excellence, and strong team ethic. We can provide a superior foundation for building a professional career – a place for people to learn, to achieve and grow. A philosophy that balances personal lifestyles, perspectives and needs is an important part of our culture.
+  
+
+
+
+
+
+QUALIFICATIONS
+
+
+
+    What will you be doing?
+  
+
+   The role offers great business exposure working directly with key stakeholders to implement technical deliverables and deliver the next generation statements and risk management platforms, working in an innovative forward-thinking team at the forefront of technological advancements. This position will provide an excellent opportunity for someone to come in with fresh ideas, involve in designing the platform from scratch and making a huge impact of their presence to support business growth. #LI-MS2
+  
+
+
+
+   Tasks the candidate would perform includes:
+  
+
+
+
+
+    You will be part of the global team, responsible for requirement gathering, designing, and implementing solutions. The successful candidate will demonstrate deep technical knowledge and excellent communication skills. 
+   
+
+    The focus is on solving business problems via technology in a fast-changing environment, time to market is critical, but we cannot compromise on quality or performance.
+   
+
+    Follow agile and dev-ops practices.
+   
+
+
+
+
+
+   What we’re looking for:
+  
+
+   The MSFS Technology group is looking for a strong senior level developer, with experience of 3-8 years relevant experience with the following skillsets –
+  
+
+
+    Strong Java developer (Java 11 or above) with solid background on Spring, Spring Boot, RESTful Services, Multi-threading, design patterns, Object Orientation 
+   
+
+    Strong enterprise UI development background in Angular 12+, CSS/SCSS/SASS, HTML5, Java Script & Type Script, and in using open-source libraries
+   
+
+    Hands-on Python, Shell, or other Scripting languages
+   
+
+    Hands-on technologist with exposure to all the aspects of SDLC, exposure to design patterns
+   
+
+    Experience in development/support/productionizing of robust, large-scale systems, and test frameworks (Cypress, Jasmine + Karma, Cucumber, Junit, Mock testing)
+   
+
+    RDBMS experience in Sybase/DB2/Oracle for development and support of applications
+   
+
+    Messaging knowledge with MQ/Kafka is highly desirable
+   
+
+    Writes clean code and has good software design principles 
+   
+
+    Proficient in written and verbal communication skills
+   
+
+    Keen to continuously learn new technologies and enjoy problem solving
+   
+
+
+
+
+
+   Skills that will help you in the role:
+  
+
+
+    Experience in Cloud technologies (Azure/AWS/GCP)
+   
+
+    Experience in NoSQL database like MongoDB, etc.
+   
+
+    Experience in distributed caching technologies/frameworks like Redis, etc.
+   
+
+    Exposure to Agile, TDD and DevOps (CI/CD/automated testing)
+   
+Experience in financial industry
+
+
+
+
+
+   Where will you be working?
+  
+
+   Glasgow office. Currently there are around 30 people under whole Fund Services Tech working in this location.
+  
+
+
+
+   Flexible work statement:
+  
+
+   Interested in flexible working opportunities? Morgan Stanley empowers employees to have greater freedom of choice through flexible working arrangements. Speak to our recruitment team to find out more.
+  
+
+
+
+   Internal Applicants: 
+  
+
+   Internal mobility can be a way to grow your career and realize your professional potential. Typically, you must be in your position for at least 18 months and performing satisfactorily before applying for another job at the Firm. Internal applicants can find out more regarding career navigation, mobility guidelines and policy on our employee portal by clicking here.
+  
+
+
+
+   Equal opportunities statement: 
+  
+
+   Morgan Stanley is an equal opportunities employer. We work to provide a supportive and inclusive environment where all individuals can maximize their full potential. Our skilled and creative workforce is comprised of individuals drawn from a broad cross section of the global communities in which we operate and who reflect a variety of backgrounds, talents, perspectives, and experiences. Our strong commitment to a culture of inclusion is evident through our constant focus on recruiting, developing, and advancing individuals based on their skills and talents
+  
+

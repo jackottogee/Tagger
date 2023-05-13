@@ -1,0 +1,10 @@
+
+.NET Developer, .NET 7 - Social Networking Site - Cowes, Isle of White
+ (Tech stack: .NET Developer, .NET 7, C#, Web API 2, Entity Framework, Microservices, Azure, Programmer, Full Stack Engineer, Architect, .NET Developer)
+ Our client is the world's largest social-networking web site and they have ambitions to become the biggest web site in the world! Their global presence currently stretches across 25 countries and their planned expansion for the next 12 months will see another 10 countries added to this list as well as their workforce increasing by 100% in size. Underpinning this success is their hip and cutting-edge .NET / C# technology platform.
+ We are seeking several .NET Developer to work on the development of revolutionary new features that will draw users to their web site for longer periods of time. .NET Developer applicants should have a skill set that encompasses: .NET, .NET Core / ASP.NET MVC, C# and SQL Server. We are keen to hear from .NET Developer candidates with a strong understanding object orientated (OO) development and the full software development life cycle.
+ This is a rare opportunity to join a truly exciting global brand. Our client offers over 20 days of dedicated technical training per year and exposure to cutting edge technologies such as: .NET 7, Web API 2, Entity Framework, Microservices, Azure, JavaScript, Angular 14, Bootstrap, Agile and SQL Server 2022. Additionally you will follow an official structured career progression program.
+ Location: Cowes, Isle of White, UK / Remote Working
+ Salary: £30,000 - £45,000 + Bonus + Pension + Benefits
+ Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+ NOIRUKNETREC NOIRUKREC

@@ -1,0 +1,155 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                   Engineering
+                  
+
+
+
+
+                    You will play a key role in an exciting early-stage AI business that is creating the “AI Supertrader”, in conjunction with experienced leaders and institutions in the field. We are investing heavily into integrating classical investment strategies, cryptocurrency & digital securities and data science to identify exploitable, real world trading opportunities to generate strong, robust risk adjusted returns. Your motivation will be to not only conquer a technically challenging environment, but to make a noticeable impact on economies and society as a whole. You will gain invaluable experience from collaborating with the founders and the core team of data scientists, engineers, cryptography and investment management experts. You will be developing a real-time, super-fast and super-smart trading platform for existing as well as new trading venues and getting involved with implementing the technical architecture, identifying useful technologies and developing advanced trading tools. You will be expected to implement new and existing methods and enrich them with creative new ideas. You will be a critical part of making this vision a reality using the latest technology, languages, tools and frameworks.
+                  
+
+
+
+                   ABOUT YOU
+                  
+
+
+
+
+
+
+                     Experience in a high performance language (ideally C++, or similar languages)
+                    
+
+
+
+
+
+
+                     Understanding of trading and market connectivity, REST Websocket & FIX APIs
+                    
+
+
+
+
+
+
+                     Experience with a data analysis and modeling language (Python, R or others)
+                    
+
+
+
+
+
+
+                     Worked on multiple projects (personal, professional or academic)
+                    
+
+
+
+
+
+
+                     Strong CS fundamentals, including good working knowledge of algorithms, data structures, distributed systems, microservices
+                    
+
+
+
+
+
+
+                     Agile and fast learners who can design a technical solution set out a timeline and manage their own work and progress
+                    
+
+
+
+
+
+
+                     Rigor in engineering best-practices (e.g. code reviews, automated testing, CI)
+                    
+
+
+
+
+
+
+                     Passion for innovation and for working in high-potential projects Interest in #AI #Blockchain #Algo-trading #Trading #DigitalAssets, #Crypto, #Markets #InvestmentStrategies
+                    
+
+
+
+
+                   AWESOME TO HAVE
+                  
+
+
+
+
+
+                     Experience working with large datasets
+                    
+
+
+
+
+
+
+                     Understanding of computational mathematics, statistics, and machine learning
+                    
+
+
+
+
+
+
+                     Interest in markets, cryptocurrencies and distributed ledger technology
+                    
+
+
+
+
+                   TALK TO US
+                  
+
+
+
+                   If this sounds like the “next big thing’ and you want to discover more about the team then please send your CV through to: welcome@crypton.ai
+                  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

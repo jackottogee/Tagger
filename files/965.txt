@@ -1,0 +1,46 @@
+
+Who we are:
+
+ Nutmeg is the UK's largest truly digital wealth manager, offering clarity and transparency to both seasoned and first-time investors as they seek to achieve their financial goals. Launched in September 2012, Nutmeg now manages over £4.5bn on behalf of over 200,000 clients who have sought the powerful combination of an easy-to-use, adaptable investment service and market-leading human advice. Nutmeg is a J.P. Morgan company offering investments and digital wealth management services to consumers, complementing Chase's digital bank in the UK.
+ 
+ At a time when people are seeking the closer relationship with money that technology can provide, Nutmeg:
+ 
+
+Has a team of over 240 employees
+Offers award winning stocks and shares ISA, Junior ISAs and Lifetime ISAs, as well as a personal pensions and general investment accounts
+Provides financial planning and advice alongside our award winning client services team
+
+
+*We offer flexible working*
+
+
+Job in a nutshell:
+
+ Within one of our Internal Operations engineering teams you will be responsible for the APIs and backend services that make Nutmeg run e.g. logins, payments, trading & financial reporting. Within a cross functional team (Engineering & product) you will co-own product delivery end-to-end. Whilst efficiently coding, testing & deploying Java applications you will be expected to work collectively with peers and be able to contribute to new tech discussions.
+ 
+ Teams are responsible for supporting the systems they have delivered. This can include working directly with the customer support and operations teams and performing root cause analysis if things go wrong.
+  Requirements 
+ 
+Your skills:
+
+
+Good understanding of APIs and REST
+Knowledge and experience with creating microservices
+Experience with Git or other similar distributed SCM systems
+Experience with event driven systems i.e. Kafka
+Strong bias in test-driven development (TDD) and automation (unit, feature, integration and regression)
+Exposure to building applications on cloud platforms, familiarity with AWS
+Knowledge of how to work on a *nix desktop environment (OS X, GNU/Linux) and be familiar with the terminal
+
+
+You might also have:
+
+
+Practical understanding of the Spring framework
+Commercial experience in a regulated industry
+Willing to attend conferences and meet-ups
+A keen contributor to open source projects
+
+ #ICBcareer #ICBEngineering
+  J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

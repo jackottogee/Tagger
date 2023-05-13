@@ -1,0 +1,39 @@
+Frontier is an established, market leading independent developer and publisher of videogames for PC and consoles. We have achieved serial successes across a wide variety of titles including Elite Dangerous, Planet Coaster, Jurassic World Evolution,_ Planet Zoo and F1 Manager_. Founded in 1994, we are based in the world-leading technology cluster and historic city of Cambridge, England. With a growing team of over 800 talented people supporting our existing portfolio and ambitious future roadmap, along with our publishing label Frontier Foundry, we are passionate about creating innovative genre-leading games and authentic worlds for our communities of players.
+*Purpose of the Role*
+We have an exciting opportunity for a dedicated graduate animation programmer to work with our highly talented and experienced animation team. Working in our in-house Cobra engine you will create technology that improves how we create and use animations, both in developing tools and processes, and working directly on runtime animation systems specific to each game.
+We have a proud history of great character animation, ranging from heavily stylised to realistic behaviours, across both cinematic sequences and real-time motion. Many of our games also feature mechanical animation and physically-driven responses, presenting many novel challenges beyond established skeletal animation techniques.
+Fantastic animation will play a huge part in our future success, with games such as Planet Zoo and Jurassic World Evolution leading the way. Your passion for animation and game technology will be pivotal to delivering the quality that we strive for in all our games.
+Responsibilities
+
+Write code in our proprietary Cobra game engine.
+Expanding and improving animation technology within the Cobra engine and supporting tools.
+Working with the animation department to deliver high quality authored and procedural animation for each of our games.
+Join the team in improving each other’s code through peer review.
+
+About you
+
+Strong analytical and problem solving skills.
+Able to write code that is maintainable and understandable by others.
+Ability to communicate effectively with team members.
+
+Qualifications, Skills & Experience
+
+Essential
+C++ experience strongly preferred.
+A good understanding of Computer Science fundamentals such as Data Structures and Algorithms, ideally through a Computer Science, Maths or similar degree.
+A strong understanding of mathematics for game development.
+Some experience developing games either in your own time, as part of your studies, or as an intern (industry experience not essential).
+
+
+*
+
+Desirable*
+
+Familiarity with game asset pipelines and animations authoring tools.
+Experience developing animations systems, handling complex animation blend trees and graphs to produce naturalistic behaviours.
+
+What we can offer youWe offer the chance to work with talented and passionate people, developing and publishing sophisticated and enduring games in a creative and collaborative environment. We love what we do, and we work hard to provide outstanding experiences for our player communities. Frontier rewards this passion and determination by sharing in the company’s success and by supporting our teams to keep doing what they love.
+Well-being is a big focus at Frontier and we are continually evolving how we can support our staff. We encourage a healthy work/life balance and host a range of well-being activities, initiatives and sessions to support both mental and physical health.
+We offer a competitive salary and benefits package, which includes a success-based annual bonus, share option schemes, pension, life assurance, private family healthcare, flexitime working hours, enhanced maternity/paternity package, in-house subsidised catering, support with relocation, a Cycle to Work scheme and free bike servicing, and social events.
+We welcome and encourage applications from qualified candidates regardless of sex, race, disability, age, sexual orientation, gender identity, marriage or civil partnership, pregnancy or maternity, religion or belief.
+Job Type: Permanent

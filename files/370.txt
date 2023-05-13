@@ -1,0 +1,58 @@
+
+Job Title: Full-Stack Developer
+Location: Home Based 
+Employment Type: Permanent 
+Salary: £55,000 per annum + 10% Bonus (paid quarterly)
+
+About AVC Wise
+Were leading the way when it comes to financial planning and education for employees providing benefits to hundreds of thousands of people in the UK. Most importantly were truly passionate about improving the financial lives of workers!
+We span 5 generations, have great gender diversity, were based all over the UK working remotely full time, but we meet up regularly!
+Youll find AVC Wise to be a company thats focused on being an employer of choice where people thrive, and your voice is truly heard. We empower our colleagues to do great work by investing in learning, personal development, and technology.
+The difference youll make.
+In this exciting remote role, you will be working within the Technology and Data team to manage the complete software development process from conception to deployment, in order to meet the requirements of a rapidly growing business. 
+You will work in collaboration with Senior Leadership, Business Analyst, Product Manager & wider business colleagues to support state of the art online platform.
+Who were looking for.
+Your main responsibilities in this role will be:
+
+Understanding design principles and detailed knowledge of database schemas & architecture.
+ Delivering technical visualisation of proposed application architecture by employing modern software engineering techniques and patterns.
+ Contributes by implementing best practices and modern application designs.
+ Designing, coding and testing programs from agreed technical specification.
+ Ensuring agreed standards and tools are in place to achieve a well-engineered product.
+ Conducting releases to production environments and setting up post release reviews.
+ Participate in code reviews such as pull request as well as work delivered by peers.
+ Supporting team members to overcome technical challenges by evangelising best practices.
+ Participate in all aspects of agile software development, including design, implementation, and deployment.
+
+This list is not exhaustive and a full job description is available here.
+A bit about you
+Youll already have experience as a Full Stack Developer, or have experience in a similar role. In addition to this you will possess the following skills and experience:
+
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery).
+ Knowledge of back-end technologies and JavaScript frameworks (e.g. React).
+ Knowledge of GraphQL engine
+ Familiarity with databases (e.g. Postgres), cloud platform (e.g. Heroku, Firebase) and UI/UX design.
+ Engineering expertise in Software development (Backend and Frontend).
+ Previous experience in designing modern architecture, frameworks & design patterns.
+ Knowledge of Continuous Integration/Deployment tools and processes.
+ Ability to work well in a team, self-driven and eager to learn.
+ Creative thinking, analytical skills, with attention to detail.
+ Enthusiasm to learn new technologies and concepts beyond current experience.
+ Great communications skills and fluency in written and verbal English.
+
+What well give you in return 
+This a role that offers true satisfaction with the chance to help other people. We value each of our colleagues contribution and we offer benefits that cater to our colleagues mental, physical, and financial wellbeing. We know that we all want different things so theres something for everyone. Heres just a few things we offer:
+
+£200 allowance to get your home office set up 
+A generous holiday allowance of 25 days plus the day off for your birthday 
+Contributory pension scheme (4% Employer, 5% Employee)
+ Affordable salary sacrifice benefits such as Cycle to Work, Home and Electronics, Gym Memberships Travel & Leisure, Lease Cars and much more 
+Discounts and savings on shopping, travel, entertainment and more
+ Access to our outstanding Employee Assistance Programme 
+Peer to Peer Recognition 
+Quarterly socials and regular team events 
+Significant training and development opportunities
+
+We're all working remotely so all of our interviews are being conducted online.
+This is an outstanding opportunity for an ambitious and talented individual to make a significant, long-lasting contribution to a high-profile business, at a key point in its development.
+We encourage applicants from all sections of the community so that we can truly reflect the customers and clients we work with.

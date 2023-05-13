@@ -1,0 +1,63 @@
+
+As an experienced Clinical SAS Programmer in our Clinical Pharmacology Services (CPS) Center of Excellence based in Leeds, you are central to the crucial early phases in a vast variety of clinical trials, across an equally vast variety of therapeutical areas. You will be supporting renowned, innovative, global top pharmaceutical and biotech companies, while working alongside our dedicated, talented and growing team of Early Phase statistical programmers. You will develop and validate SAS programs for data presentation and analyses, and provide programming support to multidisciplinary global project teams during clinical trials in healthy volunteers (“first in human” studies).
+
+ If you thrive in a role where your work makes a real difference in the lives and health of humans, in a highly professional environment that offers you lots of and fast-changing projects, continuous learning opportunities and strong support from your team mates, this is an excellent opportunity. Join us and see why more than 90% of the top 20 global pharmaceutical companies are repeat customers!
+
+ Your work location can be 100% home-based anywhere in the UK – or, if you prefer, based out of one of our offices in the country, e. g. in Maidenhead or Leeds.
+
+ What else can you expect from us?
+
+ Rewarding and meaningful work in an established, diverse, highly profitable and respected global company
+ Highly competitive compensation packages, including various local benefits such as pension contributions, complimentary health insurance plans, remote working allowances etc.
+ A genuine work life balance
+ Flexibility in working hours
+ A thorough onboarding with support from your personal mentor
+ A permanent employment contract with Labcorp Drug Development
+ Excellent training and career development opportunities, as well as support with advancing your individual education
+ Strong support from your Labcorp Line Manager and your team, as well as from more than 20,000 colleagues worldwide
+
+
+ Your responsibilities:
+
+
+ Plan, execute and oversee all programming activities on a study, including but not limited to: resource estimation, working within budget, meeting timelines, maximizing quality, interaction with other departments and the client, etc.
+ Develop and maintain SAS programs to create complete SDTM and ADaM datasets and TFLs, and perform quality control reviews of SDTM, ADaMs and TFLs
+ Produce and/or define XML/PDFs, Analysis Results Metadata (ARM), aCRFs and Reviewers Guides to support SDTMs and ADaMs
+ Develop and/or lead the development of complex specifications for SDTMs and ADaM datasets, and contribute to the development of company and client standards
+ Review SAPs and TFL shells from a programming perspective for studies, and advise on the development of complex TFL shells from a programming perspective
+ Mentor less-experienced team members in best practices around SDTMs, ADaMs and TFLs while ensuring adherence to department practices and processes
+ Present and share knowledge at department meetings
+ Respond to QA and client audits and support qualification audits
+ Contribute your expertise to proposal activities and bid defense
+ Continually identify and suggest ways to improve the efficiency, quality and productivity of statistical programming
+
+
+ Your profile:
+
+ Degree in a relevant field such as mathematics, life sciences, statistics, computer sciences, etc.
+ In lieu of the above: an equivalent completed vocational training and / or equivalent professional experience in statistical programming
+ Profound professional experience as a lead statistical programmer working on complex studies within a biotech, CRO or pharmaceutical company
+ Knowledge in all aspects of clinical trials, from initial study set-up to study completion, with an excellent understanding of the roles and responsibilities of all related disciplines, e. g. Biostatistics and Clinical Data Management
+ Expert knowledge of base SAS, SAS macros, SAS/STAT and in debugging SAS programs
+ Broad knowledge of all CDISC requirements related to SDTM and ADaM, including define. xml, Reviewer's Guide and submission standards
+ Excellent organizational, time management and project management skills with demonstrated leadership skills
+ Outstanding problem solving and decision making skills, coupled with a proactive approach - anticipating issues and working to ensure they are avoided or resolved as quickly as possible
+ An autonomous, collaborative work style, a curious mind and a keen attention to detail
+ Business fluency in English – both verbal and written – is a must
+
+
+ About Labcorp Drug Development
+ As a leading contract research organization (CRO), Labcorp Drug Development provides comprehensive drug development solutions for a range of industries. Our services cover the preclinical, clinical and post-market phases of drug development, the product life cycles for medical device and diagnostics and development services paired with regulatory support for the chemical testing and crop protection industries.
+ Labcorp Drug Development is a global leader in nonclinical safety assessment, clinical trial testing and clinical trial management services. Our unique perspectives are based on decades of scientific, medical and regulatory expertise.
+
+ Did you know?
+ In July 2022, Labcorp announced its intention to spin off its clinical development business as a separate public company, subject to the satisfaction of certain customary conditions. Fortrea will become the new brand identity for our Clinical Development business in connection with the spin-off, which is expected in mid-2023.
+ We believe that the exceptional is possible when you have the right partner, so we are looking for the right people to help build a transformative force in Clinical Development. www. fortrea. com
+
+ REMOTE
+ #LI-AR1
+ Labcorp is proud to be an Equal Opportunity Employer:
+
+ As an EOE/AA employer, Labcorp strives for diversity and inclusion in the workforce and does not tolerate harassment or discrimination of any kind. We make employment decisions based on the needs of our business and the qualifications of the individual and do not discriminate based upon race, religion, color, national origin, gender (including pregnancy or other medical conditions/needs), family or parental status, marital, civil union or domestic partnership status, sexual orientation, gender identity, gender expression, personal appearance, age, veteran status, disability, genetic information, or any other legally protected characteristic. We encourage all to apply.
+
+ For more information about how we collect and store your personal data, please see our Privacy Statement.

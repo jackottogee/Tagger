@@ -1,0 +1,60 @@
+
+
+  Clearwater Analytics’ mission is to become the world’s most trusted and comprehensive technology platform for investment reporting, accounting, and analytics. With our team, you will partner with the most sophisticated and innovative institutional investors around the world. If you are infectiously passionate about what you do, intensely committed to clients, and driven by continuous innovation and improvement... We want you to apply!
+ 
+
+
+   Clearwater Analytics develops and operates award winning software used by some of the world’s largest technology and finance companies. A career in software development at Clearwater Analytics will provide you with the opportunity to use modern technologies and best practices to participate in all phases of the software development lifecycle in an Agile work environment. As a software development engineer, you will participate in the design, implementation, and shipment of the software that makes the financial sector tick. Additionally, given Clearwater’s dev-ops culture, you will have an opportunity to make an impact on infrastructure, CI/CD, and developer productivity.
+ 
+
+
+   Responsibilities:
+ 
+
+
+ Participate in Agile meetings and contribute to development strategies and the product roadmap
+ Own and maintain critical, client impacting processes that are highly available and scalable
+ Write, test, deploy, and monitor clear, concise, performant, and secure code that demonstrates a commitment to quality
+ Contribute to design and architectural decisions.
+ Provide leadership, mentorship, and expertise to our ever-growing workforce
+ Understand, respond to, and address customer needs and issues with empathy and timeliness
+ Demonstrate expertise, collaboration, and creativity across interactions between multiple teams and systems
+ Troubleshoot and resolve production incidents quickly and effectively.
+ Effectively break down and solve complex problems that require research and collaboration
+ Follow secure, scalable, and robust architecture, coding guidelines and best practices
+
+
+
+   Requirements:
+ 
+
+ Bachelor’s degree in Computer Science or related field is a major plus
+ 1-3 years’ experience building software components.
+ Excellent verbal and written communication skills.
+ Strong problem-solving skills
+ Ability to see the big picture while still giving attention to detail.
+ Strong command of unit testing for thorough code coverage.
+
+
+
+   Desired Experience or Skills:
+ 
+
+ SQL experience creating queries, tables, indexes, etc.
+ Professional experience working in a SaaS environment
+ Familiarity with micro-services architecture
+ Fintech domain experience a plus
+ Experience in software development using a high-level language (Kotlin, Java, C#, C++, Python, etc.).
+ Experience using a version control system such as Git
+ Experience using build tools such as Maven/Gradle
+ Experience with cloud native architecture and cloud services
+ Experience building and using web apis
+ Experience with both relational and non-relational databases
+ Containerization and infrastructure knowledge is a plus
+ Experience with React, Angular, or any other modern front-end framework (this is team specific)
+ Experience with typescript in an object-oriented or functional paradigm
+ Experience making reusable front end components
+ Experience using front-end specific testing libraries (Jest, cypress, etc)
+ Experience using front-end build processes (webpack, rollup, etc)
+ Containerization and front-end infrastructure knowledge is a plus
+

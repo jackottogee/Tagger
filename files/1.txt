@@ -1,0 +1,69 @@
+
+About us
+ We build and maintain a software platform to help our customers sell more cars, more efficiently. We focus on our technology and delivery in order to achieve fast feedback cycles that improve the quality of our solutions. Our platform facilitates many aspects of the car buying journey, powering sites used by millions of people a day. We work with a wide range of customers such as Retailers, Web Agencies, Car locators, Manufacturers and Lenders.
+ About the role
+ We’re looking for a passionate and highly motivated engineer to help shape our leading web services platform. You will work closely with your product delivery squad to build robust, well engineered solutions. We make use of extreme programming practises such as CI/CD, TDD and pair programming. Software craftsmanship and learning is a big part of being a Codeweavers engineer and we will provide you with opportunities to grow your skills.
+ On a day-to-day basis, you will be responsible for:
+
+Working closely with product owners, account managers and end users to translate business problems into platform solutions.
+Working with your team to implement and deliver well engineered features.
+Supporting and maintaining our platform.
+Collaborating with the team to help drive our tools, solutions and practices forward.
+
+Our Technologies
+ Our platform is currently built in C# using a service oriented architecture. Making use of some of the following technologies and frameworks.
+
+.NET technologies such as .NET framework, .NET Core, ASP.NET, WebAPI, MVC etc.
+PostgreSQL, Cassandra and Microsoft SQL Server databases
+Various cloud services such as AWS and Google Cloud
+RabbitMQ
+Protobuf
+ORMs mainly nhibernate
+NUnit, Moq, NSubstitute
+
+Development Tools
+
+Visual Studio + Resharper / JetBrains Rider
+One trunk source control via SVN
+In house CI/CD tool
+In house project management tool
+Slack
+
+Requirements
+ We’re interested in hiring talented, passionate people regardless of experience level. For all applicants we would expect:
+
+No challenge is too big or small.
+You accept feedback gracefully.
+You’re confident to engage with your team.
+You question decisions and ideas that you do not understand or agree with.
+Desire to work in a respectful, transparent and collaborative environment.
+Experience writing clean, performant C# code.
+Experience designing well thought out web APIs.
+Pragmatic engineer who actively avoids over engineering solutions.
+Understanding how to maintain high quality of code in a delivery focused environment.
+Understanding of CI / CD pipeline to safely and effectively build and deploy new functionality.
+
+Benefits
+
+   Other reasons to join our team:
+ 
+
+
+40k to 70k salary based on skills and experience, reviewed annually.
+Hybrid working. The majority being remote working with in-office working 1-2 times per month, or more regularly if you prefer.
+23 days holiday plus bank holidays + 1 for each year of service.
+Take your birthday as an additional holiday.
+One wellness day a year.
+A great social scene including an annual sports day and an awesome Christmas party.
+Access to a wealth of tools and resources to learn at your own pace:
+    
+The Codeweavers library, if there’s something missing let us know.
+Digital learning resources (Pluralsight etc).
+Opportunities to attend conferences and workshops.
+Kaizen time - Half a day each week dedicated to learning and self development.
+
+
+
+
+
+#INDTR

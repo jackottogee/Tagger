@@ -1,0 +1,35 @@
+
+We are currently looking for a Full Stack Developer based at our Leeds IT office in Morley.  As Full Stack Developer you will work closely with the Product Managers, Business Analysts, Architects and other Developers to deliver changes required by the business on our web based products.  We are looking for someone who loves front-end development (using the Angular framework) and is also comfortable with backend development with C# and ASP .NET MVC.  Responsibilities will also include helping design the UI, estimating user stories, developing new features, fixing bugs, testing, peer reviewing code and following security best practices.
+ You are also be required to enhance and maintain our existing company websites which are based on the Kentico CMS (.NET MVC app)
+ Based at our Leeds IT Office in Morley you will receive a competitive salary, 25 day annual leave plus bank holidays, Westfield health cash plan, auto enrolment pension scheme and access to lifestyle benefits – discount on selected high street stores
+ Responsibilities include:
+
+ Work as part of a cross-functional Agile development team consisting of software developers, testers, architects and product owners to deliver robust and well engineered software solutions.
+ Delivery of the roadmap for Digital Commerce solution, proposing and implementing the most effective approaches and technologies to fulfill requirements.
+ Monitor analytics and user journeys to identify and implement customer experience enhancements
+ Approach work with a mindset that embraces Agile principles and culture, and be a positive example to others of the behaviors they should develop
+ Troubleshoot and resolve bugs, closely monitoring defect rates and working closely with end users
+ Liaise with other teams and key individuals in a cross-functional DevOps environment
+ Engage and collaborate with internal stakeholders to capture and evaluate requirements to feed into product backlogs
+ Work closely with the technology and cyber security team to minimise risk and ensure compliance with GDPR and security best practices
+ Maintain quality and accuracy of code and ensure effective source code control
+
+ Qualifications and Experiences:
+
+ Software development/similar degree or equivalent experience
+ Essential experience and understanding of: C#, ASP.NET MVC, JavaScript, HTML & CSS, SQL, SEO & Web analytics
+ Experience of working using SCRUM or an alternative agile methodology
+ Experience of working in a DevOps environment
+ Self-motived learning with the ability to learn new technologies when required to solve a specific problem
+ Must be a highly organised self-starter
+ Good verbal and written communicator
+ Ability to work both alone and as part of a team
+
+ In return you will receive
+
+ A Competitive Salary
+ Health Care cash back scheme
+ Auto enrolment pension scheme
+ 25 days holidays
+ Lifestyle Benefits - discount on selected high street stores
+

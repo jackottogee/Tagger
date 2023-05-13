@@ -1,0 +1,83 @@
+About us 
+
+ Solirius Consulting delivers technical consultancy and application delivery to our clients in order to solve real world problems and allow our clients to respond to an ever-changing technical landscape. We partner closely with our clients, embedding our consultants into their businesses in order to provide a bespoke service, allowing us to truly understand our clients’ needs. 
+
+ It is this close collaboration with our clients that has enabled us to grow rapidly in recent years and will drive our ambitious future growth plans. We currently have over 250 consultants working with a variety of key clients from both the public and private sectors such as the Ministry of Justice, Department for Education, FCDOS, UEFA, International Olympic Committee and Mercedes Benz; with plans to increase our client base further in the near future. 
+
+ We operate as a flat organisation and believe in trusting and supporting our team to operate independently. We pride ourselves on being specialists at what we do, making the most of our consultants’ expertise in their fields in order to provide a best-in-class service to our clients. All our consultants have the opportunity to work on a range of different projects, providing a broad range of knowledge on which to develop their careers and progress in the direction they choose. 
+
+ The role 
+
+ This is an exciting opportunity to join our Software Engineering Practice as a Front End Developer, to work alongside our team and help build out the capability. 
+
+
+About you:
+ Our team is our strongest asset, you will be an excellent team player who recognises the strength of the team as a whole and can find their role within the Solirius team. 
+
+
+Typical qualities of a Solirius consultant are:
+ Best in class technical skills in their sector 
+
+ Outstanding communication skills 
+
+ Strong interpersonal and team working skills 
+
+ Self motivated, enthusiastic and committed 
+
+ The ideal candidates will share our values and be aligned with our ways of working. 
+
+
+Key Responsibilities:
+ Working across the full lifecycle from requirement gathering and design, through to coding and into testing, deployment and maintenance. 
+
+ Liaising with management and stakeholders on client requirements and understanding team objectives. 
+
+ As a consultant with Solirius you will have exposure to a variety of projects and challenges 
+
+ Championing and contributing towards engineering best practises across our team and projects. 
+
+
+Key Skills/Experience:
+ You need to be technically sound but also be able to convey your knowledge and expertise to clients internally and externally. In terms of specific languages you should have commercial experience in some or all of the following; 
+
+ Substantial experience as a hands- on Front End Developer 
+
+ Applied knowledge of front end frameworks (Angular, React, other similar) 
+
+ Knowledge of selected front end technologies (HTML, JavaScript, CSS) 
+
+ Ability to communicate your design, both verbally and in written form 
+
+ Experience of working with cloud infrastructure (Azure or AWS, GCP is beneficial) 
+
+ Ability to work with senior stakeholders and detailed technical specialists 
+
+ Experience in unit testing frameworks (Karma, Jasmine or others) and exposure to TDD is beneficial 
+
+ Analytical mind with problem-solving aptitude 
+
+
+Package and Benefits:
+ Competitive salary, dependent on experience 
+
+ Flexible working / Work from home 
+
+ Generous annual discretionary bonus 
+
+ 25 days annual leave + bank holidays 
+
+ 10 days allocated development training per year 
+
+ Contributory pension 
+
+ Private healthcare cover 
+
+ Gym membership 
+
+ Annual away days and social events 
+
+ Equality and diversity 
+
+ Solirius Consulting is an equal opportunities employer. We are committed to creating a work environment that supports, celebrates, encourages and respects all individuals and in which all processes are based on merit, competence and business needs. We do not discriminate on the basis of race, religion, gender, sexuality, age, disability, ethnicity, marital status or any other protected characteristics. 
+
+ Should you require further assistance or require any reasonable adjustments be put in place to better support your application process, please do not hesitate to raise this with us.

@@ -1,0 +1,66 @@
+
+Initially, this role will be remote, but will switch to Hybrid working once the new office is Open (city-centre). Therefore, applicants who are not able to commit to a hybrid working model need not apply.
+
+ CITI is one of the largest players in the financial industry, employing more than 200,000 people across the globe.
+ In the UK, CITI is a major employer with over 6000 people in London and 3000 in Belfast.
+ CITI comprises many different businesses across Retail, Corporate, Wealth Management and Investment Banking. One of the most important, high profile and profitable sectors is Global Markets Trading.
+
+ What we do? (What the team does) 
+Our team (XiP) is responsible for supplying both backend and frontend services to Citi trading desks and enterprise users in the largest global financial markets and exchanges in New York, London and other major financial hubs.
+
+ What will you do?
+
+ Role is for an experienced Python Software Engineer to aid the XiP team in leading the development of client-facing libraries and SDKs for XiP's APIs.
+ It will involve collaboration with the XiP team and working with senior end users in the business and technology on developing reusable libraries, validating solutions, and diagnosing and resolving issues.
+ The role requires experience of developing software using REST and providing fault-tolerant client-server solutions.
+ The candidate must have familiarity with standard and networking python libraries, testing frameworks (Pytest), analysis tools and a good understanding of CI/CD practices.
+ Some experience of Java is plus, to aid understanding of Java-based API service implementations.
+
+
+ What you will bring 
+
+Solid core Python 3.6+ programming of object-oriented applications
+ Demonstrable ability to leverage best coding practices: clean and readable code, automated testing, code reviews, continuous integration and delivery
+ Demonstrable experience in writing reusable, testable and efficient code with proper error and exception handling
+ Demonstrable experience in writing high quality unit and integration tests, strong debugging skills
+ Experience of test-driven development and of continuous integration platforms.
+ Hands-on experience in handling various data structures, for example CSV, JSON, XML, etc.
+ Understanding of Agile software development approach and experience in using source control (preferably git)
+ Strong object-oriented design skills and experience in identifying and applying design patterns
+
+
+ Bonus Points for 
+The following skills are highly desirable for your new role and will be considered advantageous for your application:
+
+ Knowledge of python frameworks and libraries, including Pytest, Pandas, Flask, Kafka
+ Experience in integrating with HTTP/APIs endpoints and processing responses
+ Experience with ORM libraries
+ Understanding of python packaging for release and deployment
+ Understanding of fundamental design principles driving a scalable application
+ Understanding of threading model of Python, and multi-processor architecture
+ Working knowledge of REST
+
+
+ Upon joining Citi as a new python developer, you will experience and benefit from:
+
+ Working in a leading investment banking environment with focus on a modern, global risk system software development
+ Developing and gaining an understanding of full software development lifecycle
+ Developing and gaining an understanding of the various Markets businesses, including traded products, markets, regions, processes and information flows
+
+
+ -
+ Job Family Group: Technology
+  -
+ Job Family: Applications Development
+  -
+ Time Type: Full time
+  -
+ Citi is an equal opportunity and affirmative action employer.
+
+ Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+ Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+ View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+ View the EEO Policy Statement.
+ View the Pay Transparency Posting

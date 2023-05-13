@@ -1,0 +1,32 @@
+
+Spire Global is a space-to-cloud analytics company that owns and operates the largest multi-purpose constellation of satellites. Its proprietary data and algorithms provide the most advanced maritime, aviation, and weather tracking in the world. In addition to its constellation, Spire’s data infrastructure includes a global ground station network and 24/7 operations that provide real-time global coverage of every point on Earth.
+ As part of the Government Engineering group, the key Responsibilities would be:
+
+ Collaborate with other Developers and Scientists in the group as well as members in the Operations team to plan, design, develop, test and main data pipelines
+ Design, program and deliver on projects related to the processing, storage and streaming of data within designated schedules and budgets
+ Support the development of projects from inception through alpha/beta testing and final delivery
+ Identify, communicate and overcome development problems and creative challenges related to complex distributed systems
+ Revise and troubleshoot development work as required and contribute to and actively follow technical documentation related to interactive development cycles.
+
+ Basic Qualifications:
+
+ 1-2 years’ experience developing software in Python
+ 1-2 years’ experience with Docker
+ 1-2 years’ experience of SQL and using relational databases
+ Knowledge of git for version control
+ Power-user capabilities with the Linux operating system
+ Understanding of Message Queueing software (Kafka / RabbitMQ)
+ Ability to design and test highly robust and scalable distributed software solutions
+ Team player, enthusiastic and capable of working in a fast, dynamic environment
+ Robust initiative and the ability to work with minimal oversight
+ Degree in Computer Science or an equivalent subject
+
+ Preferred Qualifications:
+
+ Experience developing software with Golang or Java/Scala
+ GIS / Mapping experience (geopandas, geoserver, leaflet, postGIS, etc)
+ Experience with Hbase or other distributed databases
+ Experience with AWS cloud computing services
+
+ Spire is Global and our success draws upon the diverse viewpoints, skills and experiences of our employees. We are proud to be an equal opportunity employer and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, marital status, disability, gender identity or veteran status.
+

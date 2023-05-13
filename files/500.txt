@@ -1,0 +1,69 @@
+Junior Software Engineer
+About Amberside Energy
+Amberside Energy is an exciting renewables development and management company headquartered in Hemel Hempstead, Hertfordshire. We are a dynamic firm that primarily works with solar farms and battery-based energy storage systems but with growth plans that will allow us to move into other technologies and sectors.
+We are seeking a Junior Software Engineer to support our growing team. The need to capture and process data gets more complex as our organisation grows. This is an excellent opportunity for junior/entry-level candidates to gain real-life experience and build software solutions. The ideal candidate will be proactive and positive, with excellent organisational and communication skills and the ability to use their initiative.
+Amberside Energy strives to exceed client expectations. As such, we are searching for outstanding candidates who seek appropriate recognition for their ability to consistently perform at an elevated level to their peers. Our business is based on a meritocracy; therefore, there are no limits to what can be achieved.
+In short, we’re seeking applications from the very best talent in return for an exceptional remuneration package.
+Duties of the Role
+
+Developing, deploying, and maintaining RESTful API services in a Test-Driven Development environment.
+UI development and UX research for the company’s internal needs. Collaborating with other teams in developing software requirements
+CI/CD implementation in local code repositories
+Proactively providing technical solutions that are related to in-house custom software and advising stakeholders
+Work to continually improve the processes by increasing automation and scope of outputs. Designing and building in-house SDK (Software Development Kits).
+
+Why work for Amberside Energy?
+
+Market-leading remuneration linked to experience and ability (instead of grading/bands)
+An exceptional bonus structure linked to remuneration reviews based on delivery and contribution
+Generous private healthcare scheme
+Becoming part of a small, high-performing team that operates in a relaxed and friendly atmosphere, backed up with decades of combined development, renewables, electrical and commercial experience.
+
+Required Candidate Characteristics
+
+Able to work in the UK on a long-term basis without sponsorship
+Fresh graduates or at least 1 year of experience in programming. A portfolio of projects is expected
+Version management and collaboration using git, preferably using git-remote and understanding of git-fork workflow
+Understanding of data structures and building reproducible and modular object-oriented programmes
+Ability to develop codes in Node.js Typescript & Python programming language. Jupyter Notebooks and pandas are essential (in an anaconda environment)
+Exposure to, or experience in, front-end development. This includes utilising web frameworks such as Django, Flask, Express, Nest.JS, FastAPI, Express.js, etc. Confidence in developing HTML, CSS and JavaScript is essential
+Developing SQL scripts or handling schema-less data using MongoDB, PostgreSQL, or other RDBMS software.
+
+Desirable Candidate Characteristics
+
+·Bachelor’s degree in IT, Computer Science, Maths, Physics, Statistics, Engineering, or similar degrees / equivalent qualifications. Knowledge in computer science & networking
+Exposure to Microsoft Excel’s Power Pivot, Power Automate, or Power Query
+Portfolio/experience in UI development using Svelte and Git-fork workflow. Preferably comfortable in using remote repositories such as GitHub, Gitlab, bitbucket, etc.
+Exposure to geographic information system (GIS) software such as pyqgis, arcpy, ogr2ogr, GDAL, and Shapely (GEOS)
+Operating popular Linux OS distributions like Debian and Fedora; code editing with the terminal (VIM, GNU Nano). Exposure to server administration using Linux and bash. This includes turning off servers given unforeseeable circumstances or applying some mitigation measures. Cloud engineering ability would be advantageous
+Graph Theory and data structure knowledge to model, visualise and analyse networks. In Python, this uses NetworkX; or d3-force in JavaScript
+Typescript/JavaScript knowledge in building UI and component-based frameworks, particularly with React/NextJS/Svelte. Bonus point: Svelte and interactive data visualisation using d3.js
+API development using common Python / NodeJS frameworks such as Flask, Express JS, Nest JS, etc. Knowledge of OGC (open geospatial consortium) standards is a plus
+Knowledge of Apache Airflow, CRON, or similar software for work orchestration.
+
+Application Process
+Candidates invited for an interview should expect the following:
+
+Panel interview (MS Teams) - approximately 1 hour interview on CV content
+Assessment interview (in person) - approximately 2-2.5 hours on-site which will include an interview and short test covering literacy, numeracy, and ability to summarise information (this can be organised in the evening to fit in with other commitments).
+
+Candidates that apply sooner have a higher chance of securing the role as we interview on a first-come, first-served basis for recruitment.
+Job Type: Full-time
+Salary: £28,000.00-£35,000.00 per year
+Benefits:
+
+Company pension
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Hemel Hempstead, HP2 4TP: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+Are you able to work in the UK permanently without sponsorship?
+
+Work Location: In person

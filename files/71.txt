@@ -1,0 +1,32 @@
+We're looking for a Software Engineer to join CSE's Research & Analysis team to support CSE 
+and external partners on a variety of projects. 
+
+ As a Software Engineer, you will collaborate with CSE colleagues in the Research and Analysis 
+
+team, across CSE and external partners on the following tasks:
+
+ Creating innovative software to answer climate change related questions. 
+
+ Designing, planning, developing and testing new software. 
+
+ Supporting and extending existing applications. 
+
+ Using software to help colleagues undertake tasks including statistical and spatial 
+analysis and data management. 
+
+ The CSE software team currently consists of four software engineers. Choices of languages, 
+libraries, platforms etc. are made collaboratively by this team. We use a range of languages 
+including Python, Clojure, Javascript and Java. 
+
+ You will work across a range of CSE projects, including for example: 
+
+ Enhancing CSE’s Solar Wizard LiDAR based GB-wide Solar PV modelling tool. 
+See www.cse.org.uk/projects/view/1388 and solarwizard.org.uk. 
+
+ Supporting and extending THERMOS – our Horizon 2020 funded district heating system 
+optimisation tool. See www.thermos-project.eu 
+A range of client-facing and internal web-applications. 
+
+ Data analysis and processing software. 
+
+ Some dev-ops with Linux-based tools.

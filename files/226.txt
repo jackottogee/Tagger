@@ -1,0 +1,95 @@
+
+
+  Python Developer
+ 
+
+
+   Summary
+ 
+
+
+   NCC Group is looking for a talented Python Software Engineer to join our growing software development team, building and maintaining our evolving suite of enterprise level applications.
+ 
+
+
+   You will work across the full development life cycle, translating complex business requirements through to complete elegant, scalable software solutions.
+ 
+
+   You will be expected to work both independently and alongside the wider team on both new and ongoing projects, producing tools for the department to use in day-to-day operations, as well as applications for customers and other departments.
+ 
+
+
+   You will have a passion for technology and considerable experience developing scalable and secure applications, and will ensure the architectural system design is extendible, scalable and maintainable. Looking for someone willing to explore more cloud native architecture and offer a great platform to train and
+ 
+
+
+   Key responsibilities
+ 
+
+ Write performant, reusable well documented code within a rapidly growing code base
+ Work within the Product team to deliver quality, scalable, testable solutions to specification
+ Ability to articulate ideas clearly to the rest of the technical team
+ Help the Product Managers/Scrum Masters in understanding technical implementations considerations for features on the back log, providing estimation and guidance
+ Advise on technologies and evolving techniques to the benefit of the products we produce
+ Able to review peer’s code giving clear feedback and following best practices
+ Work in within an agile team using SCRUM practises to deliver quality code at a pace
+ Be motivated to work remotely and organised in your time management
+ Enthusiastic and open to learning new technologies native to cloud development
+
+
+
+   Requirements
+ 
+
+ Ability to work with GNU/Linux environments
+ Working knowledge of Python 3
+ A good understanding of Django Framework
+ Experience of RESTful design
+ Knowledge and experience with micro-service orientated architectures.
+ Docker (Compose)
+ Excellent knowledge of Git Version Control
+ Experience with both SQL & NoSQL databases
+ Experience with Python Dependency management
+ Experience writing API/Project documentation (Swagger (OpenAPI)/Sphinx or similar)
+ Knowledge of queue/worker-based technologies (Redis, RabbitMQ, AWS SQS etc)
+ Ability to debug and maintain existing legacy code as well as develop new functionality and services to meet requirements within a service-oriented architecture
+ Good knowledge of software architecture, object-oriented development, design patterns and coding best practices
+ Solid understanding of CI/CD cultures and pipelines within GitLab
+ Exposure to Cloud infrastructure and development
+
+
+
+   About NCC Group
+ 
+
+
+   The NCC Group family has over 2,500 members located all around the world, providing a trusted advisory service to 20,000 customers. Born in the UK, we have now have offices in North America, Canada, Europe, Asia- Pacific and United Arab Emirates.
+ 
+
+
+   We are passionate about helping our customers to protect their brand, value and reputation against the ever-evolving threat landscape. We fuel that passion with investment in our people and our business.
+ 
+
+ Our values and code of ethics are at the heart of how we operate – we work together, we are brilliantly creative and we embrace difference. We treat everyone and everything with equal respect.
+
+
+ We want to create an environment where all colleagues feel psychologically, emotionally and physically safe to be authentic, sharing their personal experiences to represent the diversity of the world they live in, and have equal opportunity to achieve their best.
+
+
+
+   If your skills and experience meet the needs of the role requirement, we will endeavour to respond to every application within 10 working days. However, if you haven’t heard back from us within this timeframe on this occasion your application has unfortunately been unsuccessful, but please do continue to keep an eye on our career opportunities as there may be other more suitable roles.
+ 
+
+   We may also store your CV on our database for any future vacancies.
+ 
+
+
+   Please email mitch.palmer@nccgroup.com if you do not want us to retain your details. All personal data is held in accordance with the NCC Group 
+  
+   Privacy Policy
+  . We are committed to diversity and flexibility in the workplace. If you require any reasonable adjustments to support you during the application process, please tell us at any stage.
+ 
+
+   *** Please note that this role has background clearance as mandatory due to the nature of the work NCC Group does. To apply, you must be willing and able to undergo the vetting process ***
+ 
+

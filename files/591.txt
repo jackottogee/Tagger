@@ -1,0 +1,36 @@
+
+Moley has created the world's first robotic kitchen. Featuring an advanced, fully functional robot integrated into a beautifully designed, professional kitchen, it cooks with the skill and flair of a master chef. The prototype was premiered to widespread acclaim at Hanover Messe, the international robotics show.
+
+ A role has become available for robotics software expert to join our product development team. The candidate will work both individually and in a small team to develop high-quality software to be included in our flagship product.
+
+ Skills & Requirements:
+
+
+ B.S. / M.S. / PhD in Robotics, Computer Science, or related field
+2+ years of C++ development experience
+Experience with Robotics
+
+
+
+ Any of these below would be a great add on:
+
+
+ Robotics Experience (ROS, Motion planning, and capture, Continous integration, and deployment, Manipulation, Algorithms, Inverse Kinematics, Grasping, Path-Planning)
+Computer Vision Experience (3D Pose Estimation, Object Recognition, Stereoscopy)
+Agile Experience
+
+
+
+ We take good care of our people. If you are the one for Moley Robotics, this is what we’ll offer you:
+
+
+ A competitive salary
+Proven equipment
+Possible remote days/flexible schedule
+We would consider remote work if the candidate is willing to travel once a month to London
+You will work in a scrum-based agile development cycle.
+You will be working alongside founder, researchers, and engineers to design and build worlds first robotic kitchen unit.
+
+
+
+ Please note, we do not accept any CV's from any recruitment agencies. If an agency sends us details of any candidates we shall feel free to contact those candidates and, as the case may be to employ, them without incurring any liability to the agency who sent us the candidates for fees or otherwise.

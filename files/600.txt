@@ -1,0 +1,24 @@
+
+
+  A cutting edge Audio company are looking for a C++ software developer. The company who use state of the art DSP techniques to solve problems for the TV and film industry in addition to the security and audio forensics are looking for a C++ software developer in order to help them continue to innovate. Using their state of the art algorithms they deploy across hardware and software platforms. 
+  
+ The C++ software developer would work in the Research and Development department to implement algorithms as code on a multitude of platforms. The majority of the work would be conducted with C++ but will also use C from time to time.
+  
+Requirements
+
+
+experience using C++
+ working knowledge of python
+ an understanding of mathematical notion
+
+
+Additional useful skills and experience may include:
+
+
+experience with embedded systems
+ experience with firmware
+ FPGA design
+ An interest in audio
+
+
+

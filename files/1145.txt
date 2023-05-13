@@ -1,0 +1,59 @@
+Job Description For 
+Applications – Software Engineer Trainee
+Reporting To: 
+PowerVision and Software EngineerArea of direct responsibility:Technical, software and application support on the Enovation Controls PowerView range of displays. Responsible for building custom display configurations to suit the customers applications via the Enovation Controls PowerVision software.
+Key Responsibilities:
+
+Work with the Engineering team to develop and sign off engineering designs and drawings before they are passed to manufacturing to ensure flawless manufacture.
+Fit and wire panels
+Working through system I/O requirements and matching to suitable display / I/O modules from the Enovation Controls product line
+Programming and operating push button type panels
+Traditional Mechanical Panel Design & Build
+PLC (Electronic) Based Panels Design, Build & Programming
+Work to deadlines to ensure dispatch dates are met
+Develop HMI software configurations for customers’ engine and machine control applications
+Testing work
+Fault finding and rectification
+
+Other Responsibilities:
+
+Ensure personal compliance with all Company Health and Safety requirements
+Ensure personal compliance of the Company’s Equal Opportunities and Dignity at Work policies
+Ensure personal compliance with the Company’s Bribery policy
+Be a role model of the Company Values
+
+It is a condition of this role that you make yourself available for and take full advantage of any training and development identified as either specific and directly related to the role or is developmental in any area.Experience and Competencies
+
+Electrical background
+Be able to read and interpret engineering drawings, bills of materials and project timing plans
+Experience with 2D CAD software, such as draftsight, Autocad etc.
+
+-
+
+Able to write test procedures and contribute to customer manuals for operational instructions
+Experience with PLC languages and environments, such as ladder logic or Codesys
+Experience with C or Javascript or a willingness to learn and develop
+UI/UX (User Interface and User experience) understanding and experience
+
+Job Types: Full-time, Permanent
+Salary: £18,000.00-£20,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Life insurance
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+West Bromwich, B70 0XB: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Diploma of Higher Education (preferred)
+
+Reference ID: AppandSoft

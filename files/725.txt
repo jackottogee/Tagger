@@ -1,0 +1,69 @@
+
+Software Engineer (UK) 
+
+
+Why Pizza Hut Digital & Technology?
+
+
+ We love pizza. We eat it a lot. There’s no doubt about that and we’re proud of it. But what makes us different is that it’s our people that drive the success of our business.
+ Pizza Hut Digital & Technology (PHD&T) is transforming the way Pizza Hut & franchises provide our digital capability. We want to make it easy to get the best pizza and digital is at the core for this. We are committed to building innovative digital solutions, providing our customers with an exceptional experience. From building a world-class platform and clean mobile experiences we are pushing the boundaries to ensure we are a source of innovation.
+
+
+ What you’ll do…
+
+
+ As a Software Engineer at PHD&T, you'll have the opportunity to be part of one of several exciting streams of work. Help build out a design system that caters to a world-wide audience and reduces the time to iterate on new features and ideas. You’ll play an integral part in the build of a new e-commerce platform using new technologies, platforms and partners like GraphQL, NestJS, React, React Native, Contentful & AWS. Design and present new initiatives, software and architecture & design patterns to your peers and get the support to your creations through to fruition. Engineering at PHD&T gives you the space, freedom and tools to grow as an individual whilst supporting you with a strong team ethos that cares about delivering on outcomes.
+
+ 
+Please note, we are looking for a variety of experience levels for this role. 
+
+
+Responsibilities:
+
+Work as a team member in one of our agile teams
+Work closely with a technology lead, a product lead and our partners/vendors
+Help analyse business problems and break down new features into manageable development tasks
+Deliver new features for our global websites with a high degree of independence
+Build new React components, API endpoints for node.js services or AWS infrastructure as code
+Write unit or end-to-end tests as appropriate to ensure your code will keep working as expected, help maintain conformance to code linting rules
+Help peer review code written by your teammates and work with others to improve our code quality together
+Help us support our platforms in production and troubleshoot any production issues
+
+
+
+ Who are we looking for?
+ We are looking for individuals who are confident across the whole stack of a modern web application. It'd be helpful, but not mandatory if you are well versed in:
+
+Have experience in JavaScript and Typescript (front-end and back-end)
+Experience with Node
+Experience with React
+Familiarity with SQL/NoSQL databases and event-driven architecture
+Experience with AWS (SQS, SNS, DynamoDB, ECS, CloudFront, Lambda, etc).
+Ability to read, write, and speak English fluently
+Experience with React Native
+Experience using Terraform with AWS
+Experience with DevOps methodologies and practices
+
+
+
+ What you’ll get from us:
+ At PHD&T you will be part of a multicultural and dynamic team. Where innovation, collaboration and Pizza is in our core.
+
+Highly competitive base salary
+Flexibility in how you work and where! Attending the office only when it matters and to engage and collaborate with colleagues
+Half day Fridays (1pm finish!)
+Generous maternity/paternity leave and shared parental leave
+Private healthcare and up to 11% matched pension plan
+25 days holiday increasing to 30 days with length of service, and your birthday off!
+
+
+5 additional days holiday (pre-determined) 
+International career opportunities across our group
+Company and performance related bonus 
+
+
+Pick ‘n’ Mix Benefits with flexible options including gym membership, health screening, dental plans and travel insurance
+
+
+
+ Don’t meet every single requirement? Studies have shown that some demographics are less likely to apply to jobs unless they meet every single qualification. At PHD&T, we are committed to building a diverse, inclusive and authentic workplace, so if you feel you are suited to this role but your experience doesn’t align perfectly with everything listed in the job description, we encourage you to apply anyway – you may be the perfect candidate for this or other roles we have available!

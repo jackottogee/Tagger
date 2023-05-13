@@ -1,0 +1,78 @@
+
+Overview
+ Entegral is seeking a motivated, adaptable, career-minded teammate who would like to utilise their skill set in a thriving agile-methodology environment. We offer competitive career advancement opportunities and promote a work-life balance. We’re in search of talented people who are inspired by big challenges, driven to learn and grow, and dedicated to making a meaningful difference.
+ ABOUT THE ROLE
+
+   You will be responsible for using your technical knowledge of professional concepts to solve business problems. We’re looking for talented individuals who can serve as subject matter experts in their area of focus and represent their departments on complex assignments. You’ll be responsible for evaluating elements of technology’s effectiveness through requirements gathering, testing, research and investigation, and offer recommendations for improvements that result in increased quality and effectiveness. You’ll listen to and evaluate customer needs to determine and provide high quality solutions that align with their expectations.
+ 
+
+
+
+
+ABOUT ENTEGRAL
+
+
+
+ Entegral is a SaaS business-to-business solution that enhances the customer experience from the moment after an accident to the completion of the claim. Entegral is an integrated software platform that enables communication and collaboration between tens of thousands of collision repair shops, insurance providers and other industry professionals around the world. Owned by Enterprise Holdings, Entegral complements the value of Enterprise’s acclaimed Automated Rental Management System (ARMS®) software by increasing efficiency throughout the claims process.
+ 
+
+
+ We are a global organization that strives to provide an inclusive environment where all employees can thrive. Our products reflect the diversity of our team and we work to ensure that our products meet the needs of 
+  all of our customers. At Entegral, we recognize the value of diverse perspectives in everything we do and strive to ensure employees of all backgrounds feel empowered to voice their ideas and bring their authentic selves to work. We achieve these priorities through inclusive programs, benefits, and initiatives that are integrated into the fabric of how we work every day. We refine and challenge our Agile mindset through various communities of practice, days of development, and innovation days.
+ 
+
+
+ Our culture values diversity, engagement, and discovery and we welcome you to join our team.
+ 
+
+
+ WHAT WE OFFER
+
+
+
+ We are a remote-first organization with remote and hybrid employees aligned to flexible teams from office locations in California, Missouri, Wisconsin and the United Kingdom.
+ 
+
+ Responsibilities
+
+ Participate in tactical initiatives such as designing, developing and reviewing code with the opportunity to be part of strategic visioning, introducing new technologies, design, improved metrics, and process improvements
+ Be part of the full application lifecycle (design, develop, test, deploy and maintain), innovating in each step
+ Designing APIs and working with other teams to build integrations
+ Develop full slices of the application from the UI to the data store
+ Share responsibility with your teammates for occasional after-hours on-call rotation for support of production level systems
+ Design, develop, execute, and maintain complex automated test code, scripts, data, and associated drivers per recognized SDLC methodology
+ Participate in and lead design and code reviews
+
+ Qualifications
+
+ QUALIFICATIONS
+
+
+ 2+ years of experience in C# / Dot Net with experience in web services
+ 3+ years of professional experience in application development at an enterprise level. (post-graduate)
+ 2+ years of experience with object-oriented programming language
+ Experience with XML / XSLT transformations
+ Experience in front-end technologies, such as: Angular or Nest.js
+ Experience including Node.js or SpringBoot
+ Experience creating applications in cloud-based and cloud native development environments (ex. Azure, AWS, Google, Docker, Kubernetes)
+ Experience creating and consuming API's or experience developing web services / Microservice architecture 
+Experience developing software in a SaaS environment using CI/CD and DevOps methodology
+ Automated test development and execution (for example, REST-assured, Selenium, etc)
+ Knowledgeable in standards and coding practices to enable high quality products
+ For flexible or full remote work from home positions, reliable high speed InterneT connection and dedicated work space are required
+ Please note that due to the nature of the role, successful applicants will require the ability to pass a security check which involves Financial Probity and Basic Criminality
+
+
+ Qualified candidates should also possess:
+
+
+ Demonstrated ability and examples of keeping current on technology trends
+ Good communication and collaboration skills
+ Experience with designing new methods and working with existing patterns in a previous role
+ Experience leading initiatives or teams from a technical perspective
+ Strong communication skills both written and verbal
+ Committed to continuous improvement by participating in educational opportunities; reading professional publications; maintaining personal networks; participating in professional organizations
+ Initiative, results-oriented drive and a solid work ethic requiring minimal direction
+ Resiliency in the face of changing priorities and requirements
+
+ We are diverse. We are equitable. We are inclusive. Entegral is promoting an inclusive and equitable company culture. We work to ensure that our products meet the needs of all of our customers. Our products reflect the diversity of our team. Please let us know of any accommodations you require in the recruitment process.

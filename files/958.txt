@@ -1,0 +1,39 @@
+
+
+C#
+React
+SQL
+
+ Reqiva are partnered with an award winning agency who are human understanding experts. They collaborate with businesses to ensure they understand their customers inside-out.
+ 
+ They are currently looking for an experienced developer to join their agile team, to help them expand the capabilities of their proprietary solutions and support the fulfilment of their business ambition.
+ 
+
+Skills and experience required for this role:
+
+
+Excellent knowledge of object-orientated design and the C# programming language Experience in designing and developing .NET applications
+Experience and expertise in writing front end applications using javascript libraries, and ideally React
+Solid SQL Server knowledge
+Hands on experience in maintaining Web-Hosting environment (Azure) and DevOps infrastructure.
+
+The technology they use:
+
+ Their applications are developed using the Microsoft technology stack; 
+  .Net Framework, C#, Visual studio, SQL Server and have a mix of technology; ASP.Net, MVC, .Net Core.
+ 
+
+A feel-good role you’ll love:
+
+ Their supportive, collaborative culture means they are stronger together
+  being free to experiment in a place which enables and welcomes insatiable curiosity turning insight into action, creating real impact for businesses
+ 
+
+If this sounds like the role for you then please 
+Apply Now!
+ 
+
+
+
+Please note this is a Hybrid role and candidates must be prepared to work in the office 2/3 times a week. Based just North of Watford, London
+

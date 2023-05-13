@@ -1,0 +1,43 @@
+Who are we looking for?
+We are looking for a hands-on Software Development Manager who would plan, direct, and coordinates all activities related to delivering software programs. You should be familiar with all the policies, procedures and technical issues related to software programming. The software development manager is the “go to” person when it comes to software developers. They are also in charge of managing the activities of the software development team.
+Who are we?
+We are a team of industry experts committed to empowering telcos to digitally transform their brands. Through our carefully designed software solutions, we enable our clients to create highly engaging customer experiences, digitalise their operations and accelerate business growth.
+Responsibilities
+
+Responsible for the overall development life cycle of our solutions and manage complex projects
+Work with product managers and the MD in developing a strategy and road map to provide compelling capabilities
+Work closely with backend, Mobile App and Web developers to adopt the best technical design and approach for product development
+Manage and lead systems and software security review alongside the system admin, identify risks, and design computer security strategy and engineer comprehensive cybersecurity architecture
+Identifies potential process improvement areas and suggests options and recommends approaches
+Instil best practices for software development and documentation, assure designs meet requirements, and deliver high-quality work on tight schedules
+Translate business requirements into technical solutions, recommend alternative technical and business approaches, and lead engineering efforts to meet aggressive timelines with optimal solutions
+Operational Excellence - monitoring & operation of production services
+Career management and development of direct reports
+
+Qualifications
+
+5+ years of Java development experience; 2+ years of experience in development team leadership
+Deep hands-on technical expertise in backend, mobile app and web-technologies
+Solid software engineering background including design patterns, workflows, data structures, best practices and system administration
+Software development experience in designing and building APIs and highly scalable applications
+Excellent verbal and written communication skills
+Solid critical-thinking and decision-making skills
+Expertise in programming and debugging
+Excellent software project management skills
+
+Job Type: Full-time
+Salary: £60,000.00-£70,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work Location: Hybrid remote in London
+Reference ID: Software Development ManagerFlexitime

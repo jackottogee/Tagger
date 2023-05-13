@@ -1,0 +1,28 @@
+
+Our team is growing and we require a Software Developer to join our established STORM Development team to support the Police with their Emergency Services Command and Control - STORM system. The STORM Application is implemented as a VB.Net multi-layered architecture with a control room client written in WPF. Development can include a mixture of software programs, middleware components, applications, websites, user interfaces, and interfaces integrating with third-party applications.
+ What you'll be doing:
+
+ Designing, developing and testing software to deliver the required business functionality and build appropriate documentation for the software
+ Providing developer support to customer-facing STORM consultants, including problem analysis and defect fixing
+ Contribute to design reviews and discussions, peer code reviews, and knowledge transfer workshops
+ Participate in workshops with technical and business partners within Sopra Steria
+ Perform technical testing of interfaces to third-party applications or emulators
+
+ What you’ll bring:
+
+ Software development: design, code, test
+ Problem analysis
+ Microsoft .Net 4.6, VB.Net, Visual Studio
+ WPF
+ SQL and Relational Databases
+ XML. Web Services
+
+ It would be great if you had:
+
+ Government sector knowledge 
+
+If you are interested in this role but not sure if your skills and experience are exactly what we’re looking for, please do apply, we’d love to hear from you!
+ Employment Type: Permanent  Location: Remote  Security Clearance Level: NPPV3 Internal Recruiter: Rebecca  Salary: £45-50k Benefits: 25 days annual leave with the choice to buy additional days, life assurance, pension, and generous flexible benefits fund 
+Although this role is advertised as full-time, we support many ways of working and can offer a range of flexible working arrangements. So, if you’re interested and need to work flexibly, we encourage you to apply and talk to us about what might be possible. 
+Loved reading about this job and want to know more about us?
+ Our Aerospace, Defence and Security business designs, develops and deploys digital solutions that bring clients enduring business value across the UK’s Public and Private sectors. We foster a culture in which employees feel valued and supported, delivering exceptional rates of customer satisfaction in the UK’s most complex safety- and security-critical markets.

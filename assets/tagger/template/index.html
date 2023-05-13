@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document Tagger</title>
+    <link rel="stylesheet" href='/static/main.css'/>
+</head>
+<body>
+    <h1>Tagger</h1>
+    <div class="job-box">
+        <p class="job-details">{{job}}</p>
+    </div>
+    <form method="post">
+        <textarea class="submit-box" name="submit-box">{{request.form["submit-box"]}}</textarea>
+        <div style="text-align: center;">
+            <button type="submit" name="submit-button" value="add">Add</button>
+        </div>
+    </form>
+</body>
+</html>

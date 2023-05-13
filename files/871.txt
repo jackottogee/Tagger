@@ -1,0 +1,124 @@
+
+Description
+
+ As an iOS Developer, you will have the opportunity to build solutions that engage millions of sports fans worldwide. Working with a wide range of data sources and native technologies, building custom experiences for sports fans. You will progress your own skills and expertise along the way, sharing and learning new technologies and techniques across the team. At Pulselive, we pride ourselves in providing a collaborative environment that ensures we produce leading products across web and native applications.
+ 
+
+ Key Responsibilities
+
+ Responsibilities
+
+
+Producing iOS code to a high standard that not only functions correctly but can be understood and extended by other members of the team
+Showing good attention to detail in the final product, taking care and pride in what is produced
+Communicating clearly both technically and creatively, to ensure the best possible solutions are built
+Tracking and communicating progress within a project across the project team, especially the Project/Product Manager
+Managing test releases for internal and external use
+Developing own skills to get as many aspects of iOS development to an expert level, as possible
+Sharing of ideas and techniques across the team, contributing to and learning from the team as a whole
+Helping to prioritise tasks
+Supporting the iOS lead and squad when estimating the effort required to complete a task
+Participating in code reviews
+
+
+ Skills Knowledge and Expertise
+
+ Required Skills and Experience
+
+
+Problem solving
+Willingness and ability to learn and adapt to new approaches
+Swift
+Xcode
+UIKit
+We service integration (REST, JSON)
+
+
+Competent with
+
+
+Task/ticket management tools such as JIRA
+Persistent storage solutions such as Core Data
+GIT usage and code management
+Integrating with and using third party libraries/applications (e.g. video providers)
+Documenting iOS solutions and code
+
+
+Desirable skills and knowledge
+
+
+Experience working within a development team
+Unit Tests and TDD
+SwiftUI
+Combine and/or RxSwift
+Working in large existing code bases
+Creating new well architected projects
+Full iOS development lifecycle from project creation to release signing
+Objective C
+HTML, CSS, Javascript
+
+
+ Benefits
+
+ At Pulselive we truly value our team and have developed our approach to ensure you are not only rewarded for your contribution but have access to unique benefits along with a positive approach to wellness. We want to ensure that your career, health and well-being are of the utmost importance at all times.
+ 
+
+
+ Benefits & Wellness
+
+
+Flexible & Remote Working
+Discretionary annual bonus scheme
+Buy and Sell Annual Leave
+Pension Scheme
+Service reward scheme
+Sporting Events and Tickets
+Sports Ticket Lottery
+Health & Wellness Activities
+Charity volunteer days
+Complimentary Headspace Access
+Annual Wellness Contribution
+Mobile Phone Contribution
+Sony Discounts
+Vue Cinema Discount Tickets
+
+
+
+ About Pulselive
+
+   At Pulselive we create experiences that sports fans can't live without. We exist to unlock the power of sport through technology by uniting communities, entertaining, and inspiring people around the world.
+  
+ Our work is dedicated to one of the most socially impactful activities on the planet - sport. As a technology company, we strive to provide equal access and enjoyment to every new and existing sports fan, the world over. We’re a team of highly talented and engaged creatives, engineers, product managers and researchers that collaborate to make this happen. This empowers us conceptualising, developing and managing digital platforms, reaching millions of sports fans every day; whether that’s the official Cricket World Cup website or the Premier League’s mobile apps.
+  
+ Our team is over 120 strong, predominantly in the UK, with a number of offices including Australia, Spain and the United States.
+ 
+
+
+ Our Commitment to you
+
+
+   Securing and investing in the best talent is one of our Key Principles; it’s integral we have a diverse team of individuals who feel challenged and valued. While you don’t have to be a sports fan yourself, you’ll need to embrace the power of teamwork.
+ 
+
+
+ We take professional development seriously and ensure every person at Pulselive receives a range of learning opportunities. We focus on your long term career goals, rather than your existing responsibilities.
+ 
+
+
+ We are firm believers in flexibility, both location and when you work. We trust each other to be responsible, ensuring the work gets done but balanced around our own lives.
+ 
+
+
+Our response to COVID 19
+ During this time Team Pulselive are working in a hybrid manner to deliver sports experiences that fans can’t live without. We are currently working through a blend of in person interactions (typically two days per week) and remote activity.
+  
+
+Our recruitment process during COVID 19
+ We are continuing to hire and onboard fantastic people into our teams during the COVID pandemic and have adapted our processes to ensure we can deliver a virtual recruitment process that keeps you and our teams safe. During our recruitment process, you can expect to interact with us via one-way video interview, virtual meetings and telephone. The Talent Acquisition and Hiring Teams are here to support you through your recruitment journey, so please feel free to contact us if you require any assistance.
+  
+
+Onboarding during COVID 19
+
+
+  Our new starters are joining the business in person and will move through a blend of in office and remote onboarding. We want to ensure you feel like part of our team and are set up for success from day one. From onboarding to team interactions and company all hands, we will ensure you have everything you need to succeed as your onboard with Pulselive.
+ 

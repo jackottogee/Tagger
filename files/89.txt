@@ -1,0 +1,38 @@
+
+
+  An Associate Software Engineer fulfills the following responsibilities with moderate to significant guidance of more senior team members. 
+  
+Interpret operational and up-time requirements for software systens with the assistance of Business Analysts and more senior engineers. 
+Implement and test features based on the requirements and existing technical designs
+ Comply with coding standards for these tests
+ Collaborate with software development engineers to fix run-time problems.
+ Investigate problems reported by users. 
+
+
+
+
+Minimum Bachelor’s degree in Computer Science or related major from accredited institutions, Masters degree is a plus. 
+Understands modular design and development. 
+Familiar with relational SQL databases. 
+Good verbal and written communication skills. 
+Works well in a fast-paced team environment; able to work under pressure when there are operational failures.
+ Has strong analytical and problem-solving skills. 
+Experienced in at least two of the following Programming Languages: Python, C#, C++, JavaScript, HTML5, XSLT.
+ Experienced in Development Platforms: Microsoft Windows, Linux. 
+Experienced with the cloud provides AWS and GCP
+
+
+
+   Data Solutions (Data as a Service)
+   The Data Solutions division is the commercial data business of Moody’s Analytics, bringing together a vast catalogue of data to help business decision-makers assess risks and opportunities. We are best known for Orbis, the world’s most comprehensive database of public and private companies. We are also the definitive source of ratings-related data for companies and securities that have been rated by Moody’s Investors Service. We strive to deliver convenience and insight to our customers by eliminating the hassle of sourcing, preparing and accessing data, adding value when decisions need to be made. Any analytical activity depends on reliable and accessible data, and we are proud to be a mission-critical information resource for decision-makers around the world.
+ 
+
+   Moody’s is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, disability, protected veteran status, sexual orientation, gender expression, gender identity or any other characteristic protected by law.
+ 
+
+   Moody’s is a developmental culture where we value candidates who are willing to grow. So, if you are excited about this opportunity but don’t meet every single requirement, please apply! You may be a perfect fit for this role or other open roles. 
+  
+ Moody's is a global integrated risk assessment firm that empowers organizations to make better decisions.
+  
+ At Moody’s, we’re taking action. We’re hiring diverse talent and providing underrepresented groups with equitable opportunities in their careers. We’re educating, empowering and elevating our people, and creating a workplace where each person can be their true selves, reach their full potential and thrive on every level. Learn more about our DE&I initiatives, employee development programs and view our annual DE&I Report at moodys.com/diversity
+ 

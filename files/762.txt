@@ -1,0 +1,16 @@
+
+Role: Software Engineer Location: UK (Remote)
+ The role We are looking for an experienced Software Engineer who is specialised in MS-Access, SQL-Server relational database and MS-Office solutions. He/she will need to have extensive experience in the full software development lifecycle, from analysis, prototyping, design, testing through to implementation, maintenance and support.
+ Required skills
+
+Specialises in MS-Access, SQL-Server relational database and MS-Office solutions.
+2+ years of local authority experience.
+Expert knowledge of MS-Access (version 2 through 2013), VBA, DAO, ADO, GUI, QBE (Query) & SQL language, Office automation (Word, Excel, Outlook).
+SQL Server Integration Services (SSIS) using VB, C# scripting languages.
+PowerBI. DAX programming language.
+Extensive experience in DEC PDP Basic, DEC VAX Basic programming languages.
+Extensive experience of Windows User Interface Design concepts.
+
+
+
+ Please send your cv to jobs@ultimech.com

@@ -1,0 +1,62 @@
+Software Engineer 
+12-month contract 
+Remote working from UK 
+Company: 
+Since 1996, our client designs, develops, and sells products and services for high-performance networks to enable customers to build scalable, reliable, secure, and cost-effective networks for their businesses, while achieving agility and improved operating efficiency through automation.
+Their high-performance network and service offerings include routing, switching, Wi-Fi, network security, artificial intelligence ("AI") or AI-enabled enterprise networking operations ("AIOps"), and software-defined networking ("SDN") technologies.
+In addition to our products, they offer their customers a variety of services, including maintenance and support, professional services, Software-as-a-Service ("SaaS"), and education and training programs. Within excess of $4.5bn in annual revenues, they conduct business in more than 150 countries around the world. The most important facets of life are technology, training, development, and fun.
+Role: 
+As the Software Engineer, you will work in a consultative manner to deliver automation solutions to customers.
+Responsibilities: 
+
+Work in a consultative manner to deliver Automation solutions to Customers.
+Follow the Professional Services engagement and delivery processes, working closely with the Project Manager.
+Working with customers across different zones.
+Ability to work independently and remotely with limited supervision.
+Excellent written & verbal communication skills.
+Ability to handle multiple tasks, prioritize and meet deadlines.
+Team Player.
+
+Mandatory skills: 
+
+Python development
+Parsing data structures in XML, JSON ideally with XPATH or JSONPATH, and YAML.
+
+
+Understanding of REST API concepts (GET, POST, PUT, DELETE etc.)
+Network Telemetry
+either: openconfig cisco mdt netconf
+
+
+syslog
+Docker
+Kubernetes
+XML, YAML and JSON
+selenium UI automation
+
+Nice to have:
+
+Robot Framework
+Experience in Agile development.
+Familiarity with concepts of BDD.
+Kafka
+Cisco IOS
+OpenConfig
+GNMI
+Network Experience and knowledge of protocols e.g. BGP
+
+Job Type: Fixed term contract
+Salary: £300.00-£600.00 per day
+Benefits:
+
+Canteen
+Company events
+Cycle to work scheme
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote

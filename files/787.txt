@@ -1,0 +1,19 @@
+
+Autonomy, Mastery and Purpose. Our mission is to deliver breakthrough products that enable and empower those that own and operate the supply chains of the world. Our vision and mission drive everything that we do and are at the core of our strategy. Our people sit at the centre of all of this. 
+WiseTech Global provides the world’s most comprehensive solution for companies operating in the increasingly complex world of logistics. It has never been a more important time for organisations to have a resilient supply chain. Our industry-leading flagship product, CargoWise, is centralising logistics operations on a single global database, delivering business continuity, scalability and security.
+At the very core of this is our CargoWise Native Customs functionality. This platform accounts for over 45% of global manufactured trade flows, a number that is growing year on year. The work you do in this team has a genuine, meaningful real world impact. So if you are an ambitious engineer, who wants to solve deeply complex problems with others of a similar mindset, read on.
+We trust our developers to get the job done with minimal distractions and micromanagement. We empower our people to grow and develop continuously throughout their career and view everyone as potential people leaders. Problem solving skills, curiosity and passion are the key skills we look for in our Engineers, but for your own interest the technology you can expect to work on will be:
+
+Working across MS technologies such as C#, SQL Server and ASP.Net
+Strong approach to quality, using Test Driven Development
+Experience with CI/CD
+Understanding of design patterns on principles of design
+
+If you have what it takes to connect the unconnected and tie together the many moving parts of the world’s supply chains - then apply. Link your GitHub or your Stack Overflow account. Stand out in your application, and we will help you stand out in your career. 
+Remote or Hybrid? It's up to you.
+This role can be done remotely or as part of a hybrid arrangement. It's up to you. We have an office in Milton Keynes or if you prefer to work from home full time, we can cater for that too.
+About WiseTech Global
+Having listed on the ASX in 2016, WiseTech Global is now an ASX 50, AU$10 billion+ company that is serious about expansion and technical innovation. Through a combination of organic growth and targeted acquisitions, our global employee head count has increased rapidly, and we’re far from slowing down.
+We are known for our vibrant, dynamic workplace where personal and professional fulfilment and company success go hand in hand. Working at WiseTech provides you with the ability to work in an industry leading culture with high levels of autonomy and ownership.
+Before you Apply
+From time to time, WiseTech Global may use an external service provider to assess applications on our behalf. Accordingly, by applying for this role and providing your personal information to WiseTech Global, you consent to WiseTech Global providing this information to our external service providers who are required to treat such information with strict confidentiality in line with privacy and data protection laws and regulations.

@@ -1,0 +1,45 @@
+
+At Next DLP, we started with the people. A small core group of engineers got together to find an industry where we could merge innovation, passion, and simplicity to help people reach their greatest potential. Their attention was drawn towards the world of security—indispensable to modern work, yet often overlooked and taken for granted. Organisations needed the tools to understand if something was happening in real-time to keep their people safe and their data protected.
+ We started Next DLP in 2016. Six years later, we’re still creating a better, smarter way to deliver security. We protect people and data anywhere, and innovative companies worldwide use Next DLP for human-centric data loss protection.
+
+  About this position 
+ We are looking for bright and enthusiastic junior software engineers to join our R&D team in White City (West London) as we embark on our next chapter as a data loss cyber security provider. You will work in our Cyber R&D team and use your knowledge of systems (Kernel, OS) level development to develop our Agent architecture. Our Agent is responsible as our cyber client, for the extraction and management of our customer's data.
+
+ About you
+ You’re not expected to have all of the following skills, but they will be useful in performing your job.
+ We are looking for someone with:
+
+ Systems-level programming across Windows, Linux or Mac platforms
+Kernel layer development
+Experience in networking.
+Experience of software development in any language.
+Outstanding technical ability. 
+Proficiency in English.
+
+ At Next DLP we default to programming using Go, but also use a wide variety of different languages and frameworks. It's not expected that you would be familiar with Go (or any of the other languages we use) but you should be enthusiastic and willing to learn new things.
+ Experience in any of the following would be an advantage:
+
+ Software development in Go, C, C++, Java, C# or Swift.
+Kernel and device driver development for Windows, Linux, or Mac.
+Systems Analytics; Dtrace, eBPF
+Observability technologies, logging and metrics.
+Security principles including PKI, certificates and cryptography.
+Knowledge of network security (e.g. SSL/TLS) and other crypto concepts.
+Appreciation of test-driven development and continuous integration/deployment
+
+ You will have achieved excellent academic results at a recognised university, are able to demonstrate outstanding technical skills, and are proficient in English. It would also be advantageous if you are able to provide evidence of any commercial experience in a comparable development role.
+ We are looking for a team player who thinks holistically, enjoys solving complex problems and thrives on working autonomously, whilst not being afraid to ask for input and learn from your teammates if you’re stuck.
+ Does this sound like you? We'd love you to apply, even if you don't meet 100% of the requirements and qualifications.
+
+ What we offer
+ Attractive salary with possibility for stock options. We believe that people do their best work when they are valued and rewarded.
+ Flexible working hours.
+ A remote-friendly organisation, with colleagues working remotely either part or full-time.
+ A startup with solid financial backing and long-term horizon.
+ We offer regular performance and development reviews, and team-specific training to help support our employees.
+ At least 12 weeks fully paid maternity and paternity leave, more depending on region.
+ Healthcare in the UK & US. Our employees' well-being and health are incredibly important to us at Next DLP.
+ Friendly, open and supportive culture
+
+ Next DLP is dedicated to encouraging and sustaining a culture of inclusion. We know that we are able to develop and learn better with a diverse group of people. The experiences, ideas, knowledge, self-expression and talent of our employees form our culture and are instrumental in our success.
+ We are an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to and will not be discriminated against based on age, race, gender, colour, religion, national origin, sexual orientation, gender identity, disability or any other protected category.

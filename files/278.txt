@@ -1,0 +1,103 @@
+
+
+
+Summary
+
+
+    We are looking for a number of Software Developers to support space industry ground segment system project work.
+  
+
+   Telespazio UK is part of a company containing over 2500 people working in the growing field of Space Systems and operations and Geo-Information. Telespazio is majority owned by Leonardo, one of the UK’s largest defence, aerospace and security companies. Telespazio is looking to fill a diverse and critical role to support our broad Space systems architecture work covering missions across UK and European, in civil and defence.
+  
+
+
+
+ Responsibilities
+
+
+   Software Developer
+  
+
+Design and Development of software solutions for ground applications in the space domain, potentially including; 
+    
+Web applications for data visualisation and exploitation
+Monitoring and Control Segment Systems
+Mission Systems
+User Segment Systems
+Earth Observation Data Management Systems
+
+Plan and execute Integration and Test campaigns
+Production of documents (technical and also development plans)
+Preparation and participation in technical reviews
+
+
+
+
+
+Qualifications & Experience
+
+
+University Bachelor’s Degree in Software Engineering or related discipline with software modules.
+3-10 years commercial experience of software development, preferably in the space industry but not essential
+
+
+
+
+
+Essential Skills
+
+
+Requirements analysis
+Software system development using modern architectures
+Configuration management (Git source code control)
+Agile software development methodology
+Linux and/or Windows development
+Resource Oriented Architecture Development (REST)
+Continuous integration/deployment environments (e.g. Jenkins, Buildkite)
+Virtualisation / cloud based computing(e.g. AWS, Azure)
+Containers and Orchestration (e.g. Docker/Kubernetes/ArgoCD)
+DevOps
+
+
+
+
+
+Desirable Skills
+
+
+Knowledge of Ground Segment Systems
+Machine learning and AI
+Knowledge of OGC Standards (e.g. WPS, WMS, WFS, WCS)
+Knowledge of Linked Data (e.g. RDF, SPARQL)
+User Identification, Authentication and Authorisation (e.g. SAML, OAUTH, OIDC)
+Big Data Processing & Frameworks (e.g. Hadoop)
+Big Data Databases (e.g. HDFS, other non-SQL)
+Scripting (e.g. shell, perl, python)
+
+
+
+
+
+Qualities
+
+
+Self-starter
+Strong written and oral communication
+Team player, open and keen to contribute
+Conscientious, hard working
+Attention to detail
+
+Benefits
+
+
+
+   Competitive Package covering salary, generous holiday allowance, training plan and more
+  
+
+Security
+
+
+
+   In line with Asylum & Immigration Legislation, all applicants must be eligible to live and work in the EU, or UK (as applicable). Documented evidence of eligibility will be required from candidates as part of the recruitment process. Furthermore, in view of the nature of the work the company is in, all potential employees will undergo stringent reference and identity checks.
+  
+

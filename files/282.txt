@@ -1,0 +1,55 @@
+Main responsibilities:
+
+At least 2 to 3 years Software Testing experience.
+Understand and interpret business, functional and technical requirements
+Have input into how solutions are developed and delivered using knowledge and expertise to help deliver the best possible outcome for the customer.
+Meticulous attention to detail and confidence with writing and creating test cases.
+Full understanding of the testing lifecycle & methodologies.
+Carry out testing across a wide range of processes and systems - including UI, API, back office (workflow) processes, 3rd party systems and integrations between all of these systems including end to end testing.
+Confident with API Testing using Postman.
+Execute test scripts and record results using software testing tools (JIRA/XRAY).
+Raising bugs in a timely manner with sufficient detail to be fixed/reproduced.
+Carry out exploratory testing within an Agile development environment.
+Excellent communication skills and ability to communicate effectively with developers.
+
+IT IS NICE TO HAVE…
+
+ISTQB Foundation Qualification or a degree in a related field.
+Automation Testing experience/ knowledge is very beneficial.
+Take an automation-first approach to test execution where possible.
+Knowledge of Cypress, Gherkin, Page Object Model, PactumJS, TypeScript
+Technical understanding of processes under test and relevant related processes and the ability to test components.
+Experience in CI / CD using tools such as Jenkins, Git, AWS CodePipeline.
+Experience in create and design automated test scripts using the BDD methodology.
+
+A FEW GREAT COMPANY BENEFITS…
+
+Annual bonus.
+33 days holiday including bank holidays.
+A day off for your Birthday.
+Regular social events and a great company culture.
+Onsite restaurant and Free parking.
+
+Job Type: Full-time
+Salary: From £24,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Flexitime
+Sick pay
+UK visa sponsorship
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+Yearly bonus
+
+Work Location: Remote
+Reference ID: I-Link-IndeedQA-001Expected start date: 15/05/2023Flexitime

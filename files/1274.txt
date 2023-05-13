@@ -1,0 +1,39 @@
+
+Sword propels organisations on their data driven journey; where decisions are based on facts, metrics are used to motivate, data is openly shared, and trust and transparency are prioritised above all else.
+Having the right people is essential for us to deliver the exceptional levels of service that our clients deserve. Our skilled team are experts in their field with market-leading experience and accreditation levels.
+Sword partner with private and public sector organisations across Finance, Manufacturing, Media, Energy and Government who count on the Sword team to deliver innovative Information Technology and Information Management solutions and services.
+In response to our continued high-growth trajectory, we are looking for a Full Stack Engineer to join our team. 
+Ideally we want a Full stack developer with a background in custom application development, system integrations, data and analytics.
+ This role can be based remotely, UK. 
+Requirements
+
+HTML / CSS 
+JavaScript (OpenSource library e.g. React JS / Angular 2)
+ASP.NET
+C#
+Git 
+Azure Services (Azure Functions, Logic Apps, API Management)
+
+Strengths:
+
+Git
+CI/CD
+Ability to write custom API, Connectors, WebApps
+Strong UX design ability (Good Front End Design)
+Database (SQL)
+DevSecOps culture
+SOLID development standards
+Test Driven Development 
+Industry Standard Design Patterns
+
+Desirable Skills:
+
+Power BI & Power Platform
+NoSQL
+Agile Scrum
+React Native - Mobile
+
+Benefits
+ Sword offers career paths in rapidly evolving technology spaces including Data & AI, Modern Managed Services, Information Management, Digital Services, Content Services, and Modern Workplace Transformation.
+ Our team culture is based on building inclusive teams, investing in training and development, the quality of our interactions with our customers and our position as an employer of choice in the areas in which we operate.
+ All Sword Group colleagues are supported and encouraged to develop their career with Sword through our personal training and development plan alongside a competitive salary, pension, private healthcare, and employee assistance programme.

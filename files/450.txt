@@ -1,0 +1,47 @@
+
+
+Sophos is a worldwide leader in next-generation cybersecurity, protecting more than 500,000 organizations and millions of consumers in more than 150 countries from today’s most advanced cyberthreats. Powered by threat intelligence, AI and machine learning from SophosLabs and SophosAI, Sophos delivers a broad portfolio of advanced products and services to secure users, networks and endpoints against ransomware, malware, exploits, phishing and the wide range of other cyberattacks. Sophos provides a single integrated cloud-based management console, Sophos Central – the centerpiece of an adaptive cybersecurity ecosystem that features a centralized data lake that leverages a rich set of open APIs available to customers, partners, developers, and other cybersecurity vendors. Sophos sells its products and services through reseller partners and managed service providers (MSPs) worldwide. Sophos has major hubs around the globe. More information is available at www.sophos.com
+
+ Role Summary
+ A Senior Engineer is required to integrate data from a planned backlog of third-party systems into a central processing pipeline and create product feature enhancements. Customers need the ability to supply credentials to control access into these services, changes will need to be made across a number of key points in the architecture to support this, including; UI, ingestion and data processing. Engineers at this level provide leadership and are able to collaborate as part of a team for the development of complex systems; including requirements analysis, concept development and design, implementation, and testing, demonstrating flexibility of role as required. They help troubleshoot, debug, maintain and improve existing software.
+
+
+What You Will Do:-
+
+Develop integrations for our Security Operations Product team to use for threat/detection/case workflow.
+ Develop solutions for products used by Security Operations customers.
+ Partner effectively with the internal and external team members to implement requirements.
+ Produce functionality (develop and test) to deliver against project timelines, quality and requirements.
+ Research, design and prototype new functionality that forms part of a larger solution, in line with team objectives.
+ Support and guide junior engineers in product development and career progression.
+
+What You Will Bring:-
+
+5-8 years of development experience, preferably significant expertise in Java and JavaScript/TypeScript
+ Experience of SQL and NoSQL databases. Highly desirable ElasticSearch
+ Comprehensive experience of agile development methodologies preferably Scrum or Kanban
+ Excellent verbal and written communication skills
+ Strong problem solving and lateral thinking
+ Aptitude at independent research, prototyping and design
+
+
+#B1
+ #LI-Remote
+
+ What's Great About Sophos?
+
+Our people – we innovate and create, all of which are accompanied by a great sense of fun and team spirit
+Employee-led diversity and inclusion networks that build community and provide education and advocacy
+Annual charity and fundraising initiatives and volunteer days for employees to support local communities
+Global employee sustainability initiatives to reduce our environmental footprint
+Global fitness and trivia competitions to keep our bodies and minds sharp
+Global wellbeing days for employees to relax and recharge
+Monthly wellbeing webinars and training to support employee health and wellbeing
+
+
+ Our Commitment To You
+ We’re proud of the diverse and inclusive environment we have at Sophos, and we’re committed to ensuring equality of opportunity. We believe that diversity, combined with excellence, builds a better Sophos, so we encourage applicants that can contribute to the diversity of our team. All applicants will be treated in a fair and equal manner and in accordance with the law regardless of gender, sex, gender reassignment, marital status, race, religion or belief, color, age, military veteran status, disability, pregnancy, maternity or sexual orientation. We want to give you every opportunity to show us your best self, so if there are any adjustments we could make to the recruitment and selection process to support you, please let us know.
+
+ Data Protection
+ If you choose to explore an opportunity, and subsequently share your CV or other personal details with Sophos, these details will be held by Sophos for 12 months in accordance with our Privacy Policy and used by our recruitment team to contact you regarding this or other relevant opportunities at Sophos. If you would like Sophos to delete or update your details at any time, please follow the steps set out in the Privacy Policy describing your individual rights. If you have any questions about Sophos’ data protection practices, please contact dataprotection@sophos.com.
+

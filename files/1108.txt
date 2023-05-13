@@ -1,0 +1,58 @@
+All applicants must have a right to work in the UK and be able to provide documentation at the interview stage.
+One Call Insurance Services are looking to recruit an experienced PHP Developer to work closely with our well-established development team of 12 members and 2 managers. There has been no better time to join the team as we are currently undertaking an exciting period of system rebuild and improvements to pave the way for a better tomorrow!
+What tech stack is required?
+v PHP
+v Laravel
+v Javascript
+What do we offer?
+Salary: Dependent on Experience and ability
+Hours: Full Time- Permanent – 37.5 hours per week plus opportunities for paid overtime. With opportunity for flexi-time structure.
+Benefits…
+v Annual leave starts at 20 days (increasing up to 25 days) plus bank holidays
+v Free on-site parking
+v Subsidised staff Canteen
+v Additional benefits based on time served such as free breakdown cover, health insurance, travel insurance and even car allowance.
+v Fantastic Career Progression Opportunities
+v Paid for Online training course
+v Workplace Pension contributions
+v Monthly Lottery Scheme (Jackpot up to £1500)
+v Star and Team of the Month nominations
+v Fun and inclusive Charity events throughout the year
+v Friendly Office Dog
+The cherry on top…
+Here at One Call Insurance we believe the key to quality work is quality of life; mind, body and soul. Therefore we offer Free access to our on-site gym including 1-2-1 training sessions with fully qualified Personal Trainers. We also offer discounted access to onsite Sport Massage Therapist, and Physiotherapist.
+What will I be doing?
+v Building new applications at the forefront of the business using PHP 7, MySQL and more, as well as integrating with APIs.
+v Suggesting new functionality and methods to improve the overall customer and staff journey
+v Maintaining existing codebase, including troubleshooting, bug fixing and adding new features
+v Mentoring and encouraging junior members of staff
+What do we need from you?
+v To maintain a professional manner
+v Display strong communication skills
+v Have the ability to work to targets/deadlines
+v Understand the principles of Unit Testing
+v Have experience with RESTful / SOAP API creation
+v Have experience of working with Vagrant or Docker
+v Have expertise with PHP 7.x
+v Have expertise with Vanilla JavaScript
+v Have expertise with PHP Framework (preferably Laravel 5.x – 6.x)
+v Have experience in a JavaScript Framework Angular, React or preferably Vue
+v Have a solid understanding of web application development, from user interface to relational database structures
+v Display strong organisational skills to manage multiple projects and deadlines simultaneously
+v Proficient understanding of code versioning tools, such as Git.
+Would you like to hear more?
+Please do not hesitate to get in contact with Saffron Hunter on 01302 558 616
+Job Types: Full-time, Permanent
+Salary: £35,000.00-£45,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Employee discount
+Gym membership
+On-site parking
+Wellness programme
+
+Work Location: In person
+Reference ID: INDONEC

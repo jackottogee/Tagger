@@ -1,0 +1,43 @@
+Who we are 
+ADARMA began life in 2009, with a fierce determination to make cyber resilience a reality for every organisation, every day. This has guided us as we've adapted and grown to become one of the UK's leading threat specialists. Our journey is remarkable. But what's ahead is even more inspiring. Together, we're growing and transforming like never before. We're partnering with even more customers, and creating more innovative and resilient solutions. And we're taking our thinking and our whole sector further, every single day. 
+
+ What you’ll do 
+Implement software solutions based on requirements provided by senior team members. Requirements are well defined but leaving room for personal innovation and initiative. You will work primarily on our existing stacks, written in Python, TypeScript, and Golang; and occasionally implementing new solutions. You will be responsible for testing and owning anything you develop – we all own what we build! 
+
+ Some of the technologies Adarma uses (experience with all of these is not required): 
+
+
+Golang, TypeScript, Python
+AWS – Lambda, ECS, DynamoDB, Cloudwatch
+Terraform
+PostgreSQL
+Svelte
+Splunk
+ How you’ll grow 
+You can progress into senior role within the team as your skills develop and grow. With each role you get more responsibilities including architecture, requirement gathering, team leadership and product ownership. Alternatively, you may wish to move laterally into a Security Engineer position or a role that involves more interaction with customers, such as a Security Consultant 
+
+ What you’ll bring 
+
+
+Your coding skills – with strong understanding of at least one compiled or interpreted language (Python, Typescript, and Golang are all desirable, but not required)
+Passion for programming & solving problems, demonstrated with a proactive mentality
+Own the development lifecycle from idea and implementation to release and support - we own what we build!
+Familiarity with software development methodologies (e.g. working understanding of Agile is a plus!)
+ What we offer 
+
+
+Competitive compensation and benefits package including:
+
+
+Private health care, health cash plan, 24/7 employee assistance programme and mental wellbeing platform / application access
+Hybrid working
+Ongoing training and development opportunities with industry recognised accreditations and qualifications
+Paid time off for training days and voluntary work
+An extra day of leave to celebrate your birthday
+Company pension
+We encourage autonomy and entrepreneurship enabling our employees to influence the strategy and direction of the business
+ Adarma is striving to promote an inclusive company culture where everyone is empowered to achieve more. Having a diverse workforce that includes people with disabilities and unique backgrounds is paramount to achieving this. We believe in equal opportunities for everyone and fairness for all our employees and potential candidates. We are working to ensure that we provide our candidates with an environment in which they can thrive and reach their full potential. We are deeply committed to driving diversity and inclusion across our entire organisation and are continually working to ensure that our recruitment process is both fair and accessible to everyone. 
+
+ If you are unable to apply for a job, access our careers page, or have concerns about the recruitment process, please do not hesitate to contact our People Team (careers@adarma.com) and we will be happy to help you. 
+
+ #IND1

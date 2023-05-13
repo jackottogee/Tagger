@@ -1,0 +1,36 @@
+
+Operate
+ Be it support with regulation, risk or compliance, Operate delivers. Human-led and tech-powered, it is the backbone of PwC’s unique approach to operational delivery - Execution Managed Services. Harnessing the power of tech and data, we work with some of the most recognisable organisations worldwide, wherever they need us to be. We deliver sustained outcomes through our managed solutions, as well as transforming and running complex operational processes that often create challenges or hinder client progress. Underpinning all of this is our commitment to ensuring our people are equipped with tomorrow's skills to drive success for our clients today.
+ About the team 
+
+Operate Digital is the central function that creates and runs technology. We also transform the way our clients use technology in delivering assets to our clients across a wide range of business processes. Working with industry leading, alliance partners across architecture, development, and multiple other technologies, we interact with all technology platforms and provide tangible technology delivery at scale.We are building a suite of connected and intelligent capabilities, adopting new and emerging technologies, and using the latest Agile, Cloud and DevOps approaches to maximise our effectiveness along with client value from public cloud offerings
+
+ Skills and experience 
+
+
+Experience of debugging, troubleshooting and resolve complex production issues across services and levels of the stack
+ Critical thinking around: systems, edge cases, failure modes, behaviours, specific implementations
+ Experienced of technology lifecycle management & operational resilience
+ Implementation and execution of technical operational processes
+ Improving & using monitoring tools
+ Powershell, YAML, Automation scripting, infrastructure automation, linux, windows server, configuration management
+ Disaster recovery / avoidance, high availability, multi region availability
+ Azure & AWS IaaS, SaaS, PaaS and/or serverless, release deployment, upgrades, CICD
+ Large-scale data centres & cloud, network architectures, monitoring and fault management
+
+ About the Role
+
+ We're looking for a number of Cloud Operations Engineers to join our growing Cloud Managed Services team. After applying, our specialist team of Cloud experts will talk you through your experience and help align you to the best role for your skill set.
+
+ Our team of Cloud Production Operations Engineers are a blend of pragmatic operators and technical craftspeople that apply sound engineering principles, operational discipline, and mature automation to our delivery projects, operating environments and client facing services.
+
+ Key Responsibilities
+
+ You’ll manage, maintain & operate client-facing platforms, services and other production systems with a relentless focus on efficiency & optimisation
+ Providing knowledge in systems (operating systems, storage subsystems, networking, serverless), while implementing best practices for availability, operational maintenance, reliability and scalability
+ Leading technical recovery of services using ITIL processes, incident and alert management, and problem triage
+ Supporting your colleagues and the lead engineers within the team
+ Understanding clients systems (operating systems, storage subsystems, networking, serverless), troubleshooting simple issues and providing first fix support
+
+ #cloudtransformation
+ Not the role for you? Did you know PwC offers flexible career arrangements and contract work? Learn more.  The skills we look for In addition to our global framework, the PwC Professional, there are a number of key Operate behaviours you'll be evaluated against during our assessment process. You can read about these here.  The Deal ‘The Deal’, our firmwide Employee Value Proposition’ empowers our people to be the best they can be. Learn more.  Our commitment to you We’re committed to building a culture that empowers all of our people to thrive and feel a sense of belonging at PwC. Learn more.  Automated decision making Some elements of our application process may utilise automated decision making. This will be based on responses on your application form or from your assessment test results. For more information please see our privacy statement.

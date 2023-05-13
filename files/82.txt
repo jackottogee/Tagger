@@ -1,0 +1,424 @@
+
+
+
+Details
+
+Reference number
+
+     285126 
+    
+
+
+Salary
+
+      £25,750 - £31,950
+    
+
+
+
+      National: £25,750 min, £27,650 max London: £29,750 min, £31,950 max
+    
+
+
+Job grade
+
+
+       Executive Officer
+     
+
+
+
+ Contract type
+
+      Permanent
+      Apprenticeship
+    
+
+
+ Business area
+
+      HO - Digital Data and Technology
+    
+
+
+ Type of role
+
+      Digital
+      Information Technology
+    
+
+
+ Working pattern
+
+      Flexible working, Full-time
+    
+
+
+ Number of jobs available
+
+      5
+    
+
+
+
+
+
+
+ Contents
+
+
+
+ Location
+ About the job
+ Benefits
+ Things you need to know
+ Apply and further information
+
+
+
+ Location
+
+
+
+      Croydon - Manchester Soapworks
+    
+
+
+ About the job
+
+
+ Job summary
+
+ Are you looking for a role fit for our digitally connected world?
+ If you have the commitment to succeed and want to serve the public, then this opportunity to train or retrain through an apprenticeship is for you.
+ The Home Office is looking for individuals with an enquiring mind who care about the detail and have a passion for Digital, Data and Technology (DDaT). You do not need related qualifications or previous experience – we are particularly interested in your passion for a career in DDaT, your attitude and your potential.
+ With responsibility for policing and counter-terrorism, citizenship and passports, borders and immigration, the Home Office is delivering some of the most ground-breaking technology programmes in government, making a real difference to citizens’ lives. These challenging areas can rapidly change in the global environment we work in, making us one of the most exciting and stimulating government departments in which to work. Combine this with digitalised data and new technologies, and no wonder no two days are ever the same.
+ Digital Data and Technology (DDaT) enables the Home Office to keep citizens safe and the country secure, as well as at the front line of making the Home Office a modern and capable department at a time of unprecedented global change.
+ We design, build and operate services that are essential in helping the department achieve its mission. Our success in this role depends on our ability to exploit the newest technologies to create leading-edge, premier solutions whilst ensuring they are secure and resilient.
+ This is an exciting time to work for the Home Office as we develop some of the most challenging and transformative technology projects the department has ever seen. You’ll have a chance to shape the future and support our goal to provide exceptional services for everyone.
+ Our work is guided by these fundamental principles:
+
+put user needs first
+delivery and outcomes over process
+make the most of openness: open standards, open source, open data and open markets.
+
+ We value everyone's skills and provide a creative and supportive environment to help you do your best work.
+ Hybrid Working
+ The Home Office hybrid working model means that staff will need to attend their workplace a minimum of 40% of their contracted hours, averaged over an agreed period which suits business needs. While 40% workplace attendance is a minimum requirement across the organisation, business areas may operate anywhere within the sliding scale of 40% - 100% workplace attendance.
+
+
+
+ Job description
+
+ We are recruiting:
+
+ Software Developer Apprenticeship Level 4
+ DevOps Engineer Apprenticeship Level 4
+
+ The Home Office is an exciting and rewarding department to work for, if you are successful in securing a place on one of our apprenticeships you will:
+
+ Undertake work that makes a difference to people’s lives.
+ Be recognised and valued for your contribution.
+ Receive support from expert seniors.
+ Explore exciting and diverse problems and help deliver the solutions.
+ Work towards a Qualification in your chosen field.
+ Be part of an apprenticeship community. We aim to create a supportive environment where you can share experience and knowledge openly with your peers.
+
+ Candidates should specify their preferred location on the application form.
+ Some travel to other Home Office sites may be required.
+ Due to the nature of this post this position is only open to Full Time members of staff.
+ NPPV3 clearance may be required for certain roles.
+ To find out more about each role, please see the Candidate Pack.
+ Responsibilities
+ You will be a hard-working and enthusiastic individual with a flexible and collaborative approach to work. You will be someone who can work well as part of a busy team but are equally comfortable working independently or with limited supervision. In these roles, you will be making a positive contribution to the overall success of your business area.
+ Software Developer Apprenticeship
+ As an apprentice Software Developer, you will be paired with engineering colleagues to learn on the job whilst designing, running and improving software components.
+ You can expect to benefit from training, coaching and mentoring to help you develop in this role. You will be learning to work to our technical standards writing clean and secure code.
+ Alongside this you will be mentored to help develop a rounded set of skills and supporting knowledge:
+
+ Working in a test-driven manner; testing, correcting and documenting simple programs or scripts.
+ Building your knowledge of different systems and software implementation.
+ Providing crucial service support to users with difficulties or issues.
+
+ The initial training course will provide you with the learning and tools you need to contribute more effectively to the workplace.
+ When on the job, you will be building your experience, working with colleagues designing and building products for citizens and Home Office employees, for example, in helping people apply for a visa.
+ Who you’ll work with:
+
+ Engineering colleagues who will oversee your work and coach and mentor you.
+ Infrastructure Engineers, Technical Architects and Security Architects (DDaT colleagues and/or 3rd party suppliers) to design, build and deliver software solutions.
+ The wider software engineering community, to understand your place in the organisation and begin mapping out your future development.
+
+ Those successful at obtaining a Software Developer Apprenticeship will be required to complete ‘up to’ three-months virtual training programme with the apprenticeship provider at the start of the apprenticeship.
+ DevOps Engineer Apprenticeship
+ An Apprentice DevOps Engineer works towards being able to support our platforms and help build embedded DevOps skills in teams.
+ Your role is to help resolve tickets relating to the maintenance of the platforms, often needing to make updates with support to resolve the reported issues.
+ You will work under the guidance of your technical peers, developing your understanding of our platforms, pipelines, and automation approaches.
+ As an apprentice, you will also be expected to follow structured learning with provided tools, to develop your skills and experience against the apprenticeship standard.
+ You will be assessed against this standard as part of this role, with the expectation that you will gain a Level 4 apprenticeship in DevOps to support your career progression.
+ The initial training will provide you with the learning and tools you need to contribute more effectively before you start in the workplace for ‘on the job’ training.
+ You will build your experience, working with colleagues supporting and enhancing products for Home Office employees.
+ At the end of the apprenticeship, you will participate in and be expected to pass an assessment to gain a Level 4 qualification in DevOps and will, therefore, be able to apply for future posts as an Associate DevOps Engineer.
+ As an Apprentice DevOps Engineer, you will be paired with engineering colleagues to learn on the job. You can expect to benefit from training, coaching, and mentoring to help you develop in this role.
+ Your main day to day responsibilities will be:
+
+ Providing basic helpdesk support to resolve platform operational issues and support system and service up-time.
+ Writing simple automation components (scripts) for our platforms.
+ Helping execute test and deployment activities with teams.
+ Signposting users to appropriate people and technical resources.
+ Learning more advanced automatin and cloud skills to advance as an engineer.
+
+ All our engineers are expected to embody an open and positive approach, supporting the Home Office in:
+
+ Progressing the DDaT Profession and helping to build our community.
+ Working and assessing to appropriate standards for instance, accessibility, the GDS service standard and our own community practices.
+ Improving our skills and approaches as well as keeping up to speed with the technology landscape.
+
+ Those successful at obtaining a DevOps Engineer Apprenticeship will be required to complete ‘up to’ three-month virtual training programme with the apprenticeship provider at the start of the apprenticeship.
+
+
+
+ Person specification
+
+ Essential Criteria
+ We are particularly interested in your, aptitude, enthusiasm and your potential, along with a passion for pursuing a career in DDaT and public service.
+ The successful candidate should have:
+
+ Commitment to learning.
+ A strong interest and knowledge of Digital, Data & Technology and programming/coding.
+ Experience working in an IT environment’
+ Good problem-solving skills and an eagerness to learn.
+ Strong communication and teamwork skills.
+ The ability to research and learn new tools and techniques.
+ A strong interest in digital services and agile working.
+ An understanding of the web and how it fits together.
+ Logical and creative thinking.
+ Analytical skills, with the ability to analyse and identify patterns in information, trends, emerging issues, data errors and anomalies.
+ Critical thinking and the ability to investigate, evaluate information and reach conclusions.
+ The ability to work independently and to take responsibility, be proactive and take the initiative, demonstrate perseverance and aim to see things through.
+ Be digitally competent.
+ Confident working on computers and be able to use programmes such as Microsoft Office suite - Teams, Outlook, Word, Excel.
+
+ Desirable Criteria 
+Ideally you will have:
+
+ Level 3 Qualification
+ A Level in Maths or IT
+
+ To be eligible for the apprenticeship:
+ You should be committed to spend 20% of your working time on learning activity
+ The expectation is that apprentices are employed for a minimum of 30 hours per. week.
+ Need to ensure you meet Government requirement to complete an apprenticeship:
+
+ You must work at least 50% of the time in England.
+ Valid passport/birth certificate and NI number.
+ Not undertaking another apprenticeship or government funded qualification at the same time.
+
+ These roles are ideal for candidates who have ‘not studied to degree level and are looking to develop their knowledge and skills whilst in employment’.
+ Should have GCSE grade ‘C’ or above in Maths and English, or the equivalent, such as key skills or functional skills. If you do not or are unable to provide evidence of this (e.g., certificate), then you will be required to complete Level 2 functional skills during the apprenticeship programme with support.
+ You must not hold a qualification at or above Level 4 in a similar subject. You can hold a qualification in a related subject area at a lower level, e.g., Level 3 (or A-Level equivalent). You may also be ineligible if you have substantial experience in the role for which you are applying, as an apprenticeship must provide you with a significantly new skill set / skills uplift.
+ Please note: If you are currently an agency member of staff working within the Home Office, you can only apply for roles that are advertised externally, i.e., outside the Civil Service. If you are eligible to apply for a role, you are required to select yourself as an external applicant, and not internal, when submitting your application on Civil Service Jobs. This will prevent any delays in pre-employment checks should you become successful in being made an offer of employment after the Interview stage.
+
+
+
+ Behaviours
+
+We'll assess you against these behaviours during the selection process:
+
+Delivering at Pace
+Communicating and Influencing
+Making Effective Decisions
+
+
+
+
+Benefits
+
+
+
+
+ Learning and development tailored to your role
+ An environment with flexible working options
+ A culture encouraging inclusion and diversity
+ A Civil Service pension with an average employer contribution of 27%
+
+
+
+
+ Things you need to know
+
+
+ Selection process details
+
+
+       This vacancy is using Success Profiles (opens in a new window), and will assess your Behaviours, Strengths and Experience.
+     
+
+
+
+ As part of the application process, you will first be asked to confirm your eligibility by providing some basic personal information.
+ After submission of this first stage, you will be invited to complete a Civil Service Verbal and Numerical Tests.
+ If you successfully pass these tests, you will then be invited to complete the full application form.
+ Please complete the online tests as soon as possible (within 24-48 hours is recommended), the closing date for the tests and full application form is 23:55 on 15th May 2023. If you fail to complete the online tests or full application before the deadline, your application will be withdrawn.
+ Guidance for the test will be available when you are invited to take the test. The test is administered online and accessed via the Civil Service Jobs website.
+ You cannot complete the Tests on a mobile phone or tablet.
+ Following successful completion of the test, you will then be asked to complete:
+
+ Statement of Suitability (Personal Statement) (maximum 750 words)
+ a CV detailing job history
+
+ Further details around what this will entail are listed on the application form. 
+The Statement of Suitability should concisely explain how you meet the essential criteria. Please specify your preferred apprenticeship on your Statement of Suitability. This will be considered but cannot be guaranteed as allocation will be based on business need.
+ The sift will be held on the Statement of Suitability (personal statement).
+ The CV will not be scored.
+ If you are successful at sift stage, you will be invited to an interview which will be a blended approach of strength-based questions and behaviour-based questions.
+ Candidates will also be required to complete a mandatory aptitude test, prior to interview.
+ Other apprenticeships, requiring the same skills and experience, could be offered without a new competition.
+ Please see the candidate pack for further information.
+ Other Home Office locations may be offered dependant on business need.
+ Sift and Interview dates 
+Sift will take place week commencing 22nd May 2023
+ Interviews will take place week commencing 19th June 2023
+ We will try to meet the dates set out in the advert, however on occasions these dates may change.
+ Interviews will be carried out via video. Candidates will be required to have access to:
+
+A laptop (personal or work) with a working webcam
+Good internet connection
+Microsoft Teams
+
+ PLEASE NOTE: Due to time constraints we may not be able to offer alternative interview date(s). It is therefore expected that candidates who are successful at sift stage will make themselves available during the above time frame given.
+ A reserve list of successful candidates will be kept for 12 months. Should another role become available within that period you may be offered this position. We may use a location Merit order.
+ These roles will start towards the end of the year.
+ Further information
+ Please read the essential skills for this position carefully. We will only consider those who meet the listed requirement.
+ If you have previously made an unsuccessful application for a role with the same essential skills and are not able to demonstrate how you have developed these skills since your last application please reconsider applying as your application is unlikely to be successful.
+ For meaningful checks to be carried out, individuals need to have lived in the UK for a sufficient period of time to enable appropriate checks to be carried out and produce a result which provides the required level of assurance. You should normally have been resident in the United Kingdom for the last 3 years if the role requires CTC clearance, 5 years for SC clearance and 10 years for DV. A lack of UK residency in itself is not necessarily a bar to a security clearance and applicants should contact the Vacancy Holder/Recruiting Manager listed in the advert for further advice.
+ Every day, Home Office civil servants do brilliant work to develop and deliver policies and services that affect the lives of people across the country and beyond. To do this effectively and fairly, the Home Office is committed to representing modern Britain in all its diversity, and creating a welcoming, inclusive workplace where all our people are able to bring their whole selves to work and perform at their best.
+ We are flexible, skilled, professional and diverse. We work to recruit and retain disabled staff and area Disability Confident Leader. We are proud to be one of the most ethnically diverse departments in the civil service. We are a Social Mobility Foundation top 75 employer.
+ New entrants are expected to join on the minimum of the pay band.
+ Applicants who are successful at interview will be, as part of pre-employment screening, subject to a check on the Internal Fraud Database (IFD). This check will provide information about employees who have been dismissed for fraud or dishonesty offences. This check also applies to employees who resign or otherwise leave before being dismissed for fraud or dishonesty had their employment continued. Any applicant's details held on the IFD will be refused employment.
+ For further information please see the attached notes for candidates which must be read before making an application.
+ Existing Civil Servants should note that some of the Home Office terms and conditions of employment have changed. It is the candidate’s responsibility to ensure they are aware of the Terms and Conditions they will adopt should they be successful in application and should refer to the notes for candidates for further details.
+ Transfer Terms: Voluntary.
+ If you are invited to an interview you will be required to bring a range of documentation for the purposes of establishing identity and to aid any pre-employment checks.
+ Please see the attached list of Home Office acceptable ID documents.
+ Any move to the Home Office from another employer will mean you can no longer access childcare vouchers. This includes moves between government departments. You may however be eligible for other government schemes, including Tax Free Childcare. Determine your eligibility at https://www.childcarechoices.gov.uk
+ Reasonable Adjustments
+ If a person with disabilities is at a substantial disadvantage compared to a non-disabled person, we have a duty to make reasonable changes to our processes.
+ If you need a change to be made so that you can make your application, you should:
+
+ Contact Government Recruitment Service via HOrecruitment.grs@cabinetoffice.gov.uk as soon as possible before the closing date to discuss your needs
+ Complete the “Assistance Required” section in the “Additional Requirements” page of your application form to tell us what changes or help you might need further on in the recruitment process. For instance, you may need wheelchair access at interview, or if you're deaf, a language service professional
+
+ If you are experiencing accessibility problems with any attachments on this advert, please contact the email address in the ‘Contact point for applicants’ section.
+ Feedback
+ Feedback will only be provided if you attend an interview or assessment.
+     
+
+
+
+ Security
+
+
+       Successful candidates must meet the security requirements before they can be appointed. The level of security needed is security check (opens in a new window).
+      
+ See our vetting charter (opens in a new window).
+     
+
+
+
+       People working with government assets must complete baseline personnel security standard (opens in new window) checks.
+     
+
+
+
+ Nationality requirements
+
+
+This job is broadly open to the following groups:
+
+UK nationals
+nationals of Commonwealth countries who have the right to work in the UK
+nationals of the Republic of Ireland
+nationals from the EU, EEA or Switzerland with settled or pre-settled status or who apply for either status by the deadline of the European Union Settlement Scheme (EUSS) (opens in a new window)
+relevant EU, EEA, Swiss or Turkish nationals working in the Civil Service
+relevant EU, EEA, Swiss or Turkish nationals who have built up the right to work in the Civil Service
+certain family members of the relevant EU, EEA, Swiss or Turkish nationals
+Further information on nationality requirements (opens in a new window) 
+     
+
+
+
+Working for the Civil Service
+
+
+       The Civil Service Code (opens in a new window) sets out the standards of behaviour expected of civil servants.
+      
+ We recruit by merit on the basis of fair and open competition, as outlined in the Civil Service Commission's recruitment principles (opens in a new window).
+     
+
+
+
+       The Civil Service embraces diversity and promotes equal opportunities. As such, we run a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+     
+
+
+
+       The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+     
+
+
+
+ Apply and further information
+
+
+
+      This vacancy is part of the Great Place to Work for Veterans (opens in a new window) initiative.
+    
+
+
+
+      Once this job has closed, the job advert will no longer be available. You may want to save a copy for your records.
+    
+
+
+ Contact point for applicants
+
+ Job contact : 
+
+
+       Name : 
+       
+        Home Office Resourcing Centre
+       
+
+
+        Email : 
+       
+        HORCCampaignTeamDDAT@homeoffice.gov.uk
+       
+
+
+ Recruitment team
+
+
+        Email : 
+       
+        HOrecruitment.grs@cabinetoffice.gov.uk
+       
+
+
+
+
+
+ Further information
+
+
+       If you feel that your application has not been treated in accordance with the recruitment 
+       principles, and wish to make a complaint, then you should contact in the first instance 
+       HORecruitment.GRS@cabinetoffice.gov.uk. If you are not satisfied with the response that you receive, then you can contact the Civil Service Commission.
+     
+
+
+
+
+

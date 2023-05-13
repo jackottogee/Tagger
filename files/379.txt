@@ -1,0 +1,29 @@
+
+ This is an exciting opportunity for a Senior software developer to join a leading global consultancy, who deliver projects and services to the top 100 law firms both in the UK and internationally.
+ 
+
+The role:
+
+ You will be joining a small, highly skilled team of developers working on Agile projects to deliver innovative products to our clients. These include stand-alone products, integrations between systems and add-ins to third-party products. 
+ 
+ Your focus will be on developing software based around the core Microsoft technologies of C# .NET and SQL Server. 
+ 
+ However, their work spans many environments and technologies, including MS Azure (Azure Functions, App Services, Logic Apps, Data Factory), MS Power Platform (Power BI, Power Apps & Power Automate), MS SharePoint, MS SSAS tabular model, ASP.NET and Angular.
+ 
+ You would be expected to be able to learn these and other technologies, as and when required.
+ 
+
+Essential skills:
+
+
+Minimum 7 years’ experience of C# .NET (incl. Core & Framework);
+Minimum 7 years’ experience of Microsoft SQL Server;
+Ability to work proactively, without close supervision
+A natural team player
+Excellent English language verbal and written communication skills
+Good organisational and analytical skills with an attention to detail
+If this role sounds suitable, please apply for consideration.
+ 
+ Location: Remote
+  Salary: £60,000 - £70,000 per annum
+  Job type: Permanent

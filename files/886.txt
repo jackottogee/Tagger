@@ -1,0 +1,31 @@
+
+ Are you a Senior Software Developer ready for your next challenge?
+ 
+ We are partnered with a global healthcare company, where you will be building, integrating and maintaining a suite of healthcare applications.
+ 
+ You will be getting involved in all aspects of features and enhancements in our solutions, working on the technical designs, coding and making sure things get done in the scrum team.
+ 
+ You will have demonstrable experience of having played a significant role in delivering well-structured software solutions using .NET Core/MVC WebAPI.
+ 
+
+Skills Required:
+
+
+.NET Core
+ASP.NET MVC Core WebAPI
+Azure (Apps/Search/Functions/SQL Azure)
+Entity Framework
+Javascript
+
+Desirable:
+
+
+Blazor or similar
+Azure DevOps or TeamCity
+Deployment to Azure via ARM templates
+
+Why Apply?
+
+ Offering a salary of up to £70,000, plus benefits including 27 days holiday + bank holiday, private medical + dental insurance etc. Also, they offer a remote working environment, with the expectation to be in max once a month.
+ 
+ If you believe you meet the requirements above and would like to be considered for the role, please get in touch!

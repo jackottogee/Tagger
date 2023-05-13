@@ -1,0 +1,15 @@
+
+
+Our client is a proprietary trading group, specializing in quantitative trading and investment strategies. Founded in November 2012, their strategies are tested rigorously and are based on advanced concepts drawn from the field of machine learning, economics, mathematics, financial engineering etc. 
+They are on the lookout for a talented software engineer to come on board and help with the development of the infrastructure for their new Crypto trading desk. 
+Developers have the opportunity to work on problems at all levels of the software stack. Whether it’s low-level code for driving network hardware, high-performance trading infrastructure that runs without fail, or time-saving internal tools, you’ll be writing production code from day one. (Python, C++). 
+Desired Skills and Requirements of the Crypto Software Developer (C++, Python): 
+
+BS in Computer Science or Computer Engineering (or equivalent experience) 
+Expert level experience programming in C/C++ Python also desirable 
+Previous finance experience, or other significant hands on development 
+Crypto experience desirable 
+Ability to juggle a lot of priorities and continuously deliver 
+Interest in finance / machine learning / big data and / or robotics are pluses
+
+

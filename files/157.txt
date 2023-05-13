@@ -1,0 +1,50 @@
+
+Career Area: Engineering 
+ Job Description: 
+Job Title: CAE Software Developer 
+Salary: £38,000 - £42,000 (Depending on Experience) 
+Location : Peterborough, Cambridgeshire 
+Benefits: 25 days annual leave, 
+ Up to 10% bonus 
+ Contributory pension scheme - Caterpillar will double the employee's contribution Up to 10% 
+ Contributory share scheme - Caterpillar will match 50% of the employee's contribution. 
+ Optional flexible benefits including access to health and dental care plans, EV car lease, holiday purchase. 
+Relocation/ Sponsorship: Not provided by Caterpillar 
+Flexible working arrangements will be considered for this role, in-line with the needs of the business. 
+Who is Caterpillar? 
+With 2022 sales and revenues of $59.4 billion Caterpillar is the world’s leading manufacturer of construction and mining equipment, diesel and natural gas engines, industrial gas turbines and diesel-electric locomotives. Services offered throughout the product life cycle, cutting-edge technology and decades of product expertise set Caterpillar apart, providing exceptional value to help our customers succeed. The company principally operates through three primary segments – Construction Industries, Resource Industries and Energy & Transportation – and provides financing and related services through its Financial Products segment. 
+What do we do? 
+At the Peterborough facility, we are responsible for the engineering development, marketing, sales and manufacturing of Cat and Perkins industrial engines up to 7 litres, for use in a wide variety of machines. When you join Caterpillar, you become part of a team that doesn’t just talk about progress and innovation, we make it happen. Building on a 95-year foundation of quality and innovation, your work has global impact, helping customers build a better, more sustainable world – the roads, farms, hospitals, homes, and infrastructure of tomorrow. 
+The Opportunity 
+An exciting opportunity has now arisen for a Software Development Engineer to join our multi-disciplinary Computer Aided Engineering (CAE) team, responsible for supporting the design, performance, emissions and mechanical development of advanced powertrains for Caterpillar. You will apply your knowledge of numerical methods and programming to support the development and maintenance of engineering simulation codes and tools that support the efficient and timely application of simulation methods to powertrain design and development. 
+Job Duties/Responsibilities may include, but are not limited to: 
+
+Support the development and maintenance of proprietary Python based software to enhance the efficiency simulation workflows that are utilised by a multi-disciplinary simulation team 
+Support the maintenance and development of GUIs developed in VB.NET 
+Support the maintenance and development of legacy in-house FEA and Dynamics simulation codes developed in Fortran and C 
+Identification, development and deployment or process automation and integration tools using a mixture of proprietary and commercial simulation tools 
+Development of workflows within a multi-disciplinary optimisation (MDO) software tool that execute on both Windows and Linux based high performance computing environments 
+Working as part of a multi-disciplinary simulation and software development team, good teamwork and communication skills essential 
+
+Required Qualifications: 
+
+Accredited Bachelors degree in a relevant Engineering, Physics or Mathematics subject 
+Python and .NET coding experience with knowledge of object oriented programming 
+Working knowledge of 1D and 3D engineering simulation software, e.g. NX SimCenter, STARCCM+, Abaqus, GT-Suite 
+Experience and working knowledge of both Windows and Linux operating systems 
+
+Desired Experience and Skills: 
+
+Experience utilising multi-disciplinary optimisation tools like HEEDS, modeFrontier and I-Sight to develop simulation workflows 
+Knowledge of design of experiments and the creation of response surfaces 
+Knowledge of software development environments such as DevOps and GIT 
+Optimisation methodologies, robustness analysis techniques and uncertainty quantification 
+Reduced order modelling techniques 
+Knowledge of numerical algorithms 
+Working knowledge of other programming languages, e.g. Java, C, C++, C#, VB.NET, Fortran, Bash, SQL, XML 
+Experience using code debugging and performance analysis tools 
+Willingness to learn new programming languages and engineering simulation tool application 
+
+NB. The panel cannot make assumptions when shortlisting therefore please demonstrate your qualifications and experience on your CV relevant to the criteria outlined. Pending the number of applications, the criteria for the position may be enhanced to facilitate shortlisting. #LI-Hybrid 
+Caterpillar is an Equal Opportunity Employer (EEO). 
+Not ready to apply? Submit your information to our Talent Network here .

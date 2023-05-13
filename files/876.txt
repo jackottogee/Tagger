@@ -1,0 +1,35 @@
+
+Experience in IOS development environment (Objective C, XCode, Instruments Experience in Design patterns and OOPS concepts
+
+Exposure to Web- tools and frameworksExposure to JSON, XML web data formatsGood Understanding of design pattern- MVC,MVVM, Singleton, Facade.
+
+Experience with iOS frameworks such as Core Data, Core Animation, etc.
+Experience with offline storage, threading, and performance tuning
+Familiarity with RESTful APIs to connect iOS applications to back-end services Understanding of Apple's design principles and interface guidelines
+Knowledge of low-level C-based libraries is preferred
+Experience with performance and memory tuning with tools such as Instruments and Shark
+Familiarity with cloud message APIs and push notifications
+Good knowledge of Firebase.
+Excellent communication & interpersonal skills
+Excellent analysis and problem-solving skills
+
+Job Types: Full-time, Part-time
+Pay: £20,000.00-£83,459.72 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Flexible Language Requirement:
+
+English not required
+
+Schedule:
+
+Flexitime
+
+Experience:
+
+iOS: 1 year (preferred)
+
+Work Location: RemoteFlexitime

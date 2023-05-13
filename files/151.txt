@@ -1,0 +1,48 @@
+About us
+We are agile, innovative and inclusive.
+Our work environment includes:
+
+Modern office setting
+Work-from-home days
+International workforce
+Flexible working hours
+
+Java Software Engineer: Java, Spring MVC, TDD, DDD, PostgreSQL, Docker, ElasticSearch, Redis - Central London/Remote
+Organisation: Who?
+After building a successful SAAS product and team, this fintech organisation has thrived through this difficult situation as well as previously disrupting the market and its competitors in a short space of time. They continue to grow from strength to strength due to increasing cognitive diversity and encouraging personal growth throughout the organisation and it genuinely is demonstrated in their day-to-day activities as well as their core values.
+Role: What?
+You will join a passionate and growing engineering team. You will have a chance to directly impact the company's success whilst helping clients use robust and reliable services. Your time will be spent tackling day-to-day problems and coming up with solutions to overcome this. You will be supported regularly by your manager and upon arrival to the business, you will have a chance to see how much freedom and space you have to grow your technical skills whilst working on this product.
+***Just some of your responsibilities below***
+- Defining the evolving global platform architecture- Designing and building class software components, including services AP's- Working closely with the DevOps team to enable smooth deployment- Demonstrating your work to external and internal audiences
+Benefits/What's on offer - Why?
+Offering a competitive salary based on your experience as a Java engineer, this is a great chance to cut your teeth into a strong technical team and help build a product/team you can be proud of. You will work with a diverse technical team and always have your personal development at the forefront of your mind. The ability to dabble with alternative tech means your route in the business can take any direction!
+Tech Stack/What you will be working with?
+- OO JAVA- Spring MVC- Redis- ElasticSearch- Docker- Junit- Big Data (Hadoop)
+How to Apply - When?
+Does this sound like you? Are you the Java engineer in question? or just interested to hear more? I’m always happy to help, so, get in contact ASAP.
+Kashif.ali@opensourced.tech07507866561
+Java Software Engineer: Java, Spring MVC, TDD, DDD, PostgreSQL, Docker, ElasticSearch, Redis - Central London/Remote
+Job Type: Full-time
+Salary: £59,018.00-£64,681.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Life insurance
+Private dental insurance
+Private medical insurance
+Referral programme
+Wellness programme
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+
+Work Location: RemoteFlexitime

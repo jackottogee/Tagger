@@ -1,0 +1,63 @@
+
+Description 
+
+
+
+s
+
+
+ Job Title
+ UNO Data - Senior Software Developer
+
+
+ Reporting to
+ Senior Product Manager – UNO Data
+
+
+ Location
+ UK based
+
+
+ Hours
+ Permanent Full time
+
+
+
+ Do you want to work to make Power for Good?
+ RES is the world’s largest independent renewable energy company. We are driven by a simple yet powerful vision: to create a future where everyone has access to affordable, zero carbon energy. 
+We know that achieving our ambitions would be impossible without our people. Because we’re tackling some of the world’s toughest problems, we need the very best people to help us. They’re our most important asset so that’s why we continually invest in them. 
+RES is a family with a diverse workforce, and we are dedicated to the personal professional growth of our people. We can promise you rewarding work which makes a real impact, the chance to learn from inspiring colleagues from across a growing, global network and opportunities to grow personally and professionally. 
+Our competitive package offers rewards and benefits including pension schemes, flexible working, and top-down emphasis on better work-life balance. We also offer private healthcare, discounted green travel, 25 days holiday with options to buy/sell five days per annum, enhanced family leave and four volunteering days per year so you can make an impact somewhere else.
+
+ Job Purpose
+ We are proud of our reputation as leaders in renewable energy and for demonstrating that a zero carbon future is possible, affordable and desirable. The Platform team is an important part of this, developing a new and innovative digital hub that connects customers with the information that they need to effectively manage renewable energy assets.
+ The Senior Software Developer position is a key role within the UNO Data team. You will be providing technical leadership to a growing team of Software Developers and guiding development efforts for successful delivery of products which ensure that the wider UNO team has access to a reliable and trusted source of data from the renewable assets which RES manages on behalf of our clients.
+
+ Responsibilities
+
+ Software development across the whole stack, including cloud infrastructure
+ Providing technical leadership and mentorship to teammates 
+Working with the Technical Lead Architect to steer the technical direction of the product suite
+ Working with Product Managers to ensure requirements are met and delivered accurately
+ Ensuring high quality for software products by establishing good habits and practices
+ Assisting with recruitment and training of new team members
+ Reporting on progress of development team to stakeholders
+ Coordinate with other teams at RES to ensure seamless integration of technical and business software
+
+ 
+About You
+ You are an experienced software developer who has a proven track record in leading the design and delivery of complex software products and leading a software team. You have experience with the following:
+
+ Strong desire to maintain technical capabilities and expertise in the latest technologies
+ Agile software development
+ API design and development
+ Cloud native design (e.g. Microsoft Azure, Kubernetes)
+ Test driven development
+ Infrastructure as code (e.g. Terraform)
+ Full stack software development (primarily in C# but experience of Python would be an advantage).
+
+
+ Recruiting Process
+ The recruitment process involves a series of interviews conducted via Microsoft Teams.
+ Apply now by clicking the ‘Apply’ button below and submit your CV.  #LI-TS1
+

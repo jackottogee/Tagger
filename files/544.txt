@@ -1,0 +1,76 @@
+
+
+C++ Developer
+
+
+Job details
+
+
+
+
+    Posted 14 April 2023 
+   
+
+    Salary £60000 - £70000 per annum 
+   
+
+    LocationCoventry
+   
+
+    Job type Permanent 
+   
+
+    DisciplineDevelopment
+   
+
+    ReferenceHJ-57-50
+   
+
+    Contact NameHarrison Jarrett
+   
+
+
+
+Job description
+
+Job Title: C++ Developer
+   
+Location: Birmingham, UK - On-Site
+   
+Salary: Up to £70k DOE.
+   
+ Digital Waffle is working with a leading provider of cutting-edge technology solutions in the UK.
+   
+
+Key Responsibilities:
+
+ You will be responsible for developing, designing, and maintaining software applications using C++ programming language. You will work closely with our team of developers, product managers, and QA engineers to ensure the successful delivery of our products.
+   
+
+ Develop, design, and maintain software applications using C++
+ Collaborate with product managers and stakeholders to ensure the delivery of high-quality software products
+ Participate in code reviews and contribute to improving the software development process
+ Troubleshoot and debug software issues
+ Develop and maintain technical documentation for the applications
+
+ Requirements:
+
+
+ Strong programming skills in C++ with experience in object-oriented programming
+ Experience with Yocto
+ Strong experience with Embedded Linux.
+ Familiarity with Agile software development methodologies
+ Familiarity with version control systems such as Git
+ Excellent problem-solving and analytical skills
+
+ Benefits:
+
+
+ Generous holiday allowance
+ Pension scheme
+ Opportunity to work on exciting projects using cutting-edge technologies
+ Friendly and supportive team environment
+
+ If you are interested and looking for more information please apply to be considered for this position.
+  
+

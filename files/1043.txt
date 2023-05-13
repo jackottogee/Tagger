@@ -1,0 +1,48 @@
+
+Working for CET is many things – exciting, challenging, rewarding, occasionally frustrating, - but it’s never dull.
+ You’ll work with a diverse mix of people in a buzzing atmosphere and be part of a welcoming, inclusive community.
+ If you want to work in a lively, fun IT environment and you’ve got the skills we’re after, you know what to do, apply now!
+ Applications are invited from the UK Mainland only
+ -
+ Location: Home working (may be required to travel to Head Office in Castle Donington for any ad hoc training required or team building events)
+ Working Hours: 40 hours per week, Monday to Friday
+ Salary - will be dependent upon experience
+ CET Ltd is seeking a talented and experienced Development Manager to help us to continue to build our world-class Simplifi Platform. This role is less about managing and coordinating the team's work (although you will be involved in that) but is more about helping to foster our culture. We’re open, innovative, candid, diligent and inclusive. You need to ensure that everyone’s voice is heard and that, wherever possible, we’re aligning their career aspirations to our technology choices. You’ll be responsible for much of the day-to-day person management of this brilliant, thirteen strong team and we’re looking for someone that cares as much about helping others reach their career potential as their own. This is a critical role that requires excellent leadership and communication skills, as well as good technical expertise
+ Role and Responsibilities
+
+ Work alongside our amazing Principal Developer to help Lead the Simplifi Development Team in the development and delivery of our high-quality software platform.
+Work with the Product Manager to ensure that the team meets all deadlines and budget constraints.
+Implement best practices and process improvements to streamline the development cycle, ensure code quality, and minimise defects. 
+Collaborate with other departments, including product management and customer support, to identify product requirements, plan releases, and ensure customer satisfaction.
+Stay up-to-date on the latest software development trends and technologies
+Everyone in the team helps provide technical guidance and support to each other, including code reviews, debugging, and troubleshooting.
+Hire, mentor, and develop team members to build a high-performing, motivated, and skilled team.
+Report to senior management on the team's progress, achievements, and challenges, and recommend solutions and improvements as needed.
+
+ Qualifications and Educational Requirements
+ The ideal candidate for this position should have the following qualifications but we accept and value that everyone has had a different journey, so we welcome applicants that haven’t followed the traditional path.
+
+ Bachelor's or Master's degree in Computer Science, Software Engineering.
+5 years of experience in software development, including 2 years in a management or leadership role.
+Strong understanding of Agile with Scrum.
+Proven experience in managing software development projects, from conception to delivery, using project management tools such as Jira.
+Familiarity with software development tools and processes, including version control systems (e.g., Git), automated testing frameworks, and continuous integration/delivery (CI/CD) pipelines.
+
+ Essential and Desirable Skills
+ Essential Skills:
+
+ Excellent leadership and management skills, including the ability to motivate, mentor, and develop team members.
+Strong communication and interpersonal skills, with the ability to build relationships with stakeholders and influence decision-making.
+Excellent problem-solving and decision-making skills, with the ability to make sound judgments under pressure.
+Strong organisational and planning skills, with the ability to manage multiple projects and priorities simultaneously.
+Strong attention to detail and a commitment to quality.
+
+ Desirable Skills:
+
+ Experience with Azure.
+Experience with frontend technologies, such as React, Angular, or Vue.
+Knowledge of database technologies, such as SQL or Cosmos DB
+
+ Holiday Entitlement: 25 days plus Public/Bank holidays, please also refer to the full list of our benefits which can be found on our career page.
+ We all have different skills here at CET and that’s what makes us stand out. We all take pride in a job well done and share the belief that an inclusive culture is key to our success and vision for the future
+ CET is an equal opportunity employer. We encourage diversity and are committed to creating an inclusive environment for all employees. We actively encourage applicants from all protected characteristics and commit to providing any reasonable adjustments or flexible working options required during the application and assessment process, and upon joining us

@@ -1,0 +1,53 @@
+
+
+
+  Senior Backend Developer
+ 
+
+
+
+
+
+
+       Who We Are: As the market leader in enterprise contracts intelligence, Knowable gives corporate clients revolutionary visibility into the relationships that govern their businesses. By converting archaic legal language into structured data, Knowable helps its clients find, search, organize, and analyze their contracts, providing - for the first time - portfolio level views of risks, obligations, and entitlements. As the world’s leader in contract data analytics, with more than 25 million contract data elements analyzed each quarter, Knowable combines proprietary machine learning tools with scalable facilities for human quality control that, together, enable a full contracts intelligence solution for the enterprise.
+     
+
+
+       The Role. We are seeking a Senior Backend Developer to join our R&D team as we’re looking to build our cloud infrastructure and our machine learning capability to help transform the legal industry, taking something that is truly analog and transforming it to completely digital, enabling our talent to provide a higher level of value-added services by removing the mundane. You will be entrusted to build brand new products that will shake up one of the only remaining industries to have gone largely unchanged for the last 100 years. This is an opportunity to get involved in creating and designing new systems and software, use technology to create force multipliers for our already outstanding teams, and to innovate and roll out brand new software! In this growth infused role you will be surrounded by a brilliant set of technologists working within our advanced Tech Stack that includes; Node js, AWS, Elastic Search.
+     
+
+
+       In order to be successful in this role you should understand NoSQL, Infrastructure as Code, Test Driven Development, and DevOps. You should love the business impact of technologies. If you join us, you will have the support you need to make to take this journey. The team is full of people who are savvy, innovative, passionate, smart, creative, diligent, and occasionally hilarious, and they will be with you every step of the way.
+     
+
+
+       Responsibilities:
+     
+
+
+       We strive to build a fun, fast-paced dynamic team environment. As a Senior Backend Developer you will:
+     
+
+ Innovate, design, and develop software that ties back to the business and furthers our mission of improving the way legal services are provided across the globe; this will include writing a lot of code for brand new products.
+ Drive and inform the overall development life cycle for a suite of products
+ Have a “Cloud First” mentality when developing solutions; stay current on the latest technologies and bring creative ideas to new problems and a fresh mind to old ones.
+
+
+
+       Basic Qualifications
+     
+
+ Current professional experience in backend development.
+ Experience running production workloads on AWS and experience with Docker
+ Additionally, we look for experience with Kubernetes in production as well as experience using Elastic Search and/or Lucene
+ Successful candidates will possess expertise using relational databases and SQL and professional experience with Node.js in production environments
+
+
+
+
+
+
+
+   RELX is an equal opportunity employer: qualified applicants are considered for and treated during employment without regard to race, color, creed, religion, sex, national origin, citizenship status, disability status, protected veteran status, age, marital status, sexual orientation, gender identity, genetic information, or any other characteristic protected by law. If a qualified individual with a disability or disabled veteran needs a reasonable accommodation to use or access our online system, that individual should please contact accommodations@relx.com or if you are based in the US you may also contact us on 1.855.833.5120..
+ 
+

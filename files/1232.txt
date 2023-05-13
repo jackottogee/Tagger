@@ -1,0 +1,45 @@
+We're looking for an experienced DevOps Engineer to join a successful AI software provider and help them build and maintain their technology platform. As a DevOps Engineer, you'll be responsible for ensuring that their systems are running smoothly, developing new features and enhancements for their products, and writing code to automate processes and manage their platforms.
+You'll work in cross-functional Agile squads to ensure that their systems are reliable, secure, and scalable. You'll also be responsible for troubleshooting issues as they arise, using your expertise in software development to diagnose and solve operational problems.
+This business is committed to offering continuous learning opportunities, with fortnightly innovation days dedicated to personal learning and sharing knowledge across the company, as well as an annual Hackathon where the entire engineering team collaborates. From your first day, you'll have access to a well-defined and deliverable progression plan and opportunities to mentor less experienced members of the team.
+To be considered for this DevOps Engineer role you’ll need to demonstrate commercial experience in some of the following areas:
+
+Passion for proper engineering practice and high-availability software
+Experience with deployment tools such as Ansible or Octopus
+Knowledge of modern CI/CD tools like Azure DevOps or GitLab
+Strong understanding of Sys Admin and networks capabilities like TCP, Firewall, Reverse Proxy, Load-Balancer, and Web containers like IIS and Nginx
+Knowledge of system administration across multiple operating systems like Windows and Linux
+Experience with virtualisation and containerisation technologies like Docker, Kubernetes, and Hyper-V
+Proficiency in one or more programming languages like Java, Python, C#, or Shell scripting
+Experience with monitoring, logging, and alerting stacks or APMs like Datadog, Dynatrace, SolarWinds, Prometheus, Grafana, TICK, or ELK
+Familiarity with incident response processes and scenarios
+Experience with quality assurance techniques like load/stress/chaos testing
+
+The business has a hybrid working policy, where you will work 3 days per week in Birmingham city centre and the rest remotely. The R&D team is located in the city centre within commuting distance of both New Street and Snow Hill stations.
+The DevOps Engineer role offers a salary of up to £70,000, plus a benefits package including a Company Pension scheme, 25 days of holiday plus Bank Holidays, Parental Leave plan, and Vitality Health Insurance.
+If you're seeking a supportive, technically challenging, and fun work environment, where you'll work alongside like-minded, high-quality engineers, this could be the perfect role for you. If you're interested in learning more, please send your CV to us, and a member of the Fusion team will contact you to discuss the opportunity in further detail.
+Azure / Ansible / Octopus / CI / CD / TCP / Firewall / IIS / Nginx / Windows / Linux / Docker / Kubernetes / Hyper-V / VMWare / Datadog / Dynatrace / SolarWinds / Prometheus / Grafana / TICK / ELK / Java / Python / C# / Shell / DevOps / Platform / SRE / Site Reliability / Gitlab
+Job Types: Full-time, Permanent
+Salary: £65,000.00-£70,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Life insurance
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Birmingham: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+DevOps: 4 years (preferred)
+
+Work Location: Hybrid remote in Birmingham
+Reference ID: 22949020402

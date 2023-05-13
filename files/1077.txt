@@ -1,0 +1,62 @@
+Job Title: Graduate Frontend Developer
+At My Claim Group, we have dedicated the past few years to working hard and helping our clients succeed. We recognise that behind the success of the best SaaS companies are teams of talented and highly-driven individuals, and we take pride in being one such team.
+We are looking for a talented Frontend Graduate Developer to join our team. As a Frontend Developer, you will work on developing and improving our in-house web applications using JavaScript and CSS.
+As a Frontend Graduate Developer, you will have the autonomy to work on various projects and be encouraged to explore new ideas. If you are naturally curious, passionate about web development, and desire to make a genuine impact within a growing company, then you will fit right in at My Claim Group.
+So, what can you expect to be working on as a Frontend Graduate Developer at My Claim Group? You will work closely with our experienced development team on various projects and platforms, developing client-side programming using technologies such as HTML, JavaScript and CSS. You will also have the opportunity to gain experience working with PHP frameworks and Amazon Web Services, as well as staying up-to-date with industry standards.
+In summary, at My Claim Group, you will join a talented, driven team dedicated to success. You will have the autonomy to work on various projects, explore new ideas, and make a genuine impact within our growing company. As a Graduate Frontend Developer, you will have the opportunity to work with various technologies and platforms, gaining valuable experience and developing your skills in web development.
+Key Responsibilities:
+
+Develop, test, and deploy new features and improvements to our web applications.
+Collaborate with the team to design and implement user-friendly and visually appealing interfaces.
+Ensure the scalability, performance, and maintainability of our web applications.
+Use Git for version control and collaboration.
+Participate in code reviews and contribute to a culture of continuous improvement.
+
+Qualifications:
+
+Bachelor's degree in Computer Science, Software Engineering, or related experience
+Experience working with JavaScript and at least one frontend framework (Angular, React, etc.)
+Familiarity with Git version control
+Strong problem-solving skills and attention to detail
+Ability to work independently and as part of a team
+Strong communication skills
+If you are passionate about frontend development and want to work with cutting-edge technologies, we encourage you to apply. We are committed to providing a collaborative, supportive, and inclusive work environment that values diversity and creativity.
+
+Bonus Points:
+
+Experience interacting with backend frameworks (Laravel/Symfony)
+Experience with CSS frameworks (Bootstrap/Tailwind)
+Experience collaborating with backend engineers
+
+Job Types: Full-time, Permanent
+Salary: £20,000.00-£25,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Flexitime
+Free parking
+On-site parking
+Transport links
+
+Schedule:
+
+8 hour shift
+Flexitime
+Monday to Friday
+No weekends
+
+Supplemental pay types:
+
+Yearly bonus
+
+Ability to commute/relocate:
+
+Manchester M22 5LB: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+CSS: 1 year (required)
+
+Work Location: In personFlexitime

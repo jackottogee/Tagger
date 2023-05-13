@@ -1,0 +1,60 @@
+Why Cado Security
+Do you want to be a part of an innovative cloud-native cyber security company, one which has been at the forefront of research into the Cloud Security landscape?
+We are on the lookout for a talented UK-based (Bristol or London) Cyber Security Specialist to join our Research & Development team.
+This role requires a well-rounded engineer who would be able to research, build and maintain tooling across AWS, Azure and GCP.
+Responsibilities
+
+Design, build, deploy and maintain infrastructure and tooling to support the Research & Development team.
+Research and help develop training scenarios to test capabilities of the Cado platform.
+Work closely with a great team of various disciplines, help support and engage with technical customers.
+
+Provide Technical Support
+We work with the following tech stack, we don’t expect you to tick every box, and if you feel you hit most of the brief, it’s worth exploring to further develop your career here with us at Cado Security:
+Technical Skills:
+
+Experience with/Knowledge of AWS, Azure and GCP architecture, build and security.
+Experience with/Knowledge of Security tooling such as AWS Guard Duty, Microsoft Sentinel/Defender.
+Experience with/Knowledge of Windows/Linux Administration, Automation and Scripting.
+Experience with/Knowledge of Infrastructure as Code (Cloudformation / Terraform).
+Enthusiasm and initiative in embedding an engineering mindset, automating manual processes wherever possible via scripting and pipelines.
+Passion and experience in scripting using bash and/or Python as well as PowerShell.
+
+Nice to have:
+
+Knowledge of production scale multi-tiered systems architecture, security, and service management principles.
+Knowledge of Application, Infrastructure Network and Cloud security practices.
+
+Soft Skills:
+
+Ability to work autonomously and as part of a distributed team.
+Ability to learn new technologies in a timely manner.
+Willingness to share experience and knowledge with others.
+
+Pay and Benefits
+– Private health care
+– Pension
+– Stock options for a fast growing company
+– Training
+– Working with an amazing team
+Location
+– The office is based out of London Waterloo and Bristol with flexible remote working.
+– We will consider hiring UK wide/full remote for the right candidates.
+Right to work in the UK
+– At this point in our company, we are unable to sponsor visas, so you must have the right to work in the UK.
+Job Type
+Full-time
+Job Type: Full-time
+Benefits:
+
+Casual dress
+Company pension
+Employee stock purchase plan
+Private dental insurance
+Private medical insurance
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in London, SE1 9LQ

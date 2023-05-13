@@ -1,0 +1,48 @@
+Python Developer (AWS) 
+£85,000 + Benefits; stocks, Bonus etc 
+
+
+️ Hybrid Remote (2-3 days per month in the London office)
+ Fintech 
+
+ Passion for Data and the Fintech sector? 
+
+ Love working with Python/AWS? 
+
+ A specialist Fintech SME that provides advanced data analytics; cracking complex, challenging problems in big data and financial markets is looking for a Python/AWS Developer to join their Data team. You’d be joining a small but efficient team, building greenfield applications and report into the Head of Data. You would be working with a very modern stack of Python, AWS and Linux, developing AWS-based applications, as well as architecting/building new products including their own data analytics platform. With recent success/investment, the company is scaling across multiple departments, and this is a great opportunity to join a respected Fintech as they enter hyper growth phase. 
+
+ The company recently secured Series B investment, and have won awards for being Lead Data Provider. 
+
+ The role is hybrid remote, with 2/3 per month in the London office. 
+
+ An ideal candidate with have around five years of experience with Python, Linux and AWS, with experience in production level big data batch pipelines (AWS). 
+
+ You’ll be looking to grow their financial cloud, data skills. A Finance/Fintech background would be an advance but is not essential. 
+
+
+Benefits: What's in it for you? 
+
+
+
+Salary up to £90,000
+10% Bonus Scheme
+Career development and training budget
+Highly collaborative team and talent Leaderships
+Focused on success, well-being and career development
+Hybrid remote working (2/3 times per month in the London office)
+Pension, Holiday, Flexible working
+
+Role:
+ The company is constantly adding new financial datasets to their platform, and you’d be highly involved in the engineering of their pipeline, which is built using a distributed architecture. 
+
+ Because of this, you’d need a high level of experience in production-level big data batch pipelines on AWS and very strong experience with developing on a Linux platform. 
+
+ They use a modern Cloud based tech stack, which includes Airflow, Python, Celery, EMR, Data Warehouses/Data Lakes (S3, PostgreSQL, Snowflake) and Grafana. 
+
+ Some responsibilities include; 
+
+
+
+Designing the solution, building and delivering completed functionality to production
+Drive improvements in all areas (data tooling, deployment, data quality, testing and CI)
+Own the full scope of assigned development projects

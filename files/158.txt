@@ -1,0 +1,52 @@
+
+
+  Applications are invited for a Software Engineer to work with the SKA team.
+ 
+
+
+  The post is available fixed term until the 31st December 2025.
+ 
+
+
+  We are searching for an experienced and motivated Software Engineer, with expertise in Python and TANGO to join the team designing and constructing the cabinet systems software for the Low-Frequency instrument of the SKA. Our team will develop the cabinets that contain the signal processing boards and systems to deliver one of the highest profile science goals of the SKA.
+ 
+
+
+  The team operates under the SAFe software development framework as determined by the SKA Observatory, with key elements being:
+ 
+
+Agile, short-term objectives.
+
+
+Continuous integration and deployment.
+
+
+Commitment to high-quality tested code.
+
+
+
+   The successful applicant will join a team of experts in signal-processing and software engineering at Oxford Astrophysics, and a broader team of collaborators in Italy, India and elsewhere, responsible for SKA development. The role comes with reporting responsibilities and deadlines set by the SAFe development teams and the SKA Observatory.
+ 
+
+
+  The successful candidate will demonstrate awareness of key instrument control and signal processing techniques including a very good understanding of beamforming with phased array systems.
+ 
+
+
+
+
+
+The software engineer will be responsible for carrying out day-to-day activities both within Oxford and the SKAO through the Agile process.
+
+
+Hold or be close to completion of a Ph.D./D.Phil in astrophysics or relevant field
+
+
+
+  Please direct enquiries about the role to Dr. Kris Zarb-Adami (kristian.zarbadami@physics.ox.ac.uk)
+ 
+
+
+  Only applications received before midday 22 May 2023 can be considered. You will be required to upload a brief statement of research interests, CV and details of two referees as part of your online application.
+ 
+

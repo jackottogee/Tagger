@@ -1,0 +1,54 @@
+
+What you will be doing
+ We are looking for driven, Junior Software Engineers, preferably experienced in Python and Kotlin however we are happy to consider candidates with Java but must be willing to learn either Python or Kotlin to help us build our SaaS-based anti-money laundering solutions, which help organisations fight financial crime! We are building cutting edge solutions that help reveal the truth for a safer world and stop money ending up in the hands of criminals.
+ As a Junior Software Engineer, you will
+
+Work alongside our ML Engineers, Data Scientists and other Software Engineers within your squad.
+Seek out, deliver and maintain small projects or surface-specific tasks with the help of more senior engineers.
+Participate in feature design and bug fixes under direct supervision
+Write, test and document code as per our guidelines
+Take ownership of small projects or smaller parts of large projects
+Execute on Engineering tasks or product improvements with the guidance of other senior members of the team. For example, Engineers, Designers, Product Managers
+Escalate matters when appropriate without getting into rabbit holes or blocked for long time periods.
+
+Our Tech Stack
+
+Our technology stack is designed to run on public cloud architectures, notably AWS and GCP.
+Development is organised around Kotlin and Python for our backend languages and TypeScript/ES6+React for our frontend stack.
+We make substantial use of relational database technologies, notably Postgres and also use of large scale noSQL technologies such as Cassandra
+We also use an event-sourced model powered by Kafka for our communication bus and gRPC for our intra-service communication protocol.
+For our data and AI teams, experience of machine learning development and very large scale columnar data stores (e.g. Apache HBase, Databricks) is key, as well as experience of large scale data streaming technologies such as Apache Spark, graph databases (e.g. Neo4j, AWS Neptune, TigerGraph)
+We use modern observability solutions from Datadog and deploy our code using ArgoCD
+
+We have a strong emphasis on engineering excellence and strive to ship the best possible code and the best possible solutions to our customers.
+ About you
+ As a Junior Software Engineer, you will
+
+Have a good understanding of discipline basics. This may have been gained in a educational or work place setting
+Be keen to learn and actively reaches out to people for mentorship and learning
+Seek out regular feedback from peers (other Engineers and Product Managers) and incorporate this in your day-to-day work
+Collaborate with your team to solve problems
+
+About us
+ ComplyAdvantage is the financial industry's leading source of AI-driven financial crime risk data and detection technology. Our mission is to neutralise the risk of money laundering, terrorist financing, corruption, and other financial crime.
+ More than 1000 companies rely on us to understand the risk of who they're doing business with through the world's only global, real-time database of people and companies. Our solutions identify thousands of risk events daily from millions of structured and unstructured data points.
+ We have four global hubs in New York, London, Singapore, and Cluj-Napoca and are backed by Goldman Sachs, Ontario Teachers, Index Ventures, and Balderton Capital. Our largest engineering office is in London, but we also have development teams in Prague, Bratislava and Lisbon.
+ Since 2014, we have raised over $100 million in funding, and in 2022 alone grew by over 40% to over 500 people globally. Over the next 12 months, as our revenue increases, we plan to increase to 600.
+ What's in it for you?
+
+Competitive Salary
+Equity as we want you to have a part of what we are building
+Unlimited Time Off Policy- A work-life balance and focus on our well-being are critical to keeping us performing at our best.
+Hybrid working- We want you to strike a balance and be where you do your best work. You will work with your manager to agree on what is best for you and your team.
+You will also get an annual budget of £215 to kit out your home office
+Opportunity to work on innovative projects with smart like-minded people who are keen to share their knowledge and continuously improve
+Annual learning budget to drive your performance and career development
+Enhanced parental leave and childcare benefits
+Life Insurance to protect your loved ones
+Medical insurance through Bupa with pre-existing conditions covered
+Pension contribution through The Peoples Pension
+
+
+ At ComplyAdvantage diversity fuels our rocket ship and our commitment to inclusion across race, gender, age, religion, identity and experience drives us forward every day. We encourage everyone to apply and aspire to consider every application fairly.
+ We will handle your information in accordance with our Privacy Policy. For further information, please click here.
+

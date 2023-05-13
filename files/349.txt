@@ -1,0 +1,44 @@
+
+
+Founded by mathematicians and cyber defense experts in 2013, Darktrace is a global leader in cyber security AI, delivering complete AI-powered solutions in its mission to free the world of cyber disruption. We protect more than 7,700 customers from the world's most complex threats, including ransomware, cloud, and SaaS attacks.
+ Our roots lie deep in innovation. The Darktrace AI Research Centre based in Cambridge, UK, has conducted research establishing new thresholds in cyber security, with technology innovations backed by over 115 patents and pending applications. The company's European R&D center is located in The Hague, Netherlands.
+ Headquartered in Cambridge, UK, Darktrace has more than 2,000 employees located across more than 100 countries. Customers include public sector agencies, education institutions, media, organizations supplying critical infrastructure, and businesses of all sizes worldwide.
+ This is an excellent opportunity to join a fast-growing company, named one of TIME magazine's "Most Influential Companies" for 2021 and one of Fast Company's "Most Innovative AI Companies" in 2022. For more information on our cutting-edge technology, visit darktrace.com.
+
+ You will join the significant R&D teams in Cambridge that create and improve the products behind the company's rapid growth. Our software engineers work across a wide variety of projects and with a diverse toolset.
+ For more information on our product and company, please consult our website.
+ This is a hybrid role, and the expectation would be to work a minimum of 2 days a week in the Cambridge office
+ Responsibilities:
+
+Contributing to projects ranging from the rapid prototyping of new ideas
+Working to the solid structured development of existing platforms
+Working towards the aim of furthering our unique methodology in defending against unknown cyber-attacks.
+Innovation is of paramount importance and as such, creativity in approach is encouraged as much as traditional project-based development.
+The role requires the core competency of python development but will expand to become more specialised in one or more areas of technology.
+
+Candidate Requirements:
+
+Strong analytical and organisational skills (Essential)
+Be a team player but with the ability to operate autonomously and take independent decisions (Essential)
+Experience working with Python (Essential)
+Experience of either AWS, Azure, or GCP or similar cloud compute environments (Essential)
+Familiar with Docker (Essential)
+Minimum 2:1 degree from a leading University (Essential)
+Knowledge or interests in cyber-security / malware forensics (Desirable)
+Machine learning technique experience (Desirable)
+Familiar with Linux (Desirable)
+
+Benefits
+
+
+
+23 days holiday + a day off for your birthday, rising to 25 (+ birthday) after 2 years
+All UK public holidays
+BUPA healthcare with premiums fully paid by Darktrace for employee + eligible family members
+Salary Sacrifice pension scheme with company contribution of 4% and employee contribution of 5%
+Life Insurance 4x salary
+Cycle to work scheme
+
+#LI-Hybrid
+
+

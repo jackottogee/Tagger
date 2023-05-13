@@ -1,0 +1,56 @@
+About DarkInvader
+DarkInvader is a UK-based cyber security provider focussing on dark web and threat intelligence through its SaaS platform and highly-skilled team of security researchers.
+Our goal is to provide our customers with peace of mind by providing the UK’s leading cyber threat intelligence solution. Our mission is to passionately innovate new approaches to cyber threat intelligence processing.
+Role InfoWe are looking for a passionate and dedicated developer who would like to be a part of a fast growing team and work on a highly innovative product.
+We use TDD for the development process and a mixture of GitLab CI/CD + AWS services to deploy our code into production.We believe that the code can be deployed as often as required without planning inconvenient maintenance windows.
+The production environments are set up with AWS ECS (Fargate) and even if you do not know much about, do not worry! We will provide all necessary training :)
+An ideal candidate would have the following:
+
+Enjoys working as a team - helping others, and learning together
+Ability to organise own time within project and task requirements
+Good attention to detail with a desire for producing excellent code
+Good understanding of writing robust, readable code
+Appreciation of system design and overall architecture
+Desire to learn and grow skills and knowledge within a team learning context
+Contribute to team’s best practice in relation to coding principles, standards and methods
+Helping with support of existing sites and applications as needed
+
+The following technical skills and experience are required:
+
+Experience in writing robust, object-oriented PHP code with at least a couple of years experience in Laravel
+At least some experience with writing unit/feature PHP tests.
+A proficient level of experience in using GIT
+Methodical approach to troubleshooting and tracking down bugs
+
+Any of the following would be a bonus, but not essential:
+
+Degree in Software Engineering or equivalent course
+Experience and knowledge in higher-level concepts such as domain driven development, architectural patterns, etc
+Experience in test driven development is advantageous
+Experience with using AWS services such as: EC2, ECS, Lambda, RDS
+Experience with using Jira/Confluence to track project progress
+Experience with using Docker
+
+LocationOffice-based with the option to work from home 2 days a week.
+Benefits
+
+A small but passionate and friendly team to work with
+A team culture of continual learning together with regular training sessions
+Personal development opportunities
+Company contributed pension scheme (following probation period)
+25 days holiday plus bank holidays
+Work/life balance work from home or drop into the office.
+Company paid social events
+Great coffee and drinks supplied
+
+Job Types: Full-time, Permanent
+Salary: £45,000.00 - £57,000.00 per year
+Job Type: Full-time
+Salary: £45,000.00-£57,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Leeds City Centre, West Yorkshire: reliably commute or plan to relocate before starting work (required)

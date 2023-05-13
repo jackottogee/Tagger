@@ -1,0 +1,30 @@
+Full Stack C# DeveloperEstablished in June 2000, Storm has grown from strength to strength as a focused IT value-added reseller. Our aim is to deliver exceptional service to our customers in corporate and public sector organisations.As an IT solutions provider, storm delivers best-of-breed solutions, from hardware and software to networking, cloud and support services, we deliver a first-class service and enjoy multi-vendor partnerships, awards and accolades.With a growing team across account management, pre-sales, solutions and technical expertise, we work hard every day to retain our impressive portfolio of private and public sector clients.
+What you’ll be doingAs a Full C# Stack Developer, you will be responsible for developing and maintaining web applications, designing, coding and debugging applications and ensuring the applications are secure and optimized.
+
+Working on the development of Storm’s proprietary and in-house devised platform – commonly known as SAS. SAS is a platform that offers full ERP funcionality and well as support for our international logistics, value-added services, finance and warehouse teams.
+Developing and implementing punchout integrations with our customers ERP systems including Oracle, COUPA and Ariba among others.
+Working on complex API integrations between systems using: HTTP/REST, JSON, XML, EDIFACT/X12/GS1/GDSN/PEPPOL / OCI and cXml (punchout). ServiceNow experience a plus.
+
+The skills you’ll needWe are looking for an experienced Full Stack C# Developer to join our team. The ideal candidate will be someone with experience in ASP.NET core, MVC Architecture, JQuery, Razor, Bootstrao, VueJS, Tailwind, Elastic Search and Docker.
+
+Excellent problem-solving skills and the ability to work independently
+Strong knowledge of C# language
+.NET Framework and ASP.NET core
+Experience with relational and non-relational databases
+Experience with front-end development technologies such as HTML, JavaScript and CSS
+Knowledge of project-oriented programming and design principles
+Experience working with version control systems, such as Git
+Familiarity with MVC Architecture, Jquery, Razor, Bootstrap, VueJS, Tailwind, Elastic Search and Docker
+Strong communication, problem-solving and analytical skills
+Project management of integrations alongside customers
+
+What we offer
+
+Competitive Salary, dependant on experience, working Monday – Friday 9am – 5:30pm
+20 days annual leave plus 10 personal days and an extra half day off on your birthday.
+Employee Wellness programmes
+Enhanced Workplace Pension
+Day off each year to work with a charity of your choice
+Subsidised on-site Kitchen with an incredible chef offering breakfast and lunch every day
+
+Successful applicants will need to undertake an enhanced Disclosure and Barring Service (DBS) check upon starting your employment with us.Storm Technologies is an Equal Opportunities Employer, and we are committed to being a welcoming, successful, and compassionate workplace for all employees. The workforce at Storm is diverse and the environment inclusive.

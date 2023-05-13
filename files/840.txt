@@ -1,0 +1,53 @@
+
+A talented Web Developer, experienced in React is highly sought to help Marsh Mercer Benefits (MMB) continue to provide a competitive advantage through market leading analytics.
+
+ As our Analytics team continues to grow our Web Developer will share their React expertise, bring best practice and develop analytics solutions that will help the team make even more use of web technologies, evolving and designing the team development framework.
+
+ Ultimately, delivering improved analytics products to our clients and internal stakeholders.
+
+ Our team of analytics developers have started to utilise React, so will look for your React development experience to help improve our capability, building and delivering products and solutions at scale as well as contributing to our web development strategy going forward.
+
+ Our Analytics team are mainly based in London, with the expectation that you will be in the London office on average one day a week.
+
+ What is in it for you:
+
+ The chance to share your React Web development expertise
+ The opportunity to input on the React design principles of the team
+ The ability to make an impact on our organisation by building and improving market leading analytics solutions
+
+
+ What you need to have: 
+
+Proven experience of using React to build software
+ Experience of Web APIs
+ Commercial experience in developing web applications and software
+ Proven skill in designing and building scalable, maintainable, secure, and reliable software systems
+ Understanding of the latest web technologies and their application to deliver user-friendly and accessible products
+
+
+ What makes you stand out?
+
+ An understanding of or experience in MERN development and principles
+ An understanding of common design patterns and SOLID principles
+ Use of relational and non-relational databases (SQL, MongoDB or NoSQL)
+ Experience developing dashboards for internal or external stakeholders
+ Experience in leading discussions with technical leaders and key product stakeholders
+
+
+ At Marsh McLennan, we understand the complexity, and the reality, of the modern career path. If your experience looks a little different from what we’ve identified and you think you would be a great fit for the role, we would love to hear from you.
+
+ We will rely on you to:
+
+ Share your React development experience with our eager to learn team
+ Build analytics products using React
+ Work with multiple teams across multiple projects to help deliver analytics solutions
+ Stay up to date with new developments in the web development field and input how these could integrated into our future development framework
+
+
+ Mercer believes in building brighter futures by redefining the world of work, reshaping retirement and investment outcomes, and unlocking real health and well-being. Mercer’s more than 25,000 employees are based in 44 countries and the firm operates in over 130 countries. Mercer is a business of Marsh McLennan (NYSE: MMC), the world’s leading professional services firm in the areas of risk, strategy and people, with 76,000 colleagues and annual revenue of $17 billion. Through its market-leading businesses including Marsh, Guy Carpenter and Oliver Wyman, Marsh & McLennan helps clients navigate an increasingly dynamic and complex environment. For more information, visit https://www.mercer.com/. Follow Mercer on Twitter @Mercer.
+
+ #LI-PK1
+ #LI-LONDON
+ #LI-WEBDEVELOPMENT
+ #LI-REACTJS
+ #LI-DATAANALYTICS

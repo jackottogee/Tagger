@@ -1,0 +1,36 @@
+We are looking for an enthusiastic Junior Python Developer to join the Moore Kingston Smith Digital Transformation team on a full-time basis. 
+
+ You will be helping us to develop cutting edge product that is changing the way that auditors and accountants work. We believe it's possible for accountants to eliminate the time they currently spend on the repetitive work. They can turn their attention to providing deep, data-driven insight, risk-analysis, and advice through accessible analytics tooling. 
+
+ You will be working in a small team of developers with a large amount of autonomy, whilst receiving mentorship from experienced developers and data scientists to help develop your skills. We are looking for a Django developer to accelerate the build of our core product suite. 
+This is an exciting time for the department as we are looking to rapidly expand our product capabilities. We have ambitious growth plans across all areas of our business and are committed to building a market leading Digital Transformation team. The role will be one that grows over time and will offer the successful applicant the chance of true career progression. 
+
+ We have a great team culture that is professional whilst being relaxed. The team is experienced and committed to furthering the growth of our product. We have regular socials as a team as well as larger firm-wide socials. 
+
+ You will have the opportunity to improve your skills through paid courses on online platforms, as well as on the job mentoring and access to experts. 
+
+ We regularly attend pydata meetups and would encourage new joiners to come with us! 
+
+ Key responsibilities 
+Creating backend services using Django ORM and pandas transformations. 
+Creating web views presented via an Excel task pane and write Excel user Defined Functions using office.js to access backend services 
+Analyse user needs and software requirements to contribute to implementing a feasible design 
+Meaningfully contribute to long term strategic architectural decisions 
+Work closely with other members of the development team submitting, reviewing, and approving merge requests on a daily basis 
+Helping develop accountants' skills in data science for internal members of staff wishing to upskill in audit analytics 
+
+ Skills & expertise 
+
+
+Be proficient in writing Django apps in python, as well as demonstrating wider python skill and understanding
+Be proficient with transforming data in pandas
+Be able to contribute to our JavaScript Excel task pane add in either from existing JavaScript knowledge or by quickly picking it up
+Be able to use version control software (git) effectively
+Have a passion for programming and be willing to continually to develop their skills
+Exceptional analytical capabilities and a passion for problem solving
+Proactive with a desire to continue to learn and develop both quantitative and qualitative skills
+The ability to manage time, prioritise tasks and work under tight deadlines
+Good level of excel including familiarity with array formulae
+A standout candidate would have these skills/experience:
+Exposure to Azure
+Experience working as a software developer

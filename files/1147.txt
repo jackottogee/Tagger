@@ -1,0 +1,40 @@
+About us
+Ternary Technology Ltd is a small business in Reading, Berkshire. We are professional, agile, and our goal is to Transform out customer's IT stack.
+Our work environment includes:
+
+Modern office setting
+Work-from-home days
+
+Key Accountabilities and ownership:
+
+Involve in requirements gathering, gathering of available documentation and knowledge banks, i.e. data models, As-Is data flows
+Provide Support in HLD preparation for aligning customer expectations
+Preparing LLD for Data Cleansing and Data Alignment between CRM and Billing, .
+Identifiying entities and attributes that need to be aligned between CRM and Billing
+Impact Analysis of capabilities across several Releases and identify the potential capabilities which will require data clean-up or data alignment to map capabilities
+Data extracts from CRM as per initial impact analysis, Identification of the key requirements for USM Enrichment, Review of capabilities for the program and identification of data related requirements
+Design and Implementation of Task Engine and Delivery Engine templates based on the customer requirement for various product categories. (Preparing Metadata scripts, writing TMUs and Java Callouts)
+Involvement in ST, Integration Testing, E2E Testing, defects fixes, Build and Production Support.
+Building data reconciliation reports and KPIs from CRM and Billing Development perspective
+Adhere to quality processes and coding standards
+Maintain reference data for inventory repository and network and service models.
+Maintain an inventory repository for use by the Event Management, Incident, Change and Problem Management tools and processes
+
+Core Skillset
+Must Have technical/Professional Qualification: Bachelor's degree/relevant certification
+Fluent in scripting languages like Ruby, .Net, C# or Java
+Experience with Ruby, Laravel, Django or Express frameworks
+Experience with SQL, MySLQ and Oracle database systems
+Version control, such as Git, CVS or SVN
+Knowledge of SOAP and REST web services
+Excellent understanding of Oracle BRM capabilities, both technically and functionally.
+Ability to collaborate with multiple teams on complex project with good oral and written communication.
+Last date of application -25/05/2023
+Job Type: Full-time
+Salary: £33,000.00-£38,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Reading
+Application deadline: 25/05/2023

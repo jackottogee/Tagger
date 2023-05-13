@@ -1,0 +1,75 @@
+Level 4 Software Developer
+Weekly Hours Worked: 37.5 hours per week.
+About the company:
+KSOL.CO.UK is the largest provider of online and centre-based education improving numeracy and literacy for children preparing for Entrance Exams and transition to secondary school. Having won numerous awards including Solihull Times Best Business, Advantage West Midland’s highly commended Service Provider and IAB’s Outstanding Business, we have changed the education lives of hundreds of children who have used the KSOL programme. By improving a child’s educational and social confidence, we ensure ‘no child is left behind’. Each child has a personal tutor and receives a daily personalised online programme profiling their understanding of Maths and English.
+Brief job description:
+Estio Training have an exciting new opportunity for a Web/UX Apprentice with KSOL Key Stages Online, a Primary and Secondary Education Provider based in Solihull.
+Job Description:
+We seek a diligent and talented Apprentice Web/UX Designer to join our digital team, excelling in crafting visually striking, user-centric, and responsive websites. Collaborate with our digital marketing team, develop your expertise, and stay ahead of the curve in this ever-evolving industry. The successful individual will be reporting directly to the Development Manager and will want to enhance their skills by moving to front end development using .Net.
+Your duties and responsibilities in this role will consist of:
+
+Design and develop bespoke, responsive websites tailored to our specific requirements.
+Analyse website performance, understand analytics and suggest data-driven improvements to web pages.
+Be able to redesign web pages to ensure user interaction is optimised.
+Collaborate effectively with key stakeholders to ensure a consistent and high-quality output.
+Utilise industry-standard design software, such as Adobe Photoshop and Illustrator.
+Attend training sessions and workshops to continually expand your skills and knowledge.
+Stay current with the latest trends, best practices, and principles of good design in the web design field.
+
+Qualifications:
+
+5 GCSEs grades A*-C/9-4 or equivalent (including English Language and Maths)
+
+Skills Required:
+
+A strong passion for web design and a keen desire to learn and develop your skills.
+Solid foundational knowledge of HTML, CSS, and JavaScript.
+Experience with design software, such as Adobe Photoshop and Illustrator.
+Excellent attention to detail and the ability to thrive in a fast-paced environment.
+Outstanding communication and team-working skills.
+Superb spelling and grammar.
+
+Personal qualities:
+
+Bright, outgoing personality with a positive outlook and strong team-working bias.
+Excellent communication skills.
+Good punctually.
+Skilled in identifying and balancing the needs of the individual, the client and the organisation, remaining calm under pressure, whilst maintaining the ability to meet tight deadlines.
+Ability to develop immediate credibility with all levels of staff and acquire an in-depth understanding of the business.
+Ability to convey decisions and requirements succinctly and appropriately.
+Diplomatic but with assertive conflict-resolution and problem-solving skills.
+Confident in managing multiple tasks and tight deadlines.
+Self-motivated and keen to develop, with a willingness and desire to learn.
+
+Future prospects:
+The role offers a permanent role upon completion of the apprenticeship depending on performance.
+Training to be provided:
+Estio apprenticeship training programmes are delivered virtually by our fully qualified and industry experienced training team. Using their expert knowledge, we’ve purposefully built our programmes around the real-world use of modern technology, so that the skills we create can be directly applied in the workplace.
+Throughout the apprenticeship learners receive coaching, help and guidance from a dedicated team who are there to ensure they get the most from their work experience.
+Successful completion of this apprenticeship gives you an accredited Level 4 Software Developer, with training in how to:
+
+Create logical and maintainable codes for software development.
+Apply security best practice to the software solution throughout the software development life cycle.
+Apply appropriate recovery techniques to ensure the software solution being developed is not lost.
+Implement accurate and effective change control.
+Undertake unit testing of solutions, with appropriate levels of test code coverage, to identify and resolve issues.
+Apply suitable 'bug fixes' based on severity and priority.
+
+IND123
+Job Type: Apprenticeship
+Salary: £16,000.00-£21,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Solihull, B90 4AE: reliably commute or plan to relocate before starting work (required)
+
+Application question(s):
+
+Do you have any experience with design software, such as Adobe Photoshop and Illustrator?
+Do you have foundational knowledge of HTML, CSS, and JavaScript?
+
+Work Location: In person
+Reference ID: SES - Key Stages Online

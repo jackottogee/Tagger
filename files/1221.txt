@@ -1,0 +1,75 @@
+At International Workplace, our combination of subject-matter expertise and technical innovation, helps organisations to drive performance and individuals to realise their potential. It also makes us a unique place to work; bringing together a start-up culture and 25+ years’ experience within the learning sector.
+We are family-friendly, remote first and have a great team of people working together on our mission to evolve into a digital learning company. As part of our strategic move to focus our products entirely on digital solutions, we have a small but growing development team building an eLearning platform using the latest SaaS technology.
+The role
+Our latest opportunity is for a Senior Back End Developer to work alongside the Lead Developer and Project Manager on the technical design, architecture, and build of our CMS, eLearning suite and platform. In this role, you will execute the delivery of diverse technical projects across the development life cycle, whilst acting as a mentor to our team of dedicated junior and mid-level developers. This role is a great fit for a senior developer who will thrive on being a key contributor to the evolution of our digital platform, and playing an integral part in growing our culture.
+Main responsibilities
+
+Senior technical development with a back end focus
+Collaborating across the business to design and refine software development requirements
+Working alongside the Lead Developer and Project Manager on software architecture of back-end design, systems, functionality, and code
+Offering expert advice on innovative solutions and design to ensure our products and services are leading in their design
+Overseeing the building, testing, and deployment of both new and improvement features
+Through knowledge share and experience support the growth and development of the development team
+
+About you
+
+A minimum of 5 years of PHP experience
+Comfortable working in an agile environment
+Happy with high visibility within the dev team and excellent communication and collaboration skills
+Good understanding of Laravel
+Good MySQL knowledge
+HTML5, CSS (Tailwind), Javascript
+GIT
+REST APIs
+PSR-12/PER Coding standards
+
+Nice to have
+
+Front end experience (VueJS/ Flutter)
+Experience developing SaaS applications
+Good understanding of SOLID principles and design patterns
+Understanding of test-driven development
+
+Our core technologies
+
+Laravel (Tailwind, Apline.JS, Livewire, Filament admin)
+Multi tenancy CMS
+MySQL, Redis, ElasticSearch
+GitHub
+Microsoft Azure
+VueJS
+Flutter
+PEST testing framework
+
+What can we offer you?
+
+24 days holiday (increasing to 29 with years of service)
+Celebrate your birthday with the day off
+Additional Leave Purchase Scheme
+Remote or hybrid working options
+Perkbox access to discounted goods
+Employer pension contribution of 4%
+Paid volunteer days
+Opportunity to engage with the Laravel community at conferences/events
+Learning and development opportunities
+
+To apply: Please send your CV and a short covering letter to: recuitment@internationalworkplace.com
+For more information visit:
+www.internationalworkplace.com/about-us/careers
+Job Types: Full-time, Permanent
+Salary: £51,000.00-£55,000.00 per year
+Benefits:
+
+Additional leave
+Company pension
+Employee discount
+Paid volunteer time
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Remote
+Application deadline: 19/05/2023Reference ID: IW - Senior Developer

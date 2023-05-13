@@ -1,0 +1,142 @@
+
+
+
+
+
+
+
+
+
+LEVEL
+ Mid-level
+
+
+
+
+
+
+ TEAM
+ Development
+
+
+
+
+
+
+ TYPE
+ Full-time
+
+
+
+
+
+
+ LOCATION
+ Remote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT WE NEED
+ Qualifications
+
+
+
+BS or MS degree in Computer Science, Engineering or related field
+Min 3 years of proven experience in native Android development
+Strong OOD/OOP skills based on Java programming language
+Good understanding of application life cycle and components like Activity/Fragment/Service
+Hands-on experience in MVVM architectural patterns
+Strong knowledge of Live data, data binding, RxJava, Room Database, Dependency Injection principles
+Proficient understanding of code versioning tools, such as Bitbucket, Git
+Deep understanding of Android SDK
+Understanding of Web Services; with their use in mobile implementations
+Knowledge of the general mobile landscape, architectures, trends, and emerging technologies
+3rd party tool integration experience is a plus
+Ability to write clean and well-documented code
+Live Android application on Google Play store is preferred
+Efficient level of English to research, write documentation and read
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT YOU WILL DO
+ Job Description
+
+
+
+Developing and updating applications in Android platform
+Contributing to all processes of our projects from analyzing to publishing
+Fulfilling the responsibilities taken on time and thoroughly
+Participate in Agile sprint planning sessions and provide constructive feedback
+Deliver through the entire app life cycle from concept and design to release and support
+Implement product features within a team using best practices to meet product deliverables
+Work on bug fixing and improving application performance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT WE OFFER
+ Offering?
+
+
+
+100% Remote work
+Dynamic and friendly work environment
+Continuously learning and development opportunities
+Extra vacation time
+A competitive salary with great benefits
+Stock options available to qualified employees
+Private health insurance
+
+
+
+
+
+
+
+
+
+
+

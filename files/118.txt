@@ -1,0 +1,243 @@
+
+
+
+
+
+Overview
+Technology
+Full Time
+Closes 26/07/23
+
+
+Stoke-on-Trent
+
+Full Time
+Closes 26/07/23
+
+
+
+
+
+Who we are looking for
+Within the Trading and Tools team you will be responsible for developing, maintaining and evolving our trading applications. These tools are used by the trading department to create and configure fixtures allowing customers to place bets before and during games. As well as trader activity, the team develops and supports the services to react to real-time data feeds, providing instant feedback on fixtures to both traders and customers.  As a Junior Software Developer you will be working in a team of experienced developers where you will learn to develop C#, .Net applications and services along with gaining essential business functional and trading knowledge.  Our existing team of skilled developers will provide you with support and guidance throughout your progression.  As well as developing your C#, .Net and SQL skills there is also the opportunity to learn Go via our in house training programme. You will be provided with a full Pluralsight license in addition to the above to aid with your training.  This role is eligible for inclusion in the Company’s hybrid working from home policy.
+
+
+
+
+
+
+Preferred skills and experience
+
+
+
+      Passion for coding in object-orientated languages.
+     
+
+
+
+
+      Relational database knowledge or experience.
+     
+
+
+
+
+      Production experience or demonstrable knowledge of C# or similar object-orientated language.
+     
+
+
+
+
+      Code analysis, ability to review existing code and apply to new problems.
+     
+
+
+
+
+
+
+        Flair for problem solving.
+       
+
+
+
+
+        Excellent communication skills, both verbal and written.
+       
+
+
+
+
+        Strong team player.
+       
+
+
+
+
+
+
+
+
+
+
+Main Responsibilities
+
+
+
+      Developing, maintaining and enhancing the trading applications, with the guidance and support of your team.
+     
+
+
+
+
+      Expanding your knowledge in C# and SQL.
+     
+
+
+
+
+      Developing your skills with Git version management and Jira issue management.
+     
+
+
+
+
+      Learning to use Go via in house training.
+     
+
+
+
+
+
+
+        Investigating issues and drive performance improvements.
+       
+
+
+
+
+
+
+
+
+
+
+Want to become part of the team?
+
+
+
+
+
+
+
+The benefits of working with us
+
+
+
+
+Bonus Schemes
+
+Recognition for your performance and hard work.
+
+
+
+
+Company Pension
+
+Preparing you for later life with a top pension.
+
+
+
+
+Employee Assistance Programme
+
+Supporting the wellbeing of you and your family.
+
+
+
+
+Eye Care
+
+In a digital world, we help take care of your vision.
+
+
+
+
+Income Protection
+
+Your income is protected, just in case.
+
+
+
+
+Life Assurance
+
+Peace of mind for your family in any eventuality.
+
+
+
+
+Life Events and Long Service
+
+To celebrate your big occasions, dedication and hard work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Stoke-on-Trent
+
+We were founded here in 2000 out of a portacabin, and now we are one of the largest private employers in the area.
+
+
+
+
+Our location
+
+Historically, the area found its fortune creating world renowned pottery.
+We benefit from great transport links due to our central location.
+The bet365 Stadium is home to Stoke City football club.
+Alton Towers, World of Wedgwood and the Trentham Monkey Forest are just some of the nearby attractions.
+
+
+
+What we get up to
+Our Stoke office is home to our industry leading technology provider, Hillside (Technology) Ltd, and also support services roles to our gambling operations. The opportunities are endless, with roles in Technology, Marketing and Customer Support departments all under one roof.  Many of our teams operate 24 hours a day, so it is a hub of activity at all times.
+
+
+Some location benefits
+
+
+
+On-Site Restaurant
+
+
+
+Tea and Coffee Service
+
+
+
+Great Commuter Links
+
+
+
+Company Leisure Facility
+
+
+
+
+
+
+
+
+
+
+

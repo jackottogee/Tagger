@@ -1,0 +1,35 @@
+We are a fintech startup offering premium debit cards with cashback rewards targeted at younger people. We are looking for a skilled Development Intern with a focus on AI/ML to join our team. The ideal candidate will have a solid foundation in web development, with a strong understanding of JavaScript, Python, and MEAN stack.
+Responsibilities:
+
+Collaborate with our development team to design and implement new AI/ML features and functionality using ChatGPT and other language models
+Develop and maintain clean, efficient, and well-documented code using MEAN stack
+Participate in code reviews to ensure code quality and adherence to best practices
+Work closely with our team to troubleshoot and resolve issues in a timely manner
+Contribute to the research and feature development of new AI/ML capabilities with financial services
+Keep up-to-date with the latest developments in AI/ML and web development
+
+Requirements:
+
+Strong understanding of web development principles and technologies, with a focus on MEAN stack
+Solid understanding of JavaScript and its frameworks
+Experience with AI/ML libraries and frameworks
+Ability to write clean, efficient, and well-documented code
+Strong problem-solving and troubleshooting skills
+Ability to work independently and in a team environment
+Passion for learning and staying up-to-date with the latest AI/ML and web development trends
+
+Education and Experience:
+
+Pursuing or completed a degree in Computer Science in the UK
+Previous experience or coursework in AI/ML is preferred but not required
+
+Job Types: Part-time, Internship
+Application question(s):
+
+Share a link to your personal Github code repository:
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Hybrid remote in London

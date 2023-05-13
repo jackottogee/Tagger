@@ -1,0 +1,55 @@
+
+Developer London
+
+ As a Barclays Developer, you will work closely with business. You will be located on the trading floor next to the risk managers. Requirements are given fast and iteratively, so an interest in the business and pragmatic use of technology to hit the optimum solution is essential. For this role, you will also need to be able to analyse the requirements as well as develop a robust solution.
+
+ Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality, and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive and creating financial and digital solutions that the world now takes for granted.
+
+ Working Flexibly We’re committed to providing a supportive and inclusive culture and environment for you to work in. This environment recognizes and supports ways to balance your personal needs, alongside the professional needs of our business. Providing the opportunity for all our employees, globally to work flexibly empowers each of us to work in a way that suits our lives as well as enabling us to better service our customers’ and clients’ needs. Whether you have family commitments or you’re a carer, or whether you need study time or wish to pursue personal interests, our approach to working flexibly is designed to help you balance your life. If you would like some flexibility, then please discuss this with the hiring manager, and your request will be reviewed subject to business needs.
+We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month, or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally can request work patterns to reflect their personal circumstances. Please discuss the detail of the working pattern options for the role with the hiring manager.
+
+
+
+What will you be doing?
+ • Developing software tools and applications in a global team environment
+  
+
+Interpreting market risk requirements and turning them into technical solutions
+Working independently and handling multiple tasks in a fast pace environment
+Communicating clearly with different Risk Management teams and effectively managing stakeholder expectations
+Liaising with technology and business stakeholders in order to provide information, coordination, and/or status reports on various projects
+Interacting and collaborating with Equity Market Managers on the trading floor
+Ensuring that all activities and duties are carried out in full compliance with regulatory requirements
+
+
+
+
+
+What we’re looking for:
+ • Bachelor’s degree or higher (Computer Science, Mathematics, Engineering, Economics, Finance or equivalent)
+  
+
+Broad technical knowledge and understanding across a variety of programming languages, libraries, formats and platforms
+In depth C# knowledge including both client and server
+Excellent SQL (T-SQL, MS SQL Server 2012 or higher) skills
+
+
+
+
+
+Skills that will help you in the role:
+ • Further study/ongoing education of any form in relation to this role
+  
+
+Experience in developing technical solutions to business requirements in a Risk/Finance environment
+Advanced VBA/excel skills
+WPF and ASP.Net knowledge
+
+
+
+
+Where will you be working? In the heart of Canary Wharf, our headquarters at Churchill Place boasts onsite amenities such as; a gym, staff restaurant and deli bar, and is easily accessible by tube and bus links. With a population of around 5000 staff the atmosphere is second to none with a real buzz being created around the offices within.
+
+
+
+#LI-Hybrid #software #LI-PP1

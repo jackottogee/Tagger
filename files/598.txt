@@ -1,0 +1,64 @@
+Summary
+Ennov PV is recruiting for a software developer to join our team in St Neots, Cambridgeshire.
+The role involves working with specialised software applications which monitor and report the safety and quality of human and veterinary pharmaceuticals.
+Duties and Responsibilities
+The Software Developer will:
+
+Contribute to the overall development effort as part of the Agile Scrum team.
+Study relevant technical solutions and write technical specifications.
+Develop product features.
+Create deployment pipelines.
+Correct anomalies / bugs.
+
+Skills and Qualifications
+You have an ability for communication that enables you to contribute in a positive way to the team’s progress. You are autonomous, with the willingness to join an agile and dynamic team. You are passionate about software development and automation.
+Required Skills:
+
+English language
+Strong functional programming / OOP in Java 8+
+Practical knowledge of SCRUM and GIT
+A good university degree in computer science/software engineering or equivalent life experience and knowledge.
+
+Useful Skills:
+
+Container technologies / Virtualisation
+Automation CI/CD
+Networking
+Javascript / Web app frameworks
+SQL
+Linux
+Scripting languages
+
+Benefits:
+
+Bike to work scheme
+Casual dress
+Company pension
+Flexible schedule
+On-site parking
+Sick pay
+Work from home
+
+Job Type: Full-time
+Benefits:
+
+Work from home
+
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+St. Neots: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Hybrid remote in St. Neots
+Reference ID: DEV-UK-001

@@ -1,0 +1,133 @@
+
+
+
+
+
+     Job reference 
+     4876812003_crt:1678790214897
+
+
+
+
+     Company Name 
+     Rockstar Games UK 
+
+
+
+
+     Salary 
+     Competitive
+
+
+
+
+
+
+     Location 
+     Edinburgh, United Kingdom
+
+
+
+
+     Country 
+     United Kingdom
+
+
+
+
+     Industry sector 
+     Programming
+
+
+
+
+
+
+     Job start date 
+     ASAP
+
+
+
+
+     Posted date 
+     14/03/2023
+
+
+
+
+     Experience Level 
+     Junior-Associate
+
+
+
+
+
+
+     Job type 
+     Permanent | Full Time
+
+
+
+
+     Remote / Hybrid 
+     No
+
+
+
+
+
+
+At Rockstar Games, we create world-class entertainment experiences.  A career at Rockstar Games is about being part of a team working on some of the most creatively rewarding and ambitious projects to be found in any entertainment medium. You would be welcomed to a dedicated and inclusive environment where you can learn, and collaborate with some of the most talented people in the industry.  With the rapid growth of Grand Theft Auto Online, and other long-term Social Club plans, the successful candidate will be working on bleeding edge technology with an internationally established team, while having great attention to detail, being a strong team player and have excellent communication skills.  We are looking for someone who is passionate about games, eager for new challenges, and ready to continue our legacy of creating the greatest games in the world.  WHAT WE DO 
+
+The Rockstar Games Social Club is a technology platform that powers Rockstar's online titles and our ability to deliver world-class player experiences.
+We create and maintain high-impact features for Grand Theft Auto Online, Red Dead Online, the Rockstar Games Launcher, and the Social Club website, as well as the core Social Club player, accounts ecosystem, and related social and messaging channels.
+We also align technology and tools with our digital distribution platform to create solutions that enhance our games and empower various teams within Rockstar - including development, marketing, security, and customer support - to engage with our players.
+
+
+RESPONSIBILITIES
+
+
+Development of front-end features and applications utilizing JavaScript (React.js).
+Collaborate with other Rockstar technology teams across our worldwide studios.
+
+
+QUALIFICATIONS
+
+
+3+ years of professional web development experience.
+A degree in computer science or equivalent.
+Great communication skills as a core member of an internationally-based team.
+Passion for web technologies and a desire to remain up to date with the latest technologies.
+
+
+SKILLS
+
+
+Expert in JavaScript with experience in React.
+Expert in HTML & CSS.
+Knowledge of the ECMAScript 2016 (ES2016) Standard.
+Good experience with shared code and use of source control platforms.
+Knowledge of Agile software development processes.
+Appreciation of software development best practices.
+Experience with Visual Studio.
+Passion for games (especially Rockstar Games titles).
+
+
+PLUSES
+
+ Please note that these are desirable skills and are not required to apply for the position.
+  
+
+Experience authoring for mobile devices.
+Experience working on high-traffic, responsive websites and applications.
+
+
+HOW TO APPLY
+
+ Please apply with a resume and cover letter demonstrating how you meet the skills above. If we would like to move forward with your application, a Rockstar recruiter will reach out to you to explain next steps and guide you through the process.
+  
+ Rockstar is proud to be an equal opportunity employer, and we are committed to hiring, promoting, and compensating employees based on their qualifications and demonstrated ability to perform job responsibilities.
+  
+ If you've got the right skills for the job, we want to hear from you. We encourage applications from all suitable candidates regardless of age, disability, gender identity, sexual orientation, religion, belief, or race.
+ 
+

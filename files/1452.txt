@@ -1,0 +1,40 @@
+
+ Acorn Technology is working with a leading Public Sector body who are embarking on a significant Digital Transformation company wide in Wales to find a Senior Developer to supplement an already talented team. The role is based in Newport with a hybrid working policy of 1 day a week in the office.
+ 
+ The successful candidate will have the opportunity to work on the latest cutting-edge cloud technologies, use modern delivery processes and work on innovative projects, some including the use of AI and ML. Working alongside experts in their fields you will have the opportunity to make valuable contributions without compromising on quality.
+ 
+ Key skills / technologies:
+ 
+
+Has been a key player in delivering technical solutions as part of a large projects
+Excellent understanding of C# 
+Experience in Web Services and/or RESTful APIs
+Experienced with modern delivery models such as Scrum and Agile
+Has a good understanding of architectural principals with design patterns such as SOA and Micro-Services
+Experience of working with cloud technologies including Azure
+Working knowledge of Azure DevOps
+Experience with Git
+Experience of writing SQL statements
+
+ Desirables:
+ 
+
+Experience with additional mainstream development languages - such as Java, Spring or Python 
+Experience writing Unit Tests, using tools such as MS Test, and an understanding of TDD principles 
+Advocate of DevOps principles 
+Experience with automated testing tools and methodologies
+Experience with Docker
+
+ Benefits:
+ 
+
+A very generous pension scheme with 27.1% - 27.9% employer contributions
+Flexible and remote working (1 day a week in office)
+Diverse and varied job shadowing & development opportunities
+Trainer-led learning through Civil Service Learning and our training partners
+Access to Microsoft's ESI training suite
+Access to free on-site parking, gym, café and restaurant
+
+ If this sounds like the role for you, please apply online or get in touch with Dan Newton from Acorn Recruitment on 07825 504701
+ 
+ Acorn by Synergie acts as an employment agency for permanent recruitment.

@@ -1,0 +1,45 @@
+ABOUT US
+Boring Money has been set up to help ‘normal people’ make better choices with their savings, investments and pensions. Without boring them to tears on the journey!
+Our readers shape our products with their feedback, ratings and reviews, helping us to build the financial lovechild of TripAdvisor and Which? We are an information business – we help consumers to make better choices; and our research, insights and data team help the industry to make better products and services. As such we work with both consumers on our B2C side, and the industry on our B2B side.
+SUMMARYWe are looking for an ambitious and self-driven back-end developer to join our team.
+You’re a technologist who enjoys working across multiple languages and platforms and is always looking to advance your skillset in a fast moving environment.
+You will be responsible for technical design approval, continually investigating new technologies and providing guidance to take our web presence to the next level.
+WHAT ARE WE LOOKING FOR?
+
+Experience working with .NET.
+Experience of Designing and developing APIs is of benefit.
+Comfortable working with MVC.
+Experience of using tools such as: Jira/Github.
+A good understanding of web performance and accessibility best practices.
+A team oriented approach, with strong verbal and written communication skills.
+A desire to learn and develop new and existing skills.
+
+YOU MAY ALSO HAVE...
+
+Experience working within an Agile framework.
+Experience working with a CMS.
+
+BENEFITS
+
+Pension plan
+4 Freedom Fridays every year – early finish to start the weekend sooner
+Modern office space by Bond St tube
+Sociable friendly team on a mission to create something great
+Combine the benefits of a start-up with the solidity of a proven track record, an established customer base and a blue-chip shareholder register
+
+FIND US HERE
+www.boringmoney.co.uk
+www.boringmoneybusiness.co.uk
+Job Type: Full-time
+Salary: £30,000.00-£55,000.00 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work Location: RemoteFlexitime

@@ -1,0 +1,27 @@
+
+Frontend Developer
+ Permanent 
+Remote
+ Up to £45,000
+ We are partnered with a hospitality-tech company who are leading the way in mobile ordering and service. Their technology puts the power to order and pay back into the hands of their customers and they currently processing thousands of orders a week whilst deploying new features and updating their tech stack.
+ There's ample of opportunity to progress and develop within the business as they continue to grow and after a recent round of investment, they are now looking to grow their development team. Nothing is off-limits and if there's something that you wish you get involved in then this is the place to do it.
+ They are now looking for talented and experienced Frontend Developers to help evolve and push forward their web and mobile platforms. They are looking for your passion, ideas and technical know-how so they can shake things up even more. They believe in making the hospitality industry modern, fast and efficient, and they are looking for Frontend Developers to join them on this journey.
+ What will you be doing:
+
+ Deliver features across their platforms from their SPA mobile ordering solution, to their internal and client-facing web apps
+ Be an integral part of their small team, voicing input on key decisions and being involved throughout the lifecycle of a feature from conception to implementation
+ Suggest new technologies or better ways of working
+ Ability to work using your own initiative
+ Be willing to teach and to learn
+ Help drive forward the development standards for the Frontend team
+
+ What are we looking for?
+
+ Good experience within Frontend Development including experience working with React.js
+ Understanding of server-side JavaScript and Node.js
+ Experience with modern JavaScript tooling including WebPack and Babel
+ In-depth knowledge of modern development practices
+ Knowledge of RESTful APIs
+
+ Burns Sheehan Ltd will consider applications based only on skills and ability and will not discriminate on any grounds.
+

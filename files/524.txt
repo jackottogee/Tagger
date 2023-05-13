@@ -1,0 +1,67 @@
+
+ Overview: 
+  Python Developers are required to join Wipro’s Global Energy practice. You will be part of the Energy Trading projects team that deliver key value add digital transformation solution to our top tier customers in the energy transition sector.
+
+ Key accountabilities include:
+  
+
+Solution consultation and development in accordance to the enterprise technology principles, methods, standards, and practices. 
+Estimation, solution design, detailed technical design, application technical deliverables including code, associated tests and documentation.
+Contribution to functional excellence in terms of definition and maintenance of standards, methods and tools, bringing in best practices from market standard implementations.
+Manage complex integration scenarios and interfaces between on-premise solutions, cloud and legacy systems.
+
+
+
+ Skills and Experience required:
+  
+
+Experience of delivery within a banking or trading environment.
+5+ years of relevant software development experience 
+Creating applications and packages with Python 3
+Writing reliable unit and end-to-end tests with PyTest
+Experience working in fast- paced project delivery using AGILE methods
+Strong software development skills, knowledge of best practices (SOLID, CI/CD, MS DevOps pipelines etc.)
+MS Azure experience e.g. virtual networks, key vaults and storage, security
+MS SQL backend development experience
+ Desirable: 
+  
+
+Basic knowledge in numerical calculus, such as multi-dimensional function interpolation, numerical differentiation
+Web development with Python
+Hands on in ADF and Azure Databricks
+Knowledge of physical commodities trading markets and organisations (esp. LNG/ gas/oil).
+Data Engineering experience blended along with core software engineering experience
+Experience of working directly with traders on trader models.
+Kubernetes containers
+Data manipulation with Pandas
+Python: Bokeh visualization, Tornado web framework, asyncio programming, Azure Python API
+Experience in developing API's in python using FastAPI
+Hashicorp Terraforms (azurerm)
+Kafka Confluent
+Conda package management
+ReactJS front end development experience
+Basic understanding of the WebSockets protocol
+Knowledge of the OAuth2 and web security
+Basic knowledge of modern JavaScript, TypeScript, Node.js
+
+
+
+
+ Must be eligible to work in the UK.
+
+
+
+ Location: UK/ London with the option for 2-3 days remote working
+ 
+
+
+ What is in it for you?
+ 
+
+
+ This is a lifetime opportunity to work with best if IT Talent and grow your skills multi-dimensionally. As well as developing leading products for the energy transition sector. If you are interested and meet the criteria required, then we at Wipro would like to see you CV.
+ 
+
+
+ Wipro is ranked as a “Top Employer” as part of the Top Employer Institute annual listings. We were assessed on several key HR practices including Diversity and Inclusion.
+ 

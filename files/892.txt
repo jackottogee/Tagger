@@ -1,0 +1,99 @@
+
+Ocado Technology, powering the future of retail through sustained disruptive technology innovation...”
+ About Us Ocado Technology is putting the world’s retailers online using the cloud, robotics, AI, and IoT. We develop the innovative software and systems that power Ocado.com, the world’s largest online-only grocery retailer as well as the global ‘Ocado Smart Platform’. With everything from websites to fully autonomous warehouses that we design in-house, our world-class talent constantly moves the goal posts of what is possible to achieve through sustained technological disruption.
+
+ We champion a value-led culture to get our teams working at their very best and to help create a collaborative working environment that our people love. Core values of Trust, Autonomy, Craftsmanship, Collaboration and Learn Fast help drive our innovative culture.
+
+ Job Purpose
+ To develop, prototype, and troubleshoot library developed repeatable PLC controlled systems at OSP (Ocado Smart Platform) or existing Ocado warehouses.
+
+ What would I be doing? 
+
+
+Software Development:
+
+ Develop a PLC library that allows Ocado to standardise the rapid creation of new OSP peripheral stations.
+ Develop a PLC library that allows bespoke systems integrated by third parties to be consistent in all ocado warehouses.
+ Create reliable systems, integrating the previously mentioned library, that allows to diagnose the status of the machinery and helps the warehouse engineers to effectively support it.
+ Create tools that automate the manual deployment processes making the warehouse software roll-outs more efficient.
+ Create a suite of automated tests in order to simulate the PLC behaviour before the software gets deployed into a real machine.
+
+ Prototyping and testing:
+
+
+ Work with project engineering team to prototype and test all repeatable PLC controlled mechanical handling equipment (MHE) systems.
+ Execute software integrations tests that allow to check the correct interface with the full Ocado software stack.
+ Troubleshoot fieldbus networks using software and hardware diagnostic tools.
+ Assist project engineering team with any electrical or mechanical troubleshooting during commissioning.
+ Liaise with engineering team to report issues or improvements to the control of the MHE.
+ Identify problems with IT networking to the MHE and work with technical support team to resolve any issues.
+ Generate MHE reliability reports for business testing team to allow handover of the equipment from project to engineering teams.
+
+
+ Handover of machines to operations according to the overall timescales may involve additional hours during the weekdays.
+
+
+ Support
+
+ Support factory acceptance testing of all new machines.
+ Support business acceptance testing of all new machines.
+ Review performance of machines and investigate poor performance.
+ Investigate faults reported by the operations team, identify whether it is a software or hardware fault and escalate to the relevant team if it does not fall within the scope of this team to resolve.
+ Identify electrical and mechanical failures and work with engineering operations to resolve.
+
+
+ Support roll outs of new features or fixing urgent software issues.
+ Provide training to engineering operations on manual recovery of machines, use of SCADA and fundamentals of PLC architecture and operation.
+
+
+ Organise the provision of support for existing equipment in the field as required. This may be in the form of training and documentation for onsite support teams or direct on-call or on-site support.
+
+
+ Maintain a detailed understanding of the functionality and operation of all supplied equipment. Participate / initiate discussion on improvements and modifications with other teams and internally.
+
+ Bespoke systems and new machine design
+
+ Work with team lead and the project managers to review architecture and designs of 3rd party supplied systems.
+ Attend design review meetings with vendors.
+ Supervise and where necessary lead the testing of these control systems.
+
+ You may be asked to perform tasks as required by management deemed as a reasonable request. This job description is a summary of the typical functions of the role, not an exhaustive or comprehensive list of possible role responsibilities, tasks and duties and is subject to review. The responsibilities, tasks and duties of the job holder might differ from those outlined in the job description and other duties, as assigned, might form part of the job.
+
+ What we are looking for:
+
+ A good degree, in engineering, computer science or a related subject.
+ Extensive experience developing PLC software for industrial applications.
+ Strong problem-solving credentials, technical leadership and ability to innovate.
+ Experience with hardware commissioning.
+ Understanding of electrical drawings and basic electrical fault finding skills.
+ Experience working in a collaborative team focused environment.
+
+
+ Bonus points for: 
+
+Siemens TIA portal
+ Profinet commissioning and troubleshooting
+ Profibus & ASI bus troubleshooting
+ Inverter setup with Schneider SoMove or SEW Motion Studio
+ Siemens safety PLC and experience with functional safety systems
+ At least 3 years experience working with mechanical handling equipment
+
+
+ What we offer you: Our employee benefits are designed for you, we care about people and we’ve ensured we have a wealth of benefits that focus on your well-being. We can offer technically stretching work, a competitive salary and; We also have regular divisional socials, sports clubs not to mention the Ocado Technology Academy for a packed schedule of courses, conferences and events. If you think you have what it takes to make a difference, please submit your application below. We welcome applicants from across the world. If your employment is subject to sponsorship under the UK points-based immigration system, Ocado Group will only pay for the cost of a Certificate of Sponsorship for you, including the Immigration Skills Charge (ISC) if applicable. You will be responsible for the cost of your own visa application and the Immigration Healthcare Surcharge (IHS).
+
+ 30 days ‘working from anywhere in the world’ policy
+ Wellbeing support through dedicated apps and an Employee Assistance Programme
+ 25 days annual leave, rising to 27 days after 5 years service (plus optional holiday purchase)
+ Pension scheme (various options available including employer contribution matching up to 7%)
+ Generous Private Medical Insurance (within the first month of joining!)
+ Income Protection (can be up to 50% of salary for 3 years) and Life Assurance (3 x annual salary)
+ 22 weeks paid maternity leave and 6 weeks paid paternity leave (once relevant service requirements complete)
+ Train Ticket loan (interest-free)
+ Cycle to Work Scheme
+ Free shuttle bus to and from Hatfield Train Station to the Hatfield offices
+ Free shuttle bus to and from Welwyn Garden City Train Station to the Welwyn Garden City offices
+ Opportunity to participate in Sharesave and Buy as You Earn share schemes
+ 15% discount on Ocado.com and free delivery for all employees (within the first month of joining!)
+
+ Ocado Group is an equal opportunities employer and as such makes every effort to ensure that all potential employees are treated fairly and equally, regardless of their sex, sexual orientation, marital status, race, colour, nationality, ethnic or national origin, religion, age, disability or union membership status. Due to the energising nature of Ocado's business, vacancy close dates, when stated, are indicative and may be subject to change so please apply as soon as possible to avoid disappointment. If you have applied and been rejected for this role in the last 6 months, or applied and been rejected for a role with a similar skill set, we will not re-evaluate you for this position. After 6 months, we will treat your application as a new one. All benefits information is subject to change and the terms of the individual arrangements. Please assume you have been unsuccessful if you haven’t heard from us within 4 weeks.
+

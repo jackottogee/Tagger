@@ -1,0 +1,38 @@
+
+Automata is building a world-class company to disrupt the life science industry and empower scientists by making automation a reality for every lab.
+ We work with labs across the world to understand their specific workflows and needs and develop personalised solutions that range from diagnostic, and drug discovery to synthetic biology. This allows us to simplify common automation tasks, while supporting more advanced paths for specialised workflows, in a fast, flexible, and cost-efficient way.
+ We are looking for an Applications Engineer whose mission is to be a multi-purpose software developer who will act as a conduit for several different internal teams. You will gain incredible experience in the intersection between hardware and software in a lab automation setting. 
+Why is this role important for Automata?
+ We often refer to our team as the Swiss Army Knife of Engineering. They have a broad range of skills and interests, but at least one domain specialism. The Applications Engineers ultimately bridge a gap between science and technology, which is invaluable to the business. We've been growing considerably over the past year and there’s a plethora of projects that require your expertise!
+ What we’re looking for:
+ For this role, we’re looking for someone who is a software developer at their core, where you’ll get to use your technical expertise to creatively solve challenges in the lab automation field from an engineering perspective.
+ You’ll be working in a fast-paced environment, so you must be able to think on your feet and adapt quickly to new priorities or information. You’ll need a voracious appetite for learning - especially in areas that might sit outside of your comfort zone (e.g. biology, life sciences).
+ For example, you may need to brainstorm a bespoke design for an internal project with your colleagues one day, write Python code for an in-house demo another, or learn about a new device on the market and help to integrate it onto our platform.
+ You’ll be our first hire in this role, so being a self-starter will be important. You’ll be given plenty of space to explore new ideas, and have regular opportunities to get hands-on with scientific equipment.
+ In this role you will be responsible for:
+
+Creating new tools to improve the quality and speed at which our teams deliver work to clients.
+Writing software workflows to control our automation platform.
+Provide technical support to your team on all aspects of software engineering.
+Experiment and evaluate new software technologies.
+Act as the ‘go-to’ person within the team for our new software platform.
+
+What it takes:
+
+You’ll likely have a degree in computer science or a similar subject, or you have a proven track record working as a software developer.
+You’ll be comfortable working with standard development tools.
+You will have worked on larger, more complex Python projects and know how to create simple web apps in Python.
+You have good experience working with databases like SQL, and PostgreSQL.
+It would be great if you’ve done projects with Arduino, Raspberry Pi etc. or have prior experience in low-voltage electronics. 
+Basic knowledge of electronics (soldering, writing, digital/analog IOs).
+Outstanding communication and interpersonal abilities.
+Good problem-solving and analytical skills, with attention to detail to allow you to identify the problem and apply an acceptable resolution.
+Hands-on mentality with the ability to manage multiple priorities.
+Fluent in the English language, both written and spoken.
+
+How the team works:
+ Due to the nature of our work, each team member tends to set their own workload while also enjoying a degree of continuous change. If you are looking for a role that allows you to work autonomously and embrace change, then this may be the right fit for you.
+ What gets us excited?
+ We’re passionate about the future of Technology and Automation and our growing success is built upon like-minded individuals who share our passion.
+ The Applications Engineering team consists of enthusiastic, multi-skilled individuals from various backgrounds. You'll get the opportunity to work on a diverse cross-section of projects whilst learning new engineering and scientific skills.
+ If this sounds like a good fit and has ticked the right boxes, you will love having the opportunity to build something that immediately adds value.

@@ -1,0 +1,31 @@
+
+Robert Half Technology are assisting a global market leading Telecommunications organisation to recruit a Network Automation Developer on a 6 month contract - c£600-£700 per day - fully remote working 
+Role
+ 
+
+The Network Automation Developer will provide support and direction to the developers to ensure they meet the objective of
+ the Jira story's and produce quality code.
+ Work in conjunction with lead developer and PO to design service intents that meet
+ the customers outcomes.
+ Ensure that the company strategy set by the architects and Lead developer is followed.
+ Feed into a cycle of continuous improvement.
+
+ Profile
+
+ The Network Automation Developer will be familiar with using CI/CD development approach.
+ Working knowledge NETCONF / REST / RESTCONF / SOAP
+ Working knowledge of Source control tools e.g., GitLab. · Python coding skills
+ Competent at service modelling in Yang
+ Excellent networking skill (L2 VPN, L3 VPN, EVPN, MPLS, SR, LDP, BGP and IGP)
+
+ Company
+
+ Global market leading telecommunications organisation
+ £600-£700 per day, depending on experience 
+Fully remote - UK based 
+6 Month long project - likely to extend 
+
+Salary & Benefits
+ The salary range/rates of pay is dependent upon your experience, qualifications or training.
+ Robert Half Ltd acts as an employment business for temporary positions and an employment agency for permanent positions. Robert Half is committed to equal opportunity and diversity. Suitable candidates with equivalent qualifications and more or less experience can apply. Rates of pay and salary ranges are dependent upon your experience, qualifications and training. If you wish to apply, please read our Privacy Notice describing how we may process, disclose and store your personal data: roberthalf.co.uk/legal-information/privacy-notice.
+ Security alert: scammers are currently targeting jobseekers. Robert Half do not ask candidates for a fee or request candidates to send applications through instant messaging services such as WhatsApp or Telegram. Learn how to protect yourself by visiting our website: roberthalf.co.uk/fraud-alert

@@ -1,0 +1,19 @@
+
+Sword Codify (part of Sword Group) design, build, and support software applications for mobile, web and desktop platforms. We’ve completed hundreds of successful projects over the last 20 years – helping our customers build internal bespoke systems or bringing new commercial software products to life. We're experts in Microsoft .NET and take an engineered approach to creating secure, efficient and adaptable software.
+
+We have big plans for the future and are looking for talented software engineers to join our team. This position will suit you if you have 5 years or more relevant experience. You might already be an expert in C# / .NET, or maybe you're an expert in a different platform but keen to switch. What matters is that you understand the fundamentals of computer science, have an aptitude for technical problem solving and get a kick out of creating great code and user interfaces.
+ You’ll join our team of over 25 software engineers who build new applications and support existing ones, with offices in Aberdeen and Glasgow. We take an engineer-led approach to our projects which means that you are fully involved in decisions throughout. You'll also be in regular contact with our customers so good communication skills are essential too.
+ At Sword Codify, we are a close-knit team who support one another. We take a team approach to projects and encourage all staff to ask for and offer help, regardless of their level of experience. As everyone involved in our projects is technical, we have strong technical leadership throughout the company. We believe in a good work-life balance and set up our projects to succeed from the outset. This means that overtime hardly ever happens (and when it does it truly is optional). We encourage the social side of work by allocating the last half hour of Fridays for socialising and have regular get togethers outside of work. 
+Requirements
+ We build mobile, web and desktop apps using a Microsoft technology stack. We use .NET in all our projects – it is a great technology that is only getting better since the introduction of the cross-platform, open-source and MIT-licensed .NET Core. Here are some of the technologies that you can expect to work with:
+
+.NET (5/6/7) and .NET Framework 4.8
+C# and TypeScript/JavaScript
+Xamarin Forms for iOS and Android
+Blazor, ASP.NET, HTML and CSS
+WPF and Windows Forms
+
+Benefits
+ You'll be paid a competitive salary and enjoy great staff benefits. Once you've settled in, you can tailor your working hours around our core hours of 10am-4pm.
+As part of the application process we'll set you a small programming challenge – it shouldn't take long to complete. If you're like us, you'll enjoy the challenge and the chance to show us your skills!
+Please apply online today.

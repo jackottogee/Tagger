@@ -1,0 +1,58 @@
+Join us as leaders in #LearnTech as we innovate to remove technology barriers to learning and training for our global clients.
+We are a Microsoft accredited company, primarily use the Microsoft technology stack (ASP.NET, C# and SQL Server), Mobile (Unity and Angular) and standard web technologies (HTML5, JavaScript, jQuery, CSS).
+The role would involve developing new applications and maintaining our existing software. We encourage innovation, welcome new ideas and ways of working and we are continually looking to improve.
+Experience:
+Ideally you should have 3+ years of commercial software development experience working in a collaborative team using C#, ASP.NET, SQL Server and Visual Studio.
+Personal skills:
+
+You have a passion for software programming and development and Internet technology in general
+You welcome a challenge and enjoy finding solutions to technical problems
+You have excellent interpersonal skills, good communication and a positive attitude
+You can work with minimal supervision
+You take ownership and have responsibility for your work and any problems you may encounter
+You can offer help and support to your colleagues
+
+Essential Technical Skills
+
+You can demonstrate solid working knowledge of C# and have significant experience (5+ years) developing web applications using various versions of .NET and have demonstratable experience with .NET Core, MVC, Web Forms and Web API 2.
+You have a deep understanding of web development including HTML, CSS, JavaScript/JQuery
+You have a good working knowledge of SQL Server
+You are experienced with source control (branching, committing and merging) using Git/Gitlab
+You have experience developing enterprise solutions to scale, with the knowledge of security principles.
+You have experience working with repository pattern methodology.
+
+Bonus Technical Skills
+
+Experience with Angular/ Typescript
+Experience with Azure Cloud services - App services, and SQL PaaS.
+Experience working with Entity Framework.Experience with .NET 6/7.
+
+We operate with remote team access and provide a dynamic engaged environment to work in. Liaising with all areas of business from Learning Consultants, Business Analysts, Programmers, Testers and Project Delivery teams.
+As a Company we are keen to support the creation of skilled jobs and career progression and ensure our salary compensation is fair and relevant in the industry. Therefore salary level will be dependent on experience.
+BENEFITS:
+
+Competitive salary depending on experience
+Company Pension Scheme
+34 days holidays per year (inclusive of public holidays) plus 12 Happiness Hours per year
+Training Agreements/Education reimbursements
+Wellness programs
+Flexible working hours
+Employee Referral Bonus Scheme
+
+Sound interesting? Apply now!
+Job Types: Full-time, Permanent
+Benefits:
+
+Flexitime
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote
+Reference ID: eComEdinSSPFlexitime

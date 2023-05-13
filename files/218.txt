@@ -1,0 +1,36 @@
+
+With the world’s leading organisations looking to cloud solutions to innovate, disrupt and deliver growth, we help reimagine and reinvent entire businesses on the cloud. Through rapid prototyping and multi-cloud architecture, we’ve rebuilt telecom companies, transport agencies and neobanks. Our Cloud Centre of Excellence is a team that brings together the pace and innovation of a startup, backed by the trusted brand and investment potential of PwC. Now, we’re growing our team. Will you join us?
+
+ Skills and experience
+
+ Passionate about all things public cloud. 
+Strong ability to architect cloud solutions based on AWS, Azure or GCP and experience with a broad tool set of cloud development frameworks and architectures.
+ Experience in software development or scripting languages such as Python, Go, NodeJS, C# or with frontend using frameworks such as React or Vue.js - and has a familiarity with what good solutions and code looks like.
+ A deep understanding of cloud-native application development and continuous delivery patterns.
+ An eye for detail, and are comfortable designing and implementing high quality solutions as equally as rapidly prototyping to quickly demonstrate the art of the possible.
+ A strong problem solver with critical thinking skills, and the ability to deliver technical solutions and communicate with stakeholders internally and sometimes externally.
+ Enjoy working collaboratively within a strong team who supports and pushes each other to succeed and learn.
+ Deeply curious with a strong desire to continuously learn, improve and understand the technology driving the industry and how it can unlock value for our customers.
+ Willingness to contribute to the business and our culture more broadly than just this role - with a keenness to promote our cutting edge thinking across the business, communities and industries we work in.
+ Exposure to SCRUM or other Agile methodologies.
+ Familiarity with standard testing pyramid and when to apply it.
+ Passionate about automation using DevSecOps tooling. 
+
+
+Key responsibilities
+
+ Developers are a user’s consciousness, developing the cloud-native applications that end users touch, feel and interact with. Our team is the construction engine behind the innovative solutions we create. They work with code on a daily basis. They’re full-stack developers, working on front-end and back-end applications with a genuine proclivity for true DevOps in the cloud. Edging things forward. Experimenting with emerging technology to create impactful value.
+
+ You will be working within our cloud lab developing innovative solutions on public cloud platforms such as AWS, Azure and GCP. Working with our cloud solution architects and technology consultants, you will help demonstrate how PwC and cloud services can tackle important business, industry and social problems.
+
+
+ Designing and deploying cloud-native solutions which can be showcased to existing and prospective customers.
+ Developing intelligent, market-leading approaches to modernising technologies (and business processes) into agile, robust, and scalable platforms using automated ways of working. 
+Working closely with pursuit teams to identify the right cloud based solution to support the overall needs of the opportunity.
+ Advising technical and non-technical SMEs on the virtues of adopting modern development and architecture principles.
+ Applying your cloud-native and automation-first know-how to everything we do.
+ Continuously progressing your knowledge of cloud technologies to ensure you stay abreast of market leading technologies and how we may use them
+
+
+ #cloudtransformation
+ Consulting In Consulting we deliver practical, far-sighted advice that gets straight to the heart of clients’ business issues and delivers amazing results by helping our clients improve the way they operate, reduce costs, manage risks, leverage talent or fundamentally change the way they do business, the work you do will be all about helping organisations of all shapes and sizes work smarter and grow faster. You could find yourself working with household names in a diverse range of industries – everyone from big-name broadcasters and high-street banks to multinational telecoms operators and energy companies.  Not the role for you? Did you know PwC offers flexible career arrangements and contract work? Learn more.  The skills we look for The PwC Professional is our global framework for defining and encouraging leadership at all levels. Learn more.  The Deal ‘The Deal’, our firmwide Employee Value Proposition’ empowers our people to be the best they can be. Learn more.  Our commitment to you We’re committed to building a culture that empowers all of our people to thrive and feel a sense of belonging at PwC. Learn more.  Application support If you’re a person with a disability, if you’re neurodivergent, or if you have a condition that you believe may affect your performance during our selection process, we’ll be happy to make reasonable adjustments to our processes for you. Learn more.

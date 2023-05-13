@@ -1,0 +1,144 @@
+
+
+
+Company
+
+    Craneware PLC
+  
+
+
+
+ Speciality
+
+    Technology
+  
+
+
+
+ Category
+
+    Permanent
+  
+
+
+
+ Location Country
+
+    UK
+  
+
+
+
+ Office Location
+
+    Home based - UK
+  
+
+
+
+ Additional Locations
+
+
+
+
+ Introduction to Craneware
+
+
+
+      We at the Craneware Group, including Sentry Data Systems and Agilum Healthcare Intelligence, are transforming the business of healthcare by providing actionable insights to our customers. We are seeking talented, innovative and collaborative individuals to join our team of over 750 employees to drive the expansion of our SaaS-based platform and applications.
+     
+ Together, nearly half of registered US hospitals are now our customers.
+     
+ Our products impact: 
+     
+More than 2,000 U.S. hospitals and health systems
+ Almost 10,000 clinics and retail pharmacies
+ Customers operating with a financial impact of nearly half a trillion dollars
+ Data sets from customers covering more than 150 million unique patients
+
+
+*** This role is open to Graduate level applicants ***
+
+
+
+
+
+
+
+ The Team
+
+
+
+      Craneware is looking for passionate software engineers that are excited about working with Big Data technology to drive improvements in the US-based healthcare market. We are growing a team of strong thinkers and innovators that are willing to work closely with product and customer-facing teams to design and develop new applications in the Cloud.
+     
+ We are expanding our current platform and SaaS product offerings by using cutting edge technology to process very large data sets that will provide actionable insights for our customers. Architecting our solutions with a best of breed approach to technology, both .NET and Java-based platforms are leveraged in order to provide the necessary scale and rapidly bring products to market. Innovative, collaborative, and agile are critical skills that our engineering team members must possess in our environment.
+     
+ We are interested in skilled software engineers to join one of our Edinburgh based teams. You’ll be working with a small and friendly agile team of talented software and automation engineers to deliver high quality and elegant cloud-based software solutions that have impact on millions of people, leveraging the Azure platform and latest technologies.
+     
+ Tech Stack: 
+     C# (Web API, Azure Functions), Angular, Azure SQL, ElasticSearch, Postman
+
+ Do you have what it takes? 
+     
+You are passionate about developing products that will positively impact millions of people and provide better outcomes
+ You have experience building high-performance, resilient, and scalable solutions
+ You love working collaboratively and enjoy teamwork to deliver high quality software solutions
+ You are a strong believer in test driven development and continuous delivery
+ You seek opportunities to expand your knowledge and deepen your expertise and bring innovation
+
+
+
+
+
+
+
+
+ You Will Be
+
+
+
+
+ Working with an agile delivery team to contribute to the design and development of software releases using Application Lifecycle Management (ALM) methodology
+ Investigating and resolving software defects to provide timely resolutions
+ Ensuring sufficient code coverage of deliverables by the use of automated tests
+ Reviewing peer code against Craneware development standards to ensure high quality code and consistency
+ Working with product management to provide technical solutions to meet product requirements
+ Keeping up to date with technical advances to drive innovation
+
+
+
+
+
+
+
+
+ You Will Bring
+
+
+
+ Key Experience:
+
+C# .Net
+
+
+Preferred Experience
+
+Java, Angular
+ Developing high volume, resilient, and scalable cloud base solutions
+ Working across a number of different tools and technologies
+
+
+Knowledge
+
+Proven track record in designing and building quality software solutions
+ A good understanding of automated testing methods and their application
+ The ability to analyse and solve technical problems
+ Skilled in being able to clearly articulate ideas to a target audience
+ Previous experience of collaborating with other team members within an Agile Delivery team
+ Working knowledge of Application Lifecycle Management (ALM) tools (e.g. TFS or Jira)
+ A good understanding of software principles, for example SOLID principles and design patterns and how to apply them
+
+
+
+
+

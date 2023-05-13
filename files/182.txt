@@ -1,0 +1,49 @@
+
+
+
+
+Front End Developer Inside IR35
+ Contract Term: 12 Months 
+Contracting Authority: DWP 
+Location: Remote - London
+
+ As a Front End Developer your main responsibilities would be:
+
+ Work within an agile multi-disciplinary team of Developers, Designers, and Analysts focused on the Department for Work and Pensions’ flagship welfare reform programme.
+ Design, create and improve new and existing products, platforms and transactions across government.
+ Problem-solving and the opportunity to deliver innovative technology that carries real value for users.
+ Be involved in the wider web development community, identifying good practices we can adopt and sharing our experiences.
+ Communicate technical concepts to a non-technical audience.
+ Have knowledge of tools and techniques used within the wider team.
+
+ You’ll have relevant experience in:
+
+ Expert knowledge of HTML5, JavaScript, jQuery, CSS and Sass.
+ Have expert knowledge of cross-browser considerations.
+ Proven experience maintaining a large and dynamic code base.
+ Expert knowledge of Responsive Web Design.
+ Knowledge of web accessibility and WCAG.
+ Knowledge of UX and usability.
+ Working knowledge of Unix-like operating systems such as Linux and/or Mac OS X.
+ Have knowledge of the use of version control systems such as subversion or git.
+ Ability to quickly research and learn new programming tools and techniques.
+ Have experience of building high-traffic websites.
+ Understand web architecture.
+ SC Clearance is an essential requirement for this role, as a minimum you must be eligible and willing to undergo these checks (May also put through someone who is eligible for SC).
+
+ Desirable:
+
+ Have knowledge of client side build tools: grunt, gulp or similar
+ Have the skills to build up a useful, robust automated test suite to support a continuous deployment environment.
+ Working knowledge of Mustache templates, Java 7 and Node.js.
+ Experience with test driven development using toolsets such as Mocha and Jasmine.
+
+
+ 
+Should you require reasonable adjustments at any point during the recruitment process or if there is a more accessible way for us to communicate, please do let me know on karl.robinson@publicsectorresourcing.co.uk
+ 
+In applying for this role, you acknowledge the following, this role falls in scope of the Off Payroll Working in the Public Sector legislation. Any rates of payment quoted will reflect the gross rate per day for the assignment and will be subject to appropriate taxes and statutory costs. As such the payment to the intermediary and your income resulting from this contract will be different.
+
+ Please be aware that this role can only be worked within the UK and not Overseas.
+
+

@@ -1,0 +1,35 @@
+
+What’s happening at PwC?
+ As part of PwC’s global strategy, The New Equation, we’re investing significantly in skills, capabilities and technologies to address the breadth and complexity of the challenges that our clients face with their businesses and in society. One of our responses to this was establishing Tech Central, a technology focused function working alongside other PwC teams.
+
+ What’s happening in the function?
+ Tech Central is rapidly growing and the environment that our people work in is fueled by ingenuity, collaboration and innovation. Our people are skilled and passionate about the work they do. As part of the team you’ll experience an environment consisting of a wide range of technologies with ample room for you to learn, grow and innovate.
+
+ About the team
+ This role offers the exciting opportunity to join a rapidly growing Software Engineering function at PwC. We are responsible for the development of new & existing products across the firm & for our clients. Your role will include transferring your knowledge of software development practices and approaches into product teams as well as bringing experience in key development processes & tooling and partnering with other members of the product team to solve technical challenges along the way.
+
+ Job Skills
+
+ Develop high quality products using modern coding practices
+ Ensure that code can be delivered quickly and efficiently through automation and modern software engineering practices and tools, such as:
+
+ Effective branching strategies
+ Efficient, lean test automation frameworks
+ Utilising automated code scanning tools
+ Providing quick effective quality feedback
+
+ Ensure support items are rapidly triaged and managed
+ Work with DevOps engineers and Test engineers to embed practices in the team which enable consistent, predictable, fully tested deployments
+
+
+ Related Expertise
+
+
+ Ability to analyse, debug and optimise code
+ Knowledge of software engineering best practices and approaches
+ Experience in one or more coding / scripting language
+ Experience building software products on cloud infrastructure
+ Experience in agile delivery approaches, frameworks and implementations
+
+
+ Not the role for you? Did you know PwC offers flexible career arrangements and contract work? Learn more.  The skills we look for The PwC Professional is our global framework for defining and encouraging leadership at all levels. Learn more.  The Deal ‘The Deal’, our firmwide Employee Value Proposition’ empowers our people to be the best they can be. Learn more.  Our commitment to you We’re committed to building a culture that empowers all of our people to thrive and feel a sense of belonging at PwC. Learn more.  Application support If you’re a person with a disability, if you’re neurodivergent, or if you have a condition that you believe may affect your performance during our selection process, we’ll be happy to make reasonable adjustments to our processes for you. Learn more.

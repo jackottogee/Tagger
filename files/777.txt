@@ -1,0 +1,22 @@
+
+
+** 80% Remote // Once a week in a London-based office ** ** £300 - £400 per day // 6-month contract with view to extend**
+ Working with stakeholders across finance, HR, sales & operations, you will be working with multiple source systems, with the goal of consolidating & surfacing useful data where it is available while identifying gaps and opportunities for remediation where it isn’t.
+ BI Developer – Main Responsibilities:
+
+Assist with the continued design & planning of the enterprise data warehouse
+Analyse disparate source systems to identify commonalties in data granularity, quality, and integrity
+Complete reporting requests from business users & management, including requirement gathering, development, testing/verification & Deployment
+Assist with integration of information systems including ERPs, CRMs, financial systems & HR systems
+Assist with database administration duties, including monitoring, routine maintenance, performance tuning, version upgrades (specifically test environments), migrations, user management, and ad hoc backups & restores (routine back-ups/DR are managed separately by the IT team)
+
+BI Developer – Required:
+
+SQL – writing queries, views, stored procedures & functions
+Azure Data Factory / SSIS – building ETL pipelines & data flows
+SSRS – developing reports, managing permissions & subscriptions
+PowerBI, Excel & PowerQuery – developing reports & dashboards (or experience of other reporting tools e.g. Tableau, Qlik, Looker)
+GIT/Source Control
+
+This is a really exciting opportunity that does not come about often, if you have the desire to progress in the area of BI or software integration/development, then please get in touch!
+

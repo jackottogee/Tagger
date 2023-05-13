@@ -1,0 +1,23 @@
+
+Remote – Full Time Position
+ UK or Canada
+ Spinning Fox is a global agency that leverages design thinking and technology to solve core business challenges. Made up of world-class designers and developers, we ask a lot of questions, we knock down silos, we challenge the norm! Instilled from our founders, James Lyne and Tim Aikin, the entrepreneurial drive, the passion to stay curious, and solve tough problems is in our DNA. We believe in order to fully identify our clients' core challenges, you need to go deep.
+
+
+ About The Role
+ We're looking for someone who is insatiably curious and is passionate about perfecting their skills, as well as learning new ones. You will be very client facing and confident in gathering helping the team gather technical requirements. You are comfortable writing clean, tested and maintainable code. You'll need to have a strong working knowledge of at least one server-side language, we use PHP and C#, databases, MySQL, and JavaScript. However we are tech agnostic so you will seek the most suitable solution from a range of options and be prepared to widen your skills.
+ As a small company we need flexible team members. You could find yourself delivering a smaller project yourself or working in a small cross-discipline team where you would be primarily implementing features for a given client/project.
+ Key Responsibilities
+
+Work closely with the Technical Director, Developers, DevOps, Designers, Project Managers and Product Owner(s) to deliver backend and frontend tasks.
+Participate in our agile development process including daily stand-ups, sprint planning, and monthly company meetings.
+Participate and successfully deliver on multiple high priority projects while adapting to changing business priorities.
+Participate in continuous learning initiatives like completing lunch & learns, taking courses to improve your skills and achieving certifications
+
+About You
+
+You have expert level knowledge and expertise of Engineering patterns and best practices
+You have strong front-end engineering experience using native JavaScript and modern frameworks like React, Angular or VueJS
+You have strong CSS skills using a variety of different CSS frameworks
+You love writing automated tests in both front-end and back-end
+

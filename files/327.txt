@@ -1,0 +1,43 @@
+
+React Software Developer 
+Your team 
+Timeform Sporting Life is one of the biggest sports editorial businesses in the UK. We consume, analyse and package sports data including horse racing, football, greyhounds, tennis and more for a broad range of customers. Our skilled team of analysts are globally renowned for accuracy, credibility, and judgement. 
+Timeform Sporting Life is a passionate, forward-thinking company where things are always happening. Sport happens minute-to-minute, in real-time, and that’s how we like to think too. The most important part of our business is our people. 
+Working in Technology, you will be working on our flagship web application that has millions of visits each month. You will bring the best experience to our customers using rich sports data. 
+What you’ll do 
+
+You will be working in a small but dedicated React Engineer team 
+Together you will share knowledge and experiences to collectively deliver the very best for our customers 
+Working on the Sporting Life web client you will work with product owners to understand business requirements and translate them to technical requirements 
+Using tools such as Jira, you will be able to manage your workload & report any issues to the wide team 
+Ensuring application security, legal, privacy issues and risks associated with the service are addressed. 
+
+How you’ll do it 
+
+Create beautiful experiences with HTML & CSS 
+Expert knowledge of JavaScript 
+Understanding of React.js and its core principles 
+Ability to work with RESTful API’s, consume JSON Data and present to customers 
+Understand SSR and frameworks like Next.js 
+
+About Us 
+Work that makes play jealous 
+We've been breaking and re-writing the rules since 1988, from on-track bookmakers to cheeky upstart mischief-makers, to part of the largest betting and gaming technology company in the world. 
+Although we’ve grown to the betting behemoth we are today, we’ve not forgotten our roots. We continue to offer great value and entertainment to our customers and keep them at the heart of what we do. 
+Our culture of hard work, boldness and an innovative spirit got us to where we are and we take our work seriously, but not ourselves! We win by having the best people working well together. Don’t pigeon-hole us either – our company is a mix of sports nuts, gaming innovators, tech geniuses, perceptive people-people, inspiring leaders… and a very busy legal team. 
+We’ve got a growing squad of specialists, and we make the work fun. Sound good? Maybe there’s a spot on the team for you! 
+Plus, we are part of the Flutter UK & Ireland family – a collection of big-hitting entertainment brands such as Betfair, Sky Betting & Gaming and Tombola. 
+What we’ll offer you 
+
+£1,000 learning fund 
+Unlimited holiday 
+Twice-yearly bonus (with part of it guaranteed!) 
+Pension contribution scheme 
+Private healthcare 
+Flexible ways of working – home or office, it’s your choice! 
+Access to thousands of Udemy courses 
+Invest via the Company Sharesave Scheme 
+16 hours paid volunteering time per year 
+
+We’re working to be an inclusive employer, and we encourage people from all backgrounds, ways of thinking and working to apply. Everyone brings different perspectives and experiences; you don't have to meet all the requirements listed to apply for this role. 
+If you need any adjustments to make this role work for you let us know, and we’ll see how we can accommodate them.

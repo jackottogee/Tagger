@@ -1,0 +1,280 @@
+
+
+
+
+
+Overview
+Technology
+Full Time
+Closes 03/05/23
+
+
+Manchester
+
+Full Time
+Closes 03/05/23
+
+
+
+
+
+Who we are looking for
+A Full Stack Software Developer who will work in a small team of talented developers following agile practices to develop high quality scalable solutions.  You will be joining our Sports team working on our flagship sports product, enhancing our product offering with innovative new features.   The team is a full stack team and the core skills are Go (Golang), C# and Typescript or Javascript. The tech stack also covers SQL, .NET MVC, Web API, HTML5, and CSS 3.  We are looking for a Software Developer with Go experience or with a strong desire to learn Go through our 12 week bootcamp. Alternatively, a good knowledge of C or C++ is also desirable as they have similarities to make the transition to Go easier.   We are currently rewriting our entire estate of existing products from .NET code into Go. This is an excellent opportunity for someone from a .NET and Windows background to use their current experience to review the existing legacy C# code and assist with our rewrite into Go on a Linux platform.  This role is eligible for inclusion in the Company’s hybrid working from home policy.
+
+
+
+
+
+
+Preferred skills and experience
+
+
+
+      Commercial experience within web client or server side development.
+     
+
+
+
+
+      Technically strong in any programming language, as a background in software development will provide a good foundation for the Go bootcamp. 
+     
+
+
+
+
+      Ability to clearly communicate technical matters to people across different areas of the business.
+     
+
+
+
+
+      Experience working with API’s microservices or data manipulation is desirable.
+     
+
+
+
+
+
+
+        Experience working with Linux is desirable.
+       
+
+
+
+
+        Ability to work in an environment with high volumes of transactions.
+       
+
+
+
+
+        Experience working with Scrum or other Agile software development methodologies.
+       
+
+
+
+
+
+
+
+
+
+
+Main Responsibilities
+
+
+
+      Implementing new features onto the existing site.
+     
+
+
+
+
+      Being involved with the re-architecting of existing Windows based solutions onto a Linux platform. 
+     
+
+
+
+
+      Supporting and enhancing existing code base.
+     
+
+
+
+
+      Maintaining clean coding practices.
+     
+
+
+
+
+
+
+        Identifying technical areas of improvement.
+       
+
+
+
+
+        Supporting product owners as required.
+       
+
+
+
+
+        Supporting the testing team during testing phases of projects.
+       
+
+
+
+
+        Contributing to solution proposals.
+       
+
+
+
+
+        Developing low latency, highly available and scalable solutions
+       
+
+
+
+
+        Creating work effort estimates.
+       
+
+
+
+
+
+
+
+
+
+
+Want to become part of the team?
+
+
+
+
+
+
+
+The benefits of working with us
+
+
+
+
+Bonus Schemes
+
+Recognition for your performance and hard work.
+
+
+
+
+Company Pension
+
+Preparing you for later life with a top pension.
+
+
+
+
+Employee Assistance Programme
+
+Supporting the wellbeing of you and your family.
+
+
+
+
+Eye Care
+
+In a digital world, we help take care of your vision.
+
+
+
+
+Income Protection
+
+Your income is protected, just in case.
+
+
+
+
+Life Assurance
+
+Peace of mind for your family in any eventuality.
+
+
+
+
+Tax Free Childcare Scheme
+
+A bit extra in your pocket to help with your little ones.
+
+
+
+
+Life Events and Long Service
+
+To celebrate your big occasions, dedication and hard work. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Manchester
+
+Hillside (Technology) Ltd opened our North West office in 2016 in the heart of Manchester’s buzzing city centre. In recent years the city has become a hub of technology and creative industries.
+
+
+
+
+Our location
+
+Often described as the UK’s second city, living costs in Manchester are around 30% cheaper than London.
+Our office has plenty of public transport nearby, including trains operating around the country and the Metrolink. 
+Manchester is passionate about sport and has two Premier League football teams.
+Full of fantastic restaurants and shops, from Spinningfields to the Northern Quarter, there is lots to see and do.
+
+
+
+What we get up to
+Our Manchester office is home to part of Hillside (Technology) Ltd's Software Development family as well as additional technology units. We work closely with our other Technology sites in Stoke-on-Trent and Bulgaria to deliver our first class product.
+
+
+Some location benefits
+
+
+
+Nearby Restaurants and Shops
+
+
+
+Tea and Coffee Service
+
+
+
+Great Commuter Links
+
+
+
+City Centre Location
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,53 @@
+
+
+As part of the expansion of our team, we're looking for a Fullstack developer to develop/own the solutions being built for our propositions. You must be interested in emerging technologies, but also realistic in when to introduce them and when to use existing tools to get the job done. You are comfortable working with cloud infrastructure. You want to work in an environment where you can learn to write better code and help others write better code.
+About Admiral Pioneer
+Admiral Pioneer is a new entity within Admiral Group with the objective of seeding, launching and scaling new businesses in areas of increasing societal importance. We are focusing on three significant domains:
+
+Mobility
+Future of Work
+Live to 101
+
+These domains are long term growth areas for Admiral. We anchor around meeting customer needs and are focused on experimenting and proving new products, business models and partnerships through a discovery driven approach.
+We aren’t an incubator, we are building a dynamic and energizing environment where we will provide all the excitement and freedom of a start-up, with the support and stability of an established organization. We want to recruit passionate business builders who look at the world and see huge opportunities to change it.
+The Small Business team
+Surviving in business is tough. Succeeding is even harder. We want to make it possible for more small businesses to survive and thrive - by building personalised products and services that allow our customers to run their business as well as they perform their craft. 
+We are a high-impact collaborative team of passionate individuals who are constantly looking at ways to enhance customer experience through a human centered design approach, rigour experimentation and a test and learn mindset. We are looking for bright and talented individuals who have a can-do attitude and will thrive in this enabling environment. We treat our colleagues openly, equally, and fairly and give them a ton of opportunity and freedom to do their best work and make a positive impact.
+Responsibilities
+As the Fullstack Developer/Lead you will:
+
+Have advanced knowledge of application, data, infrastructure architecture and design across all systems. Have experience in business analysis, development, maintenance, and improvement
+Drive solution development using Micro services architecture on cloud environment
+Develop backend services, ideally using NodeJS, PostgreSQL / DynamoDB and Serverless. Develop modern front-end apps, ideally using TypeScript / React. Design REST APIs
+Deploy your code to production and support it, ideally on AWS. Champion best practices like automated testing and continuous deployment
+Experience on Sanity headless CMS using react/node/typescript.
+Play an active role in agile ceremonies like retrospectives and sprint planning
+Collaborate with high-performing teams and individuals to accomplish common goals. Have aptitude and enthusiasm for development of technical solutions to address business problems
+
+Requirements
+The successful candidate will ideally have:
+
+Extensive experience in software development in NodeJS, ReactJS, NextJS technologies. Good knowledge of version control (Git/SVN/AWS Code Commit)
+Strong hands-on development using REST, Web services and API development
+Strong hands-on experience in UI development with React JS/Node JS. Comfortable working on Sanity Headless CMS architecture
+Hands-on experience with PL/SQL, PostgreSQL
+Hands-on techno-functional experience in architecting, building, and/or supporting scalable multi-tenant distributed applications, with a good understanding of event driven architecture
+Experience in working in DevOps environment, containerizing, deploying, scaling application and micro services using CI/CD pipeline
+
+If you've got 3 of the 6 skills we're looking for, we still want to hear from you!
+It would be beneficial if you also had:
+
+Experience in AWS Serverless platform (e.g. AWS Lambda)
+Experience in Salesforce APIs
+
+Our Commitment to You
+At Admiral, we are committed to being a diverse and inclusive workplace. Admiral is proud to be an equal opportunities employer and does not discriminate on the basis of race, sex (including pregnancy, childbirth, reproductive health decisions, or related medical conditions), national origin, gender, gender identity, sexual orientation, disability, age, or any other legally protected status.
+All qualified applicants will receive equal consideration for employment.
+Salary, Benefits and Work-Life Balance
+We do not have a set salary for this position, as it will be dependent on the successful candidate’s experience. We are happy to see CVs from all candidates who meet the requirements and will be happy to discuss the remuneration package.
+At Admiral, we are proud to be a diverse business where we put our people and customers first. We have great benefits to ensure employees have a great work-life balance; it's one of the reasons we’re consistently voted one of the Sunday Times Best Big Companies to Work For in the UK. We want you to have an element of freedom to define a working lifestyle that supports this, so accommodate flexible hours wherever possible.
+All colleagues will receive 33 days holiday (including banks holidays) when they join us, and this will increase with length of service, up to a maximum of 38 days (including banks holidays). You also have the option to buy or sell up to five days of annual leave in addition to your allocation.
+You can also view some of our other key benefits here.
+At Admiral Pioneer we have a hybrid way of working, meaning our employees work both from home and in the office. We understand everyone has their own preference of working and so we are open to discussion on how this would look for you. If you have any questions or would like to learn more, please reach out to our Recruitment Team here.
+#LI-CB1
+

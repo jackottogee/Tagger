@@ -1,0 +1,76 @@
+Job Title: Senior Backend Developer (Ruby on Rails)
+Location: Loughton, Essex
+Salary: £65k-£80k
+Benefits
+
+Working within a newly refurbished dedicated office space with onsite employee gym and parking
+Close road links to M11/M25/A406/A12 and London
+Central Line Train station within one-minute walk with quick access to Central London
+28 days annual leave, incl. Bank Holidays, per annum, with an additional day per year of service (capped at 33 days)
+Social events
+
+Description:
+An exciting opportunity has opened to work on a rapidly growing, B2C rewards app that has experienced 15x user growth over the past 12 months. You will have the opportunity to make important contributions and be a key player at a hugely exciting time for the business as it continues to grow. The backend is currently written in Ruby on Rails but we're open to migrating to a javascript.
+What we are looking for:
+We are looking for a Senior Backend Developer with expertise in Ruby on Rails, who is excited to work in a high growth and fast-paced environment. The ideal candidate will have a deep understanding of backend development for native mobile apps and a track record of delivering high-quality, transactional, software at scale.
+Main duties and responsibilities:
+This is a fast-paced, hands-on role. Your day-to-day responsibilities will include, but not solely be limited to:
+
+Design, build and maintain efficient, reusable, and reliable code
+Ensure the performance, quality, and responsiveness of the applications as we scale
+Lead on the backend delivery of new features & functionality
+Collaborate with your team in a hands-on environment using pair and mob programming practices
+Be comfortable working within a fast paced environment, we like to ship
+Contribute towards the technical strategy of our platform
+Maintain a sensible level of documentation
+Implement efficient and reliable integration with PostgreSQL databases
+Utilise Docker for containerization, ensuring seamless deployment and scalability of applications
+Work with YAML for configuration management and other related tasks
+
+Technical Skills:
+Required:
+
+5+ years working with Javascript or Ruby on Rails, Ruby version & gem managers
+Building RESTFul API backends for Javascript mobile apps
+Working with CI/CD, DevOps and Agile within an AWS environment
+Working with payment technologies (we use Stripe & TrueLayer)
+Building an automated testing framework (unit, integration, e2e, performance)
+Strong understanding of object-oriented programming, design patterns, and best practices
+Working with Docker and containerization technologies
+Working with PostgreSQL databases and optimising database performance
+Familiarity with YAML and configuration management practices
+API design, implementation, and integration
+
+Person Specification:
+
+Strong written and verbal communication skills
+The confidence to express ideas as part of a creative team
+A clear and genuine interest in technological trends
+The ability to meet deadlines and think strategically
+A passionate approach to work with a desire to push boundaries
+The ability to explain technical jargon to peers
+Honest, reliable, dedicated, and hard working
+
+Job Types: Full-time, Permanent
+Salary: £65,000.00-£80,000.00 per year
+Benefits:
+
+Company events
+Discounted or free food
+Free parking
+Gym membership
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+Loughton: reliably commute or plan to relocate before starting work (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person

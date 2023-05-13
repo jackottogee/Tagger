@@ -1,0 +1,54 @@
+
+ Location: Fareham, United Kingdom 
+ Thales people architect identity management and data protection solutions at the heart of digital security. Business and governments rely on us to bring trust to the billons of digital interactions they have with people. Our technologies and services help banks exchange funds, people cross borders, energy become smarter and much more. More than 30,000 organizations already rely on us to verify the identities of people and things, grant access to digital services, analyze vast quantities of information and encrypt data to make the connected world more secure. 
+ Together we offer fantastic opportunities for committed employees to learn and develop their career with us. At Thales UK, we research, develop, and supply technology and services that impact the lives of millions of people each day to make life better, and keep us safer. We innovate across five major industries; Aerospace, Defence, Ground Transportation, Security and Space. Your health and well-being matters to us and that’s why we offer you the flexibility to do what’s important to you; whether that’s part time hours, job sharing, home working, or the ability to flex your start and finish times. Where possible, we support a working pattern that suits your lifestyle and helps you reach your ambitions. 
+ 
+Software Developer 
+Fareham 
+
+Do you have Software Development skills? Are you looking to gain further experience in an ever-growing and evolving technology environment? 
+Sounds interesting? Look no further… 
+
+What the role has to offer: 
+Opportunity to work on a variety of platforms and tools 
+Excellent prospects to develop as well as pursue career progression 
+A technical, autonomous role, trusted to make impactful decisions 
+
+The Role 
+
+As a Software Developer you will be based onsite in our Fareham office developing and validate personalization solutions to deliver to Thales personalization centres and customers. You will manage software development projects tasks to ensure on-time deliveries and quality of project deliverables. 
+
+You will fulfil an integral role as part of the software team, key duties will include: 
+
+· Analysis of customer requirements and specification. 
+· Design, development, validation and integration of solutions. Document creation and updates. Application reworking during the life cycle of perso projects. 
+· Support TC/PM to define the most optimized and efficient way to fit customer requirements. 
+· Support Manufacturing on application deployment, testing activities and related operational issues. 
+· Provide 2nd and 3rd tier support for BAU system issues across two sites. 
+· Integration of deliveries from the corporate Order Engineering Team. 
+· Write automation tasks (RPA). 
+· Provide occasional weekend support for migration projects. 
+· Follow priorities and objectives defined by the UK Software Development Manager. 
+· Follow the global Personalisation Software Development Process. 
+· Highlight and implement continuous improvement of internal processes and procedures 
+· Report potential risks and all other problems related to projects to the UK Software Development Manager. 
+· The employee is responsible for complying with rules, regulations and procedures valid in the company, including workplace regulations, Health and Safety and Anti Fire regulations, general security rules and environment protection rules. 
+
+About You 
+
+We would welcome interest from Software Developers with experience in any of Java, Java Script, Oracle, MySQL/MariaDB, SQL or Python. The role will require you to work autonomously so you will need to be self-organised as well as be able to communicate with the wider teams on your progress. 
+
+What We Can Offer 
+
+We’re committed to giving you opportunities to be your best. We believe in embracing the passion and potential of our people, and to achieve this we offer market leading training, development and experiences, along with the opportunity to be mentored and coached by some of the smartest minds in the industry. We hire from within as our first priority, so you’ll have a myriad of opportunities within our diverse, global organisation. 
+Thales is an equal opportunities employer and diversity and inclusion are integral to the success of Thales. 
+
+#LI-SW1 
+
+In line with Thales' Baseline Security requirements, candidates will be asked to provide evidence of identity, eligibility to work in the UK and employment and/or education history for up to three years. Some vacancies may require full Security Clearance which can require further evidence to be provided. For further details of the evidence required to apply for Baseline and Security Clearance please refer to the Defence Business Services National Security Vetting (DBS NSV) Agency. 
+
+At Thales we provide CAREERS and not only jobs. With Thales employing 80,000 employees in 68 countries our mobility policy enables thousands of employees each year to develop their careers at home and abroad, in their existing areas of expertise or by branching out into new fields. Together we believe that embracing flexibility is a smarter way of working. 
+
+Thales UK is committed to providing an inclusive and barrier-free recruitment process. We will provide reasonable adjustments and support to ensure neuro-diverse applicants or those with a disability or long-term condition can be their best during the recruitment process. To request an adjustment, if you need this job advert in an alternative format or if you have any questions about the recruitment process, please contact Resourcing Ops for mid to senior roles, or the Early Careers Team for graduate and apprentice roles. 
+
+Great journeys start here, apply now!

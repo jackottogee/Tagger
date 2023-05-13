@@ -1,0 +1,188 @@
+
+
+
+
+    LOCATION
+   
+
+ Waterloo, London
+
+
+       Hybrid
+     
+
+
+
+
+
+     SALARY
+   
+ £60k-£75k
+
+
+
+
+
+     TECHNOLOGIES USED
+   
+
+
+
+       Python
+     
+
+
+
+       Azure
+     
+
+
+
+
+
+
+
+     OUR CLIENT
+   
+ Global Energy Company
+
+     SPECIALTY
+   
+ Upstream/Downstream, Bio-Fuels, Integrated Gas, New Energies, Chemicals, Energy and Trading
+
+     INDUSTRY
+   
+ Energy
+
+     COMPANY SIZE
+   
+ 80000+ Employees
+
+
+
+
+
+     AUBAY'S TAKE
+   
+ Our client is one of the Super Major global energy companies with who are working to power progress through cleaner energy solutions. You will have the opportunity to work in a challenging but rewarding environment that is fast paced and changing fundamentally, and work towards transforming the business of a Super Major energy company to meet the ambition to be a net-zero emissions energy business by 2050, whilst delivering a world class business case that has a strong societal license to operate. In your role you will be expected to enact change and deliver value globally across business lines and geographies.
+
+
+
+
+
+     EMPLOYEE TESTIMONIAL
+   
+
+
+     What sets Aubay apart is that their whole process is built on trust and transparency. Before joining Aubay, I had a very good job which I had been at for four years. The excitement of the opportunity to join [a Global Energy company] encouraged me to take the leap, but the trust and transparency with Aubay is what translated that into action. I trust that Aubay can take you to the next level in your career and can be a long-term partner. In terms of taking a jump in your career, they help you manage that risk
+   
+
+
+
+
+
+     BENEFITS FROM AUBAY
+   
+
+     At Aubay UK, people are at the heart of our business. We offer a competitive remunerations package which includes a range of benefits. You will receive continuous support from our dedicated team of Talent Acquisition Specialists who will support your career development and success during your assignment with our client.
+   
+
+
+
+
+
+        25 Days Annual Leave
+      
+
+
+
+
+        Perkbox Discount Scheme
+      
+
+
+
+
+        Work From Home Opportunities
+      
+
+
+
+
+        Pension Scheme
+      
+
+
+
+
+        Opportunities to Work Directly with our Client
+      
+
+
+
+
+        Training Opportunities
+      
+
+
+
+
+        Discount Holidays at I'Aero Chalet
+      
+
+
+
+
+
+
+
+
+
+ HAVE QUESTIONS?
+ Contact Fernanda
+ Email - frozan@aubay.com
+
+
+
+
+
+
+
+
+
+Role Summary
+
+     Aubay is seeking a Senior Software Engineer who has strong Python skills and previous experience within a banking or trading environment to join our Global Energy client’s software engineering team. We are looking for a Software Engineer who has experience in best practices, delivering software products/applications generating business value. You are expected to have a continuous improvement mindset and drive value-based process and product/application optimization.
+   
+
+
+
+
+ Key Accountabilities
+
+ Solution consultation and development in accordance to the enterprise technology principles, methods, standards, and practices.
+ Estimation, solution design, detailed technical design, application technical deliverables including code, associated tests and documentation.
+ Contribution to functional excellence in terms of definition and maintenance of standards, methods and tools, bringing in best practices from market standard implementations.
+ Manage complex integration scenarios and interfaces between on-premise solutions, cloud and legacy systems.
+
+ Technical Skills & Experience
+
+ 5 years or more relevant software development experience with some Python and Excel work.
+ Experience working in agile teams with demonstrated application of the principles.
+ Useful to have Data Engineering experience blended along with core software engineering experience.
+ Proficient in Python with exposure to Azure Machine Learning.
+ Proficient in Excel with experience in reverse engineering existing models.
+ Experience of other programming languages and frameworks is desirable.
+ Experience using CI/CD tools is highly desirable.
+ Experience in Data Development (T-SQL)
+
+ General Skills and Experience
+
+ Domain knowledge: Experience within a banking or trading environment is critical.
+ Commercial awareness: Awareness of the effort committed in relation to the business benefit
+ Prioritization: When faced with complexity is able to flag and facilitate the right prioritization decision.
+ Knowledge sharing: Has experience of working closely with team members to build and share knowledge.
+
+
+
+

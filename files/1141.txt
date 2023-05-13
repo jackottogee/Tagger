@@ -1,0 +1,75 @@
+DevOps Engineer
+Pulse.io
+Hybrid Remote/Office
+Competitive Salary
+Pulse.io, part of our ONQOR Group, are currently recruiting for a DevOps Engineer to join the team responsible for developing our cutting-edge Predictive Sentiment Analytics tool.
+We are a Private Equity backed start-up with ambitious plans to launch our product in a way that revolutionises the marketing technology industry. To do this, we require strong talent to enable us to get the product shipped in a timely and cost-effective manner, with plans for rapid growth and expansion over the course of the next 5 years.
+Pulse will initially be designed for Marketing enhancements, leveraging Google Cloud's extensive suite of ML & AI capabilities
+This is a great opportunity for you to work on a greenfield ML-based SaaS platform that will revolutionize the marketing industry.
+In this role, you will be responsible for building and maintaining tools for infrastructure deployment, maintenance, and operations, as well as troubleshoot issues as we build out our development, UAT, and production cloud environments. You will be working using best practices such as Infrastructure as code (Terraform and similar), containerized infrastructure (docker, etc.), and CI/CD tooling. You must be able to work independently and act as a leader as the team grows.
+Responsibilities Include:
+
+Deploying and maintaining the Pulse application in Google Cloud
+Creating scalable, stable, and secure cloud deployment infrastructures
+Monitoring and troubleshooting application code during the software development process
+Manage our CI/CD tooling
+Implementing automated test frameworks and ensuring application security
+
+Desired experience:
+
+Experience working with Cloud technologies (preferably Google Cloud), Docker and Kubernetes
+Experience with infrastructure as code, ie. Terraform
+Experience with CI/CD, release management and DevOps practices
+Experience with monitoring/observability technologies
+Experience with automated software testing frameworks
+Experience working with Linux OS
+Proficient with scripting (Python, Shell, etc)
+Knowledge/experience with managing Networking
+Knowledge/experience with Cloud security best practices
+Hands-on experience with SRE / DevOps lifecycle, tools, and frameworks
+
+Bonus if:
+
+Experience working in a startup
+Google Cloud Certified
+Experience with Google Cloud's Big Data tools (BigQuery, Dataflow, etc)
+Capable of producing comprehensive architectural diagrams and documentation
+Strong foundations in software engineering before moving into DevOps/SRE
+MLOps frameworks and tooling experience
+
+Attributes:
+
+Problem Solver
+Motivated by impact: self-driven with a bias for action
+Curious and experimental
+Collaborative - excellent communication skills
+
+If you are looking for an opportunity to be part of a highly ambitious and fast growing team, please apply now for immediate consideration!
+Job Types: Full-time, Permanent
+Salary: Up to £80,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Flexitime
+Sick pay
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Commission pay
+
+Ability to commute/relocate:
+
+London: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+Back-end development: 3 years (required)
+
+Work Location: Hybrid remote in LondonFlexitime

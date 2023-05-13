@@ -1,0 +1,41 @@
+
+
+
+Students joining the Software Development Department can look forward to being part of key development activities aimed at developing the next generation of engineering software.
+ We are looking for pure software engineers as well as people with mathematical or other engineering backgrounds with a passion for software development. The software we develop is for real world applications, which therefore includes all realms of science including maths, physics and software engineering. Our final goal is developing software for generating cutting edge breakthrough new turbomachinery designs, which are only possible through numerical simulation and optimization. The people we are looking for must therefore be bright minded, eager to learn and capable of taking up complex projects and bringing them to completion.
+ We are looking for people to work on a number of roles spanning the whole software development activities:
+
+Advanced numerical algorithm development
+3D data modeling and manipulation
+CFD
+Multidisciplinary engineering design and optimization
+Software testing
+OO architecture design
+GUI design
+Scripting
+
+ADT develops internally all key programs of TURBOdesign Suite using a variety of different programming languages, this means you will be exposed to C++, C#, Fortran, Java and Python.
+
+
+ Minimum internship period:
+
+6 Months
+
+
+Minimum Requirements:
+
+UK or a valid Work Permit for the UK (if not, we can host European interns in our office in Munich, Germany)
+Computer Science, Computational Mathematics or equivalently relevant university program
+
+
+Presentation Request for Software Development Department Intern Vacancy:
+ Please attach a PowerPoint presentation on your experience in software development, CFD software, and turbomachinery design, analysis, and experimentation (15 slide max).
+
+ Reference Request
+ Please provide the contact details of one of your professors/previous professional employer who knows of your work and is willing to act as a referee.
+ ADT does not accept unsolicited referrals for vacancies, and any unsolicited referral will become the property of ADT. Upon hire, no fee will be owed to the agency, person, or entity.
+ We can host European interns at our German office, at Otterfing (Munich) - it is possible to do a training week in our London, UK office.
+
+
+ To apply for this role, please send your application to jobs@adtechnology.com
+

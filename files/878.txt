@@ -1,0 +1,79 @@
+
+
+Every day we tackle new and exciting challenges to empower developers to build modern cloud, mobile, and edge applications that deliver a premium user experience. Couchbase delivers unmatched performance, scalability, flexibility and financial value across cloud, on premises, hybrid, mobile and edge deployments. The database market is undergoing a generational shift and is one of the largest market opportunities in enterprise software due to big trends like the need for digital transformation, acceleration to the cloud and innovation at the edge. Join Couchbase to be a part of a greater change. Here you’ll have the opportunity to learn and grow with some of the most innovative, passionate and humble individuals in the database industry.
+
+RESPONSIBILITIES:
+
+
+
+Troubleshoot and solve customer issues on their deployments (on-prem and cloud)
+upport cloud deployments including monitoring and answering customer inquiries
+Engage with customers via multiple channels (ticketing system, and screen sharing tools) to identify and resolve technical support requests while continuing to educate our clients on the use of the product
+Reproduce technical issues and dive into On-Prem Enterprise and Cloud Capella platform
+Participate in product conversations with internal teams based on feedback from client interactions
+Identify and write internal and external technical articles, like typical troubleshooting steps, workarounds, or best practices
+Train as a highly knowledgeable specialist in one or more Couchbase component area(s)
+
+
+
+
+Preferred Qualifications
+
+
+
+Understanding how to resolve issues for backend infrastructure applications (e.g. databases, application servers, Hypervisors, etc.)
+BS in Computer Science, Engineering or equivalent experience in software and/or a technologically relevant field
+Programming experience in any one of the following languages: Python, Java or C
+Knowledge of Unix/Linux administration skills
+Understanding of Unix, Windows and Network protocols and standards (HTTP, TLS, DNS, etc)
+Understanding with at least one cloud environment such as Amazon Web Services, Google Cloud, and/or Microsoft Azur
+Self-motivated, detail-attentive, and have a desire for continuous learning
+A critical thinker who defaults to a client-centric approach
+An effective written and verbal communicator
+
+
+
+
+
+ 
+
+
+
+
+Why Couchbase?
+
+
+    Modern customer experiences need a flexible cloud database platform that can power applications spanning from cloud to edge and everything in between. Couchbase’s mission is to simplify how developers and architects develop, deploy and consume modern applications wherever they are. We have reimagined the database with our fast, flexible and affordable cloud database platform Capella, allowing organizations to quickly build applications that deliver premium experiences to their customers– all with best-in-class price performance. More than 30% of the Fortune 100 trust Couchbase to power their modern applications and build innovative new ones. See our recent awards to learn why Couchbase is a great place to work.We are honored to be a part of the Best Places to Work Award for the Bay Area and the UK. Couchbase offers a total rewards approach to benefits that recognizes the value you create here, so that you in turn may best serve yourself and your family. Some benefits include:
+   
+
+Generous Time Off Program - Flexibility to care for you and your family
+Wellness Benefits - A variety of world class medical plans to choose from, along with dental, vision, life insurance, and employee assistance programs*
+Financial Planning - RSU equity program*, ESPP program*, Retirement program* and Business Travel Insurance
+Career Growth - Be valued, Create value approach
+Fun Perks - A Monthly Lifestyle Spending Account credit, an ergonomic and comfortable in-office / WFH setup. Food & Snacks for in-office employees.
+And much more!
+
+
+Note: some programs are not applicable to all countries. Please discuss with a Couchbase recruiter to learn more.
+
+
+
+Learn more about Couchbase:
+ News and Press Releases
+     Couchbase Capella
+     Couchbase Blog
+     Investors
+   
+
+
+
+Disclaimer:
+
+
+   Couchbase is committed to being an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Join an impact initiative group and experience the amazing feeling of Couchbase can-do culture.
+  
+
+
+   By using this website and submitting your information, you acknowledge our Candidate Privacy Notice and understand your personal information may be processed in accordance with our Candidate Privacy Notice following guidelines in your country of application.
+  
+

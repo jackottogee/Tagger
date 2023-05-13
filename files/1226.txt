@@ -1,0 +1,33 @@
+
+Job Title: Software Engineer
+ Salary: £25,000 - £50,000
+ Job type: Full Time
+ Location: Reading
+
+
+ How would you feel working at a company that’s making a real difference in the way we treat our planet?
+ Vargo are currently working with a rapidly growing R&D enterprise in the agriculture sector who are attempting to make the way we farm more sustainable and environmentally friendly.
+ They’re currently looking for an ambitious programmer whose specialities include: AI, Computer Vision and single board computers (e.g. Raspberry Pi, Asus Tinker Edge R). The right candidate needs to match the company’s energy, drive and ambition towards creating their product, as well as to fit in with their fast-paced start up environment.
+
+
+ Required skills:
+
+A 2:1 degree in a relevant degree (e.g., computer science, engineering etc...)
+Experience with artificial intelligence and computer vision
+Experience with image recognition, processing and filtering
+Python coding and use of embedded microcontrollers/single board computers
+
+
+
+ Desirable:
+
+Experience with C++ coding
+Previous work in a highly (hygiene) regulated environment (e.g., food, cosmetics, medical)
+Experience in gcode programming
+Experience in designing and assembling electronic circuits
+Experience with AI accelerators, PyTorch, Tensorflow, OpenCV, Linux, neural network modelling
+Experience of multithreading/parallel processing of multiple streams/images on Arm Cortex processors
+
+
+
+ Even if you don’t match all of the requirements, feel free to apply and we can have a conversation about future opportunities anyway!

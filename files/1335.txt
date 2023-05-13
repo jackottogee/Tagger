@@ -1,0 +1,49 @@
+Job Description 
+At Boeing, we innovate and collaborate to make the world a better place. From the seabed to outer space, you can contribute to work that matters with a company where diversity, equity and inclusion are shared values. We’re committed to fostering an environment for every teammate that’s welcoming, respectful and inclusive, with great opportunity for professional growth. Find your future with us. Job Description 
+An opportunity has arisen for a highly flexible and motivated senior development lead covering System Designs and Integration work using primarily Oracle Middleware products. This work is predominantly working on one project however, there will be multiple technologies being used.The job holder must not be constrained by a rigid job specification and be willing to pick up additional duties as necessary. They must be enthusiastic and “hands on” in their approach and possess excellent written and verbal communication skills. They must be comfortable interacting with colleagues at all levels within the organisation and be confident representing BDUK and teaming with the MOD and government partners. 
+
+ Provide guidance, mentoring, effective communication and leadership to development team members. 
+Technical responsibilities include primarily experience of Oracle Fusion development, ideally with a minimum of 4 years of experience in designing and developing integration applications using Oracle SOA Suite. The successful candidate will be involved in the design, development, testing, implementation and support of a complex integration solution and management of associated system components. 
+The individual will also perform analysis and resolve application performance issues in coordination with customers and other developers Documenting processes and procedures and ensuring compliance with Boeing and practices.The individual must be a delivery centric character, good verbal communication, ability to take part in multi discipline triage sessions to diagnose faults, and find root causes and provide solutions. 
+The individual will have hands on experience in performing installations, deployments, upgrades, application migrations, and infrastructure changes for Oracle 12c Fusion ensuring flawless execution and continuous production. The position requires cross team coordination and leadership with separate, but tightly coupled development and architecture teams, infrastructure support teams, key suppliers, and other Boeing programs utilizing the same technologies. 
+
+ Essential 
+The ideal candidate we’re looking for has the following skills 
+Technical leadership. 
+Strong experience development experience with Oracle Fusion Middleware (12c) Products (Weblogic, SOA, OSB) 
+Strong Java Development Background. 
+Strong Integration transformation and ETL based skills. 
+Good knowledge of the Weblogic Application Server is required. 
+Good experience with Weblogic scripting development. 
+Good UNIX scripting knowledge is required 
+Good knowledge of Oracle Databases, with hands-on SQL and PL-SQL coding 
+Good Understanding of Core Technologies and SOA principles and specifications 
+Aptitude for visualizing, designing and developing software systems based on user requirements. 
+
+
+Desirable:
+ Knowledge of other Oracle Middleware platforms. 
+Hands on experience with scripting through tools such as Python, Perl, SOAP, ML, JMS, Ant, VBScript, Power Shell, etc, as well as the use of configuration management tools such as Subversion, and or Hudson a plus. 
+Knowledge of working within the Defence sector would be a significant advantage. 
+Experience of working within a matrix management environment and a large-scale, complex international organization, but also within small teams, would be advantageous. 
+Automation and Devops experience. 
+
+ The job holder must not be constrained by a rigid job specification and be willing to pick up additional duties as necessary. They must be enthusiastic and hands on in their approach and possess excellent written and verbal communication skills. They must be comfortable interacting with colleagues at all levels within the organization and be confident representing BDUK and teaming with the SCIS MOD partners. The role may require travel within the UK as well as. Some travel required. The current work location is Brisol, but could also accommodate working from our Milton Keynes site. Some remote working is also possible. 
+
+
+Education and Experience:
+ Applies extensive job practices, techniques, standards, principles, theories, and concepts. Has full knowledge of other related disciplines. Provides technical solutions to complex problems that require ingenuity and creativity.Exercises considerable latitude in determining technical objectives of assignment. Completed work is reviewed for desired results from a relatively long-term perspective. 
+Guides the successful completion of aspects of major programs and may function in a project leadership role. Erroneous decisions or recommendations may result in failure to achieve major organisational objectives.A higher level I.T. or business focused qualification is essential (or equivalent). 
+
+ Please apply asap for this role as recruitment may commence before the end date. 
+
+
+Important information regarding this requisition: This requisition is for a locally hired position in the UK. CANDIDATES MUST HAVE CURRENT LEGAL AUTHORIZATION TO WORK IMMEDIATELY IN THE UNITED KINGDOM. BOEING WILL NOT ATTEMPT TO OBTAIN IMMIGRATION AND LABOR SPONSORSHIP FOR ANY APPLICANTS. Benefits and pay are determined at the local level and are not part of Boeing U.S. based payroll. Relocation Assistance is not available for this role. 
+
+
+PLEASE NOTE: The successful candidate will be expected to undergo a SECURITY CHECK/CLEARANCE. 
+
+
+Equal Opportunity Employer:
+ We are an equal opportunity employer. We do not accept unlawful discrimination in our recruitment or employment practices on any grounds including but not limited to; color, religion, national origin, gender, sexual orientation, gender identity, age, physical or mental disability, genetic factors, military and veteran status, or other characteristics covered by applicable law. 
+We have teams in more than 65 countries, and each person plays a role in helping us become one of the world’s most innovative, diverse and inclusive companies. Applicants are encouraged to share with our recruitment team any accommodations required during the recruitment process.

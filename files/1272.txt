@@ -1,0 +1,74 @@
+SoBold is a high-performance, WordPress website design and development agency based in London. We have gone from strength to strength since our inception in 2014 and now is the time to super-charge this.
+We are looking for an ambitious Front End Developer with WordPress experience to join our growing team. We work with companies of all sizes from small boutique brands, to publicly listed businesses and household names.
+In this role, you will work closely with other Back End and Front End WordPress Developers and will report directly to our Technical Director. You must be confident and willing to bring innovative ideas to the table.
+Key Responsibilities
+
+Utilising a variety of markup languages to develop pixel perfect, responsive web pages.
+Ensuring web development is optimized for smartphones.
+Building reusable code for future use.
+Optimizing web pages for maximum speed and scalability.
+Create documentation outlining processes and/or offering advice on how to go about tackling certain issues for clients and other team members.
+Developing more technically challenging functionality, including AJAX loaded content.
+Snagging and testing websites to ensure they adhere to our high standards.
+Taking the lead of front end aspects of projects where necessary.
+Assisting more junior members of the front end development team.
+
+Key Requirements
+
+Exceptional understanding of HTML, SCSS, JavaScript, and jQuery.
+A minimum of 2 years experience of using PHP to render WordPress websites.
+Experience with custom post types, Gutenberg and the Advanced Custom Fields plugin.
+Very good knowledge of GIT based workflows.
+Experience with responsive and adaptive design.
+High level of understanding of SEO principles.
+Good planning and problem-solving skills.
+Excellent verbal communication skills.
+Good interpersonal skills.
+
+Benefits
+
+Annual discretionary bonus
+Private Healthcare
+25 days holiday (plus Bank Holidays)
+A hybrid working environment, with up to two days working from home per week after your probationary period.
+
+Our hiring process
+Here's a brief overview of what you can expect from the rest of our hiring process:
+
+We review your application and portfolio.
+A 30-minute phone call with our Technical Director so we can find out more about you and you can find out more about the business and role.
+A small WordPress related task.
+A follow-up interview with our Technical Director and Managing Director to discuss how you found the task.
+A face-to-face meeting to give you a flavour of our team and offices and so we can give you an introduction to some of our workflows and processes.
+Get an offer!
+
+Job Types: Full-time, Permanent
+Salary: £27,500.00-£32,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Private dental insurance
+Private medical insurance
+Store discounts
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+
+Ability to commute/relocate:
+
+London, SE1 1JA: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+WordPress: 2 years (required)
+PHP: 2 years (required)

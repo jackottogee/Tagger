@@ -1,0 +1,51 @@
+
+Hybrid
+ About the team:
+ It’s an exciting time at Codeweavers - our automotive commerce SaaS platform powers thousands of digital solutions in the UK which we’re in the process of taking global.
+ The web application team is responsible for building all things client side. We split ourselves across the business working in mixed discipline delivery squads. These squads work with the rest of the business to help shape their product roadmaps.
+ Rapid feedback is essential to how we deliver high quality software at Codeweavers. We deploy small, incremental changes to production hundreds of times a day. We’re proud of our engineering culture; continuous improvement and learning is at our core. We’re passionate about pushing the boundaries of our industry embracing change whenever it’s required.  
+About the role:
+ We’re looking for a passionate and highly talented web application engineer to join the team. You will work closely with your product delivery squad to build robust, well engineered solutions. Although you will spend the majority of time with your squad, the web application team works closely to push our engineering practices and architecture forward. Software craft and learning is a big part of being a Codeweavers engineer.
+ On a day-to-day basis, you will be responsible for:
+
+ Working closely with the product owners, account managers and end users to translate business problems into platform solutions.
+Working with your delivery team to implement well engineered solutions from your delivery squads roadmap.
+Breaking work down into small deliverables that can be rapidly released.
+Collaborating with the rest of the web application team to drive our standards, solutions and practices forward.
+Collaborating with the design team to ensure our web applications provide the best user experience.
+Coaching junior members of the team.
+
+Your Skills & Experience:
+
+3+ years of experience with component-based architecture (React, Vue, Angular).
+Excellent command of HTML, CSS, vanilla Javascript and Typescript.
+Proficient with web browser APIs and HTTP.
+Pragmatic engineer who actively avoids over-engineering solutions.
+Maintains high quality code in a delivery focused environment.
+Experience building shared code libraries (NPM packages).
+Experience with automated testing frameworks such as Jest, Karma, Cypress, or Protractor (we use Jest and Cypress).
+Understanding of CI / CD pipeline to safely and effectively release software.
+
+Your Behaviour:
+
+You’re confident to engage with our customers and your team.
+No challenge is too big or small for you.
+You question decisions and ideas that you do not understand or agree with.
+You’re the voice of reason during discussions offering pragmatic solutions that don't compromise quality.
+You can articulate technical problems clearly to your audience.
+You seek out the root cause and implement corrective actions when things go wrong.
+You desire to work in a respectful, transparent and collaborative work environment.
+
+We would love if you:
+
+Have expert Angular V10+ knowledge.
+Have experience using Git & GitHub.
+Are experienced in test driven development practices.
+Have experience developing multi-tenant applications configured for different audiences.
+Have experience developing internationalised applications.
+Have experience with the extreme programming development methodology or other agile methodologies.
+Have experience designing clean HTTP APIs.
+
+ STRICTLY NO AGENCIES PLEASE
+ We work with a carefully selected set of recruitment agencies and we're not looking to add to our PSL. 
+We do not accept unsolicited agency CV's sent to the recruitment team or directly to the hiring manager. We will not be responsible for any fees related to unsolicited CV's

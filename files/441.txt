@@ -1,0 +1,75 @@
+
+Introduction
+
+
+Are you looking to go into a workplace again? Enjoy being around people 5 days a week on site and socialising with the people you work around? Then this client is perfect for you!
+ Our client is looking for a keen and enthusiastic JavaScript Developer who is excited to get into the Big Data world!
+ Our client helps provide services for the UK’s national infrastructure, ensuring the UK continuously runs smoothly and effectively!
+ Join a sub team of 4 individuals working within the Capability Development!
+ In this role you will be a key driver in improving our customer’s cyber capability. The customer will look to you as a technical expert for a range of activities and you will have the opportunity to develop your skills in many areas. You will be a self-motivated individual, with the ability to make changes that improve our services and will be involved in short-, medium- and long-term strategy for this customer and wider our client’s security policy.
+
+
+Key responsibilities
+
+
+
+A core aspect of this will developing Kibana Plugins using JavaScript frameworks to extend / enhance Kibana and Elastic Search.
+Front-End development in Angular or React JavaScript Frameworks and Back-End development in node.js.
+Understand data ingested into the Cyber Platform.
+Mixture of configuring and modifying processing tooling to optimise the platform and introduce new data types and being able to perform Protocol Analysis.
+Use Logstash, Elastic Search, Suricata (Snort, Yara rules), Wireshark, Kafka, with opportunities to learn or utilise network protocols skills, programming skills (C, Ruby, Bash) and Cyber Security Skills.
+Working with Platform sub teams to introduce new technologies to allow continuous development, maintenance, and enhancement.
+Directly engaging with a remote team of end users / analysts to discuss and capture requirements.
+
+
+
+Skills & experience
+
+
+
+Preferably knowledge of at least one of React, Angular, Node Frameworks.
+Being able to enhance existing JavaScript legacy tooling and develop new tooling.
+Develop solutions.
+Can work independently on technical implementation once requirements understood.
+Sharing best practises and coaching less experienced JavaScript programmers.
+
+The client would also like to see some of the below, but this is not essential:
+
+DevOps Big Data platforms.
+Kibana, use of queries and some plugin creation.
+Elasticsearch, working with large datasets.
+Logstash, management, configuration, and improvements.
+Git for software development and repositories.
+Continuous Integration tooling.
+Platform automation and deployment – Puppet / Foreman / Docker Kubernetes Orchestration tools such as Puppet and Foreman.
+Data streaming technologies such as Kafka.
+Networking and Protocol Analysis.
+
+
+
+Additional benefits
+
+
+
+Flexible Benefits Scheme
+Private Medical Cover
+Dental Insurance
+Health Assessment
+Critical Illness Cover
+Additional Holiday
+Life Cover
+Bonus sacrifice – pay amount of Bonus into Pension
+Legal Protection Insurance
+Give As You Earn (GAYE)
+Pension
+Cycle to Work Scheme
+Saveshare Scheme
+Technology Benefits
+Holidays
+
+Our client is committed to providing a diverse and inclusive workplace and welcomes applications from all backgrounds. 
+RECOMMEND A FRIEND: If you have professional friends/colleagues who would be interested in one of our roles and our excellent levels of service too, we'd like to recognise your recommendations with a 'thank you' of our own. For every colleague you refer who then starts a role through Datasource either Contract or Permanent, we will send you £250 of Love to Shop Gift Vouchers!
+ You will be required to hold a minimum of DV Clearance. If you do not hold an active DV clearance, please familiarise yourself with the vetting process before applying.
+ (c) Copyright Datasource Computer Employment Limited 2022.
+
+

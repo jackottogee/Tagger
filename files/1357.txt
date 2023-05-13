@@ -1,0 +1,51 @@
+DevOps Engineer (AWS Kubernetes Docker Terraform) Work Remotely
+Are you a talented DevOps Engineer seeking a challenging and crucial role within a highly successful SAAS cloud tech company who have revolutionised the way large buildings are constructed and maintained?
+Why Would you Join?
+
+Competitive salary with annual reviews
+Full Remote Working (Work From Home, WFH)
+Private medical care
+Life assurance
+Dedicated weekly training sessions,
+Friday afternoons off work once a month and many more.
+25 days holiday (plus 1 for every year worked)
+
+The Opportunity
+As a DevOps engineer, you will be crucial in streamlining development and deployment processes. Ensuring products are delivered on time and with the highest quality possible. You will oversee how the code is built and tested, how and where it is deployed and how it is monitored in production environments.
+As a DevOps Engineer you have will have some of the following skills
+
+Cloud experience - AWS, Azure, Google cloud
+Kubernetes or other container management systems
+Docker
+Linux - Amazon Linux, CentOS, Ubuntu (or Windows Server)
+Terraform or other automated infrastructure provisioning (CloudFormation)
+Scripting - Bash, PowerShell etc
+EC2, S3, IAM, EBS, RDS
+Development experience - Nodejs, Python, Golang or C#
+AWS ECS Experience
+
+If you are a DevOps engineer and looking to join a company where you can help shape the technical direction and have a genuine influence on technology strategy then apply now for an immediate interview.
+Job Types: Full-time, Permanent
+Salary: Up to £55,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Life insurance
+On-site parking
+Private medical insurance
+Sick pay
+Work from home
+
+Schedule:
+
+8 hour shift
+Monday to Friday
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Remote
+Reference ID: DWMDevOps

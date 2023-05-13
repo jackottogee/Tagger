@@ -1,0 +1,83 @@
+
+
+
+
+
+
+Contract: Full-time
+
+ Location: Remote
+
+ Salary: £36,000 to £50,000 (dependent on skills and experience) 
+
+
+
+
+
+
+
+
+Day to Day 
+
+
+You’ll be joining a small but growing product team, with people working on Back End, UX/UI and a founder CTO. 
+
+
+Your team is responsible for building, delivering and maintaining nothing short of brilliant software. 
+
+
+What this means is you will be involved in all stages, from developing the technical insights that underpin good ideas, right the way through to planning, building, release and monitoring of real-world products. 
+
+
+The team will work to Agile practices, creating magic functionality over two-week sprints. 
+ 
+Culture 
+
+
+We’re building cohesive teams of people that play to their strengths, support others where they can and go the extra mile. 
+
+
+We’re honest, we trust each other and want you to speak up if you have something you’d like to say. You will be heard and your team-mates will care about what you have to say. 
+ 
+You will develop within a Microservices architecture, but will likely be contributing to our legacy systems while we are in a transition period. 
+
+
+Be prepared to move fast, we have a lot of work to do together!
+
+ Must-have Skills/Experience 
+
+C#/ASP.NET - Core 2/3 
+SQL Server 
+CosmosDB 
+Experience of TDD practices 
+Azure Service Bus 
+Messaging (Event-driven Pub/Sub and Command patterns) CRQS 
+SOLID 
+RESTful APIs 
+
+
+Desired Skills/Experience 
+
+Experience of building Microservices in .Net Core 
+Understanding of Message Based Architectures 
+Cloud development/architecture (Azure) 
+DevOps 
+Experience of API design 
+PAT (Opensource messaging service developed by Purple Bricks - although we have written our own, it’s not production ready yet) 
+SpecFlow / GherkinSpec (GherkinSpec is our version of SpecFlow which we developed to cover the deficiencies of SpecFlow, but if you know SpecFlow then it’ll be possible to pick up)
+
+
+
+
+
+
+
+
+
+
+If you are interested in this position, please send a cover letter and CV to lee.clark@givepenny.com
+
+
+
+
+

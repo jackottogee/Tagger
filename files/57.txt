@@ -1,0 +1,52 @@
+Why Cado Security:
+We are building a platform to reinvent how people respond to cyber attacks. Come help us build it!
+You’ll be joining an early stage, fast-growing company with share options and a competitive salary.
+We offer you a great mission, diverse work, and a super-friendly team.
+The role:
+Cado Security is looking for a full time software engineer to help build our products.
+You can be focused on the frontend, the backend or full-stack. Whatever part of the codebase you’re contributing to you’ll be expected to work closely with colleagues across the Cado team to help set the direction for the product and company.
+Our tech stack:
+
+Backend: Python, ElasticSearch, Postgres, Redis, AWS/Azure/GCP, Cloudformation & Terraform
+Frontend: Typescript, React, TailwindCSS, Cypress, Jest, NextJS
+We invest heavily in automated testing and CI allowing us to ship multiple releases per week.
+
+What you'll do:
+We believe in hiring great people and growing them by giving them projects that will challenge them! Having said that there are some things we expect all our developers to do:
+
+Write high-quality, maintainable code
+Participate in code reviews
+Help mentor new team members
+Plan and lead projects: anything from a small feature to a large migration involving multiple teams
+
+A qualified candidate has:
+- Experience building and shipping reliable software.
+- Some experience with either Python or React. You don’t need to be an expert, but especially for more senior candidates we’ll expect you to demonstrate an understanding of fundamentals in the interview.
+- We don't require cyber-security industry specific experience.
+Pay and Benefits:
+– Private health care
+– Pension
+– Stock options for a fast growing company
+– Training
+- Working with an amazing team
+- Your choice of Windows or MacBook
+Location:
+– The office is based out of London Waterloo and Bristol with flexible working.– We will consider hiring UK wide/full remote for exceptional candidates.
+Right to work in the UK:
+- At this point in our company, we are unable to sponsor visas, so you must have the right to work in the UK.
+Job Type: Full-time
+Job Type: Full-time
+Benefits:
+
+Casual dress
+Company pension
+Employee stock purchase plan
+Private dental insurance
+Private medical insurance
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in London

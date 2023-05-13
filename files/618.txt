@@ -1,0 +1,131 @@
+
+
+
+  The Role:
+ 
+
+   We are seeking an experienced PowerApps Developer to join our dynamic team at Alcority. The successful candidate will be responsible for developing new and supporting existing PowerApps, assisting with design, and deploying custom solutions using the Microsoft Power Platform. They will report to the Product Owner for PowerApps within Business Applications. The role requires a deep understanding of Microsoft PowerApps, Power Automate, and Power BI and will be expected to support PowerApps which are already in use on the estate.
+ 
+
+
+ Key Responsibilities:
+ 
+
+
+
+     Develop and deploy PowerApps solutions from scratch.
+   
+
+
+     Document everything that has been developed.
+   
+
+
+     Design, develop and maintain custom workflows and automation using Power Automate.
+   
+
+
+     Support PowerApps in a high-availability, high-reliability environment, being available on Sundays during the F1 season.
+   
+
+
+     Utilize Power BI to create visualizations and reports.
+   
+
+
+     Collaborate with Business Analysts, Key Stakeholders and Product Owner to gather requirements and translate them into technical solutions.
+   
+
+
+     Work with SharePoint Online and Microsoft Dynamics 365 to integrate PowerApps solutions.
+   
+
+
+     Provide training and support to end-users.
+   
+
+
+     Stay up-to-date with the latest Microsoft Power Platform updates and trends.
+   
+
+
+     Troubleshoot and maintain existing PowerApps solutions.
+   
+
+
+
+ Qualifications:
+ 
+
+
+
+     University degree in Computer Science, IT, or related field.
+   
+
+
+     3-5 years of experience in PowerApps development with a proven track record of creating successful Canvas as well as Model-Driven apps using industry standard design patterns and practices across a variety of connectors
+   
+
+
+     Full understanding of the PowerApps Studio and how to create functional, responsive and attractive UX experiences.
+   
+
+
+     Good developmental hygiene with writing documentation and commenting what you create.
+   
+
+
+     Experience working on AGILE/SCRUM projects.
+   
+
+
+     Expert general knowledge and experience of Power Automate, and Power BI.
+   
+
+
+     Strong experience with SharePoint Online and MS Dynamics 365.
+   
+
+
+     Experience with Dataverse and other Premium features of the Power Platform.
+   
+
+
+     Excellent communication and interpersonal skills.
+   
+
+
+     Ability to create detailed development, process and training documents.
+   
+
+
+     A self-starter with the ability to work independently or as part of a team.
+   
+
+
+     Strong problem-solving skills and attention to detail.
+   
+
+
+
+ Advantageous:
+ 
+
+
+
+     Experience with PowerApps portals/Pages.
+   
+
+
+     Experience with Power Virtual Agents.
+   
+
+
+     Familiarity with Jira and Confluence.
+   
+
+
+
+ If you are a passionate PowerApps Developer who loves working with cutting-edge technology and enjoys collaborating with a team, we encourage you to apply for this exciting opportunity.
+ 
+

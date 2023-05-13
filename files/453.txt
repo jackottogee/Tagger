@@ -1,0 +1,32 @@
+QTSL is looking for additional Software Engineers/Developer to meet the demands of numerous projects that requires software development support. We will to consider mid-level developers. You will join a project team developing high quality bespoke software and applications to meet customer needs. Working in a fast-paced environment, you will enjoy the variety and challenges that working on multiple projects brings. 
+
+
+Day to day activities include, but are not limited to:
+ The design and development of efficient and effective code 
+
+ Design and implement tests, using automated integration and testing tools 
+
+ Participate in project agile reviews 
+
+ Working with your colleagues on problem resolution 
+
+ Skills Required 
+
+ Essential 
+
+ Programming skills in C++ or C# 
+
+ Problem solving nature 
+
+ Strong organisational and communications skills 
+
+ Desirable 
+
+
+Additional experience with any of the following: Unity, Javascript, Python or Docker and relevant domain experience would enhance your application. 
+
+ Ideally a degree in a numerate subject but experience in lieu will be considered. 
+
+ As an accredited Investors in People (IIP) company, QTSL recognises that staff development is fundamental to the future success of the company. We encourage technical teams to maintain currency in emerging technologies, providing relevant training and accreditation as needed. 
+
+ We nurture a collaborative working environment where staff can see their ideas being put into practice and making a real difference to our customers. Our Innovation Programme encourages staff to develop their own projects and ideas in company time.

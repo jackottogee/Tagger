@@ -1,0 +1,84 @@
+
+Overview of Citi:
+
+ Citi is a world-leading global bank. We have approximately 200 million customer accounts and a presence in more than 160 countries and jurisdictions worldwide. We provide consumers, corporations, governments, and institutions with a broad range of financial products and services, including consumer banking and credit, corporate and investment banking, securities brokerage, transaction services, and wealth management. We enable clients to achieve their strategic financial objectives by providing them with cutting-edge ideas, best-in-class products and solutions, and unparalleled access to capital and liquidity.
+
+ Citi Belfast is one of the largest employers in Northern Ireland with a diverse and talented team of over 3000 people from over 40 different nationalities across our four Belfast offices.
+ We are the only global investment bank operating in Northern Ireland. Every day, our local experts interact with global teams in over 100 countries developing and supporting next-generation technology solutions for the enterprise and delivering critical services to the bank and its customers, to make sure we are a stronger and safer organization for our clients.
+
+ You will have a truly global reach, which will provide you with new experiences and development opportunities right here in Belfast’s iconic Titanic Quarter.
+
+ Key Responsibilities:
+
+ Deliver advanced technology projects as an individual contributor providing expertise in the full software development lifecycle, from concept and design, development, to testing and deployment. Opportunities available to expand responsibilities to a team leadership position based on leadership potential and performance.
+ Provide technical leadership on projects implemented by the wider team of Software Engineers/Analyst Developers using advanced knowledge of application development. Ensure application design adheres to the appropriate architectural and design patterns in the systems.
+ Utilize advanced knowledge of engineering process and develop standards for coding, testing, debugging and production.
+ Collaborate effectively with a large global team of software engineers, business analysts, dev-ops and support staff to deliver software solutions for the business.
+ Advance the derivatives exposure processing software infrastructure by continuously adopting new technologies where appropriate to solve business problems while adhering to Citi’s architectural guidelines.
+ Serve as advisor or coach to mid-level/junior developers and analysts, helping build the overall engineering capabilities of the team.
+ Appropriately assess risk when decisions are made, demonstrating particular consideration for the firm's reputation and safeguarding Citigroup, its clients and assets, by driving compliance with applicable laws, rules and regulations, adhering to Policy, applying sound ethical judgment regarding personal behavior, conduct and business practices, and escalating, managing and reporting control issues with transparency.
+
+
+ Experience:
+
+ Core Java experience developing robust, scalable, and maintainable applications applying Object Oriented Design principles.
+ Capital Markets domain. Good understanding of Derivatives and Risk management is as significant advantage.
+ Experience with Agile software development processes with a strong emphasis on test driven development.
+ Understanding of Java internals such as class loading and memory management.
+ Demonstrated capacity to build sophisticated tooling for development and production team use.
+
+
+ Skills:
+
+
+ Java Core with extensive hands-on experience with concurrent programming.
+ Spring Framework including Core, Integration, Batch, JDBC, Hibernate.
+ Distributed Caching frameworks such as Gemfire, Oracle Coherence, Redis or equivalent.
+ Cloud computing technologies with practical experience working with containers, microservices and large datasets (Docker, Kubernetes).
+ Databases - RDBMS preferably Oracle, NoSQL preferably MongoDB.
+ Familiarity with Linux environment including scripting skills.
+ SDLC/Dev Ops - Git/BitBucket, CI/CD pipeline frameworks such as Jenkins, SonarQube, JIRA, Any secure coding toolkits.
+
+
+ Qualifications/Education:
+
+ Graduate in a STEM (Science, Technology, Engineering and Mathematics) discipline. Master’s degree an advantage.
+
+
+ What we Offer:
+
+ We work hard to have a positive financial and social impact on the communities we serve. In turn, we put our employees first and provide the best-in-class benefits they need to be well, live well and save well.
+
+ We’ll provide you with the resources to meet your unique needs, empower you to make healthy decisions, and allow you to choose which benefits suit you and your personal life best.
+
+ Visit our Global Benefits page to learn more.
+
+ Highlights to our core benefits include:
+
+
+ Award winning pension
+ On-site health services
+ Private medical insurance packages to suit your personal circumstances
+ Paid parental leave
+ Generous holiday allowance starting at 27 Days plus bank holidays; increasing with tenure
+
+
+ Citi Belfast also champions diversity within our workforce, which helps us be well and live well together. We have over 40 different nationalities in our Northern Ireland offices, are a vocal supporter of LGBTQ+ rights, and are proud to have 47% of our leadership team made up of individuals who identify as women.
+
+ We encourage and lead inclusivity through our Pride, Disability, Multicultural, Families Matter, and Women affinity networks that are run by and for, Citi Belfast colleagues; providing them with the support they need in their personal and professional journeys and supplying them with the tools to help educate colleagues on all things related to each network to help us work better together.
+ -
+ Job Family Group: Technology
+  -
+ Job Family: Applications Development
+  -
+ Time Type: Full time
+  -
+ Citi is an equal opportunity and affirmative action employer.
+
+ Qualified applicants will receive consideration without regard to their race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran.
+
+ Citigroup Inc. and its subsidiaries ("Citi”) invite all qualified interested applicants to apply for career opportunities. If you are a person with a disability and need a reasonable accommodation to use our search tools and/or apply for a career opportunity review Accessibility at Citi.
+
+ View the "EEO is the Law" poster. View the EEO is the Law Supplement.
+ View the EEO Policy Statement.
+ View the Pay Transparency Posting

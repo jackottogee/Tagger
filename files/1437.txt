@@ -1,0 +1,15 @@
+Senior Software Engineer - C#, .NET 
+
+Salary: from £60,000 - £90,000 
+
+Location: Milton Keynes, Hybrid working (1 day in office) 
+
+ I have a great opportunity for a senior software engineer to join a leading organisation on a permanent basis. 
+
+ This business is reshaping the company's core products, working on green and brownfield solutions using the latest technologies. You will play a key role in the product life cycle, contributing to design, from development to delivery through our automated deployment pipelines. 
+
+ You will need to be strong in C#, .NET Core, AWS and SQL. 
+
+ Bonuses in knowledge of Kubernetes, Terraform, WebAPI. 
+
+ INDHP

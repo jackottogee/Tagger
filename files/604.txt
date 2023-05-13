@@ -1,0 +1,359 @@
+
+
+
+Details
+
+Reference number
+
+     282500 
+    
+
+
+Salary
+
+      £27,650 - £28,918
+    
+
+
+Job grade
+
+
+       Executive Officer
+     
+
+
+
+ Contract type
+
+      Apprenticeship
+    
+
+
+ Business area
+
+      HMRC - CDIO - HR - 1 Role available in CDIO HMRC Security 5 Roles available in CDIO B&T 2 Roles available in CDIO MDTP
+    
+
+
+ Type of role
+
+      Digital
+    
+
+
+ Working pattern
+
+      Flexible working, Full-time, Job share, Part-time
+    
+
+
+ Number of jobs available
+
+      8
+    
+
+
+
+
+
+
+ Contents
+
+
+
+ Location
+ About the job
+ Benefits
+ Things you need to know
+ Apply and further information
+
+
+
+ Location
+
+
+
+      Bristol, Edinburgh, Leeds, Newcastle-upon-Tyne, Telford, Worthing
+    
+
+
+ About the job
+
+
+ Job summary
+
+ Do you have a passion for technology?
+ Are you excited by the opportunity to become a highly skilled tech professional within HM Revenue & Customs, by completing an apprenticeship?
+ This could be the perfect time to apply for our Level 4 apprenticeship as a DevOps Engineer apprentice.
+ At HMRC, we are already one of the most digital advanced tax authorities in the world and have one of the largest IT infrastructures and data sources in the UK. With 50 million customers to serve, over 60 thousand colleagues to support, and £600 billion to collect to fund UK Plc, our IT operation is huge!
+ HMRC is made up of Customer Groups which are working independently towards one common goal. Our role sits within HMRC’s Chief Digital & Information Office (CDIO) Group that deliver in-house solutions for a broad range of technical and operational issues.
+ See what it’s like to work at HMRC: find out more about us or ask our colleagues a question. Questions relating to an individual application must be emailed as detailed later in this advert.
+
+
+
+ Job description
+
+ This is a great opportunity to earn while you learn.
+ As a Junior DevOps you will be working within an exciting dynamic driven team who will guide and support the vision responsible for innovative solutions, working with up to date technologies via automation and transition of code throughout the delivery life cycle.
+ This role is a Junior DevOps, working to achieve a Level 4 Apprenticeship in DevOps Engineering. You will learn to write code, develop software and build infrastructure, all managed through code. You will demonstrate the ability to perform a range of complex and non-routine work under general direction from your peers and your manager.
+ You will engage and work closely with other technical teams in developing and deploying code using a continuous integration/delivery pipeline enabling the rapid delivery to live of new and enhanced solutions and their ongoing support and maintenance.
+ You will deliver and integrate software to form a complete DevOps toolchain. You will be responsible for planning and designing large groups of stories. You will be able to transform technical requirements into an effective DevOps toolchain to enable product delivery. You will make sure deployment strategies for products are repeatable, scalable and highly available and will have a deep technical knowledge, providing support to delivery teams and solving complex problems.
+ As well as being given 20% off the job training to allow you to complete your apprenticeship within your working hours, you will undergo a 4 ½-month bootcamp to kickstart your apprenticeship with the learning provider. This front-loaded method of learning will allow apprentices to arrive into the workplace ready to consolidate their new learning, and hit the ground running as a DevOps Engineer apprentice. Typically, the apprenticeship will run for 24 months.
+ You’ll be supported by your line manager, learning and development manager, skills coach and the DevOps community, as well as fellow apprentices on the programme, so you will have plenty sources of encouragement and support to help you succeed.
+ You will be working in this role, rotating through our Platform Teams where you will learn to write code in a few different languages, largely Python and Terraform, and will also be working with cutting edge technologies in a modern public cloud environment.
+ In this role you will:
+
+ Be given the opportunity to learn a wide range of different technologies to build, develop and implement solutions across the Platform.
+ Learn about delivery frameworks such as Agile and work in teams putting theory into practice.
+ Work professionally and independently, taking ownership and initiative as appropriate.
+ Communicate effectively in a variety of situations including formal and informal both within your team and with our customers.
+ Identify appropriate technical solutions using both logical and creative thinking, and then work with the team to deliver them.
+
+ You will develop skills and understanding in the following areas:
+
+ An understanding of communication protocols in use between applications and between end users and our services.
+ Write code in a variety of programming languages, including Python and Ruby.
+ Use distributed source control, focusing on GitHub.
+ Gain an understanding of Linux Administration.
+ Build, deploy and operate a world-class platform within an agile environment that meets the requirements of digital service teams.
+ Writing, testing and configuring alerts to be delivered to the team responsible.
+ Focus on test-driven development to ensure that released code is optimised to meet requirements.
+ Write code in the open, to ensure it can be contributed to, reviewed and where possible shared and reused.
+ An understanding of key principles of modern standard's approach, how they apply to the work they are undertaking, and will apply under guidance.
+
+
+
+
+ Person specification
+
+ Essential Criteria
+ We’re looking for someone who has a foundation of technical skills which could include:
+
+ Passionate about IT, enjoys solving problems and has different approaches to solving problems.
+ Able to design, code, test, correct & document simple programmes or scripts under the direction of others.
+ Able to help fix faults following agreed procedures. Carried out agreed infrastructure maintenance tasks.
+ A great teammate who can assist on designing components of larger systems.
+ Aware of how to integrate systems and the challenges of designing, building and testing interfaces between systems.
+ Has an awareness or understanding of user experience analysis and its principles.
+ Can see the purpose of user stories and focuses on user needs.
+
+
+
+
+ Qualifications
+
+      To be eligible for the apprenticeship you are required to hold the following: 
+     
+ Minimum Eligibility Requirements 
+     
+ You will also need to meet the following eligibility requirements: 
+     
+ Valid passport/birth certificate and NI number. 
+     
+ Must have lived in the UK and/or EEA for 3 years prior to apprenticeship start date 
+     
+ Not undertaking another apprenticeship or government funded qualification at the same time 
+     
+ You must not hold an existing qualification at the same or higher level in a similar subject. – we reserve the right to withdraw applications who are deemed ineligible due to existing qualifications. 
+     
+ You must hold GCSEs in Maths and English at Grade C or above. 
+     
+ In addition you will need at least one of the following: 
+     
+ Level 3 Software Apprenticeship or similar subject 
+     
+ A Levels in a STEM (Science, Technology, Engineering & Maths) subject and successful completion of our aptitude test* 
+     
+ BTEC Diploma in IT and successful completion of our aptitude test* 
+     
+ 2 years of relevant work experience and successful completion of our aptitude test* 
+     
+
+
+The aptitude test will be completed during the first stage of the recruitment process, should you be successful at sift stage. 
+
+ Candidates deemed overqualified will result in an unsuccessful outcome.
+    
+
+
+ Benefits
+
+
+
+
+ Learning and development tailored to your role
+ An environment with flexible working options
+ A culture encouraging inclusion and diversity
+ A Civil Service pension with an average employer contribution of 27%
+ What qualifications will you get? This post is a permanent position within HM Revenue & Customs. All apprentices who meet the scheme’s milestones will receive a Level 4 apprenticeship qualification in DevOps Engineering.
+
+ Find more about HMRC benefits in 'Your little extras and big benefits handbook' for further information or visit Thinking of joining the Civil Service.
+
+
+
+ Things you need to know
+
+
+ Selection process details
+
+
+ As part of the application process you will be asked to complete a CV and submit a personal statement demonstrating how you meet the essential criteria. Further details around what this will entail are listed below.
+
+ As part of the application process you must provide:
+
+
+
+CV & Qualifications. Including:
+
+
+
+ Your current qualification level meets the eligibility criteria, providing details of all qualifications and grades required;
+ Your current and past studies or previous experience highlighting any transferable skills, considered useful in the DevOps industry. 
+
+Complete a 750 word personal statement demonstrating:
+ Why you are interested in the role?
+
+ How you meet the essential criteria?
+ Applicants will be sifted on CVs and personal statement submitted against the specification above, in particular the essential criteria. An initial sift will be conducted on personal statements only, if large volumes of applications are received.  Following the application closing date, you may be invited to an assessment centre. This phase consists of 3 sections, a coding course, problem solving challenge and a brief telephone interview with the learning provider who will deliver your apprenticeship programme should you be successful. All 3 sections will be assessed during your assessment centre in 1 round.
+ The assessment centre will be conducted by staff from HMRC, focusing on experience as well.
+ Feedback will only be provided if you attend the assessment centre.
+ We reserve the right to raise the score required at any stage of the process in order to manage numbers.
+ Interview dates to be confirmed.
+ A reserve list may be held for a period of up to 6 months from which further appointments may be made for the same or similar roles – if this applies to you, we’ll let you know via your Civil Service Jobs account.
+ Eligibility
+ To check that you are eligible to apply, review this eligibility information
+ Important information for existing HMRC contractual homeworkers:
+ This role may be suitable for existing HMRC employees who are contractual homeworkers. Occasional attendance to the office will be required where there is a business need, so please review the advertised office locations for this role when applying and only select locations from the ‘location preferences’ section that you are able to travel to. 
+Reasonable Adjustments
+ We want to make sure no one is put at a disadvantage during our recruitment process because of a disability, condition, or impairment. To assist you with this, we will reduce or remove any barriers where possible and provide additional support where appropriate.
+ If you need a reasonable adjustment or a change to be made so that you can make your application, review this information on reasonable adjustments, and contact hmrcrecruitment.grs@cabinetoffice.gov.uk as soon as possible.
+ Equality and Diversity
+ We’re committed to creating a great place to work for all our colleagues here at HMRC. We want everyone to feel valued, supported and comfortable being their true self at work.
+ We’re proud to be a diverse and inclusive employer, supporting social mobility by giving opportunities to people from all walks of life. We want to maximise the potential of everyone who chooses to work for us and offer a range of flexible working patterns and support. Our aim is to make a fulfilling career at HMRC accessible to you.
+ For more information on how we make this happen, review this information on our culture and values.
+ Applications received from candidates with a criminal record are considered fairly in accordance with the DBS Code of Practice and the Recruitment of ex-offenders Policy.
+ We welcome applications from those who need to work a more flexible arrangement and will agree to requests where possible after considering operational and customer service needs. We can’t guarantee that we can meet all requests to work flexibly, as agreement will be subject to business ability to accommodate, and any request to work a more flexible arrangement should be made prior to your acceptance of the provisional offer.
+ Customer facing roles in HMRC require the ability to converse at ease with members of the public and provide advice in accurate spoken English and/or Welsh where required. Where this is an essential requirement, this will be tested as part of the selection process.
+ The Civil Service runs a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+ The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+ Locations
+ HMRC has a presence in every region of the UK. For more information on where you might be working, review this information on our locations.
+ Security Update
+ For more information on the level of security checks we will carry out, review this information on security checks
+ Further Information
+ The Civil Service values honesty and integrity and expects all candidates to abide by these principles. The evidence you provide in your application must relate to your own experiences.
+ Any instances of plagiarism or other forms of cheating will be investigated and, if proven, the relevant application/s will be withdrawn from the process.
+ Duplicate applications for the same vacancy will also be withdrawn.
+ Transferring into HMRC from Civil Service If you are currently working for an ‘Other Government Department’ (OGD) and would like to consider the impact on your pay when joining HMRC, please see the attached document "Combined T&C and OGD Pay English”, found at the bottom of this advert. Further information on staff transfers can be found on gov.uk
+ Problems during the application process
+ If you experience accessibility problems with any attachments on this advert, please contact the email address in the 'Contact point for applicants' section.
+ If you think you’ve made a mistake on a submitted application (e.g. you’ve ticked the incorrect eligibility box), please contact hmrcrecruitment.grs@cabinetoffice.gov.uk at least two working days before the vacancy closes. After this, we won’t be able to reopen your application.
+ Please use the subject line to insert appropriate wording e.g. Please re-open my application - 282500 & vacancy closing date 12th May.
+ For reasonable adjustments queries or requests, please see details within reasonable adjustments section above.
+ Feedback will only be provided if you attend an interview or assessment.
+     
+
+
+
+ Security
+
+
+       Successful candidates must undergo a criminal record check.
+     
+
+
+
+       People working with government assets must complete baseline personnel security standard (opens in new window) checks.
+     
+
+
+
+ Nationality requirements
+
+
+This job is broadly open to the following groups:
+
+UK nationals
+nationals of Commonwealth countries who have the right to work in the UK
+nationals of the Republic of Ireland
+nationals from the EU, EEA or Switzerland with settled or pre-settled status or who apply for either status by the deadline of the European Union Settlement Scheme (EUSS) (opens in a new window)
+relevant EU, EEA, Swiss or Turkish nationals working in the Civil Service
+relevant EU, EEA, Swiss or Turkish nationals who have built up the right to work in the Civil Service
+certain family members of the relevant EU, EEA, Swiss or Turkish nationals
+Further information on nationality requirements (opens in a new window) 
+     
+
+
+
+Working for the Civil Service
+
+
+       The Civil Service Code (opens in a new window) sets out the standards of behaviour expected of civil servants.
+      
+ We recruit by merit on the basis of fair and open competition, as outlined in the Civil Service Commission's recruitment principles (opens in a new window).
+     
+
+
+
+       The Civil Service embraces diversity and promotes equal opportunities. As such, we run a Disability Confident Scheme (DCS) for candidates with disabilities who meet the minimum selection criteria.
+     
+
+
+
+       The Civil Service also offers a Redeployment Interview Scheme to civil servants who are at risk of redundancy, and who meet the minimum requirements for the advertised vacancy.
+     
+
+
+
+ Apply and further information
+
+
+
+      This vacancy is part of the Great Place to Work for Veterans (opens in a new window) initiative.
+    
+
+
+
+      Once this job has closed, the job advert will no longer be available. You may want to save a copy for your records.
+    
+
+
+ Contact point for applicants
+
+ Job contact : 
+
+
+       Name : 
+       
+        Mathew Howes
+       
+
+
+        Email : 
+       
+        mathew.howes@hmrc.gov.uk
+       
+
+
+ Recruitment team
+
+
+        Email : 
+       
+        hmrcrecruitment.grs@cabinetoffice.gov.uk
+       
+
+
+
+
+
+ Further information
+
+
+       Appointment to the Civil Service is governed by the Civil Service Commission’s Recruitment Principles. You have the right to complain if you feel a department has breached the Recruitment Principles. In the first instance, you should raise the matter directly with the department concerned via complaints.grs@cabinetoffice.gov.uk If you are not satisfied with the response, you may bring your complaint to the Commission. For further information on bringing a complaint to the Civil Service Commission please visit their web pages: Click here
+     
+
+
+
+
+

@@ -1,0 +1,20 @@
+Due to exponential and sustained company growth, a leading golf retailer is lookingfor a candidate with a natural flair for problem-solving and developing efficientpractices through software development to join our expanding web team, reportingdirectly to our Technical Lead, working remotely.Job Duties:- Write well designed, testable, efficient code by using best software developmentpractices- Create web layout/user interface by using standard PHP/HTML/CSS practices- Demonstratable knowledge of Object-Oriented and Procedural PHP – any exposureor experience in PHP Frameworks (Laravel, Symfony) would be ideal.- Integrate data from various back-end services and databases (MySQL)- Gather and refine specifications and requirements based on technical needs- Create and maintain software documentation- Be responsible for maintaining, expanding, and scaling our website- Stay up to date with emerging technologies/industry trends and apply them intooperations and activitiesRequired skills:- Thorough knowledge of MySQL, JavaScript (vanilla and framework), PHP, HTML,CSS, CSS3,- Understanding of cross-browser compatibility, Web User Interface Design (UI),security principles, Object-Oriented Design, Web Services (REST/SOAP) and API's- Has a understanding of Agile methodologies and a demonstrable knowledge ofsource version control systems such as GIT.- Ability to work as part of a team- Self-motivatedMinimum Requirement – 1-2 Years commercial development
+Job Types: Full-time, Permanent
+Salary: £25,000.00-£35,000.00 per year
+Benefits:
+
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+Software Development Occupations: 1 year (required)
+
+Work Location: Remote

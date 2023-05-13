@@ -1,0 +1,82 @@
+
+Job Title: Senior Software Test Engineer
+ Location: Oxford – Hybrid
+ Employment Status: Full Time, Perm
+ Salary Band: Competitive
+ Do you want to make a difference while advancing your career? Come join Osler.
+ We are a UK diagnostics company whose purpose is to enable anyone, anywhere, to access, understand, and act on their health, to live healthier, happier, and longer lives.
+ We are realising this through the development of the Osler Origin – a 'portable lab' capable of performing a wide range of testing, with lab-quality performance, in a portable, rapid, low-cost, and easy-to-use manner. The Osler Origin will offer a wide portfolio of diagnostic tests and serve all major healthcare settings, globally.
+ The Osler Origin is powered by a portfolio of novel techniques and approaches for sample addition, microfluidic sample preparation, and electrochemical biosensing, and Osler was formed out of the University of Oxford in 2017, following decades of research.
+ Having recently completed an $85m Series C fundraise, we are now entering a growth phase, where we are scaling our team as we take the Osler Origin product through regulatory activities, and towards market launch.
+ We are looking for a highly motivated Test Engineer to join the Software Development team, who will ensure that our software product is tested to high standards based on industry best practices. To achieve this, as part of a team responsible for testing, debugging, and qualifying software releases and updates, you will need great communication with the multidisciplinary team creating the product. Your goal will be to enable the team to get the software product tested and released to the market according to agreed project timelines.
+ Join us and help build a better future.
+ You'll be a hands-on Software Test Engineer looking for a new permanent role in a company where you can make a difference to human health.
+ Your responsibilities in this role will be:
+
+Drive of all aspects of software test engineering including functional, GUI,
+
+integration, system, and regression testing.
+
+Reviewing and recommending new test practices that will enable the team to
+
+maximise testing efficiency.
+
+Collaborate with software development leads to jointly drive forward the quality of our
+
+software.
+
+Provide appropriate test reports to the leadership team, in a timely manner.
+Reviewing and signing off requirements and test cases.
+Automation or manual execution of test cases.
+Analysis of requirements and translation into comprehensive test cases.
+Engage in discussions with colleagues in other departments to clarify requirements and ensure test cases are sufficient.
+Contribute to software hazard analysis and development of risk mitigation requirements.
+Working with software developers to consolidate and improve our Continuous Integration / Continuous Delivery (CI/CD) infrastructure.
+
+
+
+ To be a good fit for this role in a growing software team your current skills/knowledge must include: 
+
+An ability to rapidly understand complex technical requirements and derive test cases from these requirements.
+Formulation of detailed test cases that provide comprehensive coverage of software requirements.
+Development of test scripts to automate test cases in scripting languages (such as, but not limited to, Python).
+Manual execution of test cases.
+Software development using an Agile methodology.
+
+
+Desirable skills are:
+
+Knowledge of git and platforms such as Jira and Confluence.
+Development of software to medical device standards (e.g., IEC 62304, ISO 13485, ISO 14791, etc.)
+Test Driven Development (TDD).
+Cloud technologies, in particular using RESTful APIs.
+Knowledge of testing Android or Embedded software.
+
+
+Benefits:
+
+
+ We offer a competitive benefits package, with a focus on health and well-being -further supporting the belief in our mission to enable anyone, anywhere, to access, understand and act on their health.
+
+
+
+25 days holiday + bank holidays and a Christmas closure.
+Annual Learning & Development budget 4% of your salary.
+12 days of Learning leave.
+Company Pension.
+£500 Well-being allowance.
+Vitality Health Insurance - (includes subsidised gym memberships).
+24/7 access to a GP.
+Life Assurance - x4 annual salary.
+Income Protection - 75% of your basic annual salary.
+Private Travel Insurance.
+Annual eye tests.
+Cycle to work scheme.
+Travel to work loan scheme.
+Relocation assistance.
+Volunteering leave.
+Give as you earn - pre-tax salary donations to any UK charitable organisation.
+Free healthy breakfast and fruit.
+Enhanced Paternity and Maternity Pay.
+
+There is no perfect candidate, and no single person can do it all, but if this sounds like you, or what you could be and you're looking for somewhere to thrive; we want to hear from you. We look forward to receiving your application. If you have any questions, please contact talent@oslerdiagnostics.com

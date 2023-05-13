@@ -1,0 +1,20 @@
+Tracsis are looking for ambitious and high-quality developers to join us as we work to revolutionise the railway. We work in a variety of popular technologies, and you don’t necessarily need direct experience of these to join us. 
+What you’ll do? 
+Our Developers work on enterprise applications, that are capable of planning and running large scale passenger railways. Our software is cloud based, distributed and highly available and we use GitLab for our code repository, run continuous integration and to operate continuous delivery pipelines. We encourage you to work with our customers, building relationships and learning where our software fits. You will also work with us on our automated testing – this is vital to give end users confidence in our software and to give us the agility to deliver valuable features at the right time. 
+Whatever your background, whether you’re you an experienced functional programmer, have experimented with it as a hobby, or are completely new to it, if we’re a good fit we’ll give you the time and support you getting up to speed. 
+Who you’ll be? 
+We want to make sure you’re set for success so the key skills we’re looking for in the role are below. We know not everyone ticks all the boxes and we’ll provide training on some of the areas if you’re the right person for the role. 
+
+ A creative developer with a passion for technology 
+A problem solver, inquisitive and driven to find the solution to problems 
+Able to build strong relationships with a variety of different people 
+An interest in modern software engineering practices and a desire to learn about, and possibly even contribute to, advances in the industry. 
+
+ If you have any experience of knowledge on the technologies below then we would be interested in a chat; 
+Haskell, Scala, F#, Clojure, Erlang, Java, C#, Vue, Angular, React, JavaScript, HTML, CSS, AWS, Bootstrap, DevOps, System Reliability Engineering, agile, microservices. 
+What we’ll give you 
+You’ll join a diverse team with a friendly and relaxed culture. We encourage collaboration both with colleagues and customers. 
+We have a supportive environment where innovation, fresh ideas and creative solutions are encouraged and shared. 
+About us 
+We are a technology company and a leading provider of software and hardware products, and consultancy services for the rail industry. We also provide data capture, data analytics, and event transport planning and management services across the wider transport industry. 
+Technology makes it possible; people make it happen.

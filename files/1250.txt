@@ -1,0 +1,51 @@
+
+Job Title: Software Engineer
+ Location: Bristol
+ Salary: £34,387 - £54,356
+ Job Type: Full time, Permanent
+ The Centre for Sustainable Energy (CSE) is a Bristol-based national charity that supports people and organisations across the UK to tackle the climate emergency and end the suffering caused by cold homes. We do this by sharing our knowledge, practical experience and policy insights.
+ The Role
+ We're looking for a Software Engineer to join CSE's Research & Analysis team to support CSE and external partners on a variety of projects. Junior candidates through to senior will be considered. The post is based in CSE's offices in Bristol combined with remote working. Fully remote will be considered after the probation period. CSE operates a flexible working system, very occasional evening and weekend work may be required.
+ Responsibilities include
+
+ Creating innovative software to answer climate change related questions.
+ Designing, planning, developing and testing new software.
+ Supporting and extending existing applications.
+ Using software to help colleagues undertake tasks including statistical and spatial analysis and data management.
+
+ The CSE software team currently consists of four software engineers. Choices of languages, libraries, platforms etc. are made collaboratively by this team. We use a range of languages including Python, Clojure, Javascript and Java.
+ You will work across a range of CSE projects, including for example:
+
+ Enhancing CSE's Solar Wizard LiDAR based GB-wide Solar PV modelling tool.
+ Supporting and extending THERMOS - our Horizon 2020 funded district heating system optimisation tool.
+ A range of client-facing and internal web-applications.
+ Data analysis and processing software.
+ Some dev-ops with Linux-based tools.
+
+ Ideal Candidate 
+Essential attributes:
+
+ Solid demonstrable experience of developing software collaboratively in a professional environment.
+ Experience of developing software using Python, Clojure, Javascript or Java.
+ Curiosity and a willingness and ability to learn new approaches, languages, etc.
+ Good knowledge of Linux.
+ Ability to work effectively both autonomously and as part of a team.
+
+ Desirable attributes:
+
+ A degree or equivalent in computer science, software engineering, mathematics, physics, or similar.
+ Advanced Linux knowledge, including experience of using NixOS or similar for reproduceable deployments.
+ Experience working with geospatial data.
+ Solid mathematics, statistics and/or Physics knowledge.
+ Experience developing models or simulations, particularly in the energy domain
+
+ Benefits 
+
+33 days paid holiday per year including 8 bank holidays.
+ Generous ethical company pension scheme (8% from employer, 6% from employee) to which the post-holder will be automatically enrolled
+ Salary sacrifice childcare vouchers
+ Subsidised bike purchase arrangements through the cycle to work scheme
+ Training and study time is given to complete the NEA City & Guilds 6176 in Energy Awareness.
+
+ Please click on the APPLY button to complete the first stage of the application process by sending your CV and Cover Letter for this role.
+ Candidates with experience or relevant job titles of; Software Developer, Software Engineer, Systems Developer, Application Developer, HTML, CSS, Bootstrap, PHP Development, WordPress, IT Database Developer and Software Integration, IT Developer, Coder, Modeller, System Coder, Python, Rust, C/C++, Developer, Programmer, Technical Developer, Systems Developer, System Coder, Python, Senior Developer, will all be considered.

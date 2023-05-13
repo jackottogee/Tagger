@@ -1,0 +1,17 @@
+Maclaren F1 Racing is working in Partnership with Entain to offer 6-month Opportunities for STEM Returners to join the organisations in either Technology, Data or Engineering roles. The opportunities will give training, coaching, mentorship and CV worthy assignments with the possibility of permanent roles on successful completion: “We know that your expertise and experience is unique to you, so we aren’t offering a one-size-fits-all approach. We’ll be guided by your career to date when looking for the perfect placement opportunity – because your return to work should work for you.” The returnship scheme will be based in the Greater London area and commence on Monday 22nd May 2023.
+McLaren Racing Limited is a British motor racing team based at the McLaren Technology Centre in Woking, Surrey, England. McLaren is best known as a Formula One constructor, the second oldest active team, and the second most successful Formula One team, having won 183 races, 12 Drivers' Championships and 8 Constructors' Championships. Whether it’s the F1 drivers on track, mechanics in the garage, management team on the pitwall or engineers in the MTC, Maclaren FI Team are united by bravery, ingenuity, and the thrill of the chase.
+Our Backend Developers build reusable code, components and libraries for future use with excellent code quality, from unit testing to quality assurance within a service architecture. You’ll work within different platform services to build out new features or improve existing features. You’ll optimise application for maximum speed and scalability, whilst collaborating with other team members and stakeholders.
+Experience we need includes backend application design and implementation, experience in modern PHP, knowledge of testing strategies, common course control and deployment (Git, Jenkins, Codeship, Docker).
+Great if you also have knowledge about one or more modern backend programming languages such as Rust, have used container technologies, CI/CD practices and Mysql databases.
+Job Types: Fixed term contract, Temp to permContract length: 6 months
+Salary: £30,000.00-£35,000.00 per year
+Benefits:
+
+Work from home
+
+Schedule:
+
+Day shift
+
+Work Location: Hybrid remote in Manchester, M1 1DE
+Application deadline: 17/04/2023

@@ -1,0 +1,63 @@
+Therapy Box makes life-changing apps! We are a multi-award-winning British app development company working in the specialist healthcare field. More about us here: www.therapy-box.co.uk. We are on a mission to help people with disabilities. We are offering a web developer internship to help us do just that. Our tech stack is Typescript / javascript-based, with React Native development for mobile and web development. NodeJS for the backend. This role will expand to including full-stack responsibilities.
+Why Choose Therapy Box?
+A small team coupled with a great growth rate will ensure you get plenty of exposure and opportunities to learn and grow within the role and company.
+We offer many perks:
+- Competitive salary
+- Hundreds of Perkbox team benefits including free coffee, phone insurance, discounted cinema tickets, and more
+- Regular on-site and off-site team events
+- A relaxed and friendly work environment
+- Travel opportunities within the UK and overseas (Europe, America, and different areas of the UK are visited often by some of the team)
+- We are currently working from home and expect to continue doing so
+What would the role entail?
+- You may independently or with other developers, develop web tools and mobile apps using the React Native framework.
+- Participate in the development process from the definition, through design, build, test, release, and maintenance of a website. This includes coding, documentation, and implementation of websites.
+- Collaborate with cross-functional teams throughout the whole process
+- Research and track advancements in web development and implement them
+- You would expand your involvement to the backend over a period.
+Who are you?
+- A graduate with a bachelor’s degree in computer science/mathematics/physics/engineering is preferred
+- A team player who can easily adapt to a rapidly changing environment
+- Ability to communicate clearly and professionally and meet deadlines
+- Break any problem down into viable actionable chunks and solve them with clarity and precision
+- Leadership: How well could you put across your ideas, get buy-in, mobilise resources, help with change
+Required Knowledge Areas:
+- Javascript
+- Typescript
+- React Native
+- MySQL / postgresql
+- Node.js
+- Git
+- Docker / Kubernetes
+- Responsive Design
+- Recognise and predict use-cases and user interaction
+Contract length: 12 months
+Job Types: Full-time, Internship
+Salary: £18,000.00-£24,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Cycle to work scheme
+Employee discount
+Referral programme
+Sick pay
+Store discounts
+Work from home
+
+Schedule:
+
+Holidays
+Monday to Friday
+No weekends
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+JavaScript: 1 year (preferred)
+
+Language:
+
+English (preferred)

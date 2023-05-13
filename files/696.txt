@@ -1,0 +1,76 @@
+
+ Description: 
+ Job Title: Software Developer Python
+ Job Location: UK – Whiteley - Hampshire
+ Job ID: IMS20232802-97776
+ About the role:
+ L3Harris Flight Data Services (FDS) provide an outsourced Flight Data Monitoring service to aircraft operators worldwide and through our flight data processing and analytics software we ensure that our customers achieve an improvement in flight safety and cost of operations.
+ We have investment-backed projects to develop new safety services for our pilot training products. This includes deploying our additional cloud based capabilities as part of a Big Data platform.
+ We are building a cloud platform which collates data from Simulators, Instructors, Black Box Flight Data Recorders and Training Assessments and utilises Data Science techniques and Machine Learning models to extract key insights which will help Instructors more quickly identify root cause issues and Pilots in understanding their performance.
+ As a Software Developer, you will undertake software development tasks, prioritise tasks in line with our strategy, and deliver safety solutions on-time to our customers. You will foster innovation while working in a high-performance agile team that delivers value. You will communicate and work closely with team members ensuring code quality, design fidelity and expertise is shared.
+ Typical day to day responsibilities would include:
+
+Interface with key clients that have software development requirements.
+Design, test and develop new features from internal and external customer requests, including acceptance criteria and constraints in accordance to the software development style and quality guidelines.
+Maintain and improve internal and external software systems and applications.
+Participate in code review of own and other developer’s code in accordance with code review guidelines.
+Manage workload of jobs using JIRA task management tools.
+Apply agile software development and test-driven development methods to software development activities.
+Provide internal and external training of internally developed software systems.
+Ensure software releases are to plan, achieve acceptable quality, and follow the release procedures.
+Maintain quality processes and technical product documentation.
+Clearly and regularly communicate with management and technical support colleagues.
+Design and update software databases. This includes, but is not limited to: Software Applications, Web Sites, Data Communication Processes and User Interfaces.
+Test, maintain and recommend software improvements to ensure strong functionality and optimization.
+Independently install, customize, and integrate commercial software packages.
+Facilitate root cause analysis of system issues.
+Identify ideas to improve system performance and impact availability.
+Resolve complex technical design issues.
+Development of technical specifications and plans.
+Make good technical decisions that provide solutions to business challenges.
+Provide comprehensive support to internal customers; achieve resolution to outstanding problems or issues.
+Compile timely, comprehensive, and accurate documentation and or reports as requested.
+Possess up-to-date knowledge of technological developments in the industry.
+
+Technical knowledge, skills and qualifications:
+
+Minimum 1 year commercial Python programming experience is a must
+Expertise in at least one Python framework, such as Django or Flask.
+Familiarity with front-end technologies such as JavaScript, jQuery, HTML and CSS.
+An understanding of databases and SQL.
+Use of Git or similar version control systems.
+Working within Docker / Kubernetes environments.
+Use of Python libraries such as NumPy and Pandas.
+Experience with cloud technologies.
+
+Person specification:
+
+A mature, proactive, and responsible approach to work, with initiative and problem-solving capability
+Strong problem solving and decision-making skills while using good judgment
+Multi-task and change from one task to another without loss of efficiency or composure
+Communicate effectively and professionally in all forms of communication with internal and external customers.
+BSc/BA in Computer Science, Engineering, or a related field- preferred but not essential
+
+Technologies used: 
+
+Python / NumPy / Pandas / C
+Django / Flask / Celery / RabbitMQ
+JavaScript / React
+Linux / Docker / Kubernetes
+AWS & Azure
+
+Benefits:
+
+25 days annual leave plus bank holidays
+Group Income Protection, Private Health Care
+Life Assurance 
+Employee Assistance Programme
+Discounts with cinemas, travel, major retailers, family days out and much more
+Hybrid working opportunities
+Free parking
+Cycle to Work scheme
+
+All candidates who wish to apply for this vacancy must have the right to work in the UK in order to be considered.
+ Note: This Job Description is not intended to be all inclusive. It is designed to indicate the general nature and level of work performed by employees within this job title. It is not designed to contain or be interpreted as a comprehensive inventory of all duties, responsibilities and qualifications required of employees assigned to the role. The employee may perform other related duties as required to meet the ongoing needs of the organization.
+ L3Harris Technologies is proud to be an Affirmative Action/Equal Opportunity Employer. L3Harris is committed to treating all employees and applicants for employment with respect and dignity and maintaining a workplace that is free from unlawful discrimination. All applicants will be considered for employment without regard to race, colour, religion, age, national origin, ancestry, ethnicity, gender (including pregnancy, childbirth, breastfeeding or other related medical conditions), gender identity, gender expression, sexual orientation, marital status, veteran status, disability, genetic information, citizenship status, characteristic or membership in any other group protected by federal, state or local laws
+

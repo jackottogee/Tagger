@@ -1,0 +1,30 @@
+
+
+  The Multiplayer Group (MPG) are 300 developers and data scientists, helping our clients and partners build 20+ AAA projects at any one time. We’re probably the most experienced multiplayer dev group in the world and we’re set up to help the games industry make games more easily, to deliver the highest quality, and become long-term partners.
+ 
+
+
+ We hire the best people, our talented team is spread across the globe. We’re remote-friendly and big on wellbeing, so if you love the sound of us, we’d love to hear from you!
+ 
+ What you'll be doing:
+
+ Working with Online Sub-System Services like Steam, GoG, PSN and XBox-Live.
+ Integrating Online Service features like matchmaking, friends, invites, etc.
+ Working with 3rd Party APIs like PlayFab, AccelByte and others.
+ Creating the best experiences for players in how online features impact the game.
+ Champion quality in MPG and our clients development process
+ Other duties as assigned
+
+ What we'll need from you:
+
+ A strong engineer with professional experience in games.
+ PC development experience
+ Experience with consoles like PS4/PS5 and XboxOne/SeriesX is preferable
+ Excellent C++ programming skills is highly desirable
+ Experience of developing for multiplayer games highly desirable
+ Experience with smart or mobile devices would be a plus
+ Attention to detail with a strong ability to analyse and comprehend direction
+ Awesome technical insight and a finisher of technical tasks on time
+ A good communicator with the ability to verbalise conceptual thoughts and the willingness to accept constructive critique
+ Ability to use initiative and take proactive action to provide solutions
+

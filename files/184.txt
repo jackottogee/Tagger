@@ -1,0 +1,39 @@
+
+We appreciate your interest in joining BCG X. Ventures (Formerly BCG Digital Ventures). 
+Please note: this is not a job posting. You are welcome to submit your interest in being considered below; we will keep you in mind once we open a role that matches the job description.
+ We’re Building Tomorrow. BCG X is the tech build and design unit of BCG.
+ At BCG X. Ventures (formerly BCG Digital Ventures) we apply an end-to-end approach to build and launch standalone and new core businesses. We turn differentiated assets into strategic advantages that unlock growth, building everything needed—products and technology, business models and go-to-market strategies, and operations and organization foundations—to launch these projects at speed.
+ Engineering at BCG X. Ventures
+ Our multidisciplinary engineering team tackles challenges at their core. From product and test engineers to full stack engineers and data scientists, these venture builders all share a passion for innovative and emerging digital solutions. Working in collaboration with product and design teams, they use cutting-edge and custom technologies to imagine, build and launch breakthrough digital businesses that disrupt markets and generate untold value for businesses and consumers alike.
+ Engineers will:
+
+Shape innovative products and businesses that address real user frictions
+Write clean, functional code
+Build new products 0-1
+Manage the complete development lifecycle of a website or application, from architectural design to rollout
+Work in a diverse, collaborative, and dynamic environment where everyone's ideas are valued
+Give input into the product direction and be involved in the discussions around shaping the product roadmap
+
+You should have:
+
+Strong hands-on development experience
+Real passion for solving customer frictions through simple and effective software
+Strong people skills that contribute to an diverse and collaborative environment
+Knowledge of clean coding practices, including object-oriented and functional programming concepts
+Exposure to Agile, Lean, and Continuous Delivery approaches, such as Continuous Integration, TDD, Infrastructure as Code etc.
+Experience in communicating ideas and decisions to a variety of team members and clients
+
+Languages / Frameworks
+ FE: TypeScript, Vue.js, React/React Native, Angular, Flutter
+ BE: Kotlin, Python, Typescript, Node.js, Go
+ APIs
+ GraphQL, REST APIs, Stream APIs
+ Infrastructure
+ Docker, Kubernetes, Amazon Web Services, Google Cloud Platform, Azure Framework, Serverless
+ Benefits at BCG X
+ At BCG we are committed to offering a competitive compensation package and benefits that contribute to our employee’s quality of life. We offer a base salary, annual bonus, and fully vested retirement plan with annual contributions. We pay the full cost of medical, dental, and vision coverage for our employees and their eligible loved ones. We offer reimbursement for gym memberships and other fitness activities and paid time off including vacation.
+ Diversity & Inclusion at BCG X. Ventures
+ BCG X. Ventures facilitates a sense of belonging where all employees, particularly those historically at the margins of society, can unapologetically bring authenticity to their work.
+ To learn more, visit us at https://bcg.com/x
+ Interested applicants may apply through the careers section of the website at https://careers.bcg.com/. Interviews will take place after resumes have been screened for minimum requirements. Please note that this position is not restricted solely to the responsibilities listed above and that the job scope and responsibilities are subject to change.
+ BCG is an Equal Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, age, religion, sex, national origin, disability, protected veteran status, or any other characteristic protected under federal, state or local law.

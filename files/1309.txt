@@ -1,0 +1,34 @@
+
+Ruby Developer (TypeScript AWS) *Hybrid WfH / London* to £100k
+ 
+Are you a tech savvy Ruby Engineer seeking your next opportunity?
+ 
+You could be part of a financial services company whose hugely successful platform is designed to offer personal loans to customers in a sustainable and fair way.
+ 
+What's in it for you?
+
+ Up to £100k plus discretionary bonus
+ Hybrid working (only 2 days a month in the office)
+ 25 days holiday allowance
+ Perkbox discounts
+
+ 
+Your role:
+ Established FinTech is seeking a Ruby Developer to work on their core loans product built in Ruby and React hosted on AWS. You'll be working across the full technology stack using modern technologies and tools, including Kubernetes, whilst working alongside some of the best engineers and technologists in the business. As a Ruby Developer, you will work on various aspects of the system, infrastructure, and build and deploy tooling to deliver new features and enhance the existing functionality.
+ 
+WFH policy:
+ Based in the heart of London, you will join a collaborative and friendly team who will support and encourage you to reach your full potential.
+ 
+Requirements:
+
+ You are a talented technologist who has experience using Ruby
+ You have experience working within an AWS environment
+ You are familiar with front end technologies and ideally have experience using TypeScript
+ You must be degree educated (2:1 or above) in Computer Science or similar
+ You have a genuine passion for technology
+ You have excellent communication and collaboration skills
+
+ 
+As a Ruby Developer, you can expect to earn a competitive salary (up to £100k) plus bonus and benefits.
+ 
+Apply today or call to find out more about this Ruby Developer (TypeScript AWS) role.

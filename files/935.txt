@@ -1,0 +1,49 @@
+Are you an experienced Full Stack Engineer looking for an exciting opportunity to play a key role to build the next generation of AI-powered systems?
+If so, we currently have an exciting opportunity for a Full Stack Developer to join a prestigious company that delivers AI capabilities to solve real world problems.
+The company has offices in the UK and would consider candidates from UK and Europe. Visa sponsorship is also available for the right candidate. This position is Hybrid.
+About the position:
+As a Full Stack Engineer, you will be responsible for designing and implementing user interfaces and APIs for machine learning applications. You will be working in our Platforms team and the UIs/APIs that you develop will be used by machine learning and software engineers to deploy neural network models in the most optimal way.
+Skills/Qualifications:
+
+Typescript (Required)
+React/Next.js (Required)
+Node.js
+Python (Working knowledge/Optional)
+Three.js/Webgl/ 3d web interfaces (Not required but desired)
+AWS/GCP/Any cloud provider(Working knowledge)
+Docker(Working knowledge)
+
+Benefits:
+
+Hybrid working
+Generous vacation policy
+Remote friendly work environment
+Bonus scheme
+
+and more...
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£60,000.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+Manchester, Greater Manchester: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: In personFlexitime

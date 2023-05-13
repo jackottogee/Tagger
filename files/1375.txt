@@ -1,0 +1,8 @@
+
+Umbraco Developer with strong C# - Fully Remote
+ An Umbraco Developer with strong C# is required by a leading Media Entertainment company. The Developer will be joining an ever-growing team, building innovative digital solutions that have inspired and disrupted the market. 
+Technology is at the heart of what they do, therefore wise investments are always being made in R&D innovation and smart people.
+ As a tech savvy Software craftsman, you must have a deep understanding of SOLID principles, understand object-oriented programming and appreciate the Agile development way of working. All developers are encouraged to assist in innovation of the software development practices.
+ You will be a .NET C# Developer with competent level of experience in development of digital software using Umbraco, .NET Core, MVC, HTML5, CSS3, JavaScript, Angular/React, SQL Server and Agile. 
+The ideal person will be an ambitious developer looking to get in to technical architecture who enjoys leading by example and being involved in technical innovation.
+ Excellent benefits, competitive salary, training provided, learning Sitecore and work fully remote.

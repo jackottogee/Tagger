@@ -1,0 +1,40 @@
+
+
+About the company
+ PQShield is a highly innovative deep tech start-up that specialises in post-quantum cryptography and cybersecurity. Our mission is to innovate and create solutions for the world's most imminent security challenge: quantum computers.
+ Here at PQShield, we understand our people are the most important factor in driving our success. Therefore, our core value is to provide them with a work environment that promotes personal and professional growth. Hard work and loyalty are always met with acknowledgement, appreciation and reward.
+
+ Role Overview
+ We are looking for aspiring software developers with a passion for cybersecurity and cryptography. You will take a year out of university acquiring leading edge experience of post-quantum technology in the context of agile software development.
+ You will be fully mentored by expert professionals and will interact with hardware, firmware, software and marketing engineers.
+ Project 1 will be to create a post-quantum algorithm performance measurement tool. As algorithms are added or enhanced the impact on performance will be automatically collated and presented on time-based displays.
+ Project 2 will be to create impressive user friendly software that will demonstrate our post-quantum capabilities and performance for a variety of different customer platforms and scenarios. Such software will be used at marketing events and trade fairs.
+ Preferred Skills and Qualifications
+
+Student of Cryptography, Applied Cryptography, Mathematics or Computer Science
+Completed at least 2 years of the above studies.
+Ideally based in Oxford, as we have lovely serviced offices in Summertown
+Good understanding of the software development lifecycle
+C, Javascript & Python experience
+Comfortable with Linux command line interfaces
+Professional attitude and strong work ethic
+Flexible and able to work well in a team
+Strong written and spoken English
+Right to work in the UK
+
+What we can offer you
+
+Very competitive salary.
+25 days annual leave (plus public holidays).
+Additional two wellness weeks per year when the whole team is off globally!
+Flexible and friendly work environment.
+Free breakfast in the office and many more perks!
+The chance to join us on this exciting adventure as we enter the Quantum-era of technology.
+
+Additional Information
+ Oxford Based with Remote Working Option
+ 12 month contract from Summer 2023
+ PQShield is a highly innovative deep tech company that considers its people to be the most important assets and so its core value is to provide them with a work environment that promotes personal and professional growth. Hard work and loyalty are always met with acknowledgement, appreciation, and reward. The company also promotes openness and flexibility. Our Corporate Social Responsibility revolves around making sure our products are used in a constructive and positive way, we would like to think that our products will contribute to the greater good rather than be just another money-making commodity.
+
+ PQShield is an Equal Employment Opportunity employer. We're passionate about talent and proud to foster an inclusive environment; all applicants will be considered regardless of their gender identity, ethnicity, sexual orientation, disability, and age.
+

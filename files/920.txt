@@ -1,0 +1,21 @@
+
+ This is an exciting opportunity for a full-stack developer to join a software company who specialise in developing road safety and training products. This is a great position if you want to help save lives on have a direct impact on making britians roads a safer place.
+ 
+ In this role you would be joining an experience team leading on development efforts on their core products, which is offered as a SaaS that has seen rapid growth. 
+ 
+ You would be reporting directly to the Head of IT and be involved in key decision making, as well as acting as a mentor around their development activities.
+ 
+ On a day-to-day basis, you would be working with .NET Core utilising React frameworks regularly. You would be expected to contribute to defect management and security analysis through automated testing.
+ 
+
+Their technology stack:
+ 
+
+.NET Core
+.NET Core Web Api
+React
+Typescript
+Azure
+This role is available on a remote basis, however if you wish to visit the office you're more than welcome to.
+ 
+ If this role sounds suitable, please apply for consideration.

@@ -1,0 +1,38 @@
+Are you an experienced passionate developer looking for a ground-breaking opportunity to create disruptive technologies?
+Working with an ambitious team, this is an exciting role to deliver leading-edge SaaS project. You will ensure appropriate and efficient testing strategies are applied in your areas of responsibility, with a focus on pioneering software creation.
+Key responsibilities:
+Designing and running data platforms
+Deliver fully unit/integration tested code as part of a continuous build and delivery pipeline
+Produce clear technical documentation and ensure appropriate and timely knowledge transfer
+Building and managing automated CI/CD pipelines for building, testing and deploying your code
+We are looking for someone who has:
+Strong understanding of both Java and Python with a strong track record of designing, developing, delivering, testing, and optimising java applications for public use.
+Understanding of testing practices in an agile environment
+A passion for automation
+The ability to review and interpret ongoing business requirements and recommend the relevant reporting.
+Proactive approach to problem solving, idea creation and suggesting/driving change.
+Self-motivated individual and can work autonomously.
+Job Type: Full-time
+Salary: From £50,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Discounted or free food
+Free or subsidised travel
+Referral programme
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Performance bonus
+
+Ability to commute/relocate:
+
+ Croydon: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person

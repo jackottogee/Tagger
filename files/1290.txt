@@ -1,0 +1,57 @@
+
+Knowledge, skills and personal qualities required:
+
+ Proven ability to support or lead software developments
+ Educated to Degree or equivalent level in a software engineering or related discipline
+ Knowledge and understanding of Software Engineering
+ Preferably have an understanding of military systems, in particular maritime systems
+ Understanding of Open Systems Architectures and Principles
+ Experience of Software Engineering Lifecycle processes and tools
+ Ability to solve complex problems and to critically review results and methods to ensure quality
+ Ability to expand knowledge into new domain areas, work across domains and see the bigger picture
+ Excellent communication skills, including delivery of presentations
+ Good written skills including technical report writing, ability to communicate with both experts and non experts
+ Ideally the candidate will have experience in one or more of the following domain areas:
+ Maritime Combat Systems, integration of equipment and software
+ Mine countermeasures
+ Off-board unmanned systems
+ Command and Control Systems
+ Acoustics / Sonar
+ Engagement modelling
+ Software Safety (DEF STAN 00-56 & IEC 61508 or equivalent)
+
+ Desirable primary software/system skills:
+
+ C++ / Visual Studio*
+ Java / JavaFX / Netbeans*
+ Requirements management (DOORS experience desirable)
+ UML / Enterprise Architect for system design
+ Unit Testing / JUnit / CppUnit
+ HMI design and development
+ Atlassian Toolset
+ Network protocols
+ Databases
+ ISO 9001 and TickITplus standards
+
+ (* A strong bias to one particular coding language will not be considered a disadvantage)
+ Other desirable software/system skills:
+
+ Python
+ Fortran
+ Matlab
+ LabView
+ SQL
+ Web (HTML, JavaScript)
+ Usability Testing
+ IT skills, protocols, switch config, hardware config, virtualisation
+ Key accountabilities
+ To be agreed by appointment
+ Behavioural requirements
+ Good at working both in a team and independently
+ Attention to detail and understanding of the larger picture
+ Strong communication skills
+ Proactive, willing and responsive
+ Motivated and genuinely interested in problem solving and developing logical, robust solutions
+ Able to multi-task and prioritise a varied work load
+ Wants to expand knowledge base
+

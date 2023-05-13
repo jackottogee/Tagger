@@ -1,0 +1,49 @@
+
+ Job Description
+  Touch are developing a next generation investment platform. We want to use technology to improve the way consumers access financial advice and manage their investments.
+ The majority of existing platforms are still reliant on software and processes that aren’t capable of supporting today’s technology, so we started from scratch, developing a modern platform that is as efficient as possible. We're building a mobile first investment app that lets advisers manage their clients' investments entirely through their smartphone.
+ We originally founded the company (then Adalpha Ltd) in 2018, before being acquired in 2021 by AJ Bell, one of the UK's largest investment platforms and part of the FTSE 250 Index, to support the development of their digital services.
+ The Role
+ Our software engineers engage in the full spectrum of the software development lifecycle, from requirements gathering with stakeholders, working as a team to build and test features, managing deployment and supporting the service in production.
+ Joining a small, dynamic team you will have the opportunity to work on a large greenfield development, helping to form the design and development of the entire system.
+ The day to day responsibilities:
+ We operate an iterative development process across a team with no fixed hierarchy. The team is made up of self-motivated and collaborative individuals, and responsibilities are often picked up by individuals based on their own interests and abilities. We all work as part of a distributed development team where communication is often asynchronous and visible.
+ It will be important to get up to speed with the current codebase, help to make changes and improvements in keeping with current designs whilst working towards a mutually agreed architecture.
+ We are huge proponents of automation, so automated testing, continuous integration and continuous deployment are all inherent parts of every engineer's role.
+ Your skills and attributes:
+
+ Excellent programming and problem solving skills
+ Familiarity with Typescript or other typed languages, Vue or other front end JavaScript frameworks, as well as solid HTML, CSS (Sass) and JavaScript knowledge
+ Understanding of prevalent software design patterns and paradigms, such as REST API design, MVVM, microservices, containers/orchestration or event-driven architecture
+ Awareness of secure programming and testing practices Our tools and technologies
+
+ The below are all things that we are either currently using or have found to be a useful foundation when joining our team. Prior knowledge of them is not essential but would be beneficial to the role:
+
+ Vue (including SFCs, Vuex, npm and webpack)
+ TypeScript
+ gRPC/proto
+ Docker
+ Go
+ Dart and Flutter
+ PostgreSQL
+ The HashiCorp stack, such as Nomad, Terraform and Vault
+
+ Working at Touch by AJ Bell
+
+ Salary: £50,000 - £60,000
+ Discretionary bonus scheme
+ 25 days annual leave plus bank holidays, increasing by 1 every year up to 30 days (plus holiday buy and sell scheme)
+ Low-cost private medical and dental insurance
+ Cash health plan
+ Annual free share award scheme
+ Buy as you earn share scheme
+ Contributory pension scheme
+ Enhanced parental leave
+ Discounts on AJ Bell products
+ Study support scheme
+ Bike loan scheme
+ Employee assistance programme
+ Charity giving through payroll
+
+ AJ Bell is committed to providing an environment of mutual respect where equal employment opportunities are available to all applicants and all employees are empowered to bring their whole self to work.
+ We do not discriminate on the basis of race, sex, gender identity, sexual orientation, age, pregnancy, religion, physical and mental disability, marital status and any other characteristics protected by the Equality Act 2010. All decisions to hire are based on qualifications, merit, and business need.

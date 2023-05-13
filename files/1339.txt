@@ -1,0 +1,22 @@
+
+Salary: £35k - 45k per year + Benefits
+ 
+Reference: COR4865/1
+ 
+ Software Developer, C#, ASP.NET, JavaScript, Full-stack My client, a rapidly growing organisation within the Property industry, is actively seeking exciting new talent to join their team based-in Oxford! Looking for a talented Fullstack Software Developer, this is an exciting opportunity for someone with strong skills across C#, ASP.NET and JavaScript technologies, to join a thriving business.  The Company As the successful Full-stack Software Developer you will be joining an organisation within the thriving property sector. With a friendly and inclusive culture, they work collaboratively to provide the best service for all of their customers, and continue to grow through developing and changing markets. Coupled with 23 days holiday and outstanding personal development opportunities, this is an opportunity for a talented and enthused Full-stack Developer, which is not to be missed.  Benefits
+
+ 23 days holiday
+ Excellent training and progression
+ Employer pension scheme
+
+  What’s Required? The successful Full-stack Software Developer will be an enthusiastic individual, passionate about technology and development. They will likely have skills in including but not limited to:
+
+ 3 - 5 years prior commercial experience of C# .NET, ASP.NET and MVC5
+ Solid experience of JavaScript and related frameworks including JQuery as well as experience of Bootstrap with React being a beneficial
+ Sound experience of HTML, CSS3 and LESS
+ Experience of SQL Server and T-SQL as well as SQL Reporting and PowerBI
+ Prior experience with Visual Studio and TFS
+ Experience of cloud technologies and virtualisation, specifically Azure and VMWare will be advantageous
+
+  What Next? This is an excellent company, seeking someone who is driven and eager to progress in their career. It’s an exciting, progressive company who are looking to invest in the right employee to push the business forward! If you feel like this could be a good fit, apply now for immediate consideration.  Full stack Software Developer, C#, ASP.NET, JavaScript, Bootstrap, JQuery, Azure, VMwareCorriculo Ltd acts as an employment agency and an employment business.
+ #indmed #inddev

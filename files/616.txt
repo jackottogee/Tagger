@@ -1,0 +1,54 @@
+Company Overview 
+At Motorola Solutions, we believe that everything starts with safety. It’s the constant that empowers people to confidently move forward. It can fill a flight or sell out a stadium. It can care for a patient or graduate a class. 
+
+ As a global leader in public safety and enterprise security, we create and connect the technologies that help to keep people safe where they live, learn, work and play. Our integrated technology ecosystem unifies critical communications, video security and access control, and command center software, enabling collaboration in more powerful ways. 
+
+ At Motorola Solutions, we’re ushering in a new era in public safety and security. Bring your passion, potential and talents to a career that matters. 
+Department Overview We’re looking for talented, hard working Computing Science graduates to join us at our Glasgow office and help us develop our cutting edge mobile application. 
+
+ We offer full training and support, so new graduates are encouraged to apply. 
+
+ Our ‘Pronto’ team is the largest supplier of mobile police apps in the UK, providing software to over a third of the UK’s 45 police forces - used by around 30,000 police officers on a daily basis.Based in the West End of Glasgow, we currently have around 50 employees. Our team started as Kelvin Connect in 2002, a spin-out company from the University of Glasgow. Now, as part of Motorola Solutions, we continue to expand with future opportunities in the UK and beyond.We have a relaxed but hardworking environment where jeans and t-shirts are the norm and good ideas and debate are encouraged. You’ll work as part of an agile team, taking part in sprint planning sessions, daily scrums and sprint reviews and retrospectives. 
+Job Description 
+You’ll be responsible for writing Java, XSLT and using our in-house tools to produce Android applications. You don’t need any previous experience other than a strong Computing Science or Software Engineering degree as you’ll be trained by experienced staff throughout the role and work alongside our highly skilled team. 
+
+ While a large part of the Jr Software Developer role is development work, the role is designed as a graduate position where you’ll be exposed to the full life cycle of a project, including requirements capture, design, implementation and testing. After you have a few years of experience under your belt, there are opportunities to progress into Senior Developer, Business Analyst and Project Management roles depending on your preference and abilities. 
+Basic Requirements 
+
+ 3 years UK residency is required for security check 
+
+ A minimum of a 2:1 degree in BSc Computing Science, BSc Software Engineering, MSc Software Engineering, or similar. 
+
+ Some experience with Java, but more importantly, an excellent general understanding of programming concepts. 
+
+ Excellent written and verbal communication skills. 
+​ 
+We believe that to develop great software, we need to clearly understand the requirements of our end users, so we encourage the team to get out and about and meet our customers. Once you’ve been here for a while, the role may involve occasional customer site visits, so you should be willing to undertake some travel as required (accompanied by a more experienced member of the team). 
+
+ In return for your expertise, we’ll support you in this new challenge with coaching & development every step of the way. Also, to reward your hard work you’ll get: 
+Competitive salary and bonus schemes. 
+Two weeks additional pay per year (holiday bonus). 
+25 days holiday entitlement + bank holidays. 
+Attractive defined contribution pension scheme. 
+Private medical insurance. 
+Employee stock purchase plan. 
+Flexible working options. 
+Life assurance. 
+Enhanced maternity and paternity pay. 
+Career development support and wide ranging learning opportunities. 
+Employee health and wellbeing support EAP, wellbeing guidance etc. 
+Carbon neutral initiatives/goals. 
+Corporate social responsibility initiatives including support for volunteering days. 
+Well known companies discount scheme. 
+
+ 'We are an equal opportunities employer and we want you to have every opportunity to shine and show us your talents, please let us know if there is anything we can do to make sure the process works for you. We celebrate diversity and are committed to creating an inclusive environment for all employees' 
+
+ CONNECT WITH A CAREER THAT MATTERS 
+
+ We’re dedicated to designing and delivering the mission-critical ecosystem our public safety & enterprise customers refer to as their lifeline - mission-critical communications, software, video and services. Our drive for continuous innovation and partnership with our customers enables them to be ready - in the day-to-day moments, and in the moments that matter most. 
+
+ #LI-HD1 
+Travel Requirements Under 10% 
+Relocation Provided None 
+Position Type New Grad 
+Referral Payment Plan No

@@ -1,0 +1,69 @@
+
+Location: UK Remote / UK Home Working / Option to visit our offices in London St Pancras or Corby Northamptonshire
+
+
+Our Technology team are looking for a Cloud Engineer to join us where you will have the opportunity to create significant impact by helping us to set standards, drive quality and mature as an organisation. As a Cloud Engineer you will have a good level of technical competence and the hands on experience to address all areas of cloud engineering, problem resolution, cloud solution architecture and system implementation.
+
+
+As an RS Cloud Engineer you will deliver and guide the technical implementation across multiple large-scale projects (Agile teams), and mentor junior cloud engineers, and engineers within the wider Cloud Engineering Community in all areas of cloud and digital engineering.
+
+
+
+What you will do
+
+
+Responsible for cloud infrastructure; including system design, build and secure operations.
+Maintain and promote best practices and guidelines to ensure continuous improvement in the cloud infrastructure environment
+Implement and maintain AWS architecture, solutions, and environments in line with the Cloud Architecture Principles and Strategy
+Tune Cloud environments for cost and performance optimisation
+Design, contribute and implement secure solutions using auto-scaling
+Maintain operational management of cloud environments
+Collaborate in the design and implementation of cloud automation and disaster recovery strategies in line with business requirements.
+Collaborate with engineering teams on migration efforts of on-premises applications to cloud environment.
+
+
+
+
+
+A bit about you
+
+
+Mid level Cloud Engineer with experience in software development, information systems, or equivalent technical environment, including the development of highly transactional, mission critical applications in heterogeneous environments/architectures
+
+
+
+  for multi-user systems.
+  
+
+Experience with AWS cloud services & technologies; with proven ability to deploy through code (IaC)
+Strong knowledge of cloud database management technologies and tools.
+Strong understanding of the concepts, technologies, and cost management of cloud technologies.
+Understanding of software development best practices, including secure coding standards, code reviews, source control management, build processes, testing, and operations.
+Experience of working in a DevOps/Agile focused environment, demonstrating the core principles of collaboration and best-practice
+Providing insightful analyses on the efficiency, quality and economics of Cloud Operations based on empirical data
+Contribute to the development of standards and high-level architecture designs
+Providing visibility to impediments/risks and support mitigations
+
+
+
+
+
+You must have:
+
+
+Strong knowledge of AWS services and technologies
+Strong knowledge of containerised platforms and services
+Strong knowledge of IaC (Terraform/CloudFormation)
+Working knowledge of code repositories (Gitlab)
+Working knowledge of API gateways
+
+
+
+
+We are RS Group RS Group plc (formerly known as Electrocomponents plc) is a leading global omni-channel industrial product and service solutions provider to customers who are involved in designing, building and maintaining industrial equipment and operations, safely and sustainably. We stock more than 700,000 industrial and electronic products, sourced from over 2,500 leading suppliers, and provide a wide range of product and service solutions to over 1.2 million customers. With operations in 32 countries, we trade through multiple channels and ship over 60,000 parcels a day. Our vision is to be first choice for all our stakeholders, and we know that starts with our people. At RS we want everyone to show up to work as themselves and know that they will be supported and encouraged to develop and grow. We want work to be a place that excites and empowers, a place where you can be passionate and challenge people to think differently. We want to hire the best talent, people who share our values and understand that when we act with respect and humility, we can do great things. That’s why we’ve put our purpose at the heart of our organisation, we want to make amazing happen for a better world. We empower our people to make a difference, innovate to make more possible and deliver to make it happen.
+
+
+RS Group Brands: RS, Allied Electronics & Automation, RS PRO, OKdo, DesignSpark, IESA, Synovos, Needlers and Liscombe.
+
+
+Are you ready to explore the possibilities?

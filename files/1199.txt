@@ -1,0 +1,78 @@
+Software Developer
+SALARY: £30,000-£35,000
+Job Type: Permanent
+Location: Rugeley
+Hours: 9.00 am to 5:30 pm Monday to Friday
+Our longstanding and hugely successful client on the outskirts of Lichfield have a rare opportunity available due to expansion.The role will be working as part of a fun, hardworking and loyal team.
+This is a superb opportunity to develop your career with a successful company that’s committed to developing their employees and investing in the latesttechnology.
+The Software Developer role will be based at our Rugeley Office.The position will be for a Software Developer involved in all aspects of the software lifecycle, including:Software design, implementation, testing and support. They are committed to further development of an existing platform for our unique real time application.
+1. Software DesignUsing software development methodologies, design of new features and software applications for our existing platform.Responsibilities will include:
+
+Liaising with customers to establish new software requirements.
+Writing of software specifications.
+Attending software design meetings and reviews.
+
+2. Software ImplementationBoth Windows and Web Based development using the very latest Microsoft Developer Tools as follows:
+
+Writing of new applications and features in C# / VB / ASP.Net / MVC / HTML /JavaScript
+Development of mobile apps for both iOS and Android using Xamarin
+Database development using SQL Server
+Debug and amendments to maintain existing code
+Re-writing of existing legacy code written in FoxPro
+Development of embedded software in C or C++
+
+3. Software TestingTheir software products are thoroughly tested to ISO/IEC/IEEE 29119 standards.The position includes participation in:
+
+Writing of test specifications
+Conducting and assisting with software testing both in the office and in the field.
+Testing of products in the field will involve visiting airports in the UK and internationally to experience the software being used in practice.
+Liaising with customers who participate in beta testing of software.
+Taking an interest in the quality of our software products and developing new testing procedures
+
+4. Software SupportTo co-ordinate the provision of software support to customers including:
+
+Liaison with customers via the support team
+Undertake remote diagnostics
+Evaluation & implementation of support requirements
+Involvement in the commissioning process of newly installed software components in the field.
+Development of support procedures.
+
+5. Technical Authoring
+
+Development of manuals and online help systems for the clients products.
+
+CANDIDATE REQUIREMENTS
+
+Degree level in Computer Science or Software Engineering discipline or a level of previous experience in the field equivalent to that level
+Previous background of at least 3 years working in Software Development
+
+Experience in the following areas is advantageous:
+
+Visual Basic
+C/C++/C#
+ASP.Net
+SQL Server
+HTML/CSS
+JavaScript
+MVC
+Cloud Development
+Visual Studio
+Real Time and Process Control Software
+Mobile phone app development in Xamarin
+Ability to work on your own initiative and make effective decisions under pressure
+‘Hands on’, ‘can do’ attitude is a prerequisite
+Highly organised, strong attention to detail, excellent time management skills
+Strong communication / people skills
+Great attitude
+
+Package and benefits20 days annual leave + Bank HolidaysFree car parkingOngoing training and progression
+Job Reference: GS1348
+Hollyfield Personnel do not contact or write to unsuccessful candidates. If you have not heard anything from Hollyfield Personnel within 2 – 5 working days of your application, you should presume that your application was unsuccessful. By applying for this vacancy, you are giving permission for Hollyfield Personnel to contact you and retain your details.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£35,000.00 per year
+Schedule:
+
+Monday to Friday
+
+Work Location: In person
+Reference ID: GS1348

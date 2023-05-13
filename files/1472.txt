@@ -1,0 +1,30 @@
+
+On behalf of our client, we are seeking to recruit a HMI Software Engineer on an initial 6 month contract. As the HMI Software Engineer, you will be responsible for working within a team environment and assisting with delivering all stages of the design and development of the ground control software, from identifying requirements, through design, programming, deployment, and ongoing maintenance.   Role: HMI Software Engineer Pay: Up to £60 per hour via Umbrella Location: Farnborough Contract: Monday- Friday, 37 Hours per week, 12 Months Contract IR35 Status: Inside Security Clearance: BPSS  Responsibilities 
+
+Assist the Team Leader analyse and derive requirements from stakeholder needs or upper- level requirements, over the successive system decomposition levels.
+ Assist with defining or amending requirements in compliance with quality criteria, avoiding over- and under- specification.
+ Assist and Determine specificities of interface requirements.
+ Assist in the Definition and justify the requirements allocation to the given system elements taking into account the architectural interfaces and constraints, (e.g. requirements constraining system architecture), ensuring requirements traceability.
+ Assist with requirement changes, including impact analysis and requirements baseline establishment.
+ Implement design documents and software changes, including new and expanded functionality.
+ Ensure software meets requirements; comply with coding standards and unit test code modules using available test tools to determine static analysis of code implemented.
+ Production of documentation: including design documents, user manuals and operator training materials.
+
+ Essential Skills: 
+
+Experience working with software development teams through the software development lifecycle. (SDLC)
+ PC application development using Windows and other RTOS.
+ HMI application development. Model driven VAPS or SCADE Display.
+ Experience of Human Factors would be useful.
+ Knowledge of OpenGL would be useful
+ Requirements, design and software process documentation.
+
+ Other Useful skills and experience: 
+
+Experience in aviation, particularly ground control systems would be an advantage.
+ MISRA C or C++ Coding standard
+ Experience applying RTCA DO-178, DO-278, DefStan55 experience preferred
+ Doors experience, UML.
+ Subversion SVN experience (source control).
+
+ If you are interested in applying for this position and you meet the requirements, please send your updated CV to: Natalie Dalkin at Line Up Aviation   Line Up Aviation has carved its own place in the recruitment of Aviation and Aerospace personnel all over the world for more than 30 years. We work with some of the industry's best known companies who demand the highest standard of applicants.   "Follow @LineUpAviation on Twitter for all of our latest vacancies, news and pictures from our busy UK Head Office. Interact with us using the #LineUpAviation tag at anytime! Thank you for your follow!"

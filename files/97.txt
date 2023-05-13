@@ -1,0 +1,50 @@
+
+
+Full-Time 
+Hertfordshire / Remote 
+
+The Role
+Traffic Label is looking for an experienced Java and React developer to join our team and focus on the development of our proprietary affiliate platform, Winning Partner. The successful candidate will play a crucial role in building and enhancing public websites as well as internal business applications. The primary responsibility will be to create robust, easy-to-manage interface components using Java and React.js workflows. A commitment to collaborative problem solving, sophisticated design, and quality products are essential for this role.
+
+
+
+
+
+Responsibilities
+
+Developing the latest user-facing features using Java and React.js for our Winning Partner platform
+Designing modern, highly responsive web-based user interfaces
+Building reusable components in Java and React.js
+Translating designs and wireframes into high-quality code
+Learning and understanding user interactions
+Optimizing components for performance across a variety of devices
+Involvement from conception to completion with projects that are technologically sound and aesthetically impressive
+
+
+
+
+
+
+
+
+The Ideal Candidate
+
+Proficiency in Java, JavaScript, or TypeScript
+Thorough understanding of React.js and its core principles
+Prior experience with popular React.js workflows and Java frameworks
+Familiarity with most recent specifications of EcmaScript
+Familiarity with RESTful APIs
+Familiarity with HTML / CSS
+GIT experience is a plus
+Knowledge of modern authorisation mechanisms, such as JWT
+Familiarity with modern front-end build pipelines and tools, including testing frameworks
+Ability to understand business requirements and translate them into technical requirements
+Upper-intermediate level of English
+Team player
+Excellent time-management
+Great interpersonal and communication skills
+
+
+
+
+

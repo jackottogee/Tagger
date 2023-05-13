@@ -1,0 +1,54 @@
+
+Job Description Summary GE’s Power Conversion business, part of GE Vernova, provides electrification systems that are critical to customers’ power and energy needs for their high-performance applications. We work with some of the world’s major energy, maritime and industrial organizations, helping to enable a transition to energy efficiency and decarbonization, including through our specialist motors, drives and control technologies. 
+  The Control System Test Engineer will be part of the Rugby based Automation test team within GE Power Conversion. This team is responsible for the independent validation of products and systems developed within the GE Power Conversion development organization.
+ 
+ Job Description
+ In this role you will:
+
+ Improve the quality of GE's products & systems by specifying, performing and documenting repeatable test scenarios
+ Validate complex networked control systems, components and associated engineering tools, typically utilized within the Marine Business sector
+ Setup equipment in Rugby to reproduce faults and issues reported by Customers and by other GE users to allow efficient resolution by the local development resources.
+ Liaise with our GE Power Conversion Chennai test team to co-ordinate a consistent approach for test processes, tools and documentation
+ Identify, assess and adopt test tools and processes to help automate and generally improve the efficiency and repeatability of testing.
+ Generate & maintain test specifications that can be used by others in the future to re-test the system.
+
+
+ We are looking for a professional with
+
+ Qualification in computer Science, control systems or related technical field of study
+ Experience in the validation of software and/or hardware products. Proven experience in testing with Microsoft Technologies e.g. .Net, C# , C++, MS Test,
+ Creativity to plan the testing strategy, so that test cases and results can be repeated and audited. Proven experience in writing detailed test plan, specifications and reports.
+ Effective communication skills to be able to engage in discussions with stakeholders of varying levels of technical expertise.
+ Ability to write clear test records and documentation
+ Strong interpersonal skills, with the ability to take the lead to improve testing processes and capabilities
+
+
+ You can expect from us:
+
+ Challenging and exciting projects.
+ A work environment where we understand that not everyone has the same expectations about their jobs, careers and work-life balance and we are happy to discuss flexibility requirements.
+ Attractive compensation.
+ Flexible benefits so you can build a package that fits your personal needs. Some core benefits are: Employer pension contribution (not subject to individual contribution), Income protection, Private Health Insurance and Life Assurance.
+ 26 days vacation + bank holidays
+
+
+ Imagine a future with us
+ People who see the world differently
+
+ Additional Information
+
+
+
+
+
+
+
+ Relocation Assistance Provided: Yes
+
+
+
+
+
+
+
+

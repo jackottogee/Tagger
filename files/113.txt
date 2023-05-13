@@ -1,0 +1,83 @@
+
+
+OVERVIEW
+
+
+   Rare is a one-of-a-kind game studio where we create the kind of games the world doesn't have, games that are uniquely Rare! Working here offers opportunities unlike anywhere else. You'll be providing players with unforgettable shared experiences in games loved by millions worldwide. Our pirate adventure Sea of Thieves, launched in 2018, continues to thrive – and alongside that we're busy creating our next magical world, Everwild, announced in 2019 to a global audience.
+ 
+
+
+ We strive to make Rare an amazing place to work, embracing a culture of respect and building a supportive environment for our developers. Our custom-built Twycross studio is situated in the beautiful English countryside, surrounded by woodland and wildlife, with plenty of room for us to grow. Studio benefits are catered to making life easier for staff, including flexible working, a bonus scheme, an industry-leading pension package, private healthcare, mental health initiatives and free events for employees and their families.
+ 
+
+
+ By joining Rare, you'll be joining one of the finest studios in the industry with support from the wider Xbox Game Studios network. We're always on the lookout for exceptional people who can bring their expertise and unique thinking to help make our team even stronger!
+ 
+
+
+ ROLE PURPOSE
+
+
+   Are you a budding Engine/Systems Programmer looking for an opportunity that encourages growth, autonomy and undertaking interesting technical challenges that could influence a whole global network of studios?
+ 
+
+
+ Our cutting-edge Engine team are seeking a Junior Engine Programmer. You would be working across both Sea of Thieves and Everwild, collaborating with game teams to identify scalable approaches to new problems, optimising and hardening new and existing systems, tracking down tricky bugs and developing new runtime and workflow capabilities to enable us to continue delivering experiences the world doesn’t have. We have a particular interest in continuing to build out our UI and animation engineering capabilities, so any interest and experience in these areas would be very welcome.
+ 
+
+
+ Our Engine Programmers are the first to trial new technologies and consoles, to ensure Rare stays at the very forefront of game development. Regularly involved at initial design stages of game features, Engine Programmers embed in other teams to collaborate, influence and steer our games’ technical development.
+ 
+
+
+ As this is an entry-level role, we look forward to you bringing fresh ideas and perspective into the team. Not only will your perspective be highly valued, we promise you'll have access to a range of knowledge and objectives to broaden your skillset and support your growth and learning. Providing opportunities to stretch, thrive and specialise will be a top priority.
+ 
+
+
+ This role sits in a team that prioritises a healthy work/life balance and consists of highly knowledgeable people who appreciate nothing better than learning from each other and sharing experiences – we'd love to learn from you, and we'd love to share our skills and expertise with you as we get better, together.
+ 
+
+ Responsibilities
+
+ KEY ACCOUNTABILITIES
+
+
+Empower Rare's Engineering, Content and Design teams to achieve more.
+Collaborate with other programmers on the Engine and Game teams to build creative solutions to technical problems and provide insights on performance, memory, scalability, robustness and testability.
+Help contribute to the technology used to build Rare's next games, minimising technical debt and maintenance risks.
+Support our commitment to improving the quality of development processes at Rare.
+Devote time to personal improvement to grow your skills, develop specialisms and embody engineering excellence.
+Commit to upholding an inclusive mindset and engaging meaningfully with our values of diversity and inclusion.
+
+ Qualifications
+
+
+ REQUIRED SKILLS AND EXPERIENCE
+
+
+Curiosity, proactivity, a desire to absorb new ideas and understand how things work.
+Ability to communicate effectively and positively.
+Experience with object-oriented programming, especially C++.
+Excellent problem-solving skills.
+Enthusiasm for low-level code and high-level architecture; bit-twiddling and systems design should excite you!
+Passion for performance programming – crafting lean and efficient code is something you care about.
+Commitment to embracing diverse perspectives, overcoming personal bias and aspiring to be an ally to all.
+
+
+
+ DESIRABLE EXPERIENCE
+
+
+Bachelor’s degree or equivalent experience in Computer Science or relevant field.
+Enthusiasm for UI or animation engineering.
+Familiarity with automated testing methodologies.
+Experience with commercial game engines, especially UE4.
+
+
+
+ Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or the recruiting process, please send a request via the Accommodation request form.
+ 
+
+
+ Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
+ 

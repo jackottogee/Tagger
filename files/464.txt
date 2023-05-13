@@ -1,0 +1,54 @@
+
+
+Every great story has a new beginning, and yours starts here.
+ Welcome to Warner Bros. Discovery… the stuff dreams are made of.
+
+ Who We Are… 
+When we say, “the stuff dreams are made of,” we’re not just referring to the world of wizards, dragons and superheroes, or even to the wonders of Planet Earth. Behind WBD’s vast portfolio of iconic content and beloved brands, are the storytellers bringing our characters to life, the creators bringing them to your living rooms and the dreamers creating what’s next…
+
+ From brilliant creatives, to technology trailblazers, across the globe, WBD offers career defining opportunities, thoughtfully curated benefits, and the tools to explore and grow into your best selves. Here you are supported, here you are celebrated, here you can thrive.
+
+ Your New Role
+
+ Warner Bros. Discovery's DTC technology and product organization sits at the intersection of tech, entertainment, and everyday utility. We are continuously leveraging new technology to build immersive and interactive viewing experiences. Our platform covers everything from search, catalog, and video transcoding, to personalization, global subscriptions, and more. We are committed to delivering quality user experiences, ranging from video streaming to applications across connected TV, mobile, web and consoles. As a pure tech organization, we are essential to Warner Bros. Discovery’s continued growth, building world-class products from the ground-up for our iconic brands like HBO Max, Discovery Channel, CNN, Food Network, HGTV, Eurosport, MotorTrend, and many more.
+
+ We are hiring Software Development Engineers to join our Labs Experimentation team based in London. The ideal candidate has a track record of having built multiple high-performance, stable, scalable systems that have been successfully shipped to customers in production. Your work and your approach to work are exemplary: you drive best practices and set standards for your team. You are a key influencer in your team’s strategy and contribute significantly to team planning. You show good judgment in making trade-offs between immediate and long-term business needs. You are a collaborative leader that makes other engineers and team members around you more productive, by sharing your knowledge, and helping to tie-break key technical decisions. You provide mentoring to other engineers.
+
+ Your New Role Accountabilities
+
+ You play a leading role to design and develop major functional changes to existing software systems, or new ones, involving yourself and other engineers. You make good decisions when to build new and when to extend existing. You are known for your subject matter expertise
+ Your work and your approach to work are exemplary: you drive best practices and set standards for your team. You can propose and create best practices proactively where none exist.
+ You are a key influencer in your team’s strategy and contribute significantly to team planning. You show good judgment in making trade-offs between immediate and long-term business needs.
+ You are a collaborative leader that makes other engineers and team members around you more productive, by sharing your knowledge, and helping to tie-break key technical decisions.
+ You provide mentoring to other engineers and your success is judged as much on your own productivity as on the positive impact you have on engineers around you.
+ You can troubleshoot a production issue by reviewing source code, logs, operational metrics, stack trace, etc to pinpoint a specific problem and then resolve it. You can identify root causes and identify learnings to improve both development processes and system design.
+ Working with data science teams to create models to improve the current experimentation platform.
+
+
+ Qualifications and Experience
+
+ Experience in Experimentation and A/B testing.
+ Expert in Go and Python languages.
+ Persistence and caching solutions such as Dynamo DAX, PostgreSQL, Redis, Open Search.
+ Micro-service based architectures using gRPC and Kafka for interservice communication.
+ Asynchronous, non-blocking, functional style of programming and experience implementing with Go and Python.
+ Usage and deep understanding of Docker, Kubernetes, and AWS.
+ Experience of building, operating, and truly owning services. Implementing alerting, metrics, and logging using Prometheus, CloudWatch, Kibana, PagerDuty.
+ Very strong Computer Science fundamentals in object-oriented design, architectural and design patterns, data structures & algorithms
+ Very strong expertise in cloud computing and hands on experience in delivering large scale distributed systems on cloud platforms like AWS and/or Azure and/or GCP
+ SQL & NoSQL experience including DynamoDB and performance tuning.
+ Databricks Platform experience (SQL, ML, Workflows)
+ Previous experience of streaming data, ML and analytics workflows at scale. Including data pipeline architectures and performance tuning.
+ Ability to apply strong analytical skills in delivering simple solutions for complex problems
+ Background in Data Science & Data Engineering (including math and statistics functions)
+ Very strong communication skills both written and verbal.
+
+
+ How We Get Things Done…
+
+ This last bit is probably the most important! Here at WBD, our guiding principles are the core values by which we operate and are central to how we get things done. You can find them at www.wbd.com/guiding-principles/ along with some insights from the team on what they mean and how they show up in their day to day. We hope they resonate with you and look forward to discussing them during your interview.
+
+ The Legal Bits…
+ Warner Bros. Discovery embraces the opportunity to build a workforce that reflects the diversity of our society and the world around us. Being an equal opportunity employer means that we take seriously our responsibility to consider qualified candidates on the basis of merit, regardless of sex, gender identity, ethnicity, age, sexual orientation, religion or belief, marital status, pregnancy, parenthood, disability or any other category protected by law.
+   If you’re a qualified candidate with a disability and you need a reasonable accommodation in order to apply for this position, please contact us at recruitadmin@wbd.com.
+ 

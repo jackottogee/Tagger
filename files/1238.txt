@@ -1,0 +1,52 @@
+Job Title: Software Engineer
+Type: Full-time Permanent, Fully Remote
+Salary: Starting from £60,000 per year
+Benefits: Competitive salary + pension scheme, 25 days annual leave + bank holidays, Private Health Insurance offered for you and your family, Flexible working: home working as standard with occasional travel to attend meetings, Business hours are Monday – Friday, with flexibility, Option to work a 4-day week (pro-rata), Opportunity to learn at your own pace in areas that interest you and that are relevant to the team, Team meetings are held regularly (both online and face-to-face) to share ideas and socialise, annual music festival held at HQ and an opportunity to joining a growing team with a strong culture of enthusiasm and high achievement.
+Attention healthcare trailblazers! Are you passionate about delivering and developing cutting-edge software? Want to be part of the social network revolution in healthcare? Keen to work with a team that has over 200 years’ collective experience delivering innovative solutions to our health service? Look no further!
+My client is UK's leading medical technology company. They pride themselves on doing things the right way, not necessarily the easy way, and their clients hold them in high regard for their innovative and proven applications that reshape what is possible for integrated shared care.
+They believe the future of healthcare will be delivered by people, not technology. That's why they’re looking for top talent in both healthcare and healthtec to join their core team of experts! We are seeking a talented and highly driven Software Engineer to join in delivering their next-generation digital care planning products.
+So, what will you be doing other than creating and delivering on products that will operate and support the health and wellbeing of millions of people every day?
+
+You will support the Chief Technology Officer in ensuring the effective and efficient delivery of the Company’s products and projects
+Working as part of a distributed team, you will develop and operate computer systems used by health and care organisations to process healthcare and associated data
+In addition, you will identify opportunities to enhance computer systems and operational procedures so that the business’s agility, reliability, and security continually improve
+
+We're looking for passionate people who love working as part of a team. You'll have a proactive, can-do attitude and enjoy contributing towards an adaptive, fun and creative environment. You'll be capable of working cross-functionally, facilitating and collaborating with multiple stakeholder groups. And you'll be a lifelong learner with the desire to be part of a team that learns, innovates and pushes boundaries as we continually evolve our high-performing, self-organising engineering team. If you have an interest or experience in health and care, it would be an advantage, but isn't essential.
+Technical Skills
+
+·You'll need to understand the DevOps philosophy, agile methods, and Infrastructure as Code practice
+We currently build our products using HL7 FHIR, TypeScript, NodeJS, and MongoDB
+We operate on the AWS platform using serverless technologies such as API Gateway, AWS Lambda, and Amazon EventBridge
+
+Professional Skills
+
+Ideally have worked in a similar capacity for at least 5 years with the relevant qualifications
+Have the ability to communicate technical concepts to non-technical audiences and create robust, scalable, flexible, and relevant products that help clinicians and patients make better decisions about their health
+You'll be comfortable partnering directly with infrastructure technicians, support and network analysts, security analysts, and/or system administrators to design technical strategies
+
+If we have caught your attention, a team with strong culture of enthusiasm and high achievement want to hear from you! Call the Kamro offices and ask for Romal!
+Job Types: Full-time, Permanent
+Salary: £60,000.00-£80,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Free parking
+Life insurance
+On-site parking
+Private medical insurance
+Work from home
+
+Schedule:
+
+Monday to Friday
+Overtime
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+Yearly bonus
+
+Work Location: In person

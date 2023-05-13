@@ -1,0 +1,40 @@
+
+Senior Fullstack Software Engineer
+
+Cambridge - Hybrid Working
+
+£75,000 - £85,000 + 28 Days Holiday, Private Healthcare, Pension, Flexible Working
+
+ This is a fantastic opportunity for an experienced Fullstack Software Engineer to join a growing, international company where you will help shape the newly formed business unit.
+ 
+ The company are a well-known leading software company who create a range of software tools for electronics applications. They have international offices all over the world and are currently recruiting for their newly formed business unit.
+ 
+ In this role you will work on a state-of-the-art data platform bringing to life new products, services and capabilities. You will be responsible for high-performance search, holistic API design, large scale data processing and cloud-first system design and infrastructure.
+ 
+ The ideal candidate will have proven experience in a similar role and excellent knowledge of Python and/or Golang and a frontend JavaScript framework (ReactJS, NextJS etc.). You will have experience designing REST APIs and working with cloud platforms (AWS, Azure). Any experience with GraphQL, C#.NET, Elasticsearch and Docker is advantageous but not required.
+ 
+
+The Role:
+
+
+Work on a state-of-the-art data platform bringing to life new products, services and capabilities
+High-performance search, holistic API design, large scale data processing
+Cloud-first system design and infrastructure
+Based in Cambridge, hybrid working (2/3 days a week in office)
+
+
+ The Person:
+
+
+Strong knowledge of Python and/or Golang and a frontend JavaScript framework (ReactJS, NextJS etc.)
+Experience designing REST APIs and working with cloud platforms (AWS, Azure)
+Any experience with GraphQL, C#.NET, Elasticsearch and Docker is advantageous but not required
+Must be commutable to Cambridge or willing to relocate
+
+ Reference Number: BBBH185618
+ 
+ To apply for this role or for to be considered for further roles, please click "Apply Now" or contact Ryan McIntyre at Rise Technical Recruitment.
+ 
+ This vacancy is being advertised by Rise Technical Recruitment Ltd. The services of Rise Technical Recruitment Ltd are that of an Employment Agency.
+ 
+ Rise Technical Recruitment Ltd regrets to inform that our client can only accept applications from engineering candidates who have a valid legal permit or right to work in the United Kingdom. Potential candidates who do not have this right or permit or are pending an application to obtain this right or permit should not apply as your details will not be processed.

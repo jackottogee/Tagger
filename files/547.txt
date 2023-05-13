@@ -1,0 +1,41 @@
+Location: Southampton/remoteSalary: Competitive + BenefitsRole Grade: 3Contract: Full time, 6 Month Fixed TermWork Pattern: Monday to Friday, 37.5hrsWe are looking for a software application developer who wants to pursue a career in software development within our company.This is an excellent opportunity for an experienced developer that has a proven track record in software development. We are a continually growing organisation and offer an abundance of progression opportunities and tremendous work experience by being part of a fast paced, high functioning, ambitious department.Your responsibilities will include:
+
+Working closely with product owners, business analysts and quality assurance to design, develop, test and implement applications
+Writing database SQL queries, functions and stored procedures
+Database design, performance analysis, and optimisation
+Developing web applications in C#, node JS, react ,classic ASP & HTML
+Writing high quality and well-documented code
+
+Qualifications:
+
+A minimum of 2 years experience in software development
+Proven experience with C#, node JS, react
+Experience in using bit bucket for pushing out and recording
+UI and scripting technologies including CSS, HTML, JavaScript, JSON, jQuery
+Proficiency in writing SQL queries and using Microsoft SQL Server
+Ability to learn new languages and technologies
+Excellent communication skills
+Attention to detail
+Familiarity with Agile development methodologies
+
+Understanding of coding languages
+
+classic ASP & HTML
+
+Reporting to the Group Applications Manager, your responsibilities will include:
+
+To maintain and develop our internal and external portals and applications
+To develop and maintain internal systems to support the business needs
+Working closely with analysts, designers and staff
+Daily maintenance and development of our internal SOP software and provide technical support
+Testing the product in controlled, real situations before going live
+Produce clean, efficient code based on specifications
+Make suggestions for improvements for our systems and processes.
+
+The Ideal candidate will be self-motivated with excellent time management skills. You will also have the ability to communicate and listen well in a variety of formal and informal settings with a range of people.Full training will be provided for systems and processes that are bespoke to our business
+Job Types: Full-time, Contract
+Schedule:
+
+Monday to Friday
+
+Work Location: Hybrid remote in Eastleigh

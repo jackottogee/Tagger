@@ -1,0 +1,42 @@
+
+Introduction
+
+
+My client is looking for a Software Engineer to support the development of software solutions to meet customer requirements.
+ You will have the opportunity to work across the full lifecycle from Requirements capture though to design, implementation, documentation, and testing.
+ My client is a growing Software SME organisation who have won contracts across the defence sector, and are looking to grow their current engineering capabilities. Due to the nature of the role, candidates must be solely British and be willing to undergo a Security Clearance to be considered for this opportunity. 
+You will be based full time on-site on my clients Lincoln office.
+
+
+Key responsibilities
+
+
+
+Perform hands-on development across the lifecycle
+Support setup and maintenance of continuous integration and deployment pipelines
+System design
+Application development
+Database development
+Activities in support of software assurance and quality
+Component, integration, and system testing
+documentation of software designs, tests, and results
+
+
+
+Skills & experience
+
+
+
+Experience in one of the following languages: JavaScript, C#, .Net, or Python
+Web Development experience in one of the following: HTML/CSS/JS/React
+Experience using SQL
+Experience using Docker or Kubernetes for DevOps automated deployment
+Familiarity working in CI/CD automation pipelines
+Familiarity with version control systems such as Git
+
+Our client is committed to providing a diverse and inclusive workplace and welcomes applications from all backgrounds. 
+RECOMMEND A FRIEND: If you have professional friends/colleagues who would be interested in one of our roles and our excellent levels of service too, we'd like to recognise your recommendations with a 'thank you' of our own. For every colleague you refer who then starts a role through Datasource either Contract or Permanent, we will send you £250 of Love to Shop Gift Vouchers!
+ If you do not hold an active SC clearance, please familiarise yourself with the vetting process before applying.
+ (c) Copyright Datasource Computer Employment Limited 2023.
+
+

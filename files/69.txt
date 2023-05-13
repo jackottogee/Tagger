@@ -1,0 +1,49 @@
+React Developer - Private Markets 
+Are you a passionate technologist? Do you enjoy building high quality and complex software solutions and helping technology teams deliver their full potential? As a member of the Private Markets Division, you will contribute and make an impact towards designing, building, and maintaining solutions supporting the iLevel platform. 
+The team is part of the larger Private Markets technology team, composed of over 100+ engineers operating out of the USA (United States of America), Europe, and India. All team members share a passion for technology and solving complex technical problems with focus on quality and high performance. 
+iLEVEL is a key application of the Private Markets toolset set built with cloud native technologies (AWS), responsive React front ends and C# microservices to collect, calculate at high capacity and visualize private market investments. These components are distributed through a modern, fully automated CI/CD pipeline to serve a high availability toolset to customers around the globe. 
+Your responsibilities 
+
+
+Design, build, and maintain efficient, reusable, UI components with React
+Help migrate legacy components to newer frameworks
+Work closely with product specialists and developers to build core calculation and data delivery constructs.
+Help maintain code quality, organization, and automation
+Participate in daily standup meetings
+ About You 
+Your expertise 
+
+
+2+ years' experience developing applications with React/Redux
+Solid understanding of html, JavaScript, and CSS
+UI based unit testing
+ Bonus if you also have 
+
+
+Experience working with SQL
+Cloud based platforms, especially AWS
+.NET/C#
+ You are 
+
+
+A problem solver
+A good communicator
+A team player
+ ----------------------------------------------------------- 
+
+ Equal Opportunity Employer 
+S&P Global is an equal opportunity employer and all qualified candidates will receive consideration for employment without regard to race/ethnicity, color, religion, sex, sexual orientation, gender identity, national origin, age, disability, marital status, military veteran status, unemployment status, or any other status protected by law. Only electronic job submissions will be considered for employment. 
+
+ If you need an accommodation during the application process due to a disability, please send an email to: EEO.Compliance@spglobal.com and your request will be forwarded to the appropriate person. 
+
+
+US Candidates Only: The EEO is the Law Poster http://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf describes discrimination protections under federal law. 
+
+ ----------------------------------------------------------- 20 - Professional (EEO-2 Job Categories-United States of America), IFTECH202.1 - Middle Professional Tier I (EEO Job Group), SWP Priority – Ratings - (Strategic Workforce Planning) 
+
+
+Job ID: 282326 
+
+Posted On: 2023-04-28 
+
+Location: Manchester, Manchester, United Kingdom

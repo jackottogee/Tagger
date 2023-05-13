@@ -1,0 +1,57 @@
+
+Requisition ID: R10104785
+
+Category: Information Technology 
+Location: New Malden, London, UK 
+Citizenship Required: United Kingdom Citizenship 
+Clearance Type: Security Check (SC) 
+Telecommute: Yes-May consider hybrid teleworking for this position 
+Travel Required: No 
+Positions Available: 2 
+
+
+
+  At Northrop Grumman, our employees have incredible opportunities to work on revolutionary systems that impact people's lives around the world today, and for generations to come. Our pioneering and inventive spirit has enabled us to be at the forefront of many technological advancements in our nation's history - from the first flight across the Atlantic Ocean, to stealth bombers, to landing on the moon. We look for people who have bold new ideas, courage and a pioneering spirit to join forces to invent the future, and have fun along the way. Our culture thrives on intellectual curiosity, cognitive diversity and bringing your whole self to work — and we have an insatiable drive to do what others think is impossible. Our employees are not only part of history, they're making history.
+   Your Responsibilities:
+
+ Specify, design and test solutions for SCADA and other high level control systems
+ Develop SCADA software from multiple design formats such as Block Diagrams, Flow Charts and Pseudo Code
+ Manage data communications with third party equipment
+ Validate software designs through analysis and test
+ Comply with company standards of conduct and all relevant statutory requirements
+
+
+ Your Experience:
+
+ Design and integration of Complex, large scale SCADA control systems
+ Production of technical documentation
+ High level system interfacing and database configuration
+ Proven experience in a software engineering environment
+ Degree, HND, HNC or equivalent in Electrical/Electronic engineering or a related discipline e.g. C&I engineering, Systems engineering
+
+
+ Your Future Team 
+
+“People are our most important asset. It’s my role to ensure that we have empowered and independent engineers who can apply their skills and engineering thinking across our various programmes, delivering not only technical but professional solutions whilst enabling continuous learning both within and outside their functional skills base.”
+
+ Head of Control Systems @ Northrop Grumman UK
+
+ As a multi-disciplined collaborative team we deliver total solutions to our customers. We think outside of the box, to achieve the desired functional capability that in other industries is often overlooked or not necessary.
+
+ Our matrix driven organisation provides new experiences and skills, with continuous development both at a functional level and at a programme level. We are proud of our quality of work.
+
+ Diversity is at the heart of our success. Our team share experience, knowledge and new thinking gained from a wide range of backgrounds perspective, culture, gender, race, age and many other elements across several industries. We welcome candidates from all backgrounds and particularly from communities currently under-represented within our industry. We treat everyone with respect and foster safe and inclusive environments.
+
+ About Our Responsibilities: 
+
+Our customers operate in unique environments which offer new and exciting challenges every day, cultivating a place where you can learn and thrive, working alongside the best minds in industry. We’ll give you space to develop your career, where your ideas can shape the future of our dynamic business.
+
+ We promote collaboration to achieve more than we could imagine, together. And within a respectful and inspirational environment, we value what you say and do.
+
+
+
+
+
+  Northrop Grumman is committed to equality and diversity in our workplace. Northrop Grumman provides equal employment opportunity to all employees and applicants without regard to an individual's protected status, including race/ethnic origin, color, nationality, national origin, ancestry, sex/gender, gender identity/expression, gender reassignment, sexual orientation, marriage/civil partnership, pregnancy/maternity, religion or belief, creed, age, disability, genetic information, or any other protected status or characteristic.
+ 
+

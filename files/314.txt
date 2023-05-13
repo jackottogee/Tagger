@@ -1,0 +1,57 @@
+
+ JPMorgan Chase & Co. has expanded its consumer business and we have launched a new digital retail bank in the UK. We are offering consumers a completely new banking experience. Under the Chase brand, the bank provides products and features tailored to meet the needs of customers in the UK, made available via an innovative mobile app. 
+ 
+ Our team is at the heart of building this new venture, focused on developing offerings that put the customer at the center. We have created a new organization and we are looking for solution-oriented, commercially minded, customer-focused engineers, used to working in a true agile environment who want to be a part of something new, built from the ground up as a green-field with zero legacy initiative within a global, diverse and inclusive team. 
+ 
+ Culture is as important to us and we are looking for intellectually curious, new technology passionate individuals who would like to expand their skills whilst working on a new exciting venture for the firm. Your work will have a direct impact to our customers as our business expands around the world. 
+ 
+
+Software Test Engineer (Mobile) - Chase UK
+
+ We are looking for a Software Test Engineer that can help to define and implement good test and quality engineering practice across the team. 
+ 
+
+Role summary: 
+
+ As a Software Test Engineer you will be responsible for: 
+ 
+
+Develop and execute test strategies and test plans 
+Automate tasks and build test coverage through existing or new infrastructure 
+Work with teams in multiple locations in different time zones 
+Triage, analyse , and debug issues and drive issue resolutions with team 
+Ensuring the effectiveness of test coverage working with team members and learning from esacpe defect analysis 
+Championing and implementing quality and test engineering capabilities and improvements across all aspects of the testing pymaid within and across the teams 
+Work with team leads to create the release process and integration with mobile apps 
+Integrating automated tests with CI/CD pipelines 
+Developing or contributing to new testability frameworks and test infrastructure 
+Reviewing code PRs from the wider QA team. 
+Be part of a squad to work on the sprint deliverables and preparing for next sprint activities 
+
+
+Mininum qualifications: 
+
+
+Bachelor's degree in Electrical/Computer Engineering, Computer Science, or equivalent practical experience. 
+Experience developing automation scripts and validation tools for mobile applications 
+
+
+Preferred Skills/Qualifications: 
+
+
+Experience with test automation 
+Experience programming in Java and Javascript 
+Experience in building testing frameworks, tools, and automation 
+Experience with (incl. setting up and troubleshooting) mobile applications build and deployment pipelines 
+Excellent written and verbal communication skills 
+Knowledge and experience working in an Agile environment. 
+Mobile test automation using tools such as BDD, Appium, and Detox 
+Previous experience in application development is desired 
+Strong time management, interpersonal and people skills 
+Familiarity with the Atlassian toolset 
+Exposure to web technologies (e.g. HTTP, XML, REST, HTML, JS REACT, etc.) 
+Experience with mobile application related non-functional testing e.g. accessibility 
+
+ #ICBCareer #ChaseUK #ICBEngineering
+  J.P. Morgan is a global leader in financial services, providing strategic advice and products to the world's most prominent corporations, governments, wealthy individuals and institutional investors. Our first-class business in a first-class way approach to serving clients drives everything we do. We strive to build trusted, long-term partnerships to help our clients achieve their business objectives.
+ We recognize that our people are our strength and the diverse talents they bring to our global workforce are directly linked to our success. We are an equal opportunity employer and place a high value on diversity and inclusion at our company. We do not discriminate on the basis of any protected attribute, including race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital or veteran status, pregnancy or disability, or any other basis protected under applicable law. In accordance with applicable law, we make reasonable accommodations for applicants' and employees' religious practices and beliefs, as well as any mental health or physical disability needs.

@@ -1,0 +1,63 @@
+
+About SchemeServe SchemeServe has spent 22 years turning insurance products into seductive profit-making machines.
+ As a company, we are raging for change and are unstoppable in our innovation. We challenge the boundaries of the industry we're in and offer a huge dose of personality along the way.
+ In a nutshell, SchemeServe is UK based Insurance SaaS solution specialising in services for starting, managing and growing traditional (and specialist) insurance products. It was started in 2000 by our CEO and Founder, Adam, and the software now represents the leading edge in super-fast scheme deployment and truly Obsessive Support ™.
+ We are a fully remote company, however, we do meet once a quarter for some serious (and some not-so-serious) time together. We prize self-development and encourage staff to continue learning, and set new challenges for themselves.
+ Being remote, we can't offer an unlimited free kitchen or bean bags, but we can offer flexible working with a great work-life balance, a warm and friendly working environment, fantastic company culture and free biscuits through the post,
+ Our Tech Stack is currently .NET, Microsoft SQL, and Azure hosting. We are in the process of transforming to an API-first backend in .NET5 with a React front end.
+
+ Job Description Are you a passionate Front End Developer in the UK who is proficient with React.js?
+ Keep reading!
+ We’re looking for someone who can hit the ground running, with their primary focus on developing user interface components, and implementing them following well-known React.js workflows. You will be responsible for ensuring that these components, and the overall application, are robust and easy to maintain. Basically, you’ve done this before, and you’re awesome at it.
+ You are someone who loves to build front-end interfaces from provided designs, and you can do it in a well-structured and responsive manner for the SchemeServe platform. This will primarily be using React, however, may also include other front-end work from time to time.
+ You’ll be working alongside Back End Developers and User Experience Designers, so this requires excellent communication and interpersonal skills.
+
+ Front-End Developer Responsibilities:
+
+ Developing new and existing features to enhance the user experience using primarily React.js.
+Building reusable components and front-end libraries for future use.
+Translating designs and wireframes into high-quality code.
+Optimizing components for maximum performance across a vast array of web-capable devices and browsers.
+Maximise pages for speed and scalability.
+Accurately translate user and business needs into functional frontend code.
+Liaising with internal & external stakeholders through the life cycle of each project.
+Maintaining brand consistency throughout the implementation of designs.
+
+
+ Front-End Developer Requirements:
+
+ UK based.
+5+ years experience in front-end development.
+3+ years experience using React.
+Strong portfolio to be presented and defended during the interview.
+Understanding of key design principles.
+Proficiency with HTML5, CSS3, JavaScript.
+Experience with responsive and adaptive design.
+Good problem-solving skills.
+Excellent verbal communication skills.
+Good interpersonal skills.
+Experience working in an agile development process.
+Be open to feedback/constructive criticism and happy working together to improve.
+
+
+ Nice to Have(but is not required)
+
+ Any experience working within the insurance or financial markets would be beneficial to help understand compliance requirements.
+Experience with Typescript
+Any experience working with cloud hosting, specifically Azure.
+
+
+ Note for recruiters We are not currently accepting any candidates from recruiters that we do not already have a working agreement with.
+ You are welcome to send an email if you really want, but it will be ignored :-)
+
+
+
+
+
+Full time 
+£40,000 - £45,000 
+Remote 
+Engineering
+
+
+

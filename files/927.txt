@@ -1,0 +1,57 @@
+Do you love solving problems and working collaboratively as a team? Are you looking to start a rewarding career within Software Development?
+Technology is evolving rapidly and so are we! We’re looking for a graduate to join our highly skilled in-house Software Development team. Our collaborative and supportive environment will empower you to take ownership of projects from the early stages of your career. And we’ll give you the tools to succeed by providing you with ongoing training and development opportunities, encouraging you to continue to expand your knowledge and discover new skills to make a real difference to the business.
+What you’ll be doing:
+Carrying out your training in an Agile Scrum Team, you’ll have the opportunity to increase your technical ability and use innovative emerging technologies. Involved in a wide range of exciting projects, from initial conception all the way through to release, you’ll be able to see first-hand the positive impact your projects have on the entire business. You will be responsible for:
+
+Developing in-house solutions and extending Microsoft products to support the wider business
+Contributing to daily scrums, scoring, collaborative planning, and sprint review and retrospective meetings
+Working in a collaborative development environment with code reviews and pair programming
+
+What we need from you:
+
+A logical approach with natural problem-solving skills
+Strong communication skills and the ability to work collaboratively
+Experience in as many of the following as possible would be beneficial:
+.NET
+C#, Java or similar languages
+HTML, CSS, JavaScript (React)
+SQL
+Microsoft Azure
+Microsoft Azure DevOps
+Unit Testing
+Microsoft Visual Studio
+Source control (Git preferred)
+Bug tracking
+SOLID design principles
+UI / UX Design
+
+What we'll give you:
+As well as a competitive salary, generous holiday allowance and enhanced matched Company Pension scheme, we offer a variety of other benefits including:
+
+Training and development — We recognise personal strengths by tailoring training and development to each employee, giving them the tools to build a rewarding and progressive career
+Private medical insurance — We offer access to comprehensive private healthcare as well as an integrated wellness programme, proactively supporting our people's overall health and wellbeing
+Mental health support — We support mental health awareness with access to a 24/7 Employee Assistance Programme, training, and courses on wellbeing and building personal resilience
+Hybrid working — Once established, we offer the option to work from home two days a week
+Financial health — To ensure you’re protected when you need to be, we offer schemes such as Income Protection and Life Assurance. We also offer discounts on cinema tickets, days out and more!
+Social events — One way of saying ‘thank you’ is through our annual get-togethers, including the summer and winter parties, where our people have a fantastic time catching up. Check out our Careers blog to find out more!
+Looking after our planet — We help our people reduce their carbon footprint through our Electric Vehicle Scheme and Cycle to Work Scheme
+Giving back to the wider community — Each year, we encourage our employees to take part in a fundraising challenge of their choice and reward their efforts with significant sponsorship through our Community Fund
+Office space — Our modern, refurbished office space has free on-site parking and brand-new recreational space. If you’re the competitive type, how about a lunchtime game of pool or table tennis?
+
+We’re proud to be a Disability Confident Committed Employer, giving the assurance that our recruitment process and progression opportunities are inclusive and accessible for all.
+Job Types: Full-time, Permanent, Graduate
+Salary: Up to £30,000.00 per year
+Benefits:
+
+Company events
+Company pension
+Cycle to work scheme
+Free parking
+On-site parking
+Private medical insurance
+
+Ability to commute/relocate:
+
+ Ferndown: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person

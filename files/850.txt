@@ -1,0 +1,35 @@
+
+ Python/Flask Software Developer 
+ 
+ A global tech powerhouse within the professional services industry is looking for a Python Developer to join their team in London, on a 11 Month fixed-term contract with potential to be extended. The successful Python Developer will be expected to work on-site 3 days each week and will have the option to work remotely twice per week.
+ 
+ The successful candidate will be responsible for writing python based backend calculator/services that talk to database. the frontend will be Vue.JS or ReactJS applications. 
+ 
+ Must have IT experience:
+ 
+
+
+Python 
+Flask Framework
+Pandas 
+Dataframes 
+SQL Alchemy 
+Vue.JS OR ReactJS - 
+
+ Nice to have: 
+ 
+
+
+Postgres or SQL Server 
+Unix Shell Scripting 
+AutoSys (For scheduling) 
+
+ Please get in touch to learn more about this opportunity. 
+ 
+ Python/Flask Software Developer
+ 
+ Huntress Search Ltd acts as a Recruitment Agency in relation to all Permanent roles and as a Recruitment Business in relation to all Temporary roles.
+ 
+ We practice a diverse and inclusive recruitment process that ensures equal opportunity for all we work with, irrespective of race, sexual orientation, mental or physical disability, age or gender. As an organisation, we encourage applications from all backgrounds and will ensure measures are met when required, to allow a fair process throughout. 
+ 
+ PLEASE NOTE: We can only consider applications from candidates who have the right to work in the UK.

@@ -1,0 +1,64 @@
+
+Interested in web3? Ready to reinvent finance?
+ We are looking for a rockstar Frontend and/or Full-Stack Engineer to help us build our products. This is an opportunity to be involved from the ground up on the core design and implementation of a new DeFi ecosystem. By leveraging decentralised finance, we’re building a revolutionary product to enable everyone to get more from their money.
+ As a key member of our engineering team you will be responsible for designing and implementing client facing front-end systems.
+
+ About Zeal
+ We’re bringing expertise from building a world-leading challenger bank to the blockchain. We believe there is a change happening for the better in the world of financial technology, and are building a critical piece of the puzzle. You are joining just before our exciting and latest product launch, so will have the chance to get stuck in right at a really exciting stage of our journey. We’ve raised $7 million from top tier venture firms and continue to build out a stellar team as we move onwards and upwards. We’re spread out across Europe with headquarters in London and a newly formed office in Berlin; you can join us there or work remotely. Every other month we meet up for co-working in a European city.
+
+ What you'll do
+
+Work as a senior member of our engineering team to develop the Zeal wallet and features
+ Design, implement and improve front-end web applications that helps our users interface with defi products
+ Build and scale our customer-facing products, both for mobile and website
+
+ We'd love to hear from you if you have the following
+
+Proof of excellence. Are you in the top 10%?
+ 5+ years of Frontend and/or Full Stack development utilising HTML5 and JavaScript
+ Experience with React or similar interactive web UI libraries 
+Degree in Computer Science or related field
+ Experience working with distributed development and engineering teams
+ Exposure to start-up or scale-up environment
+ Interest in financial services, crypto, DeFi or willing to learn quickly
+ Strong communication skills and fluent in English (written and spoken) 
+
+Extra bits that we also like to hear
+
+Strong understanding of dApps and the Ethereum ecosystem (web3.js)
+ Experience of implementing UI designs prototyped in Figma 
+ Experience of building iOS and/or Android applications
+ Contributions to open source projects and hackathons 
+ Preference for working under an Agile process methodology
+ Keenness to work in a fast paced start-up environment with a global team 
+
+Our growth
+ At Zeal we really believe that we can have a positive impact on people around the world by challenging historical approaches and norms. In particular we think that the efficiencies made possible in financial services through technological innovation should benefit its customers more.
+ We obsess about customer satisfaction and building something epic together. We are building a diverse team and welcome applicants from any background.
+
+ 
+The fun stuff!
+
+ Compensation is competitive in today’s market and includes both salary and equity
+ We have a swanky office space in Soho, London and Berlin for those in commuting distance (we like to meet up now and then on Mondays or Thursdays)...BUT…
+ We are remote first! We are distributed throughout Europe from London to Lisbon, Berlin to Krakow
+ We are a truly multicultural team
+ Ƶeal is a dynamic, early stage unit where ambition meets high performance - ultimately, we’re just a bunch of nice people who work hard and have a good time!
+
+
+ Next steps!
+
+ If we sound like the place you could kick off the next chapter of your career, read on!
+
+
+ Add your info in the Apply tab, pop in your CV (don’t worry if you have links to your github, discord or twitter: if they’re linked in your CV we’ll see them!)
+ Take a moment to say hi in our cover letter space - we always appreciate a personal touch.
+ We’ll get in touch as soon as we can, and if the feeling is mutual we’ll set up a call between you and our talent team.
+ Things are getting exciting now! We’ll set up a couple of chats with some of our team - we operate with quite a flat structure, so we love people to be bouncing with ideas!
+ If it’s a thumbs up all around, you’ll be joining us on our journey!
+
+
+
+
+   If you don't meet all of our requirements exactly, don't be put off! If you've got a passion for DeFi and lots of exciting projects that you can share with us, we'd love to hear from you!
+ 

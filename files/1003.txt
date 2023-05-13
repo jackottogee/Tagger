@@ -1,0 +1,76 @@
+
+
+
+
+
+     Posted:
+    
+
+      237 days ago
+    
+
+
+
+
+      Location:
+    
+
+      London, - None Specified -
+    
+
+
+
+
+      Job Ref:
+    
+
+      31397
+    
+
+
+
+
+      Job Type:
+    
+
+      Contract
+    
+
+
+
+
+      Salary:
+    
+
+      40 per day
+    
+
+
+
+
+      Expiry date:
+    
+
+      5/1/2023
+    
+
+
+
+
+
+   I'm delighted to announce this exciting opportunity a great market leading E-Commerce client of mine in Berlin are currently looking to hire a Senior Frontend Developer with expert knowledge of React.JS. This will be an initial 12 month contract, fully remote and starting ASAP.
+  
+ As a Fronted Engineer in our 
+  Shops Engineering Team, you will have a real impact on the development of our ecommerce platforms and customers all over Europe. The role is meant to drive the change through our frontend stack to move it towards future.
+  
+ This role requires a knowledgeable and experienced candidate in JavaScript, React.js, HTML5 and CSS3 its great to be comfortable using Vue.js framework (preferably SSR with Nuxt) too.
+  
+
+Beneficial experience:
+
+
+Knowledge of pre-processors and bundlers (Sass/Less/Webpack)
+Familiarity with Atlassian ecosystem (Bitbucket/Jira/Confluence)
+Backend technologies experience (Node.js/PHP)
+
+

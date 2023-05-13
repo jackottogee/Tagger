@@ -1,0 +1,27 @@
+About Us
+Diamond Light Source is the UK’s national synchrotron; a huge scientific facility designed to produce very intense beams of X-rays, infrared, and ultraviolet light. Our scientists use the light to study a vast range of subject matter, from new medicines and treatments for disease to innovative engineering and cutting-edge technology.
+Diamond is one of the most advanced scientific facilities in the world, and its pioneering capabilities and talented staff are helping to keep the UK at the forefront of scientific research.
+About the Data Acquisition Group
+The Data Acquisition (DAQ) group develops software to interface with and control the hardware which allows experiments to be performed and monitored as well as guiding the end user to tools for data reduction and analysis. The group works closely with scientists, motion, and controls engineers to continuously develop and improve software solutions for scientific data acquisition and on-the-fly monitoring and data analysis.
+The current DAQ software platform is a client-server application called GDA (Generic Data Acquisition) which is written in Java and uses the Eclipse RCP framework. To facilitate the advanced scientific capabilities that are expected from Diamond-II (the planned Synchrotron upgrade) the DAQ software is being modernised and will result in a service-based architecture. The new Acquisition Platform, Athena, will be configured to deliver advanced capabilities for a new collection of state of-the-art Flagship Beamlines. Over the next few years existing beamline software will be migrated from GDA to Athena.
+About the Role
+We now have an opportunity for a senior software engineer within the DAQ group to lead the team supporting and developing DAQ software for Diamond’s Soft Condensed Matter(SCM) and Crystallographyscience groups.
+This role involves technically guiding and leading the team developing DAQ solutions for these science groups as well as contributing to those solutions.
+As a team leader in the DAQ Group you will work alongside other software engineers supporting a range of experimental techniques and developing DAQ capabilities in an open and collaborative environment. You will be required to interact with scientists and translate their specifications for scientific capabilities into software requirements.
+You will liaise with controls, data analysis and information management engineers to put these requirements into action. You will collaborate with the beamline scientists and science group leaders to prioritise the work of your team and you will support the DAQ Core Team in the modernisation of the Acquisition Platform. You will also potentially participate in international collaborations within this domain, sharing best practice and supporting other facilities and synchrotrons within the collaboration.
+About You
+You will be qualified to degree level in a STEM subject, with experience in the full Software Development Lifecycle, using a modern high-level language, and with an understanding of good software design principles and design for usability. Knowledge and experience of developing software to control and monitor scientific or industrial equipment or IoT is preferable.
+Experience of working with large and complex code bases would be an advantage, as would experience of Python, Java, Spring, JMS message-oriented middleware, Java RMI, the HDF5 file format, the Eclipse RCP platform, REST and Kubernetes.
+You should display good communication, interpersonal and analytical skills, with a personal interest or experience in science.
+You should additionally be able to demonstrate the following essential capabilities:
+· Strong leadership and organisation.
+· Proven experience in managing small teams of software engineers.
+· Proven experience in providing technical leadership.
+Benefits
+Diamond offers an exceptional benefits package to support staff in achieving a positive work/life balance. This includes 25 days annual leave plus 13 days of statutory and company holidays, along with flexible working hours and an excellent pension scheme. Staff also have access to a range of amenities on site including a nursery, cafes, a restaurant and sports and leisure facilities.
+To Apply
+Please use the online application process to apply and tell us why you believe you are suitable for this role.
+Job Types: Full-time, Permanent
+Salary: £43,790.00-£59,245.00 per year
+Work Location: In person
+Reference ID: 11069

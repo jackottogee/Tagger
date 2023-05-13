@@ -1,0 +1,83 @@
+Cloud Security Engineer (Azure) remote role
+The classification of this role is remote and can be based at home with the occasional visit to the office in Swansea.
+The Cloud Security Engineer will be working within the Technology Services department to help maintain and deliver the security of the company's technology infrastructure and assets. The Cloud Security Engineer role primarily focuses on the security aspects of the Microsoft Azure environment and consequently, you should have excellent knowledge of:
+· Azure cloud technologies and methodologies
+· DevSecOps principles and technologies
+· Demonstrable experience in delivering and securing services in the cloud.
+The Cloud Security Engineer performs a hands-on role, where they configure and monitor the security controls within environments.
+This role is offered on a remote basis and reporting to the IT Security Manager your main responsibilities in the role will be to:
+
+Review the security configuration of Azure solutions and suggest improvements where not optimally configured
+Design and implement solutions to secure cloud systems, applications, databases and networks
+Conduct technical audits on both on-premise and cloud systems to ensure system build and configuration standards are being followed and work with the technical teams to ensure system build and configuration standards are secure
+Perform vulnerability testing and management
+Monitor and maintain QRadar, Darktrace, and various other on-premise network and security systems and applications
+Create and maintain IT security documentation
+Assist with security incident investigations
+
+What you’ll get in return:
+
+25 days holiday
+Discretionary bonus scheme
+Employee assistance programme
+Annual holiday buy (up to 3 extra days)
+Salary sacrifice benefits
+Annual benefits reviews
+Professional qualifications and study support
+
+The successful candidate will have a good mix of the following:
+
+Microsoft Azure cloud platform and technologies. Including but not limited to
+Intune and endpoint management
+Azure AD, Conditional Access, MFA, Enterprise applications and Graph API
+Azure Sentinel and Log Analytics
+Azure Cloud Defender
+Azure Key Vault
+Azure Storage
+Azure Policy
+Azure Firewall and Azure Application Gateway (including WAF)
+Network Security Groups
+Terraform
+Azure DevOps and pipelines
+
+
+Baseline and compliance checking against CIS Azure Foundations Benchmark
+Scripting, automation, PowerShell, cURL, Postman, BurpSuite, Azure command line interface
+Active Directory
+SIEM Technologies (QRadar) and Darktrace
+Linux and Windows server technologies
+Networking principals (TCP/IP, DNS, firewall, switch)
+Web security gateways
+Mimecast
+Office 365 administration
+Endpoint protection
+
+Please apply either by using the link provided or by emailing your CV direct to me. Alternatively, you can call for more information on the number shown below.
+Easton Haines Consultancy is a specialist recruitment business for the IT industry. No terminology in the advertisement is intended to discriminate against any of the protected characteristics that fall under the Equality Act 2010. For the purposes of the Conduct Regulations 2003, when advertising permanent vacancies, we are acting as an Employment Agency, and when advertising temporary or contract vacancies we are acting as an Employment business.
+Please note that, unfortunately, due to the high level of applications, we are only able to respond to those candidates whose CVs match the job requirements.
+Please note that by applying for this role you give Easton Haines authority to process your data in respect of this specific role and to notify you of other suitable job opportunities; we will not share your data with third parties without your prior agreement and out Privacy Policy can be viewed on our website
+Job Types: Full-time, Permanent
+Salary: £42,000.00-£48,000.00 per year
+Benefits:
+
+Additional leave
+Company pension
+Free parking
+Life insurance
+On-site parking
+Private medical insurance
+Profit sharing
+Referral programme
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: Remote
+Reference ID: EH-030408-plc

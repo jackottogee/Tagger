@@ -1,0 +1,27 @@
+
+ We are looking for a graduate software developer proficient in 
+ C# for a company that specialise in business support services for vehicle and motor manufactures.
+ 
+ As a graduate software developer you will be actively involved in a full range of full life cycle projects to help develop the companies infostructure including design, development, and release.
+ 
+
+Technical Skills Required:
+
+
+C# with experience of ASP.NET Core
+Microsoft Visual Studio Tools
+Microsoft SQL Server
+Experience building and using RESTful APIs
+In depth understanding of IT security
+
+Education and Qualifications
+
+ Degree level
+ 
+
+Why Apply
+
+ 
+ Based in Oxford and offering a salary of £30,000 with a range of benefits.
+ 
+ If you believe you meet the requirements above and would like to be considered for the role, please get in touch!

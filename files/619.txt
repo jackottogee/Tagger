@@ -1,0 +1,45 @@
+
+
+
+Location: London 
+Sector: Software Engineering 
+Job type: Permanent 
+Job functions: Software Developer / Software Engineer 
+Salary: Negotiable 
+Contact: Joe Howe 
+Contact email: joe.howe@lafosse.com 
+Job ref: 90687_1681740370 
+Published: 14 days ago 
+Expiry date: 2023-05-29 
+Startdate: ASAP 
+
+
+Python Engineer/Remote Working/£70,000 per annum
+ 
+We are partnered with a world-leading solution provider for the media industry. They work with Warner Brothers, Disney, BBC, SONY and FOX across studio-production, animation, broadcast and sports production. They empower passion pictures and unite production workflows in media and entertainment. Their award winning purpose-built, software-defined storage and data solutions simplify the flow of data to connect an increasingly complex world.
+ This role will be key in developing, maintaining and supporting their software forming the company's products and solutions.
+ We are looking for Software Engineer who has:
+
+ 2+ Years of commercial Python experience
+ Fluent in working with Linux operating systems.
+ Experience with Docker 
+Must be familiar with using Linux.
+ Self-driven, results-oriented with a positive outlook, and a clear focus on high quality. Able to work as part of a distributed team whilst building strong communication links with colleagues.
+
+ Responsibilities:
+
+ Maintain, test, develop and support the core product software
+ Create, support and maintain additional software tools and libraries
+ Support the deployment and operation of solutions and products
+ Investigation and development of new or updated solution components
+ Maintain and develop product documentation and training materials
+ Contribute technical expertise at all levels of the organisation, and externally, with regards to their software
+ Provide 2nd and 3rd level support for software used in deployed solutions
+
+ 
+The interview process for this role is a streamlined, 2 stage process, you will need to apply quickly as we already have had interest!
+ All applicants need to be UK based.
+ Software Engineer | United Kingdom | Remote | £70,000 + benefits + more
+ For more information please send your CV to me on joe.howe@lafosse.com
+
+

@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+We are recruiting for the role of a full-stack Software engineer who will mainly be responsible for refactoring Avanti’s commercial and technology operations platform. Key focus areas include building next-generation/cloud-enabled OSS capabilities around end-to-end service and resource orchestration, Domain orchestration for lifecycle management, real-time monitoring and reporting, zero-touch service assurance powered by AI and analytic tools.
+ While ensuring ease of use, security, and scalability, the candidate should be able to respond to internal development requests. This is a hands-on role with an emphasis on design and development covering all aspects of the development process – from collecting requirements, designing, developing, integrating and end-to-end system testing.
+ This role can offer remote working with a need to visit the London office on a monthly basis.
+ Key Accountabilities & Responsibilities
+
+To plan, design and develop applications that will be part of the Digital products portfolio
+Responsible for the integration of various applications from different suppliers into Avanti’s next-generation OSS/BSS platform, ensuring ease of use, security, and scalability
+Work with the team to choose the best technical solutions, perform DB migrations when needed, test the apps, and do bug fixes, ensuring that the apps are of the highest quality and meet the users’ needs
+Development and integration of user-facing elements
+Build efficient, testable, and reusable modules
+Create database schemas that represent and support business processes
+Solve complex performance problems and architectural challenges
+Integration of data storage solutions
+
+Skills & Qualifications
+
+Significant commercial experience as a Full-stack Developer with PHP 5/8 frameworks and at least 3+ years of experience in building cloud-native applications using microservice architecture in Cloud and Serverless Environments.
+Strong knowledge of PHP web frameworks {{such as MVC, Symfony, Façade, Laravel etc}} and Object-Oriented PHP, thorough understanding of LAMP stack, SQL, memory usage optimization, Docker, Symfony.
+Proficiency in JavaScript and frameworks like React JS, EmberJS (or other similar frameworks)
+Understanding accessibility and security compliance, including strong knowledge of the common PHP or web server exploits and their solutions
+Familiarity with the limitations of PHP as a platform and its workarounds
+Good understanding of fundamental design principles behind a scalable application
+Good knowledge of user authentication and authorization between multiple systems, servers, and environments
+Integration of multiple data sources and databases into one system – both SQL-based and NoSQL
+Experience with additional technologies including but not limited to GIT, Docker, and Composer.
+Database programming: MySQL, Redis, MongoDB.
+Knowledge of Docker and container deployment workflows
+Experience with automated deployment platforms such as Jenkins / Gitlab CICD.
+
+Benefits
+
+A Competitive Salary, pension scheme, and life assurance & private medical insurance
+A generous and highly achievable bonus scheme – paid annually based on individual and company performance against targets
+Along with 25 Days Annual Leave (excluding bank holidays) plus an Additional Day on us for your Birthday
+Buy or sell up to 3 holiday days per annum
+Free access to the Employee Assistance Programme
+Plus, a variety of excellent Employee Funded Benefits available to you
+
+In addition to the above responsibilities, the jobholder is required to perform other reasonable duties as assigned by the line manager from time to time.
+ By applying for this position, you consent to your personal information being shared with our recruitment outsourcing partner. For further information please visit https://www.avanti.space/privacy-policy/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,25 @@
+
+Robert Half Technology are currently recruiting for a Software Developer for a global recruitment business in the UK. 
+I am recruiting for a contract Software Developer to:
+
+ Perform application maintenance
+ Triage and solve bugs and problems
+ Provide support to customers and answer queries
+ Ability to run Unit/ System Testing
+ Familiarisation with Agile methodology
+
+ ️ 6 to 12 month contract - Outside of IR35 ️ Fully remote - UK applicants only  Essential tech stacks:
+
+ Node (At least 1 year experience)
+ GIT, they use GITLab but knowledge of any version will suffice
+
+ Desirable tech stacks:
+
+ SQL - (SQL Server preferred along with knowledge of Oracle DB)
+ JIRA
+ AWS - (CloudFormation , Lambda , DynamoDB ,S3 and Step functions)
+ JAVA
+
+ If you are immediately available and interested then please apply to this advert or send a copy of your CV or call 01793 571 915 and ask for Thamina. 
+Robert Half Ltd acts as an employment business for temporary positions and an employment agency for permanent positions. Robert Half is committed to equal opportunity and diversity. Suitable candidates with equivalent qualifications and more or less experience can apply. Rates of pay and salary ranges are dependent upon your experience, qualifications and training. If you wish to apply, please read our Privacy Notice describing how we may process, disclose and store your personal data: roberthalf.co.uk/legal-information/privacy-notice.
+ Security alert: scammers are currently targeting jobseekers. Robert Half do not ask candidates for a fee or request candidates to send applications through instant messaging services such as WhatsApp or Telegram. Learn how to protect yourself by visiting our website: roberthalf.co.uk/fraud-alert

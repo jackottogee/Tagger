@@ -1,0 +1,52 @@
+At Oxford Instruments Plasma Technology, we provide tools for the engineering of micro- and nano-structures, with customers using our process solutions to research and produce materials and semiconductors vital for everything from medical devices and diagnostics, to electric cars and quantum computers. 
+
+ We're seeking a highly skilled and experienced Software Engineer to join our growing software team based in Bristol for a permanent role. As Software Engineer, you will participate in all aspects of software development (including analysis, design, coding and testing) and operations (supporting delivery, our global customer base, and internal stakeholders). 
+
+
+Key Responsibilities:
+ Develop software in a variety of contexts; 
+Develop the software which controls our products and their user interface 
+Work on greenfield projects, delivering practical solutions efficiently 
+Be involved throughout the development lifecycle 
+Use existing languages/frameworks/tools, and adopt new ones as needed. 
+
+ Assist with the operational support of existing products; 
+Support our global customers, with Service to install systems and resolve issues 
+Support our internal stakeholders with their activities, including Production (installation, deployment, problem resolution, testing), Applications (training, internal use of our products) and Training (customer training, product documentation). 
+
+ Develop knowledge of our product and asset portfolio; 
+Product – understanding customer needs, use of the software, demonstration 
+Architecture – understand the top-down view, design patterns and technologies 
+Code – clean code, intuitive design. 
+
+ Understand and apply modern best practices in software engineering; 
+Methods and practices that are effective for the specific context, including lifecycle models, architecture, design patterns, version control and documentation 
+DevOps tools and technologies for efficient execution of engineering practices. 
+
+
+Education / Qualifications:
+ Degree or Equivalent in computer science, engineering, physics, or a related discipline. 
+Passionate about software engineering, preferably close to the hardware. 
+
+
+Professional Skills/ Abilities:
+ Proven expertise in one or more languages, frameworks, and technologies 
+Development on Windows, Git 
+
+
+Desirable Technical Experience:
+ C#, .NET, WPF, C++, XML real-time control systems, embedded, firmware/PLC (e.g., B&R), interfaces (RS232/RS485/Ethernet), MS Visual Studio, Jira/Azure DevOps/GitLab/GitHub, SECS/GEM, ISO: 9001/13485, Kanban, RUP. 
+
+
+Benefits:
+ In addition to a competitive starting salary, Oxford Instruments also offers structured career development opportunities, an excellent work-life balance, private healthcare, a share incentive plan, 25 days annual leave, half-days on Fridays, a defined contribution Group Personal Pension Plan, and a flexible benefits package that you can tailor to your requirements. 
+
+ If you're interested in this, please apply with your updated CV. 
+
+ Follow us at www.twitter.com/oxinst or www.facebook.com/oxinst 
+#LI-Hybrid #LI-AC1 
+All qualified applicants will receive consideration for employment regardless of race, colour, religion, sex, sexual orientation, gender identity, national origin, or disability. 
+We encourage applications from people of all backgrounds and would ask you to get in touch if you are concerned about any barriers you feel you may be facing in your application process with us. 
+
+
+Note to recruitment agencies : Oxford Instruments operates a Preferred Supplier List, and we do not accept unsolicited agency CVs. Please do not forward candidate details in response to this advert, or to any Oxford Instruments employees or other company locations. Oxford Instruments is not responsible for any fees related to unsolicited CVs.

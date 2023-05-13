@@ -1,0 +1,104 @@
+Full Job Description
+Senior / Full Stack Developers
+There are a few things that make us stand out from the competition here at GivEnergy:
+
+Owning our supply chain and being able to keep costs for our end-users low
+Our incredible customer support.
+And of course, our UK-based team of software developers
+
+This is where we hope you’ll come in!
+Our Software Development team is one of the major components of our operation. End-user requirements, improvements and game-changing advancements come into fruition at the hands of our Developers – no mean feat in a Company growing at the phenomenal rate we are.
+We’re looking to grow the department with the addition of several Senior/Full Stack Developers, reporting to the Head of Integrations & Software Development. This role will play a key part in bringing all our system stack into AWS and will support innovation with key links to research and development to ensure GivEnergy remain ahead of the market.
+To continue in our upward trajectory, we’re looking for senior and experienced Developers who can work in all elements of the system stack to produce the best control software and reporting systems used in the monitoring and control of the inverter and battery systems.
+This is a great opportunity for a versatile developer with a passion for renewable energy to join a progressive, local and rapidly expanding Company (with 500% growth last year alone!).
+Who Are We?
+GivEnergy is a manufacturer of electronic equipment designed to manage energy use and production. We specialise in our range of inverters and battery systems which allow our users to store their renewable/cheap-rate energy, ease pressure on the grid and save some serious money. Last year we diversified into the smart plug arena (providing our end-users with real-time data and autonomy of energy usage) and we have plans to roll-out our very own electric vehicle charger and all-in-one system over the next year. On top of all this, GivEnergy Europe was formed at the end of 2022, and we’re excited to continue our success across the pond!
+GivEnergy is one of the UK’s largest domestic and commercial battery manufacturers. The industry is booming and there couldn’t be a better time join the renewable industry.
+What you’ll be doing:
+No two days will look the same in this role, but generally, you can expect a mix of the below accountabilities:
+
+Working with the senior team analysing requirements and creating software to fulfil them.
+Analyse issues raised, create and release Fixes.
+Design and implement new Automations,
+Maintain system stability and optimise performance in our AWS environment.
+
+What we’re looking for:
+We know that one of the things that makes our people so successful, and work together so brilliantly is their differences. As such, we don’t want you to consider this an exhaustive list – if it’s a yes to all the below, great! If it’s most – we still want to hear from you:
+An understanding and competence in:
+
+MySQL
+Problem solving
+Minimum 5 years’ experience as a Developer
+AWS, DevOps
+Kubernetes
+
+It would be advantageous if you had some competence in the following:
+
+PHP frameworks such as Laravel,
+JavaScript, Vue.JS, React,
+Machine Learning (TensorFlow Pytorch)
+Git
+Atlassian suite (Jira, Confluence)
+Responsive/mobile first design
+Python, Java
+API’s/REST
+
+Why work with us?
+In a world which feels pretty uncertain right now, there couldn’t be a better time to join the thriving energy battery storage industry as it chargesfrom strength to strength. We’re all gearing up for a move to our new Head Office building in Newcastle-under-Lyme, and we’re also redeveloping our Chemical Lane manufacturing site too. In return for your hard work, this is what we bring to the table:
+
+Regular performance-based salary reviews.
+The opportunity to earn 2 generous bonuses each year (a profit share scheme and a performance-based bonus too).
+Regular Company events, shows and exhibitions.
+Work in a fun, relaxed environment with a smart/casual dress code, and free Company branded workwear provided.
+Want to stretch your legs, call to check on the kids, or just take your mind off work? On top of your lunch break, 2 x paid 10-minute daily breaks away from your desk are encouraged.
+We love to home-grow our talent, so there’s plenty of opportunities to progress and grow and bags of continuous professional development.
+Discounts available on our products. *
+Access to a workplace pension scheme.
+Join our team of foodies, with free tea and coffee provided onsite with regular snacks thrown in too.
+Come to work every day and know you’re playing your part in changing the world – this is just about as close as we can get to guaranteeing you job satisfaction!
+
+* Terms apply
+Schedule: The core hours for this role will be Monday – Friday 9am – 5pm, with some flexibility for out of hours cover
+Job Types: Full-time, Permanent
+Salary: negotiable for the right applicants
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Employee discount
+Free parking
+On-site parking
+Profit sharing
+
+Benefits:
+
+Company events
+Company pension
+Employee discount
+Free parking
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+Yearly bonus
+
+Ability to commute/relocate:
+
+Newcastle-under-Lyme, ST5 9JA: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+Development: 3 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person

@@ -1,0 +1,48 @@
+
+
+Job Title - Software Engineer - Frontend
+ Reports Into - Lead Frontend Web Developer
+ Location - Hybrid/Leamington Spa
+
+ A Little Bit about Kwalee….
+ Kwalee is one of the world’s leading multiplatform game developers and publishers, with well over 900 million downloads worldwide for mobile hits such as Draw It, Teacher Simulator, Let’s Be Cops 3D, Airport Security and Makeover Studio 3D. We also have a growing PC and Console team of incredible pedigree that is on the hunt for great new titles to join TENS!, Eternal Hope, Die by the Blade and Scathe.
+ What’s In It For You?
+
+ Hybrid working - 3 days in the office, 2 days remote/ WFH is the norm
+ Flexible working hours - we trust you to choose how and when you work best
+ A dog friendly office (There’s dog-free areas too, if pooches aren’t your thing)
+ Profit sharing scheme - we win, you win
+ Private medical cover - delivered through BUPA
+ Life Assurance - for long term peace of mind
+ On site gym - take care of yourself
+ Relocation support - available
+ VISA Sponsorship - available
+ Quarterly Team Building days - we’ve done Paintballing, Go Karting & even Robot Wars
+ Pitch and make your own games on Creative Wednesdays!
+ An amazingly well equipped office with ping pong, darts, pool tables and video games while keeping refreshed with free snacks and a stocked kitchen (we have every kind of milk imaginable)
+
+ Are You Up To The Challenge?
+ As a Software Engineer - Frontend you’ll be part of the Frontend team, implementing beautiful web designs made by our designers to keep both our site and the internal web-based tools we use fresh and up to date on top of working on new projects alongside this, there is always something new and interesting to work on.
+ Your Team Mates
+ The frontend team consists of both our frontend developers and designers, we work closely with all parts of the business to create tools that vary across the whole company, from the publishing team to create a portal for people to submit games, the marketing team on things like our website, all the way to our internal teams for things like administration and analytics.
+ What Does The Job Actually Involve?
+
+ Implementing designs for our website/web tools created by our design team
+ Create and update interactive interfaces used throughout the company
+
+ Your Hard Skills
+
+ Minimum 2 years browser-based programming experience
+ A proven track record of programming high quality and innovative web pages using Javascript, HTML5 & CSS3 and relevant frameworks (ideally ReactJS but could also be others e.g. AngularJS, NodeJS, Handlebars, jquery, gulp)
+ An excellent working knowledge of various programming languages, databases and scripting tools including at least one of bash, MySQL, CouchBase, Python, Java, C#, JSP, PHP
+ A creative mindset motivated by challenges and constantly striving for the best
+ Interest in mobile games
+
+ Your Soft Skills
+ Kwalee has grown fast in recent years but we’re very much a family of colleagues. We welcome people of all ages, races, colours, beliefs, sexual orientations, genders and circumstances, and all we ask is that you collaborate, work hard, ask questions and have fun with your team and colleagues.
+ We don’t like egos or arrogance and we love playing games and celebrating success together. If that sounds like you, then please apply.
+ A Little More About Kwalee
+ Founded in 2011 by David Darling CBE, a key architect of the UK games industry who previously co-founded and led Codemasters, our team also includes legends such as Andrew Graham (creator of Micro Machines series) and Jason Falcus (programmer of classics including NBA Jam) alongside a growing and diverse team of global gaming experts.
+ Everyone contributes creatively to Kwalee’s success, with all employees eligible to pitch their own game ideas on Creative Wednesdays, and we’re proud to have built our success on this inclusive principle.
+ We have an amazing team of experts collaborating daily between our studios in Leamington Spa, Lisbon, Bangalore and Beijing, or on a remote basis from Turkey, Brazil, Cyprus, the Philippines and many more places around the world. We’ve recently acquired our first external studio, TicTales, which is based in France.
+ We have a truly global team making games for a global audience, and it’s paying off: - Kwalee has been voted the Best Large Studio and Best Leadership Team at the TIGA Awards (Independent Game Developers’ Association) and our games have been downloaded in every country on earth - including Antarctica!

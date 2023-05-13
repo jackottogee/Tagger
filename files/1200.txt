@@ -1,0 +1,51 @@
+We are delighted to be working with an exciting charity who are working to support a more sustainable future for people and the planet. They need a talented Full Stack Developer to join their team. 
+If you want to be part of an organisation which works on "Tech for Good" projects then this could be the opportunity for you. 
+
+ Full Stack Developer 
+To provide technical and project leadership to the Informatics team. Working closely with the development team, UX designer and Product Manager to architect and deliver complex and high-profile applications 
+
+
+Key Responsibilities:
+
+
+Liaise with web developers, data scientists and geospatial experts to deliver high quality biodiversity informatics products APIs and databases that are paired with engaging and interactive interfaces.
+Develop processes and methods to ensure consistency and quality across our applications including testing.
+Work closely with other members of the informatics team and internal clients to develop efficient and maintainable web applications, on time and within budget.
+Ensure all our applications are responsive and cross browser compatible.
+Continue to expand your skills and knowledge and stay up to date with the latest developments in front end technologies.
+
+Other duties:
+
+
+Maintain and update existing applications, APIs and databases.
+Represent the Informatics team around the organisation and at relevant external meetings.
+Motivate and inspire other team members to develop their own skill sets.
+Manage the delivery of smaller projects.
+ Person Specification 
+
+
+
+Degree in Computer Science or similar
+Good understand of developing modern web applications, preferably Ruby on Rails.
+Experience with HTML, CSS and JavaScript, preferably VueJS.
+Experience with SQL, preferably including PostgreSQL.
+Experience with version control systems preferably GIT, and deployment preferably with Capistrano.
+ Skills 
+
+
+
+JavaScript, VueJS.
+Jest, Cypress.
+HTML5, CSS3, SCSS.
+Ruby on Rails.
+Mapbox, CartoDB, Leaflet.js.
+Git.
+GIS.
+PostgreSQL, PostGIS.
+Python.
+Capistrano.
+ This role will be required to undertake international travel as required. A range of great benefits are also on offer. 
+This role is on a hybrid basis so candidates must live in a commutable distance to Cambridge. 
+
+ For more information please contact Kirsty Giles at Pure Resourcing Solutions. 
+#PRSSOFT

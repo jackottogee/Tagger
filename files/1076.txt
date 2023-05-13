@@ -1,0 +1,42 @@
+About The Role
+As a Web Developer, you will be involved in conducting development activities range of CY2's in house and bespoke application set. You will be joining an awesome team of like-minded individuals who are driven by success, a fair amount of coffee, and table tennis.
+We are working on a series on exciting internal projects, bringing some pretty cool features into our platforms and applications. We are looking for someone with a passion for development, who is able to use their initiative, and to able to contribute their ideas.
+Experience:
+We are looking for people with experience or a keen interest in:
+
+PHP/Laravel (Any front end would be a bonus!)
+AWS, DevOps, Docker
+CICD Pipelines
+JIRA, GitHub
+Python
+
+About CY2:
+We are a small and modern company based in Cheltenham, invested in our people and empowering all members of the team to create great things. With our "no egos" ethos, we embrace collaboration to define the art of the possible and continually improve our industry-leading platforms.
+Candidates must be UK based. Please note that working on some of our projects require security clearances.
+Job Types: Full-time, Permanent
+Salary: £20,000.00-£40,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Free parking
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+DevOps: 1 year (preferred)
+CI/CD: 1 year (preferred)
+Web development: 1 year (preferred)
+PHP: 2 years (required)
+Laravel: 2 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In person
+Reference ID: CYDEVExpected start date: 16/01/2023

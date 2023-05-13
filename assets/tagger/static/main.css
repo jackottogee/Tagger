@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+}
+
+div.job-box {
+    width: 80%;
+    height: 400px;
+    border: 2px solid black;
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow-y: scroll;
+    white-space: pre-wrap;
+}
+
+p.job-details {
+    margin-left: 10%;
+    margin-right: 10%;
+    overflow-y: scroll;
+    overflow-wrap: break-word;
+    white-space: pre-wrap;
+}
+
+textarea.submit-box {
+    width: 80%;
+    height: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 10%;
+    margin-right: 10%;
+}

@@ -1,0 +1,57 @@
+
+
+Corsham Science is part of a family of companies that uses cutting-edge science and technology to deliver healthcare services, medicines, and microbiological testing products. Together were the UKs fastest growing privately owned pharmaceutical company, and we are investing in growing our science and technology teams.  Our innovation in science, technology and software has been a powerful driver of growth for us. In particular, our in-house software development teams have contributed to making our products and services safer, more efficient, and more cost-effective.
+About the role
+ At Corsham Science we work alongside our sister companies to develop and maintain bespoke software solutions, which on a daily basis are used to deliver medication and medical services to patients and to help humankind win the war against pathogens.
+Due to the continued success and growth of the group we are expanding our development team to ensure we can meet the growing demand for development work.
+ About you
+We are looking for passionate and talented lead software developers to join our growing team, at an exciting time. You should be self-motivated and engaged, and willing to lead a development team of Developers and Junior Developers.
+You should be comfortable working remotely, under your own initiative and as part of the wider team. You will need strong technical knowledge, and a proven track record of problem-solving. The ability to learn quickly is important as youll have to pick up new technologies, and you will be expected to gain a deep understanding of the pharmaceutical business domain. Strong communication skills are essential so you can interact with key stakeholders across multiple levels and understand business requirements.  We are looking for developers with a minimum 5 years experience. You will need to get up to speed quickly in order to help with the mentoring and on-boarding of more junior hires as we undergo this period of expansion.  What youll do
+
+Lead a development team with both local and remote team members and take technical responsibility for all the stages and iterations of a software development project. Manage development using agreed specifications to design, code, test and document systems using appropriate standards and tools.
+
+
+ Provide technical advice to stakeholders and help select appropriate design standards, methods and tools for use by our team.  
+Mentor team members and review the work of others to ensure the team produces consistently high-quality output.  
+Focus on assigned applications and the group companies to which the applications belong, to gain a deep level of domain understanding. Be able to identify areas where software solutions can provide improvements to existing processes, collaborating with stakeholders to document user stories and acceptance criteria.  
+Specify and design systems characterised by high levels of risk, impact and business or technical complexity.  
+Have a depth of knowledge in information security, be able to design systems with controls that mitigate against common security threats.
+
+
+ Identify, locate and competently fix faults in our production systems. Take responsibility for deployments and infrastructure maintenance tasks characterised by higher levels of risk.
+ Participate in our Scrum development process, facilitating the various Scrum ceremonies as required. Be able to reflect on our development process and suggest meaningful improvements.
+
+
+ Gain a depth of knowledge of the GxP and data integrity regulations. Design solutions and services with regulatory requirements in mind and produce validation documentation for the business.
+
+ You should have experience in the following: 
+
+Mentoring and on-boarding Developers and Junior Developers
+ Working within an agile environment (Scrum)
+ Programming with an object-orientated language (preferably C#)
+ Building HTTP APIs
+ HTML / CSS
+ Building single-page apps using a modern JavaScript framework such as React
+ Automated unit & integration testing
+ SQL, ORM frameworks and Database Design
+ Cloud technologies (e.g AWS)
+ Git and Github
+ CI/CD tools such as TeamCity
+
+ Even better if have experience in some of the following:
+
+ Delivering software into a regulated environment
+ Docker
+ .Net Core
+ CQRS, Event Sourcing and message-based architectures
+ Document databases
+
+ Benefits
+
+ Salary of £60,000 to £75,000 per annum (dependent on experience, knowledge and skills)
+ 29 days holiday, inclusive of bank holidays, increasing with service
+ Generous pension scheme, where if you contribute 6% the company will contribute 8%
+ Life assurance
+ Company bonus scheme
+
+

@@ -1,0 +1,40 @@
+A Full Stack .NET Developer is required to work for a company who have consistently ranked in the Sunday Times Top Companies to work for in the UK and have a long and successful history whilst also seeing growth in their market share year on year.  If you would like to work for a company that is growing and where there is no shortage of opportunities, and you are an ambitious Developer who has some relevant experience with a relevant degree and excellent problem-solver skills, please get in touch today.
+As a .NET Developer, you'll be joining an inclusive and professional team, where you'll contribute to the development and testing of products and features, pair programming, code reviews and daily stand-up. The successful candidate will be encouraged to keep up to date with the latest technologies and learn from an experienced team of Developers. The position will be at the head office located close to Birmingham Airport. It is an office-based role - this will certainly be an advantage for you to learn from a strong team of Developers. You will be involved in both new and existing ongoing development projects, as well as being an integral part of the team to ensure that the existing systems are maintained and improved with enhancements where needed due to the business needs.
+Key Responsibilities:
+
+Develop, test, and deploy web-based applications and API’s using .NET Framework 4.6+ and .NET Core 6+.
+Work collaboratively with the development team to ensure that the best possible software solutions are delivered to the business.
+Participate in project planning and estimation activities, providing technical expertise and guidance as required.
+Contribute to the continuous improvement of the software development process, including agile methodologies and DevOps practices.
+Keep up to date with emerging trends and technologies in software development, and proactively recommend improvements to existing products and services.
+
+Requirements:
+
+Previous experience in software development, with a focus on .NET and .NET Core technologies
+Proficient in API development and maintenance
+Good knowledge of MongoDB and SQL Server
+Previous experience with Elastic Search & Kibana
+js (Nuxt)
+Umbraco CMS
+Strong understanding of software development best practices, including agile methodologies and DevOps practices
+Good understanding of Azure Services such as Function Apps, App Services, Static Web Apps
+Excellent problem-solving and analytical skills
+Strong communication and collaboration skills
+A passion for technology and a desire to stay up to date with emerging trends and technologies in software development.
+
+In return you can expect to receive a basic salary of between £50,000-£55,000 depending on your skill set and previous development experience. There is free parking, fantastic benefits package including perkbox, childcare vouchers, share schemes, excellent holidays that increase with length of service and working for a company that prides itself in developing their staff. If you think you have the skills and experience that my client is looking for then please click apply now.
+Job Types: Full-time, Permanent
+Salary: £50,000.00-£55,000.00 per year
+Benefits:
+
+Company pension
+Employee discount
+On-site parking
+Store discount
+
+Schedule:
+
+Monday to Friday
+
+Work Location: In person
+Reference ID: MM23MIC001

@@ -1,0 +1,26 @@
+
+Software Engineer 
+
+Metalis are working with a market leading machine tooling company who are seeking an experienced Software Engineer to join their team in Coventry. The ideal candidate should have a high level of programming skills using an object-oriented programming language such as VB6, VB.NET, or C#NET, experience with C++, SQL, and a background in mathematics, particularly polar and trigonometric functions.
+ 
+Job Duties:
+
+ Working on custom in-house applications, updating them for the latest operating systems and continuously improving them.
+ Design modular code using c#, c++, vb6, and sql, and develop and test new programs for cnc machines.
+ Integrate software into the cnc control system using net, tcpip, opc, and windows, write initial software function design specifications, and write software operational documentation.
+ Provide customer support for custom applications and general it support for the business.
+
+ 
+Job Requirements:
+
+ Excellent understanding of Microsoft Windows environments for desktop and server.
+ A methodical and proactive approach to improvement methods.
+ Strong team player who can work on their own initiative, and be able to multitask and prioritise their workload.
+ Adhere to the company's health and safety policies and be available for global business travel if required.
+
+ 
+Salary & Hours:
+ Salary: £38k - £42k per annum, dependant on experience
+ Contracted hours: Monday-Thursday 7.30 am - 4.00 pm, Friday 7.30 am - 3.00 pm
+ Position Type: Permanent, full-time
+ Location: Coventry & Occasional international travel

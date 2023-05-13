@@ -1,0 +1,50 @@
+
+
+We are always on the lookout for experienced and Senior Drupal Developers. People with a passion for coding and new technologies with a portfolio of sites / projects that clearly demonstrate your skills and capabilities.
+
+ If this is you, please do enquire by emailing jobs@torpedogroup.com or sending your CV by applying directly to this advert.
+
+ What will you be responsible for:
+
+
+ Developing websites and web applications which are optimised across multiple browsers and device platforms
+ Working across a broad range of exciting projects for different clients and big brands
+ Helping to recommend, plan and develop dynamic web and digital projects
+ Being actively involved at all stages of the design and development process
+ Working closely with the UX, design, SEO and project management teams
+ Testing and supporting new and existing solutions
+ Staying up-to-date with current web trends and new technologies and have a desire to push the boundaries.
+ Working in a variety of development processes, including Agile
+
+
+ What it takes to be successful:
+
+
+ Experience with Drupal
+ Advanced knowledge of PHP and MySQL including modern PHP frameworks such as Symfony and Laravel
+ Excellent HTML5 / CSS3 hand-coding skills combined with Ajax, JQuery and Javascript libraries and tools (Vue.JS, React, Sass)
+ Experience working with Node.JS/Express
+ Skilled in Object Oriented Programming and Design Patterns
+ Extensive experience of developing and testing responsive websites for multiple browsers, platforms and devices
+
+
+ Proficient in Linux administration, Apache configuration and MySQL database design
+
+
+ Experience of using version control systems – ideally Git
+ Good working knowledge of web and mobile UX/UI best practices
+ A good understanding of accessibility standard
+ An organised approach with excellent attention to detail and a pride in your work
+ The ability to work to tight deadlines whilst providing clients and colleagues with exceptional service at all times
+
+
+ What skills are not essential but will help:
+
+
+ Experience of automated testing (for example PhpUnit, Behat or Selenium) and automated deployment and continuous integration (Travis, Jenkins)
+ Good understanding of testing methodologies and procedures
+
+
+ Experience and/or knowledge of Agile software development methodologies
+ Experience with Wordpress architecture
+

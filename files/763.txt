@@ -1,0 +1,45 @@
+
+
+
+Location: London 
+Sector: Software Engineering 
+Job type: Contract 
+Job functions: Python, Software Developer / Software Engineer, Python Developer 
+Salary: £800 - £900 per day 
+Contact: Joe Howe 
+Contact email: joe.howe@lafosse.com 
+Job ref: 89541_1682524016 
+Published: 5 days ago 
+Duration: 6 month Initial 
+Expiry date: 2023-06-07 
+Startdate: ASAP 
+
+
+You will be joining an enthusiastic team of people who enjoy what they do. Alongside delivering clean, well-tested, understandable code you would be spending time getting into the finer details of the energy industry domain. The team regularly spends time together understanding the ins and outs of National Grid services systems that balance energy supply and demand.
+ This team regularly must solve problems that are unsolved elsewhere. The changes required to decarbonise the UK power grid are immense, and we need a lot of intelligent software to do this. One example of these unsolved problems is getting hundreds of individual batteries to behave with the same stability as a large coal fired power plant.
+ 
+You will:
+
+ Work closely with the product owner to understand requirements.
+ Understand end-user needs and develop software solutions.
+ Continuously improve existing solutions for greater performance and flexibility.
+ Deliver quality software by ensuring testing is in place.
+ Collaborate with other developers to design systems and write code.
+
+ 
+Role Requirements:
+
+ Desire and willingness to learn about the energy industry domain in detail.
+ Experience with Python.
+ Open and collaborative attitude with a desire to help others.
+ Happy to build software in an agile way.
+ Postgres or some experience with relational databases.
+ Understanding of container-based architecture - e.g. Docker and container orchestrators such as Kubernetes.
+ Go or willingness to learn Go.
+ Django.
+ Worked with CI/CD practises.
+ Interest or willingness to learn TDD.
+ Experience within the energy industry
+
+
+

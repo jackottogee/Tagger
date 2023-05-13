@@ -1,0 +1,103 @@
+Senior Salesforce Engineer – to £65k plus 35 days hols + bank holidays
+
+Are you an experienced Salesforce Technical Engineer looking for a role leading and influencing not just the technical, but also the contribute to the long-term digital systems strategy?
+Have you implemented Salesforce PRM application suite in a previous role? 
+Do you know how to organise your own team and work with other teams to ensure that Salesforce can be used to deliver great capabilities?
+
+
+Can you get the best from Agile delivery practices to ensure continuous development of high value capabilities for a company?
+
+If you can answer yes to all the above and are looking for a role working for an organisation who know the value of a great work life balance, then this may be your next career step.
+What will you be doing? 
+Reporting to the Applications Delivery Manager you will have responsibility for the Salesforce platform. The role can be remote, based in the UK, with occasional business trips or meetings at Head Office in the Northwest of England.
+The Senior Salesforce Engineer role will take a lead in the ongoing development of the Salesforce Sales and Service cloud deployment and any associated apps.
+Managing a team of Salesforce Engineers and working in partnership with the Salesforce product manager, Solution architects, Business units and colleagues in the IT team to drive delivery of future developments. Supporting all elements of product development including solution design, option assessment, build, testing and implementation on the Group’s Salesforce platform.
+Strategy and Planning
+
+Work with the Salesforce Product Manager in planning and delivering continuous improvements and new functionality into the Salesforce Org.
+Contribute to the development of the Group’s Digital Strategy and short/ long-term roadmap for the effective delivery of services in line with the Group’s current and future capacity requirements.
+Help to ensure the objectives and strategies for CRM systems are aligned with the Group’s objectives.
+
+Your People Skills
+
+Responsible for a team of Salesforce Engineers, planning and allocating work for the team to ensure successful project delivery and meeting of organisational objectives.
+
+
+Develop training plans and objectives for the team, review and monitor progress against delivery and provide feedback to the team.
+Respond to any emerging performance issues quickly and robustly, as required.
+Ensure that team members have the training, knowledge, skills, and support required to deliver projects and / or their responsibilities effectively.
+Operational Delivery
+Provide clear and informed advice as to whether Salesforce Applications are well suited to accommodate new requirements.
+Author and/or feed into the content of Business Cases for the approval of new Salesforce Application development initiatives.
+
+
+Assume full responsibility for the day-to-day operational management and delivery of Salesforce Application services to business units and internal customers.
+
+
+Be responsible for the development of solutions on the Group’s Salesforce Org, with direction from Product Manager, Solution Architects and Project/Programme Managers on a day-to-day basis.
+Ensure that the applications are stable and support the Group’s Operations. This will involve, but is not limited to:
+Configure and monitor Data Imports
+Configure and monitor reports and dashboards
+Configure and update objects, maintaining adherence to the Group’s CRM Data Model
+Configure and monitor workflow tasks and system alerts.
+Provide expert advice on workflow capability and solution design, develop, test and maintain to meet complex business requirements.
+Design, test and implement system improvements, in conjunction with the Product Manager, Solution Architects and Project/Programme Managers, in order to meet business requirements.
+Define and document best practice frameworks, guidelines, policies and quality acceptance criteria that determine the standard ways of working.
+
+What do you need to demonstrate to secure the role? 
+On top of an expert level in configuring, deploying and further development of Salesforce products, you need to be able to demonstrate the following.
+5 years demonstrable experience of Salesforce application platform product development and configuration, including: o Project experience in a hands-on technical delivery position.
+
+Experience of multiple Salesforce project deployments including release and environment management.
+Competence with Salesforce technical skill sets (e.g. process builder, flows, integrations, o engagement history)
+Experience of multiple Salesforce project deployments including release and environment management.
+Experience of Salesforce Sales Cloud and Service Cloud modules.
+Demonstrable experience of translating complex business requirements into intuitive and elegant CRM Application solution designs.
+Proven track record of supporting projects from concept to completion, applying best practices governance principles and delivery on time and in full.
+Hands-on experience of managing 3rd party vendors in supporting the delivery of new Salesforce Application solutions.
+Solid experience of working with PRINCE2 and Agile delivery methodologies.
+
+This is a technical leadership role; hence you must be able to evidence your leadership and management skills both within IT and with key business stakeholders.
+You should be able to talk and demonstrate your skills in project management, goal and objective setting, financial management and change management.
+Proven experience of working to deadlines and prioritising workloads with a natural ability to analyse problems, complete cost-benefit analyses, design and offer solutions. Solid experience of working with Project Management frameworks and Agile delivery methodologies.
+Beneficial Experience 
+
+Azure DevOps Code Pipelines.
+Experience of CI/CD processes.
+
+What is in it for you? 
+In today’s workplace, it is hugely important to work for a company with a culture that encourages growth through a positive culture whilst respecting that a work-life balance will get the best from their most valuable asset, their employees. My client is an organisation that puts those principles at the top of their agenda.
+The role has a flexible location if you are in the UK and have the right to work here, sorry but no visa sponsorships will be explored for this role.
+
+Salary up to £65k for the right candidate
+
+
+Excellent holiday package – 35 days plus bank holidays
+Pension with matched contributions
+Training
+Extra perks including huge discounts and offers from shops, cinemas and much more.
+
+Job Types: Full-time, Permanent
+Salary: £55,000.00-£65,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company events
+Company pension
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Experience:
+
+Salesforce development: 5 years (required)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

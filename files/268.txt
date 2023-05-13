@@ -1,0 +1,104 @@
+
+
+
+
+Summary
+
+
+      Posted: Jan 26, 2023
+     
+
+
+       Role Number:
+       200410760
+
+
+
+      Apple's Technology Development Group is looking for a Software Engineer to help us push the limits on next generation of interactive computing for our platforms. This team is working with some of Apple's most advanced technologies including augmented reality (AR), virtual reality (VR). As a member of our organization you will assist us in building technologies that empowers cutting-edge applications and exploring future products that will delight, inspire and empower millions of people.
+     
+
+
+
+
+
+
+
+
+
+Key Qualifications
+
+
+
+
+Solid knowledge and experience with C++
+Experience with developing animation frameworks
+Good understanding and comfort with 3D maths (linear algebra).
+Detail-oriented approach to planning, execution, and maintenance.
+Excellent communication skills; ability to collaborate successfully with peers from diverse experiences and backgrounds.
+Ability to drive results in a fast-paced and agile organization.
+
+
+
+
+
+
+
+
+
+
+Description
+
+
+
+       Apple makes the newest technologies accessible to build delightful experiences. As part of our team you will have the opportunity to design, architect and develop start-of-the-art solutions to make character animation development accessible on our platforms. You are comfortable working in a dynamic, creative and fast paced environments. Engineers on our team will work quickly and smartly to determine viability of ideas and technologies. You will need keen understanding of 3D animation development and an ambition to explore unknown territories. In this position, you will work with our team of engineers, artists and designers and work closely with organisations across Apple to develop these animation technologies.
+      
+
+
+
+
+
+
+
+
+Education & Experience
+
+
+
+       Master’s Degree in Computer Science or equivalent experience.
+      
+
+
+
+
+
+
+
+
+Additional Requirements
+
+
+
+
+Preferred but not essential:
+
+Familiarity with any of the following technologies: ARKit, RealityKit, SceneKit.
+
+
+Proficiency in macOS, iOS, or Unix development practices.
+
+
+Experience in 3D Animation, 3D Math, or Motion Capture technologies.
+
+
+Experience building AR/VR apps either professionally or personally.
+
+
+An interest and passion for AR/VR Technologies.
+
+
+
+
+
+
+
+

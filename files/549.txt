@@ -1,0 +1,42 @@
+
+Job Description
+ Summary: Cboe Europe is seeking a Python Software Engineer. As part of a small, talented development team, you will help build and expand the batch functionality of the largest equities exchange in Europe. We are firm believers in the value of testable, maintainable code and software craftsmanship; that approach has helped us become the largest equities exchange in Europe and we need another talented individual to help us continue to innovate and lead the market.
+
+ Location: London, UK
+
+ Responsibilities
+
+ Design and build highly reliable, highly testable Python batch systems to support Cboe Europe’s trading operations.
+ Provide operational support for Cboe Europe’s trading systems, including a rotating weekly early shift (come into the office one hour early, leave the office one hour early).
+ Work closely with our business development and sales teams to develop innovative new products and features for our exchanges.
+ Participate in various R&D projects to identify and implement promising new technologies.
+ Participate in a global software development team
+
+
+ Requirements
+
+ Solid Python knowledge
+ A commitment to writing testable, maintainable code.
+ Familiarity with more advanced SQL techniques.
+ Strong Linux knowledge
+ Basic, but broad, knowledge of algorithms and data structures.
+ Degree in Computer Science or related field preferred.
+ Highly preferred: Experience with TDD, BDD or other testing methodologies
+ Preferred: Familiarity with PostgreSQL, Puppet, Jenkins, Django, or Pandas
+ Preferred: Familiarity with Microservices Architecture
+ Preferred: Familiarity with the development of REST API services
+ Preferred: Familiarity with Cloud Technologies
+ Preferred: Familiarity with C or C++.
+ Preferred: Experience in one or more relevant financial areas (market data, order management, algorithmic trading, financial systems integration, compliance, etc.)
+
+
+ About Cboe
+ At Cboe, we lead the industry globally in tradeable products and services. We are committed to developing innovative products, delivering unparalleled service and offering cutting-edge trading technology. A career at Cboe means the chance to work for the industry leader and have a direct impact on Cboe’s continued success in the marketplace. The industry and technology professionals that make up the Cboe team are focused on keeping innovation and competition alive in the securities markets. We capitalize on our mix of seasoned and new talent to solve problems and bring solutions.
+
+ Associate Benefits
+ Cboe Europe offers one of the most exciting places to work in London with an opportunity to take on the established exchange sector with leading edge technology. We have a casual dress code and lunch is catered for every day at no cost to our employees. Our compensation programme, made up of salary and bonus, is highly competitive. In addition, the company offers a retirement plan with matching contributions, a group health plan, gym membership and life insurance.
+
+ Apply
+ To apply for a position, visit Cboe.com/AboutCboe/Careers. For more information about Cboe, visit our website, or follow us on Twitter @Cboe or on Facebook @CboeGlobalMarkets.
+
+ Any communication from Cboe regarding this position will only come from a Cboe recruiter who has a @cboe.com email or via LinkedIn Recruiter. Cboe does not use any other third party communication tools for recruiting purposes.

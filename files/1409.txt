@@ -1,0 +1,49 @@
+
+Software Development Engineer - Renewable Energy
+
+Swindon and Hybrid Working 
+
+£55,000 - £65,000 DOE 
+Introduction
+ Astute are partnered with one of the most reputable sustainable energy businesses in the UK and a pioneer in the sector. The company develop, construct, own and operate their own renewable energy assets and they are looking for a Software Development Engineer to join their Technologies Team and be responsible for managing the development of their Technologies software platforms. 
+ Roles & Responsibilities
+
+Reporting to the Software Team Leader you will be responsible for:
+
+
+ Developing and testing code to support existing products and develop new ones
+ Designing and implementing database tables, schemas and structures
+ Organising and storing data collected from various sources including; Vehicles, EV charging stations, Weather, Maps, power systems, batteries
+ Designing, developing and testing software for UI and reporting
+ Supporting Data Analysts to deliver near real-time reports and visualisations that offer insights into battery, system, vehicle and driver performance
+ Supporting the invention of new features, architecture and services
+ Working with firmware, software and hardware teams to efficiently meet new and evolving customer feature requests
+
+Skills & Qualifications
+
+We are looking for someone with the following:
+
+
+ Degree or equivalent in Software Engineering or Computing
+ Experience with coding and mathematics with the ability to analyse statistics
+ Skilled in: Python, Java EE, MySQL
+ Knowledge of some or all of: Eclipse, SVN/GIT, JIRA, AWS, AZURE, Linux, Apache, Tomcat, Docker, PowerBI, Machine Learning, Data Analysis
+
+Salary & Package
+
+What's on offer for this exciting role:
+
+
+ Salary up to £65,000 Depending on experience
+ Company share scheme
+ Private health, pension and all company benefits
+ Life insurance
+ Cracking opportunity to join a major player in the sustainable energy world
+
+How to apply?
+
+To apply for this exciting opportunity, please email a copy of your CV and covering letter to kboyton-salts@astutetechnical.co.uk or call 02392 222 968 and ask for Kieran Boyton-Salts
+who can tell you more.
+INDREN
+ 
+Astute Technical Recruitment Limited are acting as an employment agency in relation to this vacancy. We do not discriminate on the grounds of age, race, gender, disability, creed or sexual orientation and comply with all relevant UK legislation. We encourage applications from individuals from all backgrounds but candidates must be able to demonstrate their ability to work in the UK and Europe. Astute is also committed to the government's Disability Confident Employer initiative. We endeavour to get back to everyone, however, if you have not heard anything after 7 days, please consider your application unsuccessful.

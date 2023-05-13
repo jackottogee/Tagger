@@ -1,0 +1,26 @@
+
+Execution Developer (Quant C# .Net Core) London / WFH to £140k
+ Are you an Execution Developer looking for an opportunity to work on complex and interesting systematic trading strategies? You could be joining a small, Agile team acting as a "start-up" within a bespoke Hedge Fund to deliver a new systematic fund.
+ As an Execution Developer you'll work across the full software development lifecycle, partnering with the trading teams to design systematic trade strategies. There are many technical challenges around optimisation, scalability and integration with market data providers; you'll be collaboratively problem solving with other senior engineers, in hands-on role where you can influence technology choices and best practice.
+ WFH Policy:
+ There's a hybrid work from home policy, you'll join colleagues in the North London office 2-3 days a week with flexibility to work from home. You'll be joining a small group of accomplished software / data engineers and finance entrepreneurs in a relaxed software house environment.
+ Requirements:
+
+ You have experience of designing, developing and building execution algorithms
+ You have expertise with C# .Net Core (or other OO programming language e.g. Java, C++)
+ You have a deep understanding of Computer Science fundamentals such as OOP, Data Structures, Design Patterns, Databases, Algorithm design
+ You have strong mathematical and numerical skills with a good understanding of probability and statistics and are familiar with Python / R and Machine Learning / Data Science pipelines
+ You have experience of working on low latency applications
+ You're collaborative and pragmatic with excellent communication skills
+
+ What's in it for you:
+ As an Execution Developer you will earn a competitive salary (to £140k) plus:
+
+ Significant bonus (c30-40%)
+ Life Assurance of x4 salary
+ Pension contribution of 8%
+ Employee Assistance Programme
+ Perks such as cycle to work scheme, gym membership, company holidays and socials
+
+ Apply now to find out more about this Execution Developer (Quant C# .Net Core) opportunity.
+ At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.

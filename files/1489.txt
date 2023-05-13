@@ -1,0 +1,88 @@
+
+Join us here at Ground Control, we’re a Certified B-Corp, Investors in People Gold Standard Company. We are on a mission to realise the potential of human nature by bringing together people, places and the planet.
+ The Ground Control technology function is on a mission to deliver industry leading technology and data platforms which safely enable everyone at Ground Control to connect our clients and the environment.
+ We have an opening for a high-calibre Lead Software Engineer.
+ The ideal candidate will be a well-rounded technology leader with extensive experience of collaborative working with business stakeholders ,to implement high quality software changes. The successful candidate will be instrumental in shaping the transformation of our technology, practices, and team.
+ Everyone is welcome, and we are embracing a culture where difference is valued. Your uniqueness will be celebrated. We believe diversity grows innovation, and innovation creates initiative. Together we will succeed in caring for each other, caring for our communities, and caring for our Environment.
+ What you’ll achieve
+ As a Lead Software Engineer you will:
+
+ Take ownership for the implementation of high-quality software change to Ground Control’s products and platforms.
+
+
+ Shape and define the future state architecture and technical direction of our platforms and solutions in close collaboration with our architects.
+
+
+ Modernise the software design, delivery, and test practices within a cross-functional squad in collaboration with Product Owners and the Scrum Master.
+
+
+ Help your team to achieve their full potential through coaching, training and mentoring.
+
+ Who we’re looking for -
+ The successful candidate will have:
+
+ Solid experience of software engineering in commercial environments.
+
+
+ A positive track record in coaching, mentoring, and line-managing software engineers
+
+
+ Hands-on experience of modern engineering practices and architectures (CI/CD, continuous delivery, automated testing, event-driven architectures, serverless computing, microservices).
+
+
+ Previous experience of transforming monolithic legacy apps into scalable, distributed architectures.
+
+
+ Experience maintaining desktop and web applications.
+
+
+ A polyglot mindset. Although your core experience will be using the latest Microsoft stack (.NET5 or above, Azure, SQL Server), you will also have an awareness of (and have experimented with) a broader suite of technologies which may include Node.js, React or Vue.js, Golang, Power Platform, Blockchain, PyTorch, Tensorflow, etc.
+
+
+ Experience of hybrid nearshore environments.
+
+ What we offer:
+ At Ground Control we believe in creating an inspirational environment , and rewarding our employees for their hard work. We offer a wide-ranging benefits program , supporting you to realise your full potential, and are proud to be recognised as a great place to work :
+ Awards, Accolades and Culture
+
+ We have been awarded ‘world-class’ status for employee engagement in the 2023 best companies results, ranking at #16 in the ‘Top 100 Large Companies to Work For’ league table.
+
+
+ Certified B-Corp Accredited, Ground Control has been certified by B Lab, the not-for-profit behind the B Corp movement, as having met rigorous social and environmental standards which represent its commitment to sustainable goals ahead of profit.
+
+
+ We inclusively support ‘The Race at Work Charter’, ‘Ban the Box’, ‘The Armed Forces Covenant’ and are ‘Disability Confident'
+
+
+ We invest 5% of our profits into the Evergreen Fund, an investment fund dedicated to sustainability and environmental initiatives.
+
+
+ By 2025 we have committed to planting 1,000,000 trees, having a fully electric fleet, and achieving carbon net zero after becoming carbon neutral in 2020.
+
+
+ 2 personal choice volunteering days with your fundraising efforts matched up to £500!
+
+ Perks and Benefits
+
+ Free gym access if you are Head Office based or subsidised national gym memberships if you are based elsewhere.
+
+
+ Nursery Vouchers, Cycle to work scheme and Travel loans
+
+
+ Bupa employee support, Free Flu Jabs, online private GP service and a premium subscription to Calm, the wellbeing app
+
+
+ A supportive, entrepreneurial working environment that fosters collaboration.
+
+
+ Training, development, coaching and mentoring plans including our GC Leadership Academy, job specific accreditations and higher education opportunities
+
+
+ Hybrid working opportunities with time in the office including breakfast Mondays and dog friendly Fridays.
+
+
+ Financial benefits include twice yearly bonus scheme, access to Wagestream and employee share options  How we work:  We put people at the centre of everything we do. Everyone is welcome. We’re embracing a culture where difference is valued. Your uniqueness will be celebrated. We believe diversity grows innovation, and innovation creates initiative. Together we’ll succeed in caring for each other, caring for our communities and caring for our Environment. Together, we’re stronger.
+
+ We have ambitious plans, join our adventure !
+ #INDHP

@@ -1,0 +1,32 @@
+
+About Us
+
+ FlexTrade Systems is a global leader in high performance multi-asset execution management and order management systems for equities, fixed income, foreign exchange, futures, and options. A pioneer in the field, FlexTrade is internationally recognized for introducing FlexTRADER®, the world’s first broker-neutral, execution management trading system, which allows clients to completely control and customize their execution workflows through a comprehensive ability to search/access liquidity while maintaining the confidentiality of their trading strategies.
+
+ The Team
+ We are actively seeking an Associate C++ Developer for a unique opportunity to join the core development team working with our flagship product FlexTRADER, a highly customisable multi-asset class execution management system used by some of the largest investment banks and hedge funds in the world. The role represents an excellent opportunity to gain experience in dealing with high-profile contacts, cutting-edge technology, and the financial services industry.
+
+ About You
+ FlexTrade are seeking an Associate C++ Developer to join their London team. The ideal candidate will be a recent graduate with solid programming skills and some experience with C++.
+
+ Responsibilities
+
+ Software component design and development for our trading system.
+ Working with client services to understand and translate business requirements into technical.
+ Creating documentation for changes.
+ Contributing towards general technical health (refactoring, improving test coverage).
+
+
+ Key Skills & Requirements
+
+ Excellent problem-solving skills.
+ A good understanding of C++11/14/17 and the standard library.
+ Familiarity with Boost is beneficial.
+ Google Test or experience with other unit test frameworks.
+ Experience with Git or other distributed VCS.
+ Experience with Linux (We use RHEL). 
+ Good understanding of CI/CD processes and Docker.
+ Experience with Python is beneficial
+
+
+ FlexTrade Systems, Inc. is an equal opportunity employer and makes employment decisions without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability status, or any other status protected by law. FlexTrade UK Ltd. conducts a pre-employment screening which consists of a Criminal History, Background and Credit Check for successful candidates.

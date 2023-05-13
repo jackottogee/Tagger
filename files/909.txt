@@ -1,0 +1,65 @@
+
+Location
+
+  Remote, occasional travel to Marlow and Poland
+ 
+Vacancy Type
+
+  Permanent/Full Time
+ 
+Job Summary
+
+Front-End Engineer 
+Ciphr has a new opportunity for a Front-End Engineer. You will be joining an organisation where you will work with a team that is goal driven and people focused.
+At Ciphr our priority is ensuring that the work we do is adding value to our customers whilst also working in a way that allows the Ciphr team to feel valued in their roles.
+We want to give you the opportunity to embrace your role with Ciphr and, in return, we can offer you an open and friendly work environment where your input and ideas are welcomed.
+Flexibility is key so this role can be based anywhere within the UK if you are happy to attend ad hoc meetings. We also have an office in Marlow, Buckinghamshire that all Ciphr employees are welcome to utilise.
+If you are interested in a change do have a look below at what we can offer you.
+Location:
+The role is remote within the UK but will require occasional travel for meetings. As your role progresses there may also be some travel required to Poland on the odd occasion with due notice.
+What it is like to be a Front-End Engineer at Ciphr:
+As a Front-End Engineer specialising in Angular, you will be responsible for designing, implementing, and maintaining the front-end of our web applications.
+This includes working closely with our product and design teams to translate wireframes and mock-ups into functional and visually appealing interfaces, as well as collaborating with our back-end engineers to ensure a seamless user experience.
+See below the daily tasks of a Front-End Engineer:
+
+Design and implement the front-end of web applications using Angular and related technologies
+Collaborate with the product and design teams to translate wireframes and mock-ups into functional user interfaces
+Work with back-end engineers to integrate the front-end with the application logic
+Write clean, maintainable, and well-documented code
+Stay up to date with the latest web development trends and technologies
+
+What we offer you:
+Ciphr has a benefits package which has you and your family in mind.
+As well as offering you the opportunity to work with a great team, be part of a growing company and have the chance to learn and enhance your knowledge and qualifications, we offer:
+
+25 days annual leave (28 after 3 years’ service), plus bank holidays
+Family National Trust Membership
+Birthday day off
+Family forming support - e.g., time off for family forming appointments or to support your partner
+Enhanced maternity and paternity leave
+Cycle to work scheme
+Pension
+Health cash plan
+Life assurance
+Technology Loans
+Perks at Work – access to exclusive discounts, cinema tickets, etc.
+Regular training
+£1,500 employee referral scheme
+Medical Cover and Dental cover (after 6 months’ service)
+Income Protection insurance (after 12 months’ service)
+
+We would like you to have the following skills:
+
+5+ years of experience with Angular and related front-end technologies such as HTML, CSS, and JavaScript
+Experience with responsive design and cross-browser compatibility
+Experience with NgRx state management, Nx build system and Lit components is desirable
+Proficiency with modern development tools such as Git and npm
+Strong problem-solving skills and the ability to troubleshoot and debug issues
+Excellent written and oral communication skills
+Good collaboration skills
+
+About Ciphr:
+Ciphr is a leading UK-based provider of integrated HR, payroll, learning and recruitment solutions.
+Ciphr’s integrated HCM platform helps organisations manage their end-to-end employee lifecycle so they can deliver an amazing employee experience. With Ciphr, organisations can be confident they can access all their people data in one place, thanks to secure, time-saving integrations between our own solutions and API connections to specialist, third-party tools.
+Ciphr is all about people. Our values are trust, drive, authenticity, and accountability. We want you to bring your authentic self to work giving you the space to be yourself whether that is creative, outgoing, quiet, courageous, observant or any other attributes you may have. Ciphr welcomes all kinds of people to the team and would love you to come and join us!
+

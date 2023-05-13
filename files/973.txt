@@ -1,0 +1,104 @@
+
+
+  We believe in better. And we make it happen.
+ 
+
+   Better content. Better products. And better careers.
+ 
+
+   Working in Tech, Product or Data at Sky is about building the next and the new. From broadband to broadcast, streaming to mobile, SkyQ to Sky Glass, we never stand still. We optimise and innovate.
+ 
+
+   We turn big ideas into the products, content and services millions of people love.
+ 
+
+   And we do it all right here at Sky.
+ 
+
+
+   What you'll do
+ 
+
+ Create extremely well-crafted front-end web applications using React.js and Redux
+ Write resilient code that will be continuously tested, deployed and performed at scale
+ Be part of a self-organising and cross functional Agile team
+ Be a leader within the team, actively improving overall software quality whilst also helping fellow team members
+ Contribute to the team’s technical direction and the improvement of its tools and processes
+ Be responsible for ensuring our website is highly performant, resilient, secure and monitored in production
+
+
+
+   What you'll bring
+ 
+
+ Solid commercial experience in JavaScript (React) development
+ Good understanding of development best practices such as pair programming, TDD, continuous integration and continuous delivery
+ Good understanding of/experience with CI tools (Jenkins, Concourse) and testing frameworks
+ Experience with optimising web applications in areas such as performance, security and resilience
+ Ability and enthusiasm to push for new improvements across the code base and influence/learn from a large community of developers
+ Ability to help in coaching and mentoring junior members of the team
+
+
+
+   Team overview
+ 
+
+   Group Technology Digital Transformation
+ 
+
+   Want to create a smooth and uninterrupted digital experience for millions of customers? Then our Group Technology Digital Transformation is the team for you. Agile, collaborative, data-driven and diverse, our team works on brilliant products like NOW and Peacock. That’s not even the best part. We get to build our own software and our work has a global stage. Our team also delivers exceptional customer experiences and defines digital first propositions in customer journeys across all channels.
+ 
+
+
+   The rewards
+ 
+
+   There's one thing people can't stop talking about when it comes to #LifeAtSky: the perks. Here’s a taster:
+ 
+
+ Sky Q, for the TV you love all in one place
+ The magic of Sky Glass at an exclusive rate
+ A generous pension package
+ Private healthcare
+ Discounted mobile and broadband
+ A wide range of Sky VIP rewards and experiences
+
+
+
+   Inclusion & how you'll work
+ 
+
+   Recognised by The Times and Stonewall, we take pride in our approach to diversity and inclusion. Investing in society, fighting racial injustice and setting ambitious targets for representation at Sky.
+ 
+
+   We’ve embraced hybrid working and split our time between unique office spaces and the convenience of working from home. You’ll find out more about what hybrid working looks like for your role later on in the recruitment process.
+ 
+
+
+   Your office space
+ 
+
+   Osterley
+ 
+
+   Our Osterley Campus is a 10-minute walk from Syon Lane train station. Or you can hop on one of our free shuttle buses that run to and from Osterley, Gunnersbury, Ealing Broadway and South Ealing tube stations. There are also plenty of bike shelters and showers.
+ 
+
+   On campus, you’ll find 13 subsidised restaurants, cafes, and a Waitrose. You can keep in shape at our subsidised gym, catch the latest shows and movies at our cinema, get your car washed, and even get pampered at our beauty salon.
+ 
+
+
+   We'd love to hear from you
+ 
+
+   Inventive, forward-thinking minds come together to work in Tech, Product and Data at Sky. It’s a place where you can explore what if, how far, and what next.
+ 
+
+   But better doesn’t stop at what we do, it’s how we do it, too. We embrace each other’s differences. We support our community and contribute to a sustainable future for our business and the planet.
+ 
+
+   If you believe in better, we’ll back you all the way.
+ 
+
+   Just so you know: if your application is successful, we’ll ask you to complete a criminal record check. And depending on the role you have applied for and the nature of any convictions you may have, we might have to withdraw the offer.
+ 

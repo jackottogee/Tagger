@@ -1,0 +1,39 @@
+
+We're looking to expand our digital team in the UK to bring in an experienced Full Stack Ruby on Rails developer. 
+The Company 
+BTS is a global professional services firm headquartered in Stockholm, Sweden, with some 600 professionals in 33 offices located on six continents. We focus on the people side of strategy working with leaders at all levels to help them make better decisions, convert those decisions to actions and deliver results.
+We work in small teams to develop customised business simulations and other learning solutions and then we facilitate learning journeys directly with our clients in a setting that incorporates humour, fun and competition. BTSers are team players, leaders, and entrepreneurs.
+The Role
+You'll maintain and develop our full stack app, working across the entire software development life cycle. This will include you working with the product leadership team to define requirements and establish user stories for QA. You will have the chance to own decisions regarding the design of your code and you'll be involved in the peer reviewing of code.
+Hours are generally between 9.00am to 5.30pm (UK) Monday to Friday, but some flexibility is required due to global working arrangements. 
+Who we are looking for:
+You'll be a team player, used to working with different colleagues on projects and be able to work effectively with everybody. At BTS you'll be working with people across the globe, as a large part of our digital team are based in Mumbai. But beyond that you'll also be able to work independently and make decisions and design choices.
+In terms of technical skills and experience, we're specifically looking for:
+
+Experience developing web applications using Ruby/Ruby on Rails
+
+
+Experience developing web applications with MEAN Stack (Mongo, Express, Angular and Node)
+
+
+Experience with designing, implementing and integrating with REST APIs
+Experience with database technologies (PostgreSQL and MongoDB)
+Experience writing unit and integration tests for software applications
+Experience with CI tools
+Experience with front-end technologies (HTML5, CSS, SASS, JavaScript, jQuery)
+
+And it would nice if you have experience with:
+
+Cloud based platform providers such as AWS
+Containerization using Docker
+Agile development tools such as JIRA
+
+Working Environment
+Hours are generally between 9.00am to 5.30pm (UK) Monday to Friday, but some flexibility is required due to global working arrangements. 
+This role is based in Portsmouth but we may ask you to travel to either location for team days or events several times a year. Our teams have returned to the office in a hybrid setup, with the expectation to spend of 40-60% of your working time in our office location. 
+What we offer
+In return we offer a competitive salary, an initial 25 days holiday, pension scheme, private medical insurance and life insurance.
+
+
+We also offer a clear career path, induction training and one to one coaching programs within your first 6 months with us.
+

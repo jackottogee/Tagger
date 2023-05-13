@@ -1,0 +1,43 @@
+
+
+Astex Pharmaceuticals is a world leader in innovative drug discovery and development. The company has successfully applied its proprietary fragment-based drug discovery platform to generate multiple new drug candidates that are progressing in clinical development. Successful collaborations have led to two launched oncology drugs (Kisqali® partnered with Novartis and Balversa® partnered with Janssen). Astex continues to grow and focuses on Oncology and Neurological Disorders.
+Historically Astex’s fragment screening platform has relied upon X-ray crystallography to support structure-based drug discovery (SBDD). However, the increased ability of cryo-EM to deliver atomic resolution structures has led to Astex establishing a state-of-the-art, in-house cryo-EM facility – comprising a Krios, two Glacios microscopes, sample preparation laboratories, extensive GPU/CPU/storage infrastructure and cloud processing capabilities. Astex is also a member of the Cambridge cryo-EM consortium (providing access to two additional Krios microscopes) and has multiple collaborations with cryo-EM centres of excellence, including the MRC-LMB, the University of Cambridge, the University of Oxford and Monash University (Australia).
+The Opportunities 
+We currently have two exciting new roles in our cryo-EM software team:
+1. Novel algorithms & methods development 
+We are seeking a talented and highly innovative developer of cryo-EM single particle analysis algorithms who would like to embark on the challenge of developing novel, ligand-focused data processing approaches to transform drug discovery using cryo-EM. You would be responsible for actively advancing the field of single particle analysis and implementing new image processing algorithms into webcryo, our proprietary, high-throughput platform for cryo-EM data management, processing and visualisation. Depending on your experience and interests, there would also be scope to work with Astex’s Informatics group on the development and integration of machine learning, specifically deep learning, approaches into the webcryo platform. 
+Candidate profile
+
+PhD in mathematics, computer science or another relevant numerical/ computational discipline; alternatively, equivalent experience in relevant research
+Detailed knowledge of single particle analysis (SPA) image processing theory with proven experience in algorithm development for SPA
+Excellent knowledge of Python and familiarity with Git
+Excellent problem-solving skills
+Excellent team working and communication skills
+Ideally, familiarity with machine learning and neural network design (e.g. in Tensorflow/PyTorch/JAX)
+Ideally, familiarity with relational databases 
+
+2. Platform & pipeline development
+We are looking for a talented software developer to join our cryo-EM software team. The software team works collaboratively across disciplines and project teams to develop and maintain our proprietary, high-throughput cryo-EM data processing and visualisation platform, called webcryo. The webcryo platform underpins all of Astex’s cryo-EM structure- and fragment- based drug discovery projects and is critical for the operation of our extensive transmission electron microscope facility. webcryo provides automated data processing pipelines, web-based analysis tools and integration with the Astex database, which tracks all experimental workflows, such as sample purification, preparation and processing. You should either have proven expertise in software development or be a scientific software developer with a strong interest in cryo-EM.
+Principal Responsibilities
+Depending on the candidate’s profile these can include:
+
+Implementation of new methodologies, software packages and functionalities into the webcryo processing back-end
+Design of new cryo-EM processing strategies 
+Development of the webcryo front-end using modern web development frameworks
+Maintenance of webcryo and support of users and non-standard processing requests
+Collaboration with our microscope facility manager to optimise image acquisition workflows based on cryo-EM data analysis
+Integration of algorithms which communicate with microscope image acquisition software and guide data collection
+
+Candidate profile
+
+Expert knowledge in Python 
+Experience or strong interest in single particle cryo-EM data analysis
+Familiarity with front-end development, specifically React
+Familiarity with relational databases 
+Excellent problem-solving skills
+Excellent team working and communication skills
+
+Why Astex
+We offer excellent training and development opportunities as well as a highly competitive salary and benefits package including hybrid and remote working options to promote a flexible and inclusive work environment.
+At Astex we embrace diversity and equality of opportunity. We are committed to building an inclusive and diverse Company representing all backgrounds, harnessing industry-leading scientific innovation, and behaviours.
+

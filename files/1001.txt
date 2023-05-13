@@ -1,0 +1,83 @@
+SQL Developer at LegalRM Limited
+Salary/Rate: £30-35k/annum - full time (or pro rata thereof)
+(Adjusted to match the experience of the successful candidate)
+Employment Type: Full time Monday-Friday (Flexible – 9am to 5:30pm, 10am to 6:30pm, 11am to 7:30pm)
+Location: Orpington, Southeast London (remote applicants considered)
+(Our office has a smart casual dress code – suits are not a requirement. Formal attire is required for client meetings – you will be advised by your manager on appropriate wear)
+Our dynamic software development company is seeking to expand with new roles offered from our UK office, based in Orpington, Southeast London. LegalRM has a 15+ year history, with a stable and profitable background which is set to continue with some of the largest law firms around the world purchasing our software.
+We are seeking keen and driven team members to continue expanding the business and our focus on the needs of our clients. Our team is close and supportive, ready to enable you to meet and exceed expectations in your work, while maintaining a fun and positive culture.
+This is a fantastic opportunity for those looking to gain experience in a small but growing organisation, where the value of your input will be immediately visible.
+Education/Experience:
+Any one of the following:
+· Bachelor’s degree in relevant discipline
+· IT Diploma
+· A Level (Or equivalent)
+· 1 – 2 Years of relevant experience
+Summary
+We are looking for candidates who cover a range of the skills and responsibilities listed. We are looking forward to seeing you grow professionally, so please do not panic if you do not feel strong in all the areas below.
+Successful candidates will be a positive fit for our existing team. You will meet us as part of the interview process. Remember to be open with your personality and interests. This will help you in being successful through the job seeking process.
+The Role
+You will work directly in our VP of Technology’s team to support and continue the development of our databases. This will require an intermediate to advanced knowledge of Structured Query Language (SQL) and Microsoft SQL Server databases, as well as excellent communication skills and person to person interaction. Training and assistance will be available per requirement. The role will commence in a junior position, with the opportunity for mentoring by our SQL Developer to help you engage with our software and the role. The role can expand to allow the successful candidate to expand into other areas to help support both personal and professional development.
+Required Skills
+
+· Ability to work with SQL, covering stored procedures, functions, views, tables, indexes etc., preferably using Microsoft SQL Server and SQL Server Management Studio.
+· Awareness of developing in ASP.NET ASP.NET, C# and JavaScript, with reference to how these can interface with databases.
+· Ability to use Microsoft Visual Studio.
+· Ability to quality check own and others work, identifying issues and applying performance enhancements as needed.
+· Ability to use SQL and other methods for effective issue triage and resolution.
+· Awareness of database Change Management and Control via GitHub or another tool.
+· Ability to effectively log/track work completed, writing up solutions for common tasks/issue resolutions.
+· Ability to provide Remote support for on premise and cloud hosted systems.
+· A high standard of written and verbal communication.
+· An excellent telephone manner with good personal skills.
+· Able to prioritise workloads and deal with changing priorities.
+· Self-motivated with a “can-do” approach
+
+Desired Skills
+
+· Ability to effectively copy/migrate data between two databases using appropriate logic to match data to correct columns, including documenting the mapping between systems.
+· Ability to effectively load data into a SQL database from other sources, such as Excel, without data loss or alteration.
+· Experience working in a dynamic IT team.
+· An interest in web interface design and product usability.
+· Working knowledge of Microsoft Azure and SaaS model.
+· Ability to coherently discuss and resolve complex issues using all available technology and support.
+· Background knowledge of IT projects and processes.
+
+Core Duties and Responsibilities
+
+· Development of the LegalRM Product suite under direction of the VP of Technology and following the product roadmaps.
+· Support existing clients in their day today usage of our new and legacy products through assigned support tickets.
+· Support new client implementations through completing assigned tasks and reporting progress.
+· Help produce collateral technical content where required.
+· Awareness of and ability to act on requirements.
+· A task orientated person with a desire to ensure projects are delivered on time.
+· Positive attitude, showing initiative, drive, enthusiasm, and passion for pushing the business forward.
+· Undertake technical and software support duties not covered above.
+
+Further duties and responsibilities depending on the candidate.
+Job Type: Full-time
+Salary: £30,000.00-£35,000.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company pension
+Flexitime
+Transport links
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Loyalty bonus
+
+Ability to commute/relocate:
+
+Orpington: reliably commute or plan to relocate before starting work (required)
+
+Work Location: In person
+Expected start date: 01/06/2023Flexitime

@@ -1,0 +1,113 @@
+
+
+
+
+
+About The Role
+
+ 
+
+
+
+
+
+
+
+       We have an exciting opportunity for a senior software engineer to play a key role in transforming our technology and delivering features to our members.
+       
+ You'll have extensive knowledge and experience in relevant software development practices, with a high level of understanding on a variety of engineering solutions and practices. You will bring fresh and challenging new ideas to our team, helping to shape the future of our digital platforms.
+       
+ You'll have an engineering related qualification and/or strong software development experience in a commercial environment using Java frameworks.
+      
+
+
+       What You’ll Be Doing
+      
+
+
+
+ Designing and developing quality software solutions
+ Challenging and improving our processes, tools and approach
+ Sharing your expertise with others
+ Supporting our solutions, occasionally out of hours
+
+
+
+
+
+
+
+
+
+
+About You
+
+ 
+
+
+
+
+
+
+
+       Essential Skills
+      
+
+
+
+ Containerisation
+ Microservices
+ API development
+ Coaching and mentoring others
+ Driving improvements and ensuring code quality
+ Clean Code practices
+ Test driven development and/or behaviour driven development
+ Agile ways of working
+ Continuous integration and deployment tools
+ Unit testing
+
+
+
+ Desirable Skills
+      
+
+
+
+ .Net (C#) experience
+ Oracle PL/SQL skills
+ Responsive Web Development
+ Understanding of Cloud Technologies, preferably AWS
+ Java 2 Platform Enterprise Edition (J2EE)
+ Angular
+
+
+
+
+
+
+
+
+
+
+About The Company
+
+ 
+
+
+
+
+
+
+      #BetheChange
+      
+ Coventry Building Society is the second largest building society in the UK. Despite being a national Society, we keep our local values and loyalty, and its caring family ethos.
+      
+ The best way to judge a company is based on what the people who work there say and our recent employee survey has resulted in us being named as one of the UK's Best Workplaces for Wellbeing by Great Place to Work.
+      
+ We offer fulfilling jobs and exciting career opportunities and a place where everyone can feel proud to work.
+     
+
+
+
+
+

@@ -1,0 +1,10 @@
+
+.NET Developer, .NET 7, C# - Global Record Label - Hertford
+ (Tech stack: .NET Developer, .NET 7, Azure, Angular 14, Multithreading, RESTful, Web API 2, JavaScript, Programmer, Full Stack Engineer, Architect, .NET Developer)
+ We are pleased to announce that our client, one of the largest and most recognised brands within the music industry, is seeking .NET Developer to work out of their plush offices in the heart of Hertford, Hertfordshire.
+ You will be working on the development of high-availability and highly-transactional .NET / C# applications which will be critical to the launch of their new online music shopping channel. We are seeking .NET Developer candidates with a skill set that encompasses: .NET, .NET Core / ASP.NET MVC, C# and SQL Server. Our client can provide training into: .NET 7, Azure, Angular 14, Solid, DRY, LINQ, multithreading, Microservices, RESTful, Web API 2, JavaScript, HTML5, Agile and SQL Server 2022.
+ My client offers flexible working hours, home working and amazing offices (onsite cinema, pool tables, bar, free canteen, gym). These positions are dope!!!
+ Location: Hertford, Hertfordshire, UK / Remote Working
+ Salary: £45,000 - £70,000 + Bonus + Pension + Benefits
+ Noir continues to be the leading Microsoft recruitment agency; we can help you make the right career decisions!
+ NOIRUKNETREC NOIRUKREC

@@ -1,0 +1,73 @@
+Since 2004, we have specialised in the purchase, supply, and installation of in-vehicle technology. As leaders in the field of vehicle safety and security, our team has a range of experience providing products and installations into cutting edge SME’s, as well as multi-million-pound global organisations that are looking for the best in adaptable vehicle technology and installation. Our philosophy is that an employee should enjoy coming to work and be able to have fun whilst providing an exceptional service.
+We are currently enjoying a period of phenomenal growth due to a recent contract award, supporting logistics, transport, and the emergency services. This is a great opportunity for development and career progression within a rapidly growing Company with a fun and friendly environment. Reporting to our Group Technical Director, the successful candidate will be responsible for working with the team to support the development, testing and maintenance of native Android applications.
+This is a fantastic opportunity to learn new skills and to contribute long term to a rapidly growing market leading technology focused company.
+Roles & Responsibilities:
+
+You will develop, test, and deploy native and cross-platform apps for use in mission-critical situations
+You will work closely with colleagues to ensure rigorous standards of code quality and delivery of key software features and objectives
+Applications will include OEM device configuration, OEM device diagnostic and an application to control an external radio device over RS232
+You will also work closely with other various departments and their teams in an environment where we design, develop, integrate, and install vehicles devices and mobile solutions for our customers.
+
+Job Requirements:
+A good understanding of:
+
+Native android application development
+Java
+Kotlin
+Android storage and file handling
+Working with custom Android API's
+Familiarity with Android Telephony
+Git
+
+Skills & Experience
+
+Demonstrable junior experience developing native Android applications (2-3 years’ experience)
+Degree in a related discipline (desirable)
+Experience in designing and building applications
+Experience with android studio tools
+Ability to navigate a codebase effectively and plan for continuous improvement and refactoring where appropriate
+Ability to write technical documentation
+Familiarity with React Native and Javascript would be highly desirable
+Any exposure to AOSP development or Android OS modding would be highly desirable (though not essential)
+Excellent understanding of software design and programming principles
+A team player with excellent communication skills
+Analytical thinking and problem-solving capability
+Highly organised and able to prioritise
+Able to support the agile nature of Handsfree and the wider business, with additional responsibilities as and when required
+Able to work collaboratively with all colleagues
+Promotes quality whilst engaging in individual objectives and being aware of wider company vision
+Contributes to improving existing systems and policies and driving customer excellence
+Live and deliver on our Values
+
+Salary & Benefits:
+
+Salary - £40,000 - £45,000 per annum depending on expereince
+Hours - 8.30 a.m. – 5.00 p.m. (Mon – Fri)
+Holidays - a very generous 30 days (incl. Bank Holidays) to start, increasing annually to 35 days
+Pension scheme
+Paid day off work on your birthday
+Annual Staff Awards
+Employee Assistance Programme
+Bike2Work
+Flu Vaccination
+Eye care scheme
+
+Handsfree Group is a forces friendly employer, and we actively welcome applications from the defence community.
+Absolutely no agencies please
+Job Type: Permanent
+Salary: £40,000.00-£45,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Referral programme
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work Location: In person

@@ -1,0 +1,98 @@
+General Information:
+Job Title: Laravel PHP DeveloperLocation: Redhill, Surrey/HybridSalary: £30,000-£40,000 (Depending on experience)
+We are seeking an experienced Laravel PHP Developer to join our team. The successful candidate will have a strong background in developing applications using the LAMP stack, with solid experience in PHP, Git/GitHub, JavaScript, CSS/SASS, and MySQL 5/8. The ability to liaise with clients, be organised and mentor new/junior members of the team is essential.
+We are a small company which offers a great opportunity for employees who value a tight-knit team, growth opportunities, and flexibility.
+Key Responsibilities:
+
+Develop and maintain Laravel-based web applications.
+Work with clients to understand their needs and requirements.
+Mentor new/junior members of the team.
+Collaborate with other developers and stakeholders to build robust and scalable applications.
+Write clean and efficient code that adheres to coding standards.
+Troubleshoot and debug issues that arise in the development process.
+Stay up-to-date with new technologies and best practices in web development.
+To assist with the maintenance of legacy code and systems.
+
+Key Skills:
+
+A positive attitude and the ability to work effectively as part of a team.
+Ability to prioritise and work on various projects to meet business needs.
+Ability to deliver projects in a timely manner and of an appropriate quality.
+Experience in providing excellent customer service and be able to build rapport with clients.
+
+Preferred Technical Knowledge:
+
+LAMP stack
+PHP 8
+Git/GitHub
+JavaScript
+CSS/SASS
+MySQL 5/8
+Tailwind
+Vue
+
+Beneficial Technical Skills:
+
+Livewire
+Linux Plesk Servers
+Bootstrap
+Docker
+Laravel Nova
+Alpine.js
+Microsoft SQL Server
+Microsoft Dynamics CRM
+AWS
+WebSockets.
+Knowledge of multi-tenancy systems
+REST API’s
+SOAP API's
+
+Qualifications and Experience:
+
+Bachelor's degree in Computer Science, Computer Engineering or related field.
+Proven experience in developing Laravel-based web applications.
+Experience with Agile development methodologies.
+Excellent problem-solving and analytical skills.
+Ability to work independently and as part of a team.
+
+Company Overview
+Jarrett & Lam provide outsourced IT support, maintenance, web development and online marketing service to businesses of various sizes and across a wide range of industries, (both nationally and internationally).
+As a small team we cover a range of disciplines from web and systems development, IT support, maintenance & networking through to graphic design. Each service is individually tailored for each customer.
+We are looking for someone to work both with the team on both internal systems and with clients to ensure their systems and requirements are well managed.
+
+Benefits:
+· NEST Pension contributions.
+· Death in service insurance.
+· Health benefits package.
+· Staff discount scheme.
+· 25 days holiday + bank holidays.
+· Option to work from home.
+
+We are still primarily home based for the majority of the time; but, are expected to attend meetings or work from our Redhill office as and when required.
+If you have any further questions, please do not hesitate to ask.
+Job Types: Full-time, Permanent
+Salary: £30,000.00-£40,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Employee discount
+Free parking
+On-site parking
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+
+Ability to commute/relocate:
+
+ Redhill: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Redhill
+Reference ID: JLC/LPHPD/042023

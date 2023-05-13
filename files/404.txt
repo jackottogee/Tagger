@@ -1,0 +1,51 @@
+Are you a game developer looking for a new challenge, or ready to step up and take on greater responsibilities? Draw & Code’s internal game studio is growing, and looking for creative and talented individuals to join our team to help us create the next generation of great games! 
+
+ You’ll be working on projects for VR and game consoles, as well as exploring new and emerging platforms. You’ll be prepared and excited to take ownership of your assigned tasks, championing the maintenance of technical documentation, prototyping, building and polishing game mechanics and systems, fixing the toughest bugs, and generally supporting our games from concept to release. 
+
+ You’ll be comfortable working on all kinds of gameplay systems, as well as player facing tools such as save systems, achievement tracking and anything else that turns a good game into a great one. You’ll be ready to work closely with your team members in the art and design teams, helping to build design and development tools to maximise workflow efficiency. 
+You’re not just a programmer - you’re a creative who wants to make a positive impact on the games we build. You’ll be working closely with studio leadership to help shape the future of our games, creating prototypes and exploring the possibilities of new technology. 
+
+ The ideal candidate will have at least one shipped commercial video game under their belt, and experience working in Virtual Reality or on PC/Console games. However, we’re open to all applications - if you have had a non-traditional route into the games industry, we’d still love to hear from you! 
+
+ Draw & Code are an equal opportunity employer, and pride ourselves on our diverse team. We offer a remote or hybrid working environment, with opportunities to work from home, our central Liverpool studio in the UK, and our brand new R&D hub in Malta! We look after our team, with regular socials, coffee deliveries and great benefits. 
+
+ Responsibilities 
+
+ As a game developer, you will use your creativity and critical thinking skills to assist in all aspects of game development- from concept to production; 
+
+
+Assist design team with small, rapid prototypes and proof of concepts using the Unity engine.
+Create and maintain technical design documentation throughout project lifetime.
+Define and develop gameplay systems, mechanics and infrastructure in the Unity engine, leveraging your knowledge to collaborate with the design team and ensure quality throughout.
+Assist with integrating and developing tools to improve the workflow of the design and art team.
+Work within a team and collaborate with your teammates to create truly special player experiences.
+Identify and suggest workflow improvements to team leads.
+Assist with mentoring and guiding the growth of junior team members (if applicable).
+ Required Knowledge and Skills 
+
+
+Strong skill in C# and gameplay programming.
+Strong knowledge of the Unity game engine.
+Experience with game optimisation for all type of platforms supported by Unity
+Experience with programming design patterns for modular and reusable code
+Strong knowledge of debugging tools and build pipelines
+Some experience with DevOps/CI tools
+Experience with Version Control software such as git or Plastic SCM.
+ Advantageous Knowledge and Skills 
+
+
+Project Management software, such as JIRA.
+Strong working knowledge of Google docs or other collaborative design documentation software like Notion.
+Flowchart software, such as LucidChart or Figma
+ Personal qualities and skills 
+
+
+Creative, imaginative and a unique voice.
+Capable of adapting to different software packages and workflows.
+Have a thorough understanding of the market and target audience for video games.
+Great problem solving skills
+Storytelling ability
+Excellent communication skills
+ This position is a six months fixed term contract, with potential options for a 3 month extension or permanent role at completion. 
+
+ If this is you, please apply with a CV and portfolio link. We can't wait to meet you!

@@ -1,0 +1,32 @@
+UP TO £85K 
+
+ FULLY REMOTE WORKING 
+
+ We are seeking a cloud-based software developer with a focus on backend development to work on a cutting-edge energy system project. 
+
+ This project is aimed at overcoming the challenges posed by renewable energy sources, especially photovoltaic power plants, through the use of intelligent transactive markets, data-driven analytics services, and pervasive sensors. 
+
+ Our team is comprised of experienced software engineers, energy professionals, economists, and product managers. As a member of our team, you will have a significant impact on the project's direction and technology choices, given its broad scope and early stage. You will be responsible for developing and operating a cloud platform for managing, monitoring, and optimizing renewable energy assets. 
+
+ This platform is built using state-of-the-art computer technology stacks such as Kubernetes,Java, Kotlin, Spring, Python, Postgres, Mongo, Kafka, RabbitMQ, and ELK hosted on AWS. 
+
+
+Key Responsibilities:
+
+
+Software development
+Participate on software and infrastructure design
+Actively look for improvements in platform performance
+Be able to identify, analyze and solve operational problems on the platform
+Maintenance and improvements of our Continuous Integration / Continuous Deployment environment
+
+Benefits:
+
+
+Annual performance bonus
+Pension scheme
+25 days of annual leave
+Private health care
+Employee Stock Ownership Plan
+One off home working equipment payment
+Remote working

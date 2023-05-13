@@ -1,0 +1,57 @@
+
+Who We Are
+Provenir is a global fintech company with offices in New Jersey, San Francisco, London, Leeds, and Singapore. We are passionate about technology and helping businesses become industry leaders. As a leading provider of decisioning and analytics products for financial services and other industries, we empower businesses to create innovative, digital-first financial decisioning solutions that drive business growth.
+
+
+What You’ll Do
+The Provenir AI team is responsible for all things data, analytics, and ML/AI at Provenir . The team consists of Cloud Architects, Software Engineers, Data Scientists and Program Management specialists. It is our team's mission to disrupt longstanding players in the value chain by building a distributed AI/ML platform to drive best-in-class decisions.
+
+
+We have an excellent opportunity for a Software Engineer to design, build and operationalise large-scale data, AI and ML solutions and applications for Provenir. This role requires extensive hands-on software development skills and deep technical expertise across the entire software delivery process.
+
+
+Responsibilities:
+
+Develop new API integrations with partners and data vendors
+Engineer AI and Machine Learning API products
+Manage all components of the software development life cycle
+Partner with cloud architects to design the requirements for ML/AI products
+Help in the contribution and construction of the product roadmap including design and testing of POC products
+Reviewing and improving existing systems and collaborating with teams to integrate new systems
+Create functional/technical specifications to document design approach
+Collaborate with other teams across the organisation
+
+
+
+Qualifications, Strengths and Skills
+Bachelor’s degree in Computer Science, Engineering, or a related field
+5+ years of experience in software development
+
+
+Proven experience of:
+
+Designing, developing and deploying http and RESTful APIs
+Leveraging serverless design principles using managed services including Lambda, S3 and API gateways (or equivalent) to create, publish, maintain, monitor, and secure APIs at scale
+Core programming knowledge in Java and/or Python to implement integration logic
+Producing high-quality code that are unit tested, code reviewed, and checked in regularly for continuous integration
+Writing tests using various testing frameworks
+Designing and building systems that scale
+Working in an agile, rapid development, and prototyping environment
+Clearly and concisely articulating ideas, thoughts, and opinions during requirements and design sessions with the development team
+Strong analytical, problem-solving and synthesising skills while understanding the scope and impact of your work
+Taking initiative, learning quickly and being able to adapt to shifting priorities is essential
+
+Required tech stack, experience and skills:
+
+Participate in software architecture, design, and development
+Kubernetes, Docker and CICD tools and processes preferred
+Public cloud providers such as AWS, Azure or GCP preferable
+Java and the Spring Boot framework preferable
+Python preferable
+AI and Machine Learning concepts and platforms desirable
+Agile engineering practices like sprint planning, retrospectives and demos
+
+
+
+Our employees are our top priority, we offer comprehensive health and wellness plans. You will enjoy paid time off and company holidays, flexible and remote-friendly opportunities, and maternity/paternity leave along with retirement benefits to plan for your future.
+At Provenir, we recognise that diversity and inclusion make our teams stronger. We are committed to equal employment opportunity and welcome everyone regardless of race, colour, ancestry, religion, national origin, age, sex, gender identity, sexual orientation, disability, marital status, domestic partner status, citizenship, or veteran status or medical condition. We encourage people from all backgrounds to apply.

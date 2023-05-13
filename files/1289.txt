@@ -1,0 +1,32 @@
+
+Salary: £55 per hour
+ 
+Reference: JO0000041515
+ 
+ Job Role - Software Engineer
+ Location - Derby
+ Contract Length - 6 Months
+ Pay Rate - £55 hour (Inside IR35)
+ The ideal candidate for this role is going to be a qualified software engineer who has vast knowledge and experience in safety-critical software engineering for clients that come from the nuclear, power, defence, rail or aerospace industries.
+ This role will require the candidate to provide consultancy based support to existing clients in safety and security critical industry projects to develop and verify engineering standards
+ Key Skills:
+
+ Knowledge of design, development and test of real-time, embedded software, particularly in a safety-critical context
+ Experience of applying standards used in safety and mission-critical industries such as IEC 61508, DEF-STAN 00-55 and 00-56, ARP4754/4761 and/or RTCA DO-178/DO-254
+ Experience of developing and / or assuring Software, Programmable Logic Devices (PLD) and Complex Electronic Hardware (CEH) Systems
+ We are especially interested in hearing from candidates that have demonstrable experience of providing independent advice, support and guidance in an Aerospace, Rail, Nuclear, Medical or other safety critical environment
+ Experience of developing pragmatic and novel solutions to complex problems, with an ability to think "outside of the box" where required
+ Degree-level qualification in Electronics Engineering, Software Engineering, Safety-critical systems engineering, Computer Science or STEM subject. Chartered Engineer status, or membership of a relevant professional body is expected.
+ To support current long term programmes we are very interested in people who have demonstrable software and Complex Electronic Hardware (CEH) development and test experience in C, C++, ADA, Verilog or VHDL programming languages.
+
+ Key Qualifications:
+
+ Track record of developing or verifying and validating safety-critical systems and/or software in a highly regulated industry such as Nuclear, Medical or Aerospace;
+ Strong problem-solving skills;
+ Ability to contribute to all elements of the project lifecycle;
+ Excellent communication skills in the English language, both written and verbal, and with colleagues and clients;
+ Ability to work effectively both individually and as part of a team;
+ A strong work ethic and level of professionalism;
+ Candidate needs to be organised and be able to think creatively.
+
+  This is a great role with a major consultancy in the industry so this role will go fast. If you are keen to apply please send me a CV at theo.king@carringtonwest.com or call me on 02393 876037 UTL-POWER

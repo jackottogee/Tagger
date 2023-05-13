@@ -1,0 +1,77 @@
+
+
+
+
+About you
+
+
+
+You’re passionate about making games.
+ You’ve got solid experience and the initiative to get stuck in on all fronts, from designing core engine features to tweaking gameplay mechanics.
+ You can help lead the team technically on a project, collaborating closely with Project Managers and Artists and helping maintain a high level of code quality and technical innovation.
+ This position is ideal for someone who has a thirst for knowledge and is keen to continue their learning and development.
+
+
+
+
+
+
+About the role
+
+
+
+We work with visionary clients to invent new ways of engaging people with games, interactive and playful products. Every day our teams work collaboratively with high profile entrepreneurs, big name brands and the world’s most respected institutions.
+ As a Games Developer at fish in a bottle you’ll get to work on games and highly interactive experiences for entertainment and education.
+ You’ll be able to demonstrate one or both of the below:
+
+Experience in HTML5 game development with JavaScript
+Experience in game development with Unity using C#
+
+And showcase:
+
+A portfolio of (preferably live) examples of your work
+A good understanding of object-oriented programming
+A good understanding of concepts such as optimisation and memory management
+Experience and understanding of challenges around developing for multiple platforms
+Experience using source control systems such as Git
+The ability to work well as part of a small team
+Excellent communication and team skills – note we are a fully remote team
+
+Not essential, but you will be at an advantage if you have:
+
+Experience around art asset workflows
+Good maths skills (e.g. physics, vectors, 3D)
+An interest and experience in game design
+Experience integrating third party systems and purchasing APIs
+
+Experience of the games industry, with an understanding of core console game development would be a real advantage and really super-charge your application.
+ We are open to considering a strong Junior Game Developer so don’t be put off applying if you’re a fresh graduate and think you have what it takes.
+
+
+
+
+
+
+How to apply
+
+
+
+To apply for this role please hit the APPLY FOR POSITION button below.
+ You will need to submit your CV and provide examples of your games. We’re looking for a strong portfolio and we would specifically like to see your experience of apps for iOS and Android, as well as desktop and mobile browser-based experiences.
+ This is a remote working position open to anyone eligible to work in the UK.
+ We carefully review each application, but unfortunately we’re not able to get back to everyone individually. If we’d like to progress with your application we’ll be in touch with you within two weeks.
+ If you’re from a recruitment agency we won’t be taking things any further. Direct candidates only please.
+
+
+
+
+
+
+Equality
+
+
+
+We are committed to promoting equality, valuing diversity and working inclusively, we uphold these principles in our behaviour and working practices. We are therefore committed to promoting equality at every opportunity and our recruitment and employment practices and procedures actively promote equality of opportunity.
+
+
+

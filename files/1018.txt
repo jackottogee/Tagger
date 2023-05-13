@@ -1,0 +1,82 @@
+
+
+Senior Java Developer – Dealer Auction
+
+
+Why us: 
+
+ Dealer Auction is a digital business transforming automotive remarketing.
+  
+ A joint venture between Auto Trader and Cox Automotive, we are the UK’s largest online used vehicle wholesale marketplace and our core purpose is to help automotive businesses buy and sell used vehicles online, faster and smarter than any other platform. Customers include Manufacturers, Fleet & Leasing companies, Franchise and Independent Retailers.
+  
+ Data is at the heart of our business and drives everything that we do. Guided by data, we are continually updating and evolving our digital platform, which attracts over 5500 buyers and 1200 sellers, and transacts over 120,000 vehicles every year. This number is growing year on year as we onboard more and more partners. 
+  
+ As the industry increasingly shifts away from traditional methods and towards online solutions, Dealer Auction is set to grow significantly. 
+  
+ We believe that ideas should flow upwards within an organisation so you will be empowered to affect meaningful change, and will help ensure that our tech stack remains at the cutting edge.
+  
+
+What’s our Tech Stack?
+
+ We continually challenge ourselves to ensure that we keep on top of Technology, ensuring we are using the right tools for the right job. 
+  
+ Whilst Java is the core skillset we look for, you will also gain exposure to the following:
+  
+
+
+Kotlin (Java)
+Typescript
+Angular
+GCP
+Kubernetes
+Kafka
+Redis
+Websockets
+Postgres
+Mongo
+Snowflake
+ElasticSearch
+
+
+ What we’re looking for:
+
+ We’re looking for Senior Java Developers who are passionate about what they build and how they build it to join our team.
+  
+ Working with product owners, data analysts, designers and other members of the development team to improve and add to our auction platform for customers and internal users, you’ll be:
+ 
+
+Used to working in a Product team that is driven by data and is obsessed with providing world class customer journeys.
+Comfortable in taking responsibility for defining solutions and delivering software to meet significant platform features.
+Managing the breakdown of work into stories and tasks and working with other development team members to deliver them.
+Building RESTful services using Java and Kotlin.
+Developing reactive frontend components in Angular.
+Practicing CI & CD using Google Cloud Platform and Kubernetes Engine, making multiple releases to production each day.
+Comfortable in assuming tasks from our tech leads and supporting the team with expected behaviours when needed.
+Helping develop talent, onboarding of new team members and mentoring junior developers.
+Collaborating within a cross functional team to help shape our technical solutions and direction.
+Actively seek to improve both technical and non-technical aspects of the team and comfortable in suggesting ways we might improve.
+Employing agile techniques in a fast-moving environment to deliver story-based feature.
+Keen to learn and work in a fast-paced environment, constantly looking to develop your knowledge of new and changing industry trends.
+Focussed on delivering great experiences for end users of your applications
+Able to maintain a critical outlook and maintain a balance between effective delivery and technical elegance.
+Experienced developing server-side web applications in Java or Kotlin with TDD
+Committed to working in an agile team.
+Experience of front-end application development in Angular or React is desirable, but not essential.
+
+
+ What we offer:
+
+
+
+A collaborative and non-hierarchical work environment with a simple set of values at the core of our Culture. 
+Access to use and work with best in class data platforms and operational stacks.
+10% time that can be used for professional skills development.
+A growing company committed to investing in your development and growth.
+Exposure to new technologies and approaches to deliver our goals and to ensure our Tech Stack is up to date.
+We are committed to making Dealer Auction a diverse and an inclusive environment for everyone. We want everyone in our business to get the chance to be the best that you can be, showcase your full potential and be yourself at work.
+You will be working within a business that is Innovative, Brave, Passionate, Reliable and Community Minded.
+
+
+ STRICTLY NO AGENCIES PLEASE
+ We work with a carefully selected set of recruitment agencies and we're not looking to add to our PSL.
+ We do not accept unsolicited agency CV's sent to the recruitment team or directly to the hiring manager. We will not be responsible for any fees related to unsolicited CV's.  #INDTR

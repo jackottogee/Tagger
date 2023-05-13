@@ -1,0 +1,137 @@
+
+
+
+
+
+
+
+
+
+LEVEL
+ Mid-level
+
+
+
+
+
+
+ TEAM
+ Development
+
+
+
+
+
+
+ TYPE
+ Full-time
+
+
+
+
+
+
+ LOCATION
+ Remote
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT WE NEED
+ Qualifications
+
+
+
+Bachelor’s degree in Computer Science or relevant field,
+3+ years experience as a .NET Developer,
+Strong experience in C#, .NET Core and MVC,
+Experience in developing Restful Web Services,
+Knowledge of object-oriented programming and Design Patterns,
+Knowledge of software development methodologies,
+Experience in multilevel architectural application developments,
+Knowledge of microservice architecture,
+Good knowledge on MS SQL Server database and writing Stored Procedure,
+Knowledge of NoSQL Databases,
+Expertise in Agile Development.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT YOU WILL DO
+ Job Description
+
+
+
+Develop C# Restful backend services for Backend Developer,
+Build, design, and debug software systems,
+Object Oriented Software Design,
+Coding & Pair Programming & Unit Testing,
+Maintaining systems by correcting software defects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WHAT WE OFFER
+ Offering?
+
+
+
+100% Remote work
+Dynamic and friendly work environment
+Continuously learning and development opportunities
+Extra vacation time
+A competitive salary with great benefits
+Stock options available to qualified employees
+Private health insurance
+
+
+
+
+
+
+
+
+
+
+

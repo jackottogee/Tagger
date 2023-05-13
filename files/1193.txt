@@ -1,0 +1,61 @@
+Frontend Development Lead
+Idox Software
+NI/hybrid
+About the role
+As the Frontend Development Lead, you will undertake development of the new Idox Cloud framework, specifically on the frontend, where you will be required to make important decisions about the best way to use the technology stack. Not only will you be at the forefront of the development using cutting edge technology, but you will also be required to assist other members of the team with help and guidance to transfer knowledge.
+Key responsibilities
+· Develop and maintain clean, efficient, maintainable and high quality code using ReactJS and NextJS
+· Implement performant functionality to meet requirements
+· Think outside the box to develop bespoke features
+· Plan and make reasonable estimates for sprints and projects
+· Assist developers of the team to explain concepts and share knowledge
+· Oversee, manage and ensure coding standards and quality are met by yourself and team members
+· Participate in code reviews and be vigilant on pull requests to maintain standards
+· Participate in agile development methodologies, including sprint planning, daily standups and retrospectives.
+To be successful
+· Minimum of 5 years of professional experience in front end web development
+· Minimum of 3 years experience with ReactJS
+· Strong proficiency in modern JavaScript (ECMAScript 6+)
+· Strong understanding of NextJS
+· Strong understanding of NodeJS and the difference between client-side and server-side JavaScript in NextJS
+· Strong understanding of utility based CSS like TailwindCSS
+· Strong understanding of NX Monorepos
+· Familiar with modern front end development tools such as Webpack, Babel and NPM for bundling and transcompiling JavaScript modules
+· Experience with restful APIs and integrating with backend systems
+· Familiar with command line tools like GIT, NPM, NPX
+· Write clean, well-documented and efficient code
+· Develop maintainable, reusable components
+· Strong problem solving skills and attention to detail
+· Excellent communication and collaboration skills
+Additional desirable skills
+● Experience of PHP
+● Experience with web native mobile technology like Ionic Framework, CapacitorJS
+● Familiar with build and compilation process using Capacitor
+● Familiar with the iOS and Android app store submission process
+● Familiar with navigating and debugging in Xcode and Android Studio
+Job Types: Full-time, Permanent
+Benefits:
+
+Flexitime
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Application question(s):
+
+Current notice period?
+Salary expectations?
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+PHP: 3 years (preferred)
+front end web development: 5 years (required)
+ReactJS: 3 years (required)
+
+Work Location: In personFlexitime

@@ -1,0 +1,93 @@
+
+
+
+
+    We are looking for a BI Developer to join our expanding Database Development team.
+     The successful candidate will have experience and knowledge in Power BI development. They will be passionate about how BI can bring improvements and assist in decision-making across a business.
+     There are a range of Power BI projects to undertake covering all areas of the company.
+     In the role, you will:
+    
+ Provide support towards the design and architecture of the BI environment with team members based in the UK
+ Work with various stakeholders and team members in the UK to capture requirements, define and develop robust data models from various data sets
+ Shape new dashboards and encourage adoption of new functionality
+ Design, build and test Power Platform Solutions
+ Analyse and interpret trends in complex data and communicate the findings in a concise manner
+
+
+
+
+Candidate Specification
+
+    You will have the following essential requirements:
+    
+ Educated to a minimum of A level/equivalent in a relevant STEM subject matter (degree desirable)
+ Experience working in a business intelligence role creating dashboards and reports of varying complexity with visualization and analytical tools like Power BI or similar
+ Experience of Agile delivery
+ MS SQL experience creating queries
+ An understanding and experience of DAX
+ Experience of creating apps in PowerApps (desirable)
+ Experience of MS Office (2013, 2016, 365)
+
+ What can we offer:
+     At JNB you will be offered a competitive salary which is commensurate based on your experience. Our core benefits include:
+    
+ 26 days holiday plus bank holidays with the option to buy and carry over
+ Flexible pension contributions up to 5% employee 10% employer
+ Life assurance of 4 x salary
+ Income protection
+ Private medical insurance
+ Health cash plan
+ Car benefit (subject to role)
+ Annual professional institution subscription costs
+ Career and professional development opportunities
+ Employee Referral Scheme - receive £1500 for referring a successful candidate
+
+
+
+
+Job Profile
+
+    About JN Bentley
+     JN Bentley – part of the global engineering consultancy Mott MacDonald – is a leading civil engineering and construction company, delivering design-and-build projects with clients in the water sector and beyond, across the UK.
+    
+ We directly employ over 1,300 people across 9 office locations and hundreds of construction sites nationwide. We have a turnover in excess of £300 million, delivered by our water utilities design and build business Mott MacDonald Bentley (MMB), our environmental design and build business Jeremy Benn Associates-Bentley (JBA-B) and directly by JN Bentley.
+    
+ At JN Bentley we believe that when we care about what we do, we do it better. Because we care about our people - keeping them safe, making sure they are happy, enjoy coming to work and feel valued - we are committed to creating a fun workplace, where people have a voice, are safe, reach their potential and prosper, and where the rewards are shared.
+    
+ We believe that because we care about what we do, we do things better.
+     We know that our people are our most valuable asset, so we are dedicated to investing in them, through our comprehensive training and development schemes, exposure to the wider design and build business and endless opportunities.
+    
+ We are committed to creating a workplace where our people are safe, have a voice, can reach their full potential, and everyone shares in the rewards.
+    
+ We guarantee what we do makes things better for the communities in which we work. Working with us, you will have the opportunity to contribute to projects that will protect local communities from flooding, preserve the UK’s canal systems, and help secure water supplies for future generations.
+    
+ Equality, Equity, Diversity & Inclusion
+     At JN Bentley Ltd we welcome applications from all sectors of the community. We are dedicated to building a diverse workplace where everyone feels included, has the opportunity to thrive, and is treated with respect. So, if you don’t meet every single requirement for this role but still feel excited about it, we encourage you to apply anyway as you may be the right candidate for this or other roles that we have available. Find out more about our approach to Equality, Equity, Diversity & Inclusion here: https://www.mottmacbentley.co.uk/people.
+    
+ We are committed to ensuring that our recruitment practices are barrier-free and as inclusive as possible. This includes making adjustments during the job application process and throughout your future career with us. Please call 01756 691572 or email recruitment@jnbentley.co.uk to discuss any such adjustments that we can make. You can read more about our Equal Opportunities Policy here: https://www.mottmacbentley.co.uk/an-equal-opportunities-employer.
+    
+ Agile working
+     We are committed to providing a flexible and agile working environment that supports both our employees and the needs of the business.
+   
+
+
+
+Job category (multi-select)
+
+    IT & computing 
+   
+
+
+Work Pattern
+
+    Full-Time
+   
+
+
+Recruiter Contact
+
+    adamc.smith@jnbentley.co.uk
+   
+
+
+

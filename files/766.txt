@@ -1,0 +1,36 @@
+
+About the Role
+ Immediate start or Summer 2023
+ We are recruiting Graduate Software Engineers to develop our next generation of products and applications, delivering high quality TV and video over enterprise IP networks. The scope of possibilities is endless as the team are constantly developing new ideas and products. We challenge our engineering teams to develop and build applications that span our range of IPTV products, from head end through to set top box and server, building a coherent and comprehensive technology stack. We call it create, play, control. Your code will be used by professional AV system administrators and embedded in end user products used by big worldwide brands that you know, use and love.
+ About You
+ You are likely to be studying towards or have achieved a technical degree or equivalent in Computer Science, Electronics, or a related discipline.
+ If you have the skills listed below, then please apply before the end of the year:
+ Graduate/Intern Software Engineer – Embedded
+
+ C++/C
+ Linux distros, Yocto
+ Linux drivers and daemon development
+ ARM/ST chipsets
+
+ Graduate/Intern Software Engineer – Fullstack (AKA Unicorn)
+
+ Combines embedded and application skills to meet product requirements
+ Effective use of JavaScript and C++/C
+ Fullstack end to end capabilities
+
+ Graduate/Intern Software Engineer – Applications
+
+ JavaScript/Typescript
+ Frameworks including: Angular, React, Node.js, Bootstrap
+ HTML, CSS
+ PHP
+ MongoDB, postgresql
+ UX
+
+ What we offer
+ In addition to working with leading edge technologies and being part of our talented and collaborative team, you will also benefit from:
+
+ Learning and development – working in small teams of around 5 people you will be working on commercial projects, creating endless opportunities for you to learn and grow your software knowledge and experience.
+ Career development – our growing Company creates opportunities for each member of our team, so there is plenty of potential for development.
+
+

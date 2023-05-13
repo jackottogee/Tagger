@@ -1,0 +1,41 @@
+We are hiring for Java Front End/UI Developer
+Location: Remote & 2 days per week in London Office
+
+Should have strong experience in wider web development community, identifying good practices
+Strong working knowledge of Mustache templates, Java 7 and Node.js
+Strong knowledge of tools and techniques used within the wider team, both
+Developers and Non-Developers.
+Extensive experience in HTML5, JavaScript, jQuery, CSS and Sass.
+Cross-browser considerations, Responsive Web Design - web accessibility and WCAG.
+Have knowledge of UX and usability and proven experience maintaining a large and dynamic code base.
+Knowledge of unix-like operating systems such as Linux and/or Mac OS X.
+Use of version control systems such as subversion or git.
+Have the ability to quickly research and learn new programming tools and techniques, building high-traffic websites.
+Understand web architecture and working knowledge of Mustache templates, Java 7 and Node.js.
+Have experience with test driven development using toolsets such as Mocha and Jasmine
+
+Key Skills : Front End / UI Developer / User Interface Developer / Web Developer
+Job Types: Full-time, Temporary contract, Fixed term contract, Temp to permContract length: 6 months
+Salary: £600.00-£650.00 per day
+Benefits:
+
+Flexitime
+Work from home
+
+Flexible Language Requirement:
+
+English not required
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Experience:
+
+Java 7: 2 years (preferred)
+Mustache templates: 1 year (preferred)
+Node.js: 3 years (preferred)
+
+Work Location: In person
+Reference ID: Front End / UI Developer / User Interface Developer / Web DeveloperFlexitime

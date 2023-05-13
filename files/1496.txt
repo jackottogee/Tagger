@@ -1,0 +1,40 @@
+
+Landytech is on a mission to revolutionize the way that investment managers, asset owners and their advisors access asset information. Powered by Sesame, an industry-leading investment reporting platform, we are helping clients in over 15 countries make informed investment decisions and deliver insights faster.
+ The company is growing rapidly and it's an exciting time to join, having secured $12M in Series B funding in January 2023. In just four years, it has gone from two co-founders to a team of almost 100 staff, with offices in London and Paris. At Landytech, we see diversity as our strength with a team from over 15 countries and 14 languages spoken. 
+Team & Role 
+We focus on using open source technologies and we love to build reliable and simple solutions. 
+We are looking for a Senior React Native mobile developer, motivated, efficient, that loves both coding and good practices.
+ We are ready to start the development of the mobile version of our application. We are looking for the experts that will help us conceive the core of the application.
+ Here are some of the technologies used at Landytech: 
+
+Infrastructure & Service: Azure Cloud, Azure DevOps (CI and Management), Kubernetes, Docker, Cloud Storage, Messaging/Events/Queues, Git, SonarQube
+Backend: Kotlin, Java, Python, Spring Boot & Co, JPA, SQL/NoSQL, Elastic, Gradle
+Frontend: React (Redux/Recoil/SWR/ReactQuery), TypeScript, nx.dev, antdesign, Jest, Webpack, Highcharts, Syncfusion, Axios.
+
+What We Are Looking For
+
+You will be using Atomic Design and Agile methodology, as well as Jest Java script testing
+You will be collaborating cross-functionally with the Engineering, Product, Data & Implementations Teams for the seamless building and shipment of our products and product features 
+
+Your Skills & Expertise
+
+You have 3+ years of experience in React Native, ReactJS, State management library
+You have a degree in Computer Science, Mathematics, or any stem subject 
+You have experience with TypeScript / JavaScript (ES6, ES7, ES8, ES9, Babel)
+You have a good knowledge of Hermes, Fabric, HTML5/CSS3, react-native-cli / expo / WebPack
+Previous work experience with a B2B/B2C/SAAS web design and development are a plus
+Previous UI Components Library and data visualization are a plus
+You are fluent in English
+
+Our Benefits
+
+An opportunity to work in a fast growing fintech revolutionizing investment reporting
+Hybrid style of work/WFH allowed depending on role
+Competitive salary & stock options package
+Private medical insurance with Bupa for you and your family members
+Life insurance option
+Pension Plan with NEST
+Cycle to Work Scheme and gym allowance
+Office food & drinks, regular socials
+
+If this sounds like a match to you, we are looking forward to receiving your application!

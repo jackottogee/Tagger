@@ -1,0 +1,148 @@
+
+
+
+
+
+Press space or enter keys to toggle section visibility 
+
+
+
+
+
+       City 
+      
+
+       Wakefield 
+      
+
+
+
+       State/Province 
+      
+
+       Greater London, West Yorkshire 
+      
+
+
+
+       Country 
+      
+
+       United Kingdom 
+      
+
+
+
+       Department 
+      
+
+       Design & Development Engineering 
+      
+
+
+
+       Date 
+      
+
+       Monday, May 1, 2023 
+      
+
+
+
+       Working time 
+      
+
+       Full-time 
+      
+
+
+
+       Ref# 
+      
+
+       20022223 
+      
+
+
+
+       Job Level 
+      
+
+       Individual Contributor 
+      
+
+
+
+       Job Type 
+      
+
+       Experienced 
+      
+
+
+
+       Job Field 
+      
+
+       Design & Development Engineering 
+      
+
+
+
+       Seniority Level 
+      
+
+       Associate 
+      
+
+
+
+
+
+
+
+Description & Requirement 
+
+Press space or enter keys to toggle section visibility 
+
+
+
+
+
+About Xerox Holdings Corporation
+ For more than 100 years, Xerox has continually redefined the workplace experience. Harnessing our leadership position in office and production print technology, we’ve expanded into software and services to sustainably power today’s workforce. From the office to industrial environments, our differentiated business solutions and financial services are designed to make every day work better for clients — no matter where that work is being done. Today, Xerox scientists and engineers are continuing our legacy of innovation with disruptive technologies in digital transformation, augmented reality, robotic process automation, additive manufacturing, Industrial Internet of Things and cleantech. Learn more at www.xerox.com.
+ Overview:
+ We are looking for a Full Stack Software Developer / Developer Support - Mid-Level to support our growing development team. The role involves frontend and server-side web development of our market leading document management product using Agile methodologies. This is a remote opportunity.
+
+ Key Responsibilities:
+
+ Design and development of web applications at both client and server tiers
+ Work cohesively and share knowledge with others, to design and create highly desirable and usable products
+ Create understandable, readable, and unit-tested code that many developers can collaboratively work on
+ Keep up to date with latest technologies and propose viable alternate solutions
+
+
+ Essential:
+
+ At least 2 to 4 years’ experience in a similar role
+ Experience of the following:
+
+ NET Core
+ Vue.js or React.js or Angular.js
+ Entity Framework Core
+ Single Page Application development
+ Test driven development
+ Bootstrap 4
+ SASS / CSS
+ TSQL
+
+ Understanding Agile methodologies (Preferred)
+ Experience with UX principles, Scrum and/or Kanban, Cloud hosting platforms (Azure, AWS) and Windows Forms Development Experience (Highly preferred)
+
+ #LI-LL1 #LI-REMOTE
+
+
+
+
+
+

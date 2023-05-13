@@ -1,0 +1,78 @@
+Job Title: SQL DB Developer
+Salary: £55,000 - £70,000
+Location: Leamington Spa (hybrid working)
+Job Type: Permanent, Full Time
+Hours: 40 hours per week
+Antech Diagnostics are seeking a focused SQL Database Developer with medical or healthcare experience to join our growing IT department, based out of our brand new Leamington Spa HQ. This is a hybrid role so you will need to live within a commutable distance to our HQ.
+The main purpose of this role is to develop fast and performant database queries and perform database maintenance tasks and ensure an even load distribution. Duties will include following best database design and development practices, as well as staying up-to-date with all relevant data security procedures and complying with all applicable data protection legislation. You will be working very closely with our diagnostic laboratory so medical or healthcare experience is highly desired for this role.
+Key responsibilities and attributes include:
+
+Write fast and performant database queries using SQL Servers, such as MySQL, MSSQL, or PostgreSQL.
+Troubleshooting and problem-solving using JavaScript and other programming languages.
+Maintain and back up databases regularly.
+Perform SQL database tuning and indexing procedures as required to handle heavy traffic loads.
+Development, optimise, and implement stored procedures.
+Use database analytical tools to analyse performance and generate reports.
+The associate should be available to work outside regular business hours as needed, including weekends and holidays, to perform maintenance and upgrade tasks
+
+Experience and skill set required:
+
+Medical, Healthcare or Veterinary background
+Relevant Bachelor’s degree or equivalent. Software Development or Computer Science is preferred
+SQL programming, writing stored procedures, Data Modelling knowledge
+Advanced knowledge of database procedures and Microsoft SQL Server concepts
+Knowledge of one or more SQL variant, such as MySQL, MSSQL, and PostgreSQL
+The ability to create fast and efficient database queries, including joining and cross-referencing cells from several tables
+Familiarity with standard database management tools and software, such as Microsoft Access, Oracle Database, and phpMyAdmin
+Experience in Database Support as a DBA
+Experience interfacing and collaborating with users, developers and team members
+Excellent communication skills
+
+Benefits:
+
+5 weeks holiday + bank holidays + Birthday Leave
+Career progression opportunities
+Staff discount schemes
+Life Assurance
+Enhanced sickness pay
+Enhanced equal family leave
+E-car salary sacrifice scheme
+Wellness program including:
+Employee assistance program
+Eyecare voucher scheme
+Free annual Flu jab
+Cycle to work scheme
+Recruitment referral reward scheme
+
+About us
+For more than 30 years, Antech Diagnostics has been the hallmark of the veterinary industry. At the heart of Antech is our love for pets. Today Antech is driving the future of pet health as part of Mars Science & Diagnostics, a family-owned company focused on veterinary care. Antech is comprised of a diverse team of individuals who are committed to each other’s growth and development. Our culture is centred on our guiding philosophy, The Five Principles: Quality, Responsibility, Mutuality, Efficiency and Freedom. We understand that the world we want tomorrow starts with how we do business today, and that’s why we’re inspired to make A Better World for Pets.
+Part of an amazing global family
+We understand that the world we want tomorrow starts with how we do business today, and that’s why we’re inspired to make A Better World for Pets. Antech is comprised of a diverse team of individuals who are committed to each other’s growth and development.
+Being part of this amazing global group gives us the benefit of a huge network of experts and specialists, a future we can invest in and the security that allows us to concentrate on what we do best – caring for pets. Being part of the Mars family of businesses provides huge development opportunities across the group for our Associates.
+If you would like to apply for the role or have an informal chat to discuss it further, please get in touch with Sophie Taylor by clicking ‘Apply now’.
+Antech Diagnostics is an equal opportunity employer and all qualified applicants will receive consideration for employment, we are committed to fostering a culture that is inclusive and diverse for all of our associates.
+Job Types: Full-time, Permanent
+Salary: £55,000.00-£70,000.00 per year
+Benefits:
+
+Company pension
+Cycle to work scheme
+Enhanced maternity leave
+Enhanced paternity leave
+Free flu jabs
+Free parking
+On-site parking
+Referral programme
+Sick pay
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Yearly bonus
+
+Work Location: Hybrid remote in Warwick

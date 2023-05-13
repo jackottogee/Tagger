@@ -1,0 +1,60 @@
+
+About Us
+ We believe that responsible use of AI can solve many of the toughest challenges organisations are facing today. We’re driven by the impossible. We harness our extensive expertise in advanced AI, ML, and Data Science along with cutting-edge technology frameworks to provide solutions for a diverse range of industries, including Environmental Protection, Healthcare, Sustainability and Finance. Our solutions enable organisations to re-imagine their ways of working, to automate business workflows and gain time to insights that make real business value impact.
+
+ Deeper Insights is in a revolutionary sector that is growing in maturity. We are going through a period of rapid growth and we invite you to join us.
+
+ With a portfolio of case studies that include original AI research, scaled automation workflows, and custom unstructured data intelligence AI, there is plenty to keep you interested. We are advocates of knowledge sharing and innovation to solve big customer problems. We adopt a DevSecOps culture, empowering individuals and groups through agile, cross-functional teams, with access to data science specialty, ML engineering expertise and operations knowledge through each stage of project inception, design, development and delivery.
+
+ About the role
+ You will be part of a team of Data Scientists and Software Engineers, and help them translate customer requirements into production-level software.
+
+ We’ll need you to:
+
+Write high-quality code to help solve tough AI problems
+
+
+Act as an ambassador of good engineering practices
+Help identify reusable tools and features across customer projects
+Create infrastructure and tooling to improve interactions with the model
+Ensure the stability and maintainability of the codebase across the lifespan of the project
+
+
+
+ About you
+
+ We are looking for someone with the right mindset and attitude. You don’t have to be an exact match for the specific technologies we use, you just need a willingness to find, learn and use the right tool for the job.
+
+ We’re looking for:
+
+Previous experience in a Software Engineering role (allowances made for exceptional candidates)
+Good knowledge of a modern high-level language (Python, Go, Java, C++)
+Commitment to producing and maintaining high quality code with lots of -ilities (maintainability, testability, reusability etc.)
+Understanding that testing, deploying and maintaining features is as important as developing them
+The ability to ask questions when you don’t know something
+An appreciation and enjoyment of the uncertainty that accompanies rapid project-based development
+
+
+
+ Bonus points for cloud knowledge, Docker skills or Python experience.
+
+ Working with us
+ We are very proud of our team and the culture that we have built here at Deeper Insights. We take care and are considerate when introducing new members to the team, even at our current rate of growth!
+
+ In return, we offer our team:
+
+
+ Hybrid working
+Generous holiday
+Flexible autonomy with working location
+Competitive Salary
+Annual Personal Development Allowance
+Internet contribution
+Well-being contribution
+Private Health Insurance
+Pension contribution
+A great team and working environment
+
+
+
+ Deeper Insights is an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. Deeper Insights will not tolerate any discrimination against or harassment of staff or candidates based on these characteristics.

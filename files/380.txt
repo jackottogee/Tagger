@@ -1,0 +1,96 @@
+
+
+
+
+
+
+
+
+
+
+
+Job Requisition No
+
+            VN7915
+          
+
+
+
+ Work Location Name
+
+            UK - Remote
+          
+
+
+
+ Company
+
+
+
+ BVI® is refocusing the future of vision.  As one of the fastest-growing, diversified surgical ophthalmic businesses in the world, our purpose-built portfolio of trusted brands includes: Beaver® (Knives and Blades), Visitec® (Cannulas), Malosa® (Single-Use Instruments), Vitreq® (Vitreoretinal Surgical Products) and PhysIOL® (Premium IOLs), and spans more than 90 countries.  We’ve set our sights on touching the lives of millions of patients affected by conditions such as cataracts, refractive error, glaucoma, retinal disease, and dry eye. Unburdened by legacy or bureaucracy, we have developed our strategy around a simple concept – taking pride in delivering innovative solutions for our physicians and patients, based on their needs.  We trust and empower our associates to make decisions and solve problems because collaboration drives us. Valuing agility, simplicity, and transparency, we stay committed to listening to our customers, delivering for our patients, and keeping the future in focus.  Learn more at www.BVImedical.com
+
+
+
+
+
+ Key Responsibilities
+
+
+
+ RESPONSIBILITIES
+
+Gathers requirements for development from users in all functions within BVI.
+ Designs, develops and maintains reports, dashboards and schedules using modern and legacy tools and frameworks.
+ Provides support to end users on accessing and consuming BI and labelling solutions.
+
+
+
+
+
+
+
+
+ Purpose
+
+
+
+              The BI Developer will join a small team of mixed disciplined developers to assist in maintaining and developing numerous global solutions. The candidate will be responsible for requirements gathering, development and maintenance of several solutions such as Power BI, Salesforce, Bartender, Novacura, Boomi and IFS Applications.
+            
+
+
+
+
+
+
+ Qualification
+
+
+
+ REQUIRED KNOWLEDGE, SKILLS AND ABILITIES
+
+Demonstratable experience of TSQL query writing ability
+ Demonstratable experience of working with relational databases
+ Demonstratable experience of using Power BI skills or other BI tools for both analytical and paginated reporting 
+Demonstratable experience of business intelligence and data warehousing concepts.
+ Willing to learn new technologies and work outside of their sphere of expertise.
+
+
+MINIMUM REQUIRED EDUCATION AND EXPERIENCE
+
+5+ years working experience with relational databases.
+ 3+ years working with Power BI or other BI software.
+ An understanding of data structures in ERP and/or CRM platforms
+
+
+
+
+
+
+
+
+
+
+
+
+
+

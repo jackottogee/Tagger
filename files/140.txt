@@ -1,0 +1,37 @@
+
+
+We are looking for a Front-End TypeScript Developer to help bolster our vibrant and energetic development team, delivering a diverse set of application platforms for some exciting customers. There are numerous projects on-going and many in their infancy Technology used is a mixture of PHP, MySQL and Angular JS, utilising the Amazon Web Services platform. Of course, the role will also encompass support, maintenance and improvements in systems availability, performance, and functionality.
+
+ What we're looking for:
+
+ TypeScript minimum 3 years’ experience.
+ Previous experience as a Web Developer with strong TypeScript and Angular skills
+ Good understanding of software engineering including OOP, Data Structures, Design Patterns and Algorithms
+ Translation of designer mock-ups and wireframes into markup html language
+ Engineering mind-set with experience of scalability, memory and writing clean / maintainable code
+ Version control with GIT (github preferential) / GIT workflows
+ Latest industry standards and a passion for learning
+ Excellent communication and collaboration skills
+ Angular LTS development experience.
+
+
+ Desirable Experience:
+
+ NodeJS / NPM / Grunt / WebPack
+ Cypress
+ Docker
+ CSS and CSS framework (Less or SCSS)
+ Bootstrap 4 or similar front-end toolkit
+ html5
+
+ Key Skills:
+
+ Good organisational skills giving the ability to consistently deliver to project schedule and estimates.
+ Excellent communication skills across all levels of users and technical staff.
+ Ability to work independently keeping management adequately informed on progress.
+ Be an excellent team player.
+ Looking out for technology trends and ability to identify benefits.
+ Good Jira + Confluence skills.
+ Ability to express ideas and persuade.
+
+

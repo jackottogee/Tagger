@@ -1,0 +1,45 @@
+
+We're looking for an experienced Java developer who enjoys working with new and diverse web technologies, day-to-day development of client applications and future development of our products. Excellent Java skills are a must, although any experience with other languages would also be useful, as we develop on other platforms too.
+Core skills
+
+Over 3 years of experience in Java, Spring and at least one of MySQL, Postgres or Oracle
+Experience developing web applications using Spring technologies such as Spring Boot, Spring Data, Spring Integrations, Spring Security and Spring MVC
+SQL; JPA with Hibernate
+Familiar with core front end technologies, like HTML and Javascript
+Understanding of modern design and communication patterns
+API design
+Test Driven Development: unit testing, automated testing
+Familiar with CI/CD processes and git a plus
+
+Beneficial technical skills
+
+Experience in microservices architecture and patterns.
+Experience in at least one of the modern Javascript frameworks (ReactJS preferred).
+Experience in product development.
+
+Personal skills
+
+Team player
+Excellent written and oral communication skills for a fully remote environment.
+Fluent in English
+Enthusiastic self-starter, able to work with minimal or no supervision.
+Experience dealing directly with internal stakeholders and external clients.
+
+What we’re offering
+
+Competitive salary
+Private healthcare
+Company pension contribution and salary sacrifice options (UK residents)
+Child tax credits (UK residents)
+Training and personal development
+A friendly work environment where you are encouraged to share your experience, learn from others and further develop your career
+Once a year company meetups in Greece (yes, we do love the sunshine!)
+35 days of annual leave
+Your birthday off
+Company laptop / equipment
+Fully remote and flexible working arrangement
+Performance related bonus scheme
+
+How to apply
+If you're a team player who has a sunny disposition and is content to be very well paid for doing a job you love in a pleasant digital environment that supports innovation and creativity, then we'd love to hear from you.
+Send your CV and covering letter to info@civicuk.com.

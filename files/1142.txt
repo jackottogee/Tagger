@@ -1,0 +1,67 @@
+As an LK Software Engineer, you will be joining an eclectic, agile team that works well together in a professional but informal environment. The team is responsible for developing, testing, and debugging our CMM software solutions and rolling out newly developed software products at key customer sites.
+You will work on a range of products including our flagship metrology solution, a comprehensive Windows desktop application for programming measurements on and driving CMMs, performing complex evaluations, and providing graphical reports.
+Development is very varied and will encompass many aspects of software engineering; GUI development, 3D CAD manipulation/interaction, simulation, path planning, databases, generating and parsing a domain specific language, algorithmic and mathematical problem solving, hardware control and interaction, and much more.
+There will be opportunities for personal growth within an open team that are very willing to share and help each other, regular in-house training sessions, dedicated R&D time, and a willingness for people to lead and drive project developments.
+Your main duties will include:
+· Designing, developing, and testing our software products
+· Participating in the full development project lifecycle, from specification, to testing and delivery
+· Ensuring that projects are delivered on time and to specification
+· Supporting the rollout, testing, and debugging of these products at key customer sites, mainly in the UK but occasionally overseas
+Location:
+Our Software Engineers spend their time working both at home and in our offices based in Castle Donington. Whilst you will be able to work from home on a regular basis, you will need to attend and work from the office where workload requires.
+Working for LK Metrology:
+At LK, we look to employ people who will do their best to put the needs of the company first when they are at work, treating our company as though it is their own. With every employee sharing this mindset, we will succeed, and we can then share our success with our employees. With this in mind, whilst your skills, knowledge and experience are all important, we believe that your personality and attitude are just as important.
+In return for your hard work, we will always try our best to offer you a flexible, fun, and enjoyable working environment. We will also offer you:
+· 6% company pension contribution
+· 25 days holiday + bank holidays + opportunity to purchase additional 5 days each year + additional service days
+· Flexible start and finish times and hybrid working
+· Employee discounts across most major retailers including retail, leisure, and hospitality
+· Summer and Christmas social events
+· Free barista style coffee in the office
+About you:
+Our ideal applicant for the position of Software Engineer will be able to demonstrate the following as part of their application and interview process:
+· A degree in Computer Science (preferred), Mathematics or Physics
+· Knowledge/experience of object-oriented design
+· Practical knowledge of at least one modern object-oriented programming language, preferably C++
+· Knowledge/experience of 3D vector/coordinate geometry
+· Strong mathematics skills
+· Knowledge/experience of software engineering processes and tools such as Scrum, Agile, revision control, Visual Studio
+A knowledge of metrology would be advantageous but not essential. Graduate and/or experienced candidates all welcome to apply!
+If you meet the above criteria, we would really like to hear from you.
+About us:
+Founded in 1963, LK Metrology is globally renowned for our innovative metrology solutions and services, partnering with our customers worldwide across the automotive, aerospace, defence, motorsport, energy and medical industries.
+Our products, including coordinate measurement machines (CMM), portable measuring arms and metrology software are used worldwide to control and improve the quality of manufactured components. Our precision technology underpins the process of design, development, production and assembly through to quality assurance for our customers.
+We have offices globally, but our Head Office/Factory is based in Castle Donington, Derbyshire, where our highly knowledgeable teams are responsible for the design, development and production of all of our metrology products against strict industry standards. We manufacture all of our products here at Castle Donington, and we are proud to be a British manufacturer!
+Job Types: Full-time, Permanent
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Employee discount
+Flexitime
+Free parking
+Life insurance
+On-site parking
+Referral programme
+Sick pay
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Ability to commute/relocate:
+
+Castle Donington, DE74 2SA: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: In personFlexitime

@@ -1,0 +1,51 @@
+Jr. AWS Developer/DevOps Engineer
+Who We Are:
+Information Tech Consultants Ltd (ITC) is a London-based mobile app development consultancy, specializing in Android, iOS, and cross-platform solutions. With over 35,000 mobile development hours accumulated and clients across the UK and Europe, it’s safe to say we know apps well! Each of our practice areas leverages specialized expertise, methodologies, and software to ensure that we deliver the most beneficial solutions to our clients.
+What you will be doing:
+You will be joining our growing team of Cloud and DevOps experts. We want individuals who are comfortable asking “why”. The ideal candidate is a Cloud Developer, Cloud Infrastructure and DevOps Engineer who is comfortable developing on AWS cloud, building highly scalable and fault tolerant cloud infrastructure and DevOps pipeline and building them from the ground up. As a part of this Release Engineering team of a company, you will be responsible for software development, software builds and releases, which includes the design, development, support of builds, scripts, and installation procedure. The ideal candidate will be excited by the prospect of optimizing or even re-designing a company’s Cloud infrastructure and DevOps pipeline leveraging tools of core AWS services, git, Jenkins, CI/CD, Jira, and coding with Python or Java or C++. They must be self-directed and comfortable supporting the automation needs of multiple teams, systems, and products. They are a team player possessing strong analytical as well as technical skills and can communicate the logic behind technical decisions to non-tech stakeholders.
+What you need for this position:
+
+Degree in Computer Science, Information Systems, Electrical Engineering, Mathematics, or equivalent quantitative field
+
+· 12 months or more of programing experience
+· Continuous Integration and Delivery (CI/CD) concepts.
+· Strong interpersonal skills and ability to project manage and work with cross-functional teams.
+· Working SQL knowledge with relational databases, query authoring (SQL) as well as working familiarity with a variety of databases.
+
+You must be willing to travel within the UK up to 100% of the time and be entitled to work in the UK/EU. Travel expenses will be covered. 
+
+What is a plus for this role but not a must:
+· Demonstrated ability to build processes that support highly scalable and fault tolerant infrastructure in AWS Cloud.
+· Know how to code in one of these coding languages: Java, Python, GO, C#. Scripting knowledge in one of these scripting languages: Json, Python, YAML.
+· 2+ years of experience in a similar AWS or DevOps Engineer role would be a plus but is not mandatory to be qualifying for this opportunity.
+Bonus points:
+· Relational SQL and NoSQL databases.
+· Concepts of Containerization with Docker and Kubernetes.
+· Scripting languages such as Python, bash, PowerShell etc.
+· Any Cloud Certifications
+Job Type: Full-time
+Pay: £28,000.00-£30,000.00 per year
+Benefits:
+
+Life insurance
+Referral programme
+
+Schedule:
+
+8 hour shift
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+London: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+DevOps: 1 year (preferred)

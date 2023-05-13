@@ -1,0 +1,24 @@
+
+Associate Software Engineer
+About us
+ CHARM Therapeutics is a biotech focused on delivering transformational medicines that will address difficult-to-drug targets in key oncogenic pathways. CHARM has developed the first highly accurate, high throughput protein-ligand co-folding algorithm (DragonFold), driven by end-to-end 3D deep learning. Our platform enables the rapid generation of highly differentiated clinical candidates, our ambition is to revolutionise drug discovery.
+ Charm Therapeutics exists to fulfil the promise of AI to advance the discovery of medicines. Our team involves extraordinary scientists, engineers and entrepreneurs. We have raised one of the largest seed rounds in European start-up history.
+ About the role
+ You will be responsible for building systems to connect our advanced machine learning approach to candidate generation for cancer therapies, with our cutting-edge chemical and biological research processes. This will enable further validation and development of these therapies.
+ You will have the chance to work alongside highly experienced infrastructure engineers, machine learning engineers and scientific researchers in a fast-paced but genuinely supportive environment, and will quickly gain in-depth experience in all three fields.
+ You'll work full-stack across a variety of projects that touch on infrastructure engineering, data engineering, DevOps, library development and UI design.
+ Who are you
+
+A recent graduate (within the last two years) from a top university, with a degree in computer science or prior professional experience in software engineering.
+A highly-motivated self-starter who prefers proactive research and planning, rather than working from detailed instructions on what to implement.
+Someone who enjoys learning about different fields through discussion and practice, and working with people from a range of professional backgrounds.
+Someone who cares about writing well-structured, well-tested, maintainable code.
+Based within commuting distance of London (and ideally Cambridge, for more infrequent visits), or able to relocate.
+
+Useful skills
+
+Strong familiarity with Python, including common libraries and test/validation frameworks such as pytest and mypy
+Experience with Docker
+Experience using the Linux command line
+Experience with cloud infrastructure, particularly AWS and Kubernetes, and infrastructure-as-code frameworks, such as Terraform and Pulumi
+

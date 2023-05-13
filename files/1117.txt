@@ -1,0 +1,41 @@
+52North is a med-tech company whose vision is to improve health outcomes and health equity by reinventing care pathways for all people across the world. NeutroCheck® is an exciting and innovative solution, consisting of a medical device and digital platform, which has the potential to significantly improve safety and quality of life for cancer patients.
+With support from the NHS, Innovate UK, Macmillan Cancer Support and our investors, we have built a highly skilled, driven, and award-winning team with a meaningful ethos and ambition to make real change in the world.
+Our mission is to help people live better lives, and we do this through innovating, collaborating and using cutting-edge technology that centre around all of the people who will engage with it: whether they are people living with disease, care givers, doctors, paramedics or nurses.
+The next stage of our business plan requires the establishment of a new internal development team to resource the building of a product support application and the creation of an AI driven platform to improve the healthcare journey for patients as well as healthcare professionals.
+We require an experienced Backend/full stack developer who, supported by the Technical Director and Digital Management Team, is ready to plan and execute the construction of a client support platform and product supporting web application.
+- AWS/DNS/Domains- Laravel/PHP- SQL/Query Builder- Integration of third party tools via API or installed plug-ins- Delivery of Front end (HTML/JS/CSS)- Some knowledge app architecture such as Flutter would be advantageous.
+We offer the chance for you to develop as a person within a positive team. Tough but rewarding work and an ever changing palette of tasks in a friendly and relaxed environment.
+We deploy medical devices and digital products to the healthcare market so any knowledge of the policies, processes and requirements of the market would be helpful but training and support will be available.
+Experience
+3+ years’ experience with PHP (Laravel) .Transferable development skills would be considered.Excellent problem solver and an eye for quality.Maths and logic skills are highly valued.
+As a Person you...are intelligent and able to communicate effectively.take pride in your work and a desire to see your team succeed.have a passion to learn and evolve your skills.want to enjoy work but balance it with a great life outside of the office.
+No Recruitment Agencies.
+Job Types: Full-time, Permanent
+Salary: £40,000.00-£55,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Employee stock ownership plan
+Flexitime
+Gym membership
+Private dental insurance
+Private medical insurance
+Sick pay
+Wellness programme
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Cambridge: reliably commute or plan to relocate before starting work (required)
+
+Experience:
+
+Laravel: 3 years (preferred)
+
+Work Location: Hybrid remote in Cambridge
+Reference ID: Dev2APR23Flexitime

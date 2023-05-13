@@ -1,0 +1,55 @@
+
+
+
+Description
+
+
+ Location: UK, Germany and Portugal
+
+ As the Cloud Platform Developer, you will be responsible for creating prototypes, designing and building modules and solutions for Cloud Platforms in an iterative agile cycle, develop, maintain, and optimize the business outcome. You will further be accountable for estimating user and technical stories, designing and developing code, writing and executing unit and integration tests, and supporting testing of deliverables against user and technical story acceptance tests
+
+ You will conduct peer reviews, collaborating with architects and other developers to produce “just enough” design, and ensuring that enough technical documentation and training is provided for reference and operational support. Finally, you will be responsible for providing software-related operations support, including managing level two and level three incident and problem management
+
+
+ Key accountabilities:
+    
+
+Design modules according to user stories, UX/UI designs, and technical stories
+Develop solutions according to module designs and deploy using delivery pipeline
+Develop and execute unit and integration tests, support testing against user and technical story acceptance tests
+Suggest improvements to user stories and UX/UI
+Manage technical debt as part of daily activities and conduct peer reviews and maintain coding standards
+
+
+
+
+
+
+
+
+     Required knowledge and experience:
+    
+
+Infrastructure & Network automation and configuration of the management tools, e.g. Ansible
+Expertise in multiple programming and markup languages, such as Python, Java, HTML, JavaScript, JSON, XML, Ruby and YAML
+Network knowledge and network management experience in large scale Datacenter environment (e.g. Cisco ACI networking and various SDN technologies)
+Experience of micro-service architecture and Containers technology (Docker, etc.) and cross virtualization and infrastructure technologies, e.g. VMWare
+Database technologies - RDBMS, e.g., PostGreSQL
+
+
+
+
+ Technical/professional qualifications we are looking for:
+    
+
+Master’s or Bachelor’s Degree or technical institute certificate in Computer Science, Information Systems or other related field
+10+ years of work experience in designing, developing, deploying and / or administering infrastructure solutions at the expert certification level
+Experience of current and emerging virtualization, infrastructure, cloud and containers technologies and architectures,
+Experience working closely with agile methodologies, such as Scrum, XP, and with teams leveraging DevOps and Continuous Delivery / Integration
+Strong understanding of IT management best practice frameworks, such as ITIL and COBIT
+
+
+
+ #groupresourcing #LI-hybrid
+
+

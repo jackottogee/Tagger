@@ -1,0 +1,41 @@
+Job description
+The Software Development function in Defra's Digital, Data and Technology Services is recruiting a Senior Developer to support the Rural Payment Agency's Data Warehouse (DWH) Service.
+Within the Data Warehouse team we use Oracle, Informatica Powercentre, Business Objects and Oracle APEX and you'll be working to help support and develop these technologies. We'll encourage you to develop new and innovative ways to deliver the service, and we will provide time and budget for your on-going training. Our team focuses on collaboration and communication, so you'll be expected to take a proactive role in shaping the solutions we build.
+Person specification
+Responsibilities
+
+Strong understanding of the best patterns and approaches for handling sensitive, transactional data
+Being technical support for large, complex data integrations, ensuring that user needs are met and that solutions are technically fit for purpose
+Designing and building bulk data integration processes
+Supporting a team of developers in administering a business critical service for the Rural Payments Agency
+Working with Stakeholders and Delivery Partners to build and maintain working relationships
+Providing technical support to a range of customers and stakeholders using a variety of communication methods
+
+Skills and Experience
+
+Experience of working in ETL products (PowerCenter) and/or SQL (Oracle) or equivalent
+Ability to work well with members of a diverse, multi-disciplinary team
+Ability to challenge the status quo through investigation and drive efficiency improvements
+Demonstrable ability to work with imagination, tenacity and intelligence to find the best solution
+Proven experience working independently but within a team environment
+
+Job Types: Full-time, Permanent
+Salary: £37,295.00-£44,724.00 per year
+Benefits:
+
+Additional leave
+Casual dress
+Company pension
+Cycle to work scheme
+Flexitime
+Sick pay
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+No weekends
+
+Work Location: Hybrid remote in Reading, RG1 1AF
+Reference ID: 281083Flexitime

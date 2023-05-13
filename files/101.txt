@@ -1,0 +1,62 @@
+Job Title: DeveloperAbout us;
+Following a period of growth and expansion, we are in the exciting early stages of developing our consultancy and data services business areas and are looking for candidates who are not only capable of working within our customer embedded teams, but who also have a desire to challenge themselves, learning new technologies and skills and progress within the company as opportunities arise.
+We actively encourage and support our employees with personal development and are focused on ensuring our employees are at the core of our future business model.
+About the role;
+This role is predominantly home based with occasional travel to our Gloucester office as required. Additionally, there may be a requirement to travel to customer sites on an infrequent basis.
+As a developer you will be working within a small team of specialists providing expertise to a large client developing predominantly opensource technologies to address bespoke requirements.
+A part of this role will include publishing improvements back to opensource projects so a familiarity with working on opensource projects would be beneficial.
+Due to the nature of small team working, you will be expected to assist in areas outside of code development and will be actively engaged as a team member providing technical expertise in design workshops, highlighting improvements and identifying opportunities for enhancements.
+You will be required to have deep technical knowledge of at least one core programming language with the ability to comfortably work with others. Knowledge of a wide range of DevOps related technologies and a good working understanding of testing and architecture practices as a whole will also be beneficial.
+Key technologies;
+
+ElasticSearch
+Kibana
+Apache Nifi
+Java
+Golang
+Docker
+Python
+Ansible
+
+Key Skills:
+A proven history working with the technologies defined.
+The ability to successfully communicate ideas and technical details to a wide audience with varying levels of system knowledge.
+Able to work within an agile team to defined deadlines
+Security clearance or a willingness to undergo clearance preferred.
+Education:
+Masters or PhD in related field preferred.
+What you will get from us: -
+
+Base Salary of £45-75k depending on experience
+Employer pension contribution of 6%
+£4k per year training budget
+25 days holiday per year (not including bank holidays)
+Travel expenses paid
+Yearly bonus based on line manager reviews
+Office equipment as required
+Access to employee car purchase schemes
+
+Job Type: Full-time
+Salary: £45,000.00-£75,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Flexitime
+Sick pay
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Education:
+
+Master's (preferred)
+
+Work Location: RemoteFlexitime

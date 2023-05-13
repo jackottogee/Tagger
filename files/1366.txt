@@ -1,0 +1,25 @@
+
+Salary: £40k - 45k per year + Remote Working
+ 
+Reference: COR3831/1
+ 
+ Software Engineer, C++ Developer
+
+ A Software Engineer, C++ Developer is urgently required to join a software house who specialise in the development of audio software. You will develop an impressive portfolio of audio applications that are used by leading music producers, TV broadcasters and even in Hollywood!
+ The Role
+
+ The Software Engineer / C++ Developer will join a small team of highly-skilled engineers, it is a varied position and will involve the development of new audio processing plugins, developing high-performance C++ code and maintaining the current portfolio of products.
+ The team and company are extremely ambitious and strive for excellence, they’re growing and are looking for passionate and driven individuals to support their expansion. Offering a unique office environment, set in an idyllic rural location between Oxford and Chipping Norton, this converted barn is the perfect space to socialise with a fantastic, yet diverse team. The company have also fully embraced flexible working and can offer 2-3 remote, providing the perfect work/life balance.
+ What’s Required of the C++ Developer?
+
+ For this Software Engineer / C++ Developer we are looking for solid commercial experience developing in C++, you are not expected to know everything but you must be willing to learn. If your experience has been coupled with the below, even better!
+
+Experience with Digital Audio Workstations such as, Pro Tools, Logic and Reaper
+Experience with high-performance graphics
+Experience with JUCE framework
+
+ What Next?
+
+ If you’re a Software Engineer / C++ Developer looking to work for a market-leading organisation with global reach, a company that values technical curiosity and works with the latest technologies then please apply today to learn more!
+ Software Engineer, C++ Developer
+ Corriculo Ltd acts as an employment agency and an employment business. #indhigh #inddev

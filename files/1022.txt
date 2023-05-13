@@ -1,0 +1,30 @@
+ASP.NET Core Developer
+Job Spec: Servicing Stop is the UK’s fastest growing car servicing provider with over 1,500 garages nationwide. Every day, thousands of customers call or book their services online with Servicing Stop. Since appearing on BBC Television’s Dragons’ Den in 2009 – where the company received offers of investment from three of the Dragons - Servicing Stop has grown significantly and is looking to recruit the finest, talented individuals to join in the next stage of expansion.
+We are looking to acquire a top ASP.NET Core Developer who will play an invaluable role in the next evolution of the company, as we look to further develop our technological applications and platforms.
+Skill Required: ASP.NET Core .NET5/6 (C#), ASP.NET (C#), MVC, EF/Core, REST API, SOA/MicroServices, MSSQL Server (T-SQL), AngularJS, Java Script, jQuery, Bootstrap
+Remarks: Should have a good knowledge of OOD, C#, RDBMS, .NET5/6 & experience in Commercial Software Components would be an advantage.
+Required Experience: Minimum 5 years
+ASP.NET: 5 years (required)C#: 5 years (required)ASP.NET Core: 3 years (required)
+Recruiter: Servicing Stop Ltd
+Job Location: Enfield, EN2
+Job Type: Permanent
+Salary: £40,000 - £60,000 Per AnnumStart date: Immediate start
+Hours: 9-6pm Monday to Friday
+Eligibility: To apply for this position, candidates must be eligible to live and work in the UK without restrictions
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£60,000.00 per year
+Schedule:
+
+8 hour shift
+
+Ability to commute/relocate:
+
+Enfield EN2 6DU: reliably commute or plan to relocate before starting work (preferred)
+
+Experience:
+
+ASP.NET: 5 years (required)
+c#: 5 years (required)
+ASP.NET Core: 3 years (required)
+
+Work Location: In person

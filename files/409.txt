@@ -1,0 +1,56 @@
+
+About Pivotal:
+ We are a team of ecologists and technologists who believe good business must be good for nature. We’re building an economy that puts nature and business in balance by incentivising the restoration of nature at scale.
+
+
+ Economies and societies around the world need our planet’s diverse plant and animal life to create the products and services we take for granted. Protecting and restoring nature is vital to the future of human life as we know it.
+
+
+ For the first time, investment into biodiversity regeneration is being prioritised. Financing is flowing to projects and start-ups that are creating practical, viable solutions. Governments, companies and individuals around the world now need affordable, scalable ways to link biodiversity commitments and actions to real, evidenced outcomes. That’s where we come in.
+
+
+ Our mission is to provide the data people and companies need to invest in positive outcomes for nature. We capture biodiversity data on the ground using a range of technologies. All the data we collect is organised and analysed first with machine learning, then quality-checked by ecosystem experts to provide measured, quality-controlled analytics to show evidence of any biodiversity gains on the ground. We can then link these measured gains to a variety of financial mechanisms – such as sustainability-linked bonds and biodiversity credits – enabling money to flow to those projects and activities that create the most positive change.
+
+ About the role:
+ Following our €5.2m seed round investment from some of Europe's leading VCs and advocates for a better planet, we are growing our team to support our next stage of growth. We are here to build an institution that changes the way the world collaboratively works on the largest problems our planet is facing, and the only way we can do that is by bringing together a team who is passionate about restoring nature in new and exciting ways.  We are looking for a developer, with experience in Python frameworks such as Django or Flask, who is comfortable working across the full stack from database, to API, to front-end.
+
+
+ Role responsibilities:
+
+Creating APIs in Python that interface to both SQL and blob storage systems, including monitoring and logging on e.g. ELK stack.
+Interfacing with open sources systems that support geospatial analysis and expert annotation e.g. QGIS, LabelStudio
+Designing and creating front-ends for management, reporting and monitoring of our data pipelines, field work and reports for clients
+Designing and managing relational databases (PostgreSQL)
+Working as part of a small agile team and taking responsibility for testing, documentation and peer-review of pull requests
+
+
+
+ You should apply if you have:
+
+An interest in designing and building flexible databases, APIs and websites
+ A love for resolving complex problems and taking a proactive approach to analysing issues and generating solutions
+An organised, detail orientated and responsive approach to your work with a strong desire to ‘get things done’
+
+
+Excellent communication skills and a people sensibility which enables you to work with a wide range of internal and external stakeholders across the world to ensure the best possible outcomes
+A highly analytical and technical mindset with an interest in deploying tech to optimise it to meet our needs
+A passion for the planet and how technology can support the protection and restoration of the natural world
+A conscientiousness in your approach to your work that enables you to work independently, or as part of a team, to deliver high quality work on time
+A default to transparency and trust, ensuring people can debate on best approaches
+
+
+
+ What we offer you:
+
+Impact; you will be joining us in the early days of the business giving you plenty of opportunities to contribute to developing an entirely new discipline that will change how value is unlocked from nature
+Industry competitive compensation and equity in the business
+Autonomy; we want to build a culture of trust and give you the space to do your best work
+A fun and diverse team of smart and very driven people
+
+
+A very competitive employee participation program
+Remote-first company
+
+
+
+ We are a remote first diverse team with diverse backgrounds. We expect there will be areas of development so please do apply if you don’t feel that you meet all the criteria. We’re an equal opportunity employer. All applicants will be considered for employment without attention to age, ethnicity, religion or belief, sex, sexual orientation, gender identity, family or parental status, national origin, veteran, neurodiversity, disability status or any other basis as protected by applicable law.

@@ -1,0 +1,61 @@
+
+
+Big Bank Funding. FinTech Thinking.
+ 
+Our technology teams in the UK work closely with HSBC’s global businesses to help design and build digital services that allow our millions of customers around the world, to bank quickly, simply and securely. We also run and manage our IT infrastructure, data centres and core banking systems that power the world’s leading international bank.
+Our multi-disciplined teams include: DevOps engineers, IT architects, front and back end developers, infrastructure specialists, cyber experts, as well as project and programme managers.
+
+
+Role Description:
+GT2025 programme is a multi-year programme to deliver the changes to meet Global Treasury vision and strategy. Enabling data modelling for Liquidity, IRRR and Capital Risk Management. The Historic Data solution is being created to serve long time-series of data for variables covering deposit and loan balances and customer metadata in addition to market data and macro-economic variables in order to support the various modelling teams across Treasury.
+
+
+Responsibilities:
+
+The role is responsible to cover activities on Design and Development (CTB).
+Provide support across the end-to-end delivery, utilising the skills and expertise to carry out software development, testing and operational support activities with the ability to move between these according to demand.
+Capability to evaluate and explore options (Technology/Tools etc) for implementing solution in cloud and might have to quickly switch and adopt with new requirements as per project demands
+Liaise with other engineers, architects, and business stakeholders to understand and drive the product or service’s direction.
+Create robust technical design and a strategy for development of new components to meet requirements. Work on test plans including unit and integration tests, within automated test environments to ensure code quality aspect.
+Actively contribute in design workshop, code reviews, scrum of scrum meetings and troubleshooting technical issues.
+Ensure implementation of continuous integration / continuous delivery pipeline within a DevOps Product/Service team driving a culture of continuous improvement. Ensuring compliance with all relevant IT controls and standards including relevant Service Management Standard.
+Responsible for automating the continuous integration / continuous delivery pipeline within a DevOps Product/Service team driving a culture of continuous improvement. Also should be well aware of the various code scanning findings and provide meaningful remediation solutions.
+Keep up to date and have expertise on current tools, technologies and areas like cyber security and regulations pertaining to aspects like data privacy, consent, data residency etc. that are applicable
+Should oversee and ensure all the IT General Controls (e.g. SDLC, DEPL, etc) are followed and also be able to provide evidence when required by audit reviews from time to time.
+
+
+
+  Requirements 
+ 
+
+Essential Skillset/Experience:
+
+
+
+Candidates should have strong knowledge on cloud computing technologies, especially on GCP (DataHub/BigQuery) and able to develop solution using Cloud Technologies.
+Understanding of Airflow / Pubsub
+Understanding of Cloud Data proc/ Python/ Jupyter Notebook/Looker
+Strong Stakeholder engagement 
+Understanding of Data Encryption/Usage
+
+
+
+The role will be based in Sheffield but some travel may be required. This role supports Hybrid working (1-2 days in the office per week)
+
+ Come Power a Business that Defines How to Power the World
+HSBC is committed to being an inclusive employer and providing an inclusive and accessible recruitment process for all. We will provide reasonable adjustments to remove any disadvantage to you being considered for this role. We are proud members of the Disability Confident Scheme, and will offer an interview to disabled candidates who meet the minimum criteria for the role. If you would like to receive any information in a different way or would like us to do anything differently to help you apply for our roles, please contact our Recruitment Helpdesk: 
+Email: hsbc.recruitment@hsbc.com
+Telephone: +44 2078328500.
+
+
+Within the workplace you will have access to various employee resource groups which aim to promote and achieve a healthy work / life balance and support our diversity ambitions. HSBC has processes in place to avoid nepotism. This means we will avoid circumstances in which the appearance or possibility of conflicts of interest may exist within the hiring process.”
+
+
+We want everyone to be able to fulfil their potential which is why we provide a range of flexible working arrangements and family friendly policies.
+
+
+As an HSBC employee in the UK, you will have access to tailored professional development opportunities and a competitive pay and benefits package. This includes private healthcare for all UK-based employees, enhanced maternity and adoption pay and support when you return to work, and a contributory pension scheme with a generous employer contribution.
+
+
+Personal data held by the Bank relating to employment applications will be used in accordance with our Privacy Statement, which is available on our website.
+

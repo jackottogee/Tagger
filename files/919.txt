@@ -1,0 +1,31 @@
+
+ Are you a Senior C# .Net Developer ready for your next challenge?
+ 
+ We have partnered with a leading independent hospital group in the UK who are looking for a Senior C# .Net developer to take the lead on steering the technical direction of the team with a heavy hands-on approach!
+ 
+ You will be getting involved with a range of responsibilities including getting involved in technical design, pushing your ideas on how to improve current practices, mentor and coach the team to improve technical ability, implement tools and techniques to support best practice for development, work with key business stakeholders where needed, and lead the way in using modern development techniques.
+ 
+
+Essential Skills:
+
+
+.NET Core
+ASP.NET MVC Core
+WebAPI
+Microsoft .Net 4.x
+HTML/CSS
+Javascript frameworks
+
+Desirable Skills:
+
+
+Azure DevOps
+Blazor or similar framework
+Azure (eg app services / functions)
+
+Why Apply:
+ Offering a salary up to £70,000 with a wide range of benefits such as, 35 days annual leave inclusive of bank holidays, private medical, retail discounts, plus more.
+ 
+ They also offer remote working with a visit to the London head office once or twice a month.
+ 
+ If you believe you meet the requirements above and would like to be considered for the role, please get in touch!

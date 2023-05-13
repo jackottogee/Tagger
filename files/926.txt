@@ -1,0 +1,59 @@
+
+Java Developer Radbroke
+
+
+As a Barclays Java Developer, you will be joining Application Programming Interface (API) Technology team within Wholesale Onboarding area. For this role, you will be instrumental in implementing the mantra of automation and simplicity using tried and tested methods from software development to create cutting edge cloud native platforms. These platforms provide cross cutting concerns for micro services, provide frameworks for automated testing and deployments based on push button minimal intervention pipelines.
+
+ Barclays is one of the world's largest and most respected financial institutions, with 329 years of success, quality and innovation behind us. We offer careers that provide endless opportunity – helping millions of individuals and businesses thrive, and creating financial and digital solutions that the world now takes for granted.
+
+
+We are currently in the early stages of implementing a hybrid working environment, which means that many colleagues spend part of their working hours at home and part in the office, depending on the nature of the role they are in. We’re flexible on how this works and it may continue to change and evolve. Depending on your team, typically this means that colleagues spend a minimum of between 20% to 60% of their time in the office, which could be over a week, a month or a quarter. However, some colleagues may choose to spend more time in the office over a typical period than their role type requires. We also have a flexible working process where, subject to business needs, all colleagues globally are able to request work patterns to reflect their personal circumstances. Please discuss the detail of the working pattern options for the role with the hiring manager.
+
+
+
+What will you be 
+doing?
+ • Participating in agile ceremonies providing story points and estimates for tasks
+  
+
+Creating APIs based on the SpringBoot technology stack
+Producing test artifacts using Junit and mocking/stubbing technology
+Working with DevOps and Automation Test Engineers to implement complete CI/CD pipelines
+Ensuring that all activities and duties are carried out in full compliance with regulatory requirements
+Engaging in a Kanban/agile teams with developers, DevOps and Test Automation Engineers
+Backing our portal team with the platform user experience as well as upgrades to our mule platform
+Building a cutting-edge loud native, micro service / service mesh-based API platform
+
+
+
+
+
+What we’re looking for:
+ • Knowledge of SpringBoot and related spring technology stack
+  
+
+Familiarity with Gradle build technology
+Exposure to Junit, Mockito
+Experience with Jenkins pipeline & Jenkins file development
+
+
+
+
+
+Skills that will help you in the role:
+ • Exposure to Cloud deployments, kubernetes & AWS
+  
+
+Experience of Netflix cloud tools
+Knowledge of Wiremock or other service virtulisation
+Familiarity with Groovy/YAML
+
+
+
+
+Where will you be working? You will be based in Radbroke, Knutsford. The Barclays Technology Campus just outside Manchester is our tech command centre and a vital strategic powerhouse behind our global operations. The campus is set in a 64 acre self-contained site, in a beautiful green environment and it offers unrivalled facilities for work and for play. We have an onsite gym, as well as outdoor tennis, football and cricket areas, as well as onsite restaurant and coffee shops.
+
+
+
+ #LI-Hybrid #architecture
+#LI-L21

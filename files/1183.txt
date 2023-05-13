@@ -1,0 +1,49 @@
+Junior C# Software Developer – Quant Trading
+£70,000 Plus Bonus, Hybrid Working
+Quant Capital is urgently looking for a C# Developer to join our high profile client.
+Our client is a well-known leading provider of integrated risk, analytics and trading solutions for the global financial markets. They specialise in the Quant and Algo Trading Space. Their clients include some of the largest global financial institutions and banks, leading hedge funds, pension funds, insurers, brokers, clearing members and corporates.
+You will be part a team building cutting-edge applications and services supporting cross-asset trading and risk management. The successful candidate will have a passion for software development and the desire to constantly improve both their skills and the solutions they work on.
+The ideal developer will have minimum of 6 months professional software development experience.
+The role is based on new model creation.
+
+Platform Development both web and desktop based
+Model Development
+Library creating
+Implementation development, which includes data interfaces, workflows and bespoke reports
+
+Junior C# Developers must have:
+
+2:1 or First Class Undergraduate degree in Comp Sci, Maths, Finance, or other technical discipline
+Min 1 years professional experience in C# or C++
+Some Knowledge of relational databases and SQL
+Experience in or serious interest in finance and capital markets.
+
+This role suits a junior graduate from a software development background that is looking to take on serious responsibility. We are looking for consultants who want to take ownership of products and take considerable responsibility and the bonus that goes with that.
+My client is based in Central London
+C#, C++ SQL, Support, Implementation
+Job Types: Full-time, Permanent
+Salary: £50,000.00-£70,000.00 per year
+Benefits:
+
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Ability to commute/relocate:
+
+ London: reliably commute or plan to relocate before starting work (required)
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Hybrid remote in London
+Reference ID: GLQFDevJRFlexitime

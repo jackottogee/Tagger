@@ -1,0 +1,79 @@
+Junior Software Developer
+THE COMPANY​
+Inflo is a fast-paced, agile, and rapidly scaling technology company. In the six and a half years since founding, we have established Inflo as an innovative and impactful tech business, securing a global customer base of high-profile accounting firms.
+We are passionate about the accounting profession we serve and focus on driving long-term success, both in our business and those we work with. This has resulted in Inflo’s B2B SaaS product winning multiple awards, including International Accounting Bulletin’s Accountancy Software of the Year twice, as well as the Queens Award for Innovation 2021. Our technology is even now a part of the ICAEW’s ACA examinations.
+THE TEAM​
+The Development teams deliver high-quality working software efficiently together, by combining an agile culture with cutting-edge technology and techniques.
+There are 3 teams responsible for designing, developing, delivering and supporting the 3 key areas of the system- Analytics & Collaboration, Supporting The Customer, and Quality Audits.
+THE CULTURE​
+Inflo was founded by ex-auditors who were driven by a desire to innovate their profession and increase its value and relevance in a rapidly changing world. Our founders are still leading Inflo in this mission today.
+Our team of equally passionate, diverse individuals is based across three locations: the US, Australia, and the UK. Everyday our team makes a significant impact to our business and the profession we serve.
+We strike a positive balance between the scale-up mindset, working quickly and collaboratively without the restriction of corporate hierarchy, but with the stability, resources, and professionalism of a mature, global organisation.
+We live and breathe our core values in everything we do:
+
+Treat Inflo like it’s your own business.
+Do as you say you’ll do.
+Continually improve yourself and Inflo.
+Proactively drive the long-term success of partners and customers.
+Create a positive, open, and honest environment.
+Be passionate and celebrate success.
+
+THE ROLE​
+As a developer at Inflo you will build your knowledge of our system and the underlying technologies in order to continually develop and improve our software solution. By playing a key role in development decision making, you will directly impact the design and ultimate success of our product.
+You will:
+
+Contribute to the maintenance of the software application
+Implementation of new software features
+Ticket management through agile methodology
+Research and Development in order to continually improve the Inflo product
+
+THE SKILLS & QUALIFICATIONS (REQUIRED)​
+
+C#
+.NET
+Attention to detail
+Ability to take initiative
+Good understanding of Object Oriented Programming
+Understanding of agile methodology
+Knowledge of a full product life cycle
+ASP.NET, MVC, Web API, .Net Core
+Html, CSS, JavaScript, React
+Entity Framework
+
+​QUALIFICATIONS (DESIRED)
+
+Relevant degree
+
+​THE OFFER​
+As a member of the Inflo family, you’ll enjoy the following benefits: ​
+
+Base salary of £25,000 to £32,000, based on experience.
+25 days holiday with an additional 0.5 days for every year of service​.
+Flexible working environment – work whenever and wherever that suits you. At Inflo we measure results, not the amount of time you spend behind your laptop.​
+Opportunity to work from home as a fully remote role within the UK.​
+Continued professional development​.
+Casual dress code​.
+
+​NO AGENCY SUPPORT REQUIRED​
+​Inflo is an equal opportunity employer committed to fostering an inclusive, innovative environment with the best employees
+​TO APPLY FOR THIS ROLE, YOU MUST RESIDE AND HAVE FULL RIGHT TO WORK ENTITLEMENT WITHIN THE UK
+​
+Job Type: Full-time
+Pay: £25,000.00-£32,000.00 per year
+Benefits:
+
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Yearly bonus
+
+Education:
+
+Bachelor's (preferred)
+
+Work Location: Remote

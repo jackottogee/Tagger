@@ -1,0 +1,58 @@
+
+
+This is a UK or Ireland-based Remote position candidates who reside in other countries will not be considered.
+
+
+ WHO WE ARE
+ Hanzo helps global enterprises manage and reduce legal risk wherever work gets done. Capture data for investigations, litigation, and compliance wherever employees collaborate — including hard-to-capture sources like Slack, Jira, project management, collaboration platforms, and internal SaaS systems. Hanzo's software empowers defensible preservation, targeted collection, and efficient review of dynamic content. Hanzo is SOC 2® Type 2 certified, demonstrating its commitment to data security and serving large corporations worldwide.
+ Some of the most recognizable brands in the world trust Hanzo to manage the challenges of modern enterprise e-discovery and compliance today. Our team has always been globally distributed and remote enabling us to work with the best people around the world.
+
+ THE ROLE
+ As a Senior Backend Software Developer, you will be involved in architecting, implementing, deploying, and debugging our in-house distributed systems using the best-of-breed technology on Google Cloud. This position will report to the Sr. Engineering Manager.
+
+ WHAT YOU’LL DO
+
+Write clean, documented, debuggable code across Hanzo’s backend systems to add new functionality and systems and improve the existing architecture.
+Test your own code’s functionality.
+Perform code review and testing of software produced by other team members so that your team delivers reliable and secure software.
+Follow Hanzo’s development process to effectively communicate your progress.
+Participate in designing new systems and functionality across Hanzo’s backend systems to meet the needs of user stories produced from other business areas.
+Perform research and evaluation of analysis methods and system design to optimally produce new data products and software systems.
+
+
+
+ WHAT YOU’LL BRING
+
+ Fluent in written and spoken English.
+Strong Python experience or strong Java/C# and more recent Python Experience working with distributed systems
+Experience with cloud, either AWS or GCP Experience developing enterprise software.
+
+
+
+ WHAT WILL SET YOU APART
+
+Experience with agile and continuous deployment.
+Experience with industry-standard configuration, deployment, and workflow tools.
+
+
+
+ WHY YOU SHOULD WORK AT HANZO
+ When you join Hanzo, you become part of a global company that was founded by a team of entrepreneurs and technologists. Today, we have expanded to become a group of technologists, entrepreneurs, PhDs, lawyers, (lawyers with PhDs), creatives, and data scientists who thrive on collaboration, innovation, and execution. At Hanzo, you'll work hard and be given a ton of responsibility, but you'll have fun in the process. Of course, the greatest thing about Hanzo is what we can accomplish for our customers - we are honored that some of the most recognized brands in the world trust Hanzo.
+
+ BENEFITS
+
+28 days of annual leave in addition to usual bank holidays + 1 floating holiday
+4% pension contribution
+Private medical insurance with free employee assistance program
+Summer Fridays
+2 days of Volunteer Time Off (VTO)
+Work-from-home allowance
+Opportunities for growth and advancement
+Virtual and in-person team-building activities
+Work with some of the most recognized brands in the world
+
+
+
+ Hanzo considers qualified individuals on the basis of race, religion, color, gender, age, national origin, physical or mental disability, genetic information, veteran’s status, marital status, gender identity and expression, sexual orientation, or any other status protected by applicable law. Hanzo is also committed to diversity and inclusion and building a culture where all Hanzonians (employees) are celebrated and valued for bringing their authentic and best selves to work.
+ #SeniorSoftwareEngineer #GCP #Python #Java #AWS #SeniorDeveloper
+

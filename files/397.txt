@@ -1,0 +1,25 @@
+
+Full Stack Developer(s) - Multiple Roles
+ London (Open to fully-remote within UK or office based)
+ My client is a global green-energy fintech house embarking upon a large transformation and looking to boost their development power to help accelerate the creation of new and exciting stack, to enable their vision: make the Globe cleaner. The mission is super-exciting and so far all of the current employees love it because of the latest technologies they use (AWS-native stack) as well as the purpose.
+ They are looking for all levels – from junior all the way to technical lead level.
+ All of the positions available are open to fully remote work.
+ Why should you work for us?
+
+
+Our client has a First-Class technology stack. AWS-native ground up build of a completely new stack, serverless/microservices architecture, realtime cloud-native data analytics and much more.
+
+
+Great mission. They make the Globe cleaner by bringing the Energy and Utilities industry into a sustainable era.
+
+
+Flexible work schedule (including fully remote option etc), great benefits. No politics.
+
+
+What we are looking for:
+ 1. TypeScript and Node.js experience (Javascript second best)
+ 2. Experience of AWS Cloud (important as they have AWS as their domain. However, they will consider candidates with expertise on other cloud technologies).
+ 3. The ideal candidates will have enterprise-grade cloud experience, who have previously developed cloud-native systems, into Production.
+ 4. Experience of Microservices/serverless/domain-driven design is essential.
+ If you think you would be a good fit for this role, please feel free to apply to the role directly or feel free to message me directly for a confidential chat.
+

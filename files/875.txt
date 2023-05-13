@@ -1,0 +1,60 @@
+Job Description – SQL Developer:
+Data Driven Logistics Ltd are excited to be working in partnership with many global household names and require additional resource to work on a major project for one of these clients.
+Our dedicated logistics solution, developed in collaboration with our European based client, continues to evolve and expand, and we require someone with the right experience and approach to assist with new developments and ongoing support.
+The Role
+We are seeking a developer whose primary skill is Microsoft SQL. The candidate must have the capability and the correct mental approach to review and understand the complexities and processes of a large integrated IT system and interact with our customers to help define new functionalities or quickly resolve any issues/questions raised within a fast paced and dynamic environment. This aspect is seen by us as the biggest challenge.
+You will be part of a team responsible for supporting business-critical systems as well as developing, unit testing & deploying new solutions and enhancements to existing systems. There may also be innovation opportunities and proofs of concept.
+The role, while needing strong developer skills, does have a significant support aspect to it. You should have an openness to learn new technologies and programming languages as required.
+Experience in the Logistics/Warehousing and Distribution sector will be a nice to have but not essential.
+Our Must-Haves
+
+A ‘can-do’ attitude
+SQL Development background
+Competent with MS Excel
+Strong development practice skills (code & configuration management, build processes…)
+Appreciation of database design patterns and practices
+Ability to understand code produced by others
+Confidence to discuss some tasks with customers
+Willingness to join the compensated out of hours support rota
+
+Our Nice to Haves
+
+Experience of working in a busy, ‘fluid’ environment
+Be open to the potential of spending short spells on the continent
+Ability to speak, Flemish (Dutch), Czech or Polish
+VB / C# experience
+
+Role Responsibilities:
+Software development using specific skillsets of the individual.
+Involved in the understanding of development specifications and requirements, and making a contribution to overall design, including any suggestions to improve upon what is proposed or highlight any deficiencies or concerns with proposals.
+Ensure all work follows version control standards.
+Ensure all work is tested and documented as such, based on requirements of Project Manager and QC Manager.
+Be assigned to support issues as and when they arise, and to action support incidents in a timely manner with minimum impact of planned developments.
+Keep oneself up to date on skillset and make recommendations to Development Manager on any changes or advances to technologies or additional training that may benefit the individual for the benefit of the company as a whole.
+Liaise with customers where required, typically over the phone, but potentially in meetings where the need may require some technical input.
+Making a valid contribution to the company as a whole, including helping with tasks outside specified remit where required.
+Reporting to: Development Manager / Project Manager / Directoras required
+Reporting Requirements:
+
+Arriving promptly and attending morning overview meeting.
+Ad-hoc meeting with management as required.
+
+Job Type: Full-time
+Salary: £35,000.00-£45,000.00 per year
+Benefits:
+
+Casual dress
+Company pension
+Free parking
+On-site parking
+
+Schedule:
+
+Monday to Friday
+
+Ability to commute/relocate:
+
+ Stoke-on-Trent, ST4 2DL: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Stoke-on-Trent, ST4 2DL
+Reference ID: DDL SQL Dev

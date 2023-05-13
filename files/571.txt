@@ -1,0 +1,60 @@
+Job Description
+The Client Onboarding Strategy team is seeking a new member to join its team based in Liverpool Speke. The area’s main responsibility is to produce periodic and Ad hoc reports, develop metrics, run controls and identify opportunities for automation in order to support global Client Onboarding activities.
+About the role
+You will be part of a team of Data Scientists and Software Engineers, and help them translate customer requirements into production-level software.
+We’ll need you to:
+
+Write high-quality code to help solve tough AI problems
+Act as an ambassador of good engineering practices
+Help identify reusable tools and features across customer projects
+Create infrastructure and tooling to improve interactions with the model
+Ensure the stability and maintainability of the codebase across the lifespan of the project
+
+About you
+We are looking for someone with the right mindset and attitude. You don’t have to be an exact match for the specific technologies we use, you just need a willingness to find, learn and use the right tool for the job.
+We’re looking for:
+
+Previous experience in a Software Engineering role (allowances made for exceptional candidates)
+Good knowledge of a modern high-level language (Python, Go, Java, C++)
+Commitment to producing and maintaining high quality code with lots of -ilities (maintainability, testability, reusability etc.)
+Understanding that testing, deploying and maintaining features is as important as developing them
+The ability to ask questions when you don’t know something
+An appreciation and enjoyment of the uncertainty that accompanies rapid project-based development
+
+Bonus points for cloud knowledge, Docker skills or Python experience.
+Qualifications include:
+
+University degree. (Engineering, Computer Science, Actuarial Science, Economy, Business Administration or equivalent).
+Fluent in English is mandatory, both written and verbally. Other languages are a plus.
+Strong data visualization skills.
+Knowledge of MS Excel and Office suit.
+Be flexible, adaptable and eager to learn.
+Ability to work maintaining attention to detail and applying best practices.
+Work independently with self-prioritization and attention to deadlines.
+Ability to engineer and enhance operational processes.
+
+Job Type: Full-time
+Salary: £25,317.00-£33,714.00 per year
+Benefits:
+
+Company pension
+Flexitime
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+Performance bonus
+Yearly bonus
+
+Ability to commute/relocate:
+
+Liverpool: reliably commute or plan to relocate before starting work (required)
+
+Work Location: Hybrid remote in Liverpool
+Reference ID: NSL0001/SEFlexitime

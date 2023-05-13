@@ -1,0 +1,19 @@
+
+REACT DEVELOPER
+ We are working alongside a global fintech firm who are looking to bring on a Front End Engineer on a fully remote basis, candidates from the UK and Europe will be considered.
+ The successful Front End Engineer will be responsible for working on the development of front-end applications that range from retail customers to professional investment managers.
+ Experience required:
+
+Experience with React and Typescript
+A track record of fintech and real-time market data on trading platforms
+Preferred experience with Redux and React Hooks.
+Commercial experience with Git and Docker
+Track record of quality, clean maintainable code.
+
+
+
+ With a competitive salary and the chance to work fully remotely, this is a great opportunity for a Front End Developer with 3 or more years of experience to join one of the world's top fintech companies.
+ If you or anyone in your network could be a good fit we would be happy to hear from you. If you are a Front End Developer who is open to opportunities but feel this isn't quite right, please reach out to Consortia who would be happy to discuss other roles we have open.
+ Front End Developer Salary - £80,000
+ Front End Developer Location - Remote across the UK and Europe.
+

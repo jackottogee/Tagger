@@ -1,0 +1,156 @@
+
+
+
+   About the role
+  
+
+
+
+    We’re looking for a Mid-Senior Software Engineer to join our Digital Services Team, a small group dedicated to creating impactful fundraising solutions for our customer across UK, Australia, and Canada.
+  
+
+
+
+
+
+ We have a passion innovating new ways to deliver customer value through the clever combination of foundational technology, integrations, and custom developments. This role forms part of a highly experienced market-facing team within a growing local business, backed by a NASDAQ-listed company.
+   
+
+
+
+
+ What you’ll be doing
+   
+
+
+
+
+
+       Delivering of custom websites, stand-alone bespoke applications and APIs to service customer offerings across all regions, leveraging core product functionality where appropriate
+     
+
+
+       Collaborating with Product and Commercial teams to lead regional, global and companywide initiatives from inception and discovery to development and delivery, for international campaigns
+     
+
+
+       Working with Customers in a pre-sales context, providing accurate project costs and estimations for optimal profitability and business efficiency
+     
+
+
+       Provide direction across application design and system architecture to deliver industry best practice
+     
+
+
+       Identifying new product innovations through rapid test and learn methodology to drive new revenue, customer engagement, and operational efficiency
+     
+
+
+
+
+
+
+
+ What you need to bring
+   
+
+
+
+
+
+
+
+       Frontend fundamentals of JavaScript/ES6, HTML5 and CSS
+     
+
+
+       Experience building sites using React, NextJS and Redux
+     
+
+
+       Experience integrating with APIs
+     
+
+
+       Automating processes using CI/CD
+     
+
+
+       Agile software delivery cycle
+     
+
+
+
+
+
+
+
+ Additional skills which would be useful
+   
+
+
+
+
+
+       TypeScript
+     
+
+
+       Back-end development using Node or Ruby
+     
+
+
+       Cloud providers such as AWS with a focus on serverless technology
+     
+
+
+       Client-facing project management
+     
+
+
+
+
+
+
+
+ More about you
+   
+
+
+
+
+
+       Passionate about creating great outcomes for customers
+     
+
+
+       Business Savvy, looking to improve our products, services and processes
+     
+
+
+       You enjoy facilitating discussions between passionate technologists from a variety of backgrounds
+     
+
+
+       You understand that communication is the biggest responsibility of your job
+     
+
+
+
+
+
+
+
+     #LI-REMOTE
+   
+
+
+
+
+ We are a remote company that maintains a flexible working culture for our employees - This is something we’re proud of, so ask your Talent Partner or interview team to find out more about our ways of working.
+ 
+
+
+   JustGiving are an equal opportunity employer, and we stay committed to cultivating a diverse and inclusive work environment.
+ 
+

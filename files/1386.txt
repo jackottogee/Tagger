@@ -1,0 +1,25 @@
+
+SC Cleared Dynamics 365 Developer, 6 month contract OUTSIDE IR35 Fully Remote    Role; SC Cleared Dynamics Developer 
+
+Outside IR35
+ 6 month contract
+ Fully remote working
+ Up to £550 per day
+ Live and transferable SC Clearance required
+
+ Hays are currently recruiting for an SC Cleared Dynamics Developer to support our Government end client to take the lead on the delivery of CRM components and integrations into other systems.
+ 
+ We are looking for a developer with experience in the following areas;
+ 
+
+
+Experience of migration CRM2016 to Dynamics
+Dynamics 365 SDK and tooling
+.NET, C#, Microsoft Dataverse web API and related technologies
+CI/CD with Azure DevOps
+Azure cloud
+Unit testing of application release cycle
+Secure by Design Principles
+
+ What you need to do now If you're interested in this role, click 'apply now' to forward an up-to-date copy of your CV, or call us now. If this job isn't quite right for you but you are looking for a new position, please contact us for a confidential discussion on your career.
+ Hays Specialist Recruitment Limited acts as an employment agency for permanent recruitment and employment business for the supply of temporary workers. By applying for this job you accept the T&C's, Privacy Policy and Disclaimers which can be found at hays.co.uk

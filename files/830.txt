@@ -1,0 +1,21 @@
+
+
+Our client, a global technology organisation, urgently require an experienced Software Developer to undertake a long term contract.
+ In order to be successful, you will have the following experience:
+
+ Experienced Software Developer, able to code ADA and SPARK
+ Knowledge of V-model life-cycle
+ SC Cleared
+
+ Within this role, you will be responsible for:
+
+ Writing software level requirements in natural language or in formal method notations
+ Generating software architectures
+ Generating software designs
+ Following testing strategies and generating test designs, cases, scripts and test evidence
+ Contributing to writing software development, test strategies and other plans
+ Supporting safety engineers in the development of evidence for software safety cases
+
+ This represents an excellent opportunity to secure a long term contract within a high profile and dynamic organisation.
+
+

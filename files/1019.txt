@@ -1,0 +1,195 @@
+
+
+
+  At Brooks, new ideas, new technologies and new ways of thinking are driving our future. Our customer focused culture encourages employees to embrace innovation and challenge the status quo with novel thinking and collaborative work relationships.
+  
+ All we accomplish is grounded in our core values of World Class, Empowered, Accountable, Respectful, Engaged.
+ 
+ Senior Oracle Cloud Application Developer
+ 
+
+   Job Description
+ 
+
+   Brooks is a growing, fast-paced technology leader of automation solutions which support the dynamic and expanding semiconductor market. At Brooks, new ideas, technologies and ways of thinking are driving our future. Our customer-focused culture encourages employees to embrace innovation and collaborate with one another to achieve new heights.
+ 
+
+
+ We are seeking an energetic Senior Oracle Cloud Application Developer to accelerate our growth journey. Reporting to the Manager Applications Development, this individual will contribute to supporting and enhancing our global enterprise application footprint. This role will be responsible for designing, building and delivering exceptional new technical solutions, while also supporting the existing legacy systems. This individual will be a key contributor to the support, development, and expansion of our global enterprise-wide Oracle ERP Cloud ecosystem and integrated applications.
+ 
+
+
+ WHAT YOU'LL DO
+ 
+
+
+
+     Design, develop and deliver application reports, interfaces, customizations and extensions using OIC web services, FBDI, and data transformation from OTBI and BI Publisher, promoting PaaS best practices.
+   
+
+
+     Work with functional leads and business stakeholders to understand business requirements, user stories and acceptance criteria for business enhancements and technical solution requests.
+   
+
+
+     Document technical proposals and designs for peer review; maintain technical documentation for legacy and future state solutions.
+   
+
+
+     Manage daily IT operational support for legacy ERP Production issues and enhancement projects. Analyze and troubleshoot application and business issues as needed.
+   
+
+
+     Collaborate with IT Security, Enterprise Architecture, and Infrastructure to ensure technical solutions are compliant, performant and meet security and architectural standards.
+   
+
+
+     May serve as a Technical Lead on IT and Business projects as needed for your area of expertise.
+   
+
+
+     Understand multiple enterprise application platforms and work directly with technical and functional stakeholders to deliver scalable, secure solutions.
+   
+
+
+     Participate in and support all IT operational processes such as Change Advisory Board, Major Incident Management, Release Management, Source Code Control, Version Control, and ITGCs.
+   
+
+
+     Grow your expertise in Oracle Cloud technologies, development and delivery techniques.
+   
+
+
+
+   WHAT YOU'LL BRING
+ 
+
+
+
+     Bachelor’s Degree in Computer Science or related discipline.
+   
+
+
+     Minimum of 10 years of Oracle application development experience using SQL / PL/SQL.
+   
+
+
+     Minimum of 5 years of development experience with Oracle Integration Cloud, PaaS and ATP database.
+   
+
+
+     Minimum of 5 years of Oracle EBS development experience with Oracle Applications / Database Procedures, Packages, Functions, Form Personalization.
+   
+
+
+     Strong preference for a minimum of 1 year of experience in Oracle ERP Cloud Implementations, Oracle Field Service, Oracle Transportation Management.
+   
+
+
+     Expert level understanding of web services and XML technologies (WSDL, SOAP, API, REST, XML, XSD, XSLT, WSIL, WSRP, WS-Security).
+   
+
+
+     Experience with work management and ticketing systems such as ServiceNow, Jira, or RemedyForce.
+   
+
+
+     Experience with SDLC – requirements, map / gap, design, build, development, testing, training, cut-over and post go-live support.
+   
+
+
+     Demonstrated understanding of GitHub, source control and version management.
+   
+
+
+     Working knowledge of Oracle Applications such as Oracle Financials and Oracle Supply Chain.
+   
+
+
+
+   WHAT WE OFFER
+ 
+
+
+
+     Competitive Compensation & Annual Bonus Incentive
+   
+
+
+     Heavily Subsidized Medical, Dental, and Vision Premiums
+   
+
+
+     Income Protection - Fully-paid Life and Short-Term Disability Insurance
+   
+
+
+     401(k) Matching
+   
+
+
+     Flexible Time Off / Paid Time Off
+   
+
+
+     Company-wide Shut Down between Christmas and New Years
+   
+
+
+     Telemedicine
+   
+
+
+     Employee Referral Program
+   
+
+
+     Employee Assistance Program
+   
+
+
+     Adoption Assistance
+   
+
+
+     Tuition Assistance
+   
+
+
+     Student Loan Program
+   
+
+
+     Group Legal Assistance
+   
+
+
+
+   EOE M/F/Disabled/VET
+ 
+
+
+   Brooks Automation US, LLC is proud to be an Equal Opportunity Employer. We celebrate diversity and are committed to creating a welcoming and inclusive environment for all. Please apply to this role if you feel you are a good fit, regardless of your race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other perceived limiting factor.
+ 
+
+
+   #LI-Hybrid
+ 
+
+   #LI-TV1
+ 
+
+
+   Salary Ranges
+  $97,324.45 USD to $127,880.87 USD
+ 
+
+   If any applicant is unable to complete an application or respond to a job opening because of a disability, please email at 
+  
+   HR.Recruiting@brooks.com
+   for assistance.
+ 
+
+
+   Brooks Automation is an Equal Opportunity Employer. This company considers candidates regardless of race, color, age, religion, gender, sexual orientation, gender identity, national origin, disability or veteran status.
+ 

@@ -1,0 +1,72 @@
+
+
+Runa is pioneering a first-of-its-kind payment rail capable of sending and accepting digital value at scale. With Runa, companies can pay the people they serve in any form of digital value, anywhere, instantly.
+ Legacy payment mechanisms struggle to adapt to low-volume, high-velocity transactions both locally and globally, such as sending payouts to gig workers, creators, or sending rewards to customers or employees wherever they are.Runa's infrastructure and network facilitates payouts to these recipients, helping businesses expand their reach, retain their users while modernizing the way in which they manage and transfer money: instantly, internationally, and free of charge for the senders and the recipient.
+ Operating in more than 30 countries and 18 currencies, hundreds of leading companies rely on Runa to power instant, flexible global payouts including Sodexo, TopCashback, Perkbox, Vodafone, Coinbase and Globetopper.
+ We are committed to providing a hiring and working experience in which all people feel they are equally respected and valued regardless of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. You can read more about our team here - Diversity & Inclusion
+
+ Our Team
+
+We're building a Product & Engineering team where people can do their best work that sits right at the heart of the business. We want to hire talented engineers who see Runa as an opportunity to grow and to make an impact.
+ We have Python and TypeScript services running across Kubernetes (EKS) and Lambda functions. Our persistence is largely Aurora (Postgres), DynamoDB and their event triggers.
+ We have structures in place from hiring and levelling to how we make technical decisions that will allow the right people to thrive and we want world class engineers to be a part of that journey. We welcome applications from engineers from any programming language that are enthusiastic about cross-training to Python and Typescript.
+
+
+Requirements
+
+As a Software Engineer, you will be responsible for producing clean, scalable, and reusable code. You'll help deliver products which will have a big impact on our customers. You'll have the opportunity to contribute to architecture and take ownership and accountability of parts of the product.
+ What Excites You
+
+The opportunity to work within a super talented engineering team, contributing to design and development of features and new services from end to end, as we continue to scale our product.
+Writing code that is clear, concise, well tested, and easy to understand. Using modern technology like AWS serverless infrastructure and events driven microservice architecture
+Taking ownership over product changes made, ensuring successful deployment as well as bug fixes and improvement.
+Helping to scale the team by leading on technical interviews.
+
+What Excites Us
+
+2+ years of strong software engineering experience building complex and scalable software solutions that are used heavily by thousands of people with high throughput.
+Experience with server side technologies like Python, Java, C#, Ruby, GoLang, JavaScript or any other backend language.
+Enthusiasm to learn, and contribute towards design and architecture of scalable systems and developing API heavy software solutions.
+A passion for software engineering best practice, and delivering well tested, high performant and quality code.
+
+Some of the projects you could be working on:
+
+Integration into all physical stores and merchants with POS. Consumers can spend their value where they want to as we go beyond Gift Cards.
+Continued development of our infrastructure. Transitioning to serverless infrastructure and microservices to enable us to scale rapidly as a team
+Building a brand new internal tool chain. So non technical teams can on-board new payment partners
+Building our wallet feature. Consumers can aggregate the value they accumulate and spend that digital value when and where they choose to.
+Technical resilience. As we become more integral to our customers' businesses, how can we make sure that we can continue to serve them even when there are technical or logistics issues upstream.
+
+Recent examples of new features:
+
+Runa Select. This allows us to give the customer choice, and therefore go beyond simply reselling gift cards and towards our strategic vision of helping value to flow more freely in the global economy. This project was technically challenging due to a requirement for it to work across a wide selection of devices.
+Self-serve brand on-boarding. Runa is growing rapidly, which means we have to challenge ourselves to use technology to give a great experience to our brand partners without them needing a lot of support from the customer success team.
+Ongoing integration with gift card processors. Right at the heart of Runa's operations, this technology needs to scale seamlessly and maintain high standards of reliability, maintainability and security. We're also constantly asking ourselves how we can make this process more efficient - how can we make a capital investment now to reduce operational spend in the future, and that in turn requires a creative take on the underlying technology.
+
+
+
+
+Benefits
+ 25 days holiday + bank holidays
+ All permanent employees receive extra days off to help boost their well-being when they need it
+ We have a hybrid structure to allow flexibility between home and office based working. You will therefore be expected to be in our London office (145 City Road, nr Old Street) a minimum of 4 days a month. 2 fixed days and 2 flex days
+ Participation in the Employee Options pool giving you ownership in Runa and participation in the upside
+ Private Medical + Dental Health Insurance with Bupa
+ Pension scheme (3% contribution)
+ Enhanced parental leave
+ £1,000 annual L&D allowance to invest in mastering your craft, including accredited studies. Plus 6 days study leave per year
+ ️ £150 to create an awesome remote work experience
+ Workplace Nursery benefit, where Runa makes a contribution to your child's nursery for equipment, training, redecoration or anything else
+
+️ Recognition awards, where we shine the spotlight on exceptional employees every quarter who in turn get a £100 award in the eGift card of their choice
+
+
+️ Staff perks with Runa brands - discounts of up to 12% on coffee, weekly groceries, holidays, the list is endless
+
+ Quarterly team socials
+ Welcome lunches, where your team will eat together to celebrate new starters
+ Cycle to work scheme - save some £££ on buying a bike
+
+
+ Take a look under the hood of life at Runa from our employees perspective. This handbook built using Notion.so is what we use to navigate both the serene and choppy waters when needed. You might need to copy and paste the following link into your browser as job boards don't allow us to add hyperlinks - https://bit.ly/2PluGyG
+

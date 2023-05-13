@@ -1,0 +1,137 @@
+
+
+Keysight is on the forefront of technology innovation, delivering breakthroughs and trusted insights to the world’s visionaries and innovators in electronic design, test, manufacturing, and optimization. Our ~14,000 employees create world-class solutions in wireless communications, 5G, automotive, quantum, aerospace, defense, and semiconductor markets for customers in over 100 countries. Our technical solutions – and our methods for creating them – help connect and secure the world. Learn more about what we do and how we do it.
+
+ Our powerful culture has led to us being independently recognized on Fortune 100’s Best Companies List and we are “Great Place to Work” Certified. We’re driven, collaborative, ethical, and curious, and we value all ideas, especially bold ones. And our culture extends far beyond our own walls. Our corporate social responsibility efforts support our communities, nurture the next generation of engineers, and promote environmental sustainability.
+
+ At Keysight, Inclusion & Diversity is an integral part of our core values. We believe that when people feel a sense of belonging, they can be more creative, innovative, and thrive at all points in their careers. We believe everyone should be respected in the workplace and in their communities regardless of race, color, age, gender, sexual orientation, gender identity and expression, ethnicity, religion, disability, veteran status, national origin, or any protected class. We continuously challenge ourselves to grow in our understanding of inclusion by engaging in a wide variety of diversity programs, initiatives, employee network groups and mentoring/development. This is Keysight – People and Culture - YouTube
+
+
+
+ About the Job:
+
+
+ We are seeking a Software Engineer with strong full stack software development experience who is passionate about creating world-class software. We deliver both packaged software for on-premise installation as well as hosted SAAS product leveraging AWS cloud services to provide on demand infrastructure. The successful candidate will be responsible for helping to design and implement multiple frontend and backend services as an essential part of the overall vision for our offering.
+
+
+
+
+ About the Team:
+
+
+ The Keysight Eggplant team help businesses to test, monitor and analyze their end-to-end customer experience across different interfaces, platforms, browsers, and devices — including mobile, IoT, and desktop — in agile, DevOps, and innovative application and data environments.
+
+
+
+
+ Responsibilities:
+
+
+
+ Working as a Software Engineer alongside other highly skilled, cross-discipline team members to deliver the team’s goals consistently on schedule and on quality. 
+Work with the Team Lead and Product Manager to ensure that new features work as expected, in a way that provides value to the customer
+ Design and implement new capabilities across Eggplant’s emerging Digital Automated Intelligence (DAI) product 
+Ensuring products and components integrate well to provide a platform for an exceptional user experience
+ Helping to determine the best technologies and strategies to use 
+Motivating in curiosity, design and delivery of product enhancements and new innovative solutions
+ Provide input to the design and development process to improve testability, quality and user experience
+ Identify and raise issue reports for bugs
+
+
+
+
+
+ Basic Qualifications:
+
+
+
+ Bachelors degree in a technical field
+ Minimum 3+ years of experience in a software development role.
+ A good understanding of Software Engineering gained through relevant experience
+ Knowledge of OOP, design patterns and coding best practices 
+Good design and problem-solving skills 
+Experience in software architecture 
+Strong knowledge of current web technologies particularly Python and ReactJS
+ Experience of developing for the AWS cloud platform 
+Solid knowledge of Agile, Lean and XP development practices 
+
+
+
+
+
+Desired Qualifications:
+
+
+
+ Experience using Jenkins or Gitlab for build pipelines 
+Docker container development with Kubernetes orchestration
+ Experience with blue/green deployment, canarying and feature flagging 
+Relational database experience 
+Experience of continuous delivery 
+Delivering secure applications with authentication and authorization schemes (OIDC, OAuth2, UMA)
+ Any exposure to Keycloak
+ Experience with other cloud platforms (Azure or Google Cloud Platform) 
+
+
+
+
+
+Other Information:
+
+
+
+ Relocation is or is not available for this position
+ Visa Sponsorship is not available for this position
+
+
+ We offer market competitive benefits! http://about.keysight.com/en/jobs/benefits_uk.pdf
+
+
+
+
+ Job Function
+
+
+     R&D
+   
+
+
+
+
+
+ Business:
+ Electronic Industrial Solutions Group - Eggplant
+
+
+ Employment Program:
+ Regular
+
+
+ Duration (temp position only):
+ Not Applicable
+
+
+ Relocation Benefits:
+ No
+
+
+ Shift:
+ Day Job
+
+
+ Schedule:
+ Full Time (F)
+
+
+ Travel Required:
+ None
+
+
+
+ Candidates can be considered to work from the following locations:
+
+ Leatherhead- Surrey, United Kingdom
+ ___________________________________________________________________________________
+ Careers Privacy Statement
+ ***Keysight is an Equal Opportunity Employer.***
+ Keysight Technologies Inc. is an equal opportunity employer. Qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, protected veteran status, disability or any other protected categories under all applicable laws.

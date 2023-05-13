@@ -1,0 +1,20 @@
+
+Hello, World! We're Avos 
+We're a fully funded start-up developing exciting new technology and products in Cambridge, UK and we're hiring! We're looking for amazing engineers to join the founding team to accelerate our products to market. All employees receive very meaningful equity options.
+
+ The ideal candidate will be excited to be part of a dynamic new start-up and happy to get stuck into a range of engineering problems. Examples include cloud solutions written in Go running on Docker, custom Android application development using Kotlin, DevOps work improving our CI/CD pipeline, and more.
+
+ Responsibilities
+
+Implement high-quality software solutions in Golang and Kotlin
+Utilise test-centric design to ensure highly testable and tested code
+Review code and actively participate in maintaining a strong engineering culture
+Design technical solutions and architectures where required, jointly with the product and engineering team
+Researching new technology choices and presenting pros/cons to the engineering team
+
+Requirements
+
+Bachelor's degree or equivalent experience in Computer Science or related field
+3 or more years of development experience
+Experience with PostgreSQL, Microsoft Azure, Golang, Kotlin, or related technologies
+

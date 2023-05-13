@@ -1,0 +1,79 @@
+Software Developer
+Jewellery Quarter Bullion are seeking a Software Developer to bolster our growing development team as we continue to improve our systems and expand our reach internationally.
+You will report to the Software Development Manager and work closely with other team members to develop, review, and maintain functionality across our various bespoke websites and APIs. This role will provide you with the opportunity to learn new skills, hone your existing ones, and unlock your potential as a great software developer.
+Please note: we do not sponsor visas.
+Your key responsibilities
+
+Developing and maintaining our bespoke e-commerce websites, APIs, and libraries.
+Working closely with others across the business to produce high-quality features.
+Working to improve your skills and sharing them with other team members.
+Supporting our internal customers to get the most from our software.
+
+Salary
+£45,000 - £55,000 + bonus (up to 10%)
+Bonus is based on company performance and is paid twice per year. The average bonus paid out over the last three years has been 9.35%.
+Benefits
+
+Remote-first (office space available).
+Bonus scheme (up to 10% of your base salary).
+Mobile phone and contract.
+Cycle to work scheme (5% of salary up to £2.5k).
+25 days holiday, plus bank holidays, plus the option to purchase additional days.
+Half-day off for your birthday.
+10% training time.
+Budget for skills development.
+Pirkx (online GP, mental health care, and discounts portal).
+Yearly volunteer day.
+Staff discounts on bullion and jewellery products.
+
+About you
+As a developer joining a team in a remote position, you will need to be proactive in your own onboarding. You’ll understand that there are no silly questions and that it’s better to confirm your assumptions before investing time in the wrong solution. You will value the skills and experience of the team around you and do your best to use them to your advantage in an efficient and conscientious manner. You will seek feedback from those around you and make time to reflect on your successes and failures.
+Understanding that your job is to support our customers and colleagues, you will be driven to find pragmatic solutions to the business problems presented to you, utilising our technology stack to its full advantage. You will endeavour to fully comprehend the tasks you are undertaking, building relationships across the business to foster a deep understanding of the impact of your work.
+Your curiosity and desire to improve will drive you to learn about the business as a means to increase the efficacy of your contributions. You’ll see that your journey to becoming a senior developer involves more than just writing code, and you’ll relish the opportunities to make an impact wherever you can.
+Essential requirements
+
+At least two years’ commercial software development experience.
+Skills in coding a server-side programming language, and a desire to learn Python.
+Skills in coding HTML and CSS (we use Sass).
+Examples of your work (links to websites, code repositories, etc …).
+Good verbal and written communication skills.
+
+Nice to have
+
+Experience with a web framework like Django or Laravel.
+Experience with unit testing and continuous integration.
+Experience of working with Linux / Unix systems.
+An interest in investment or personal finance.
+Foreign languages.
+
+About us
+Joining Jewellery Quarter Bullion you will become part of an exciting, entrepreneurial business which over the last 13 years has grown BullionByPost.co.uk to become the UK’s no.1 online gold and silver bullion dealer, turning over in excess of £320m a year. We also operate Gold.co.uk and have recently created a rapidly growing presence of fully translated and localised bullion websites across the EU and the United States. We also run The Fine Jewellery Company and The Jewellers, online jewellery platforms who offer one of the widest ranges of gifting jewellery in the UK.
+Our people are the cornerstone of our growth, and you will be joining a dynamic team focussed on our shared success. You will be part of a business where individual ideas and contributions are truly valued, and everyone can make a difference.
+Job Types: Full-time, Permanent
+Salary: £45,000.00-£55,000.00 per year
+Benefits:
+
+Additional leave
+Company events
+Company pension
+Cycle to work scheme
+Employee discount
+Referral programme
+Sick pay
+Store discount
+Wellness programme
+Work from home
+
+Schedule:
+
+Monday to Friday
+
+Supplemental pay types:
+
+Bonus scheme
+
+Work authorisation:
+
+United Kingdom (required)
+
+Work Location: Remote

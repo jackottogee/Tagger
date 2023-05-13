@@ -1,0 +1,98 @@
+THE COMPANY:
+Meddbase is an online digital healthcare framework which has been designed and developed by Medical Management Systems Ltd.
+In 2004, we created a comprehensive healthcare web-application that runs all aspects of a medical practice, from GP practices up to large hospitals groups. Our product enables single and multiple location private medical practices to connect securely to their data from any location worldwide. The business is thriving and we are proudly the leading online medical management system on the UK market.
+Meddbase is a SaaS healthcare web application that runs all aspects of a medical practice (from GP practices up to large hospital groups). Our application includes:
+
+Patient medical record system;
+Comprehensive consultation suite;
+Document management;
+Scheduling;
+Accounting;
+Email;
+Social network;
+Task management;
+Referral management;
+Reporting and query system for analytics;
+Clinical text analysis using NLP;
+Collaboration system;
+Practice networking;
+Patient portal;
+Occupational health portal;
+PACS system (MRI/X-ray/Ultrasound);
+and much more…
+
+We run on our own machines in high-security data centres as well as hosting some systems in Azure. We have Infrastructure and Site Reliability Engineers who work closely with the development team on deployments and monitoring.
+We have a team of 15 developers who are very capable and committed and work in a very collaborative environment. We are now looking to extend that team with another Senior Software Engineer.
+The main requirements for this role are significant C# and web-development experience. We are looking for someone that is happy to take end-to-end responsibility for producing a feature with the ability to communicate effectively across functions (Product, QA, SRE etc). You should be keen to take ownership of areas of the code base, mentor junior developers and help improve our processes.
+We take a functional approach to C# code and there will be an expectation for you to learn that if you don’t have existing knowledge.
+Our technical teams all work remotely, we have regular calls for progress updates and knowledge sharing but you will need to be able to work under your own initiative.
+We encourage developers to share their expertise with the rest of the team and run book clubs and presentations to facilitate this.
+Career progression for individual contributors is valued here and we have several team members that now hold Principal Software Engineer positions, we also have a distinct track for those interested in team lead and other management roles.
+We need creatively minded individuals who can solve unique problems; not just technical ones, but in improving healthcare too. We value people that can address real-world problems and think creatively and with empathy for the end user.
+Ideally, you will be degree educated, but beyond that what we want to see is experience and a passion for what you do.
+You must be a UK resident and have the right to work in the UK. Some of our environments require security vetting and you should be comfortable undertaking that process.
+Skills & Requirements:
+
+Significant experience in C# and evidence of a varied career in software development.
+Web application development experience.
+A willingness to use the functional paradigm rather than OOP.
+
+Desirable:
+
+SQL Server / any relational databases
+TypeScript / modern UI frameworks.
+
+Working at Meddbase:
+Our working environment is genuinely friendly, inclusive and comfortable.
+Our London office is located minutes from Fenchurch Street Station, whilst our Southampton office is minutes from Southampton Central Station. Both offices have excellent bike storage and shower facilities.
+We operate a flexi-hours scheme between 8.30am – 6.00pm with an hour for lunch. You will not be expected to work extremely long hours, as so often happens in software companies. We prefer the approach of ‘it’s a marathon not a sprint’, so we actively discourage working gruelling hours. Meddbase creates opportunities for everyone to socialise and spend time together informally. We offer a few different clubs, including a technical book club and a 5km running club. Additionally, our employee-led MeddLife committee arranges charity events, quizzes and other fun events across the year.
+We provide breakfast cereals daily, as well as beverages and fruit.
+Company Benefits:
+We offer competitive salaries for all our roles and have a comprehensive benefits package. Our benefits include:
+
+25 days of annual leave, plus bank holidays
+Subsidised gym membership
+Life assurance
+Access to an Employee Assistance Programme
+Private healthcare insurance for dental, medical and optical (length of service conditions apply)
+Enhanced maternity and paternity pay
+Sabbatical leave
+Eye test vouchers
+Flexi-hours
+
+Development & Support:
+Once you join our team, we will ensure you benefit from a thorough on-boarding programme. Aside from regular 121s, appraisals and informal check-ins, all employees have access to training and professional development opportunities.
+Compliance:
+Medical Management Systems is ISO 27001:2013 accredited and maintains various other standards to ensure best practice and DPA2018/GDPR compliance. As part of your role, you will be expected to undertake information security training on an annual basis. Furthermore, you will need to maintain awareness of and follow company policies on secure information handling
+Diversity:
+Meddbase is an equal opportunities employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity or disability status.
+Job Type: Full-time
+Salary: £60,000.00-£80,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Gym membership
+Life insurance
+Private medical insurance
+Referral programme
+Sick pay
+Wellness programme
+Work from home
+
+Flexible Language Requirement:
+
+English not required
+
+Schedule:
+
+Monday to Friday
+Weekend availability
+
+Supplemental pay types:
+
+Yearly bonus
+
+Work Location: Remote

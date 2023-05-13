@@ -1,0 +1,42 @@
+
+ Company Description
+  We pledge "to prove IT can make a real difference to our customer's businesses". We work hard to ensure we understand what our customers need from their technology solutions and then we deliver.  We are an award-winning company who provide world class customer service; we think big and we hire great people. Version 1 are more than just another IT services company - we are leaders in implementing and supporting Oracle, Microsoft and AWS technologies.  Invest in us and we’ll invest in you; if you are driven, committed and up for a challenge, we want to meet you.
+
+
+
+ Job Description
+  We are building/adapting scalable, high-quality RESTful microservices using Python and Django for a government client. Modern, accessible frontend applications using HTML, CSS, and JavaScript with templating tools like Moustache.
+ You will be engaging in solution design with Business and Technical representatives, bringing your thoughts on new techniques and alternative approaches to the team for the development of public and private APIs, web application backends, and data acquisition from web sources using the Python language.
+ Responsibilities
+
+ Build APIs for third-party access to regulations from the client, to be implemented under an API management system.
+ Build responsive, reliable, performant, documented and secure web application backends.
+ Implement, tune, monitor, and maintain the DevOps necessary to support the above (AWS, Azure, GCP) with Docker.
+ Using common JavaScript build and test tools such as Jest/Mocha/Jasmine/Karam, Webpack and NPM.
+ Implement a TDD approach to building software and an understanding of modern design patterns.
+ Perform code reviews and testing as needed to ensure high quality deliverables.
+ Create and communicate development plans and schedules
+
+
+
+
+ Qualifications
+  We are looking for:
+
+ Experience in comparable business/technical/product environments using Python.
+ Proficiency in cloud-based development, DevOps, and operations
+ Technologies – Python 3, HTML, SQL, XML, GIT,
+ Experience of configuring cloud environments: Microsoft Azure and/or Amazon AWS.
+ Reasonable Linux knowledge
+ Strong communication skills
+ Candidates that are eligible for SC clearance
+
+ Additional Information
+  Before you apply, here are some of our benefits. We offer profit share, pension, private medical, flexible working policy and more. We offer incentives for accreditations and educational assistance for courses relevant to your role.  We offer employee recognition in the form of Excellence Awards and CallOut which are awarded by your peers. Engagement is incredibly important with local engagement teams driving our engagement events!
+
+ Remote Working
+ Private Medical
+ Life Insurance
+ Quarterly Profit Share
+ Pathways Career Development Quarterly
+

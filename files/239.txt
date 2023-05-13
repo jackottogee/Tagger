@@ -1,0 +1,57 @@
+
+
+
+
+
+At Burberry, we believe creativity opens spaces. Our purpose is to unlock the power of imagination to push boundaries and open new possibilities for our people, our customers and our communities. This is the core belief that has guided Burberry since it was founded in 1856 and is central to how we operate as a company today.
+We aim to provide an environment for creative minds from different backgrounds to thrive, bringing a wide range of skills and experiences to everything we do. As a purposeful, values-driven brand, we are committed to being a force for good in the world as well, creating the next generation of sustainable luxury for customers, driving industry change and championing our communities.
+
+
+
+
+ TECHNOLOGY
+
+
+ Although Burberry is a very well-known FTSE 100 company, we have very few tech boundaries; our microservices platform was recently implemented on then-new serverless AWS tech - so successfully that we gave a talk at AWS Summit in Las Vegas.
+We continually trial betas of AWS and other tech solutions to see how we could use them, while having regular calls with AWS to understand and trial new features and capabilities. 
+We predominantly use nodejs for backend with react on the frontend. Infrastructure as Code is either Terraform or AWS CDK. To support all of this we are building an internal open source shared library.
+We're big on automation. We have gitlab for CI, snyk for security testing, an internal performance engineering team ensuring your solutions meet high standards. 
+Our platforms and applications are extremely stable, and we focus on building new features and trialing new tech. The number of critical incidents has reduced significantly over the past few years thanks to our investment in Observability, including teams being responsible for their application in production (we call it Run What You Wrote). 
+The Burberry brand is known around the world, and our technology must support customers everywhere. Localisation is the key part of our strategy – we tailor our customer experiences online in many regions. From overcoming global technical restrictions, to building for users on all devices, we need to give Burberry consumers the highest quality luxury digital retail experience wherever they may be.
+
+
+
+
+ RESPONSIBILITIES
+
+
+ As a Mid Level Engineer, you will have 2-3 years of hands-on experience in vanilla JavaScript and ReactJS.
+Key responsibilities include:
+
+Being a part of an engineering team of 3-6 engineers
+Working closely with the team to plan and agree delivery milestones and deliver the agreed scope on time
+Writing high-quality code
+Continuously looking for opportunities to improve our products and agile ways of working 
+
+
+
+
+
+PERSONAL PROFILE
+
+
+
+vanilla JavaScript
+ - TypeScript
+     - React
+     - Next.js
+     - CSS / LESS / SASS
+     - HTML
+     - Design Systems
+     - Git (including Hooks, Trailers, and Workflows)
+     - Semantic Versioning & Release Cadences
+     - Telemetry & Observability
+   
+
+
+

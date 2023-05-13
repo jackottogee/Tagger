@@ -1,0 +1,70 @@
+A-Plan Group
+The A-Plan Group is part of the Howden and is the parent company of number of insurance and related businesses including: A-Plan Insurance, Endsleigh Insurance and Assured Futures.
+A-Plan Group’s technology investments are a core component of its continued growth and recognised as an important asset. A-Plan Group’s technology sales now extend to external customers. Technology services range from public facing website development and customer management solutions through to back-end quoting engines and data science services.
+The Cheltenham development team services partners across the group on projects encompassing the full technology stack with a particular focus on performant, cloud based, middleware solutions.
+The Role
+We currently are looking for two junior to mid-level developer. This is an exciting opportunity to join a new and growing team.
+You will be an enthusiastic, resourceful developer with a passion for delivering robust and effective software solutions. The role will be full stack developer. Any work experience of using C#.Net to develop object-orientated software with an awareness of the wider technological landscape will be a plus point.
+Working within our dynamic and supportive team, you will be expected to produce innovative, practical, and reliable solutions to a wide range of requirements. You will collaborate and communicate well with the development team and partners within the business, accurately interpreting briefs, identifying opportunities and mitigating risks.
+Skills and Experience
+Experience in C# and .net framework is required along with exposure to Blazor. Knowledge of Web API, MS Azure and any formal testing methodologies is desirable. Successful candidates will be expected to have worked in, or have a working knowledge of, agile development.
+Knowledge and experience of one or more of the following skills is advantageous
+- Azure DevOps/Git
+- SQL Server/TSQL
+- SOLID and Clean coding principles
+- Css/Sass
+- MAUI (any other mobile app development framework)
+You should be able to evidence your skills in the above areas through your work experience and portfolios.
+Benefits
+We offer a salary of £25-50k depending on experience with a genuine opportunity to develop your professional portfolio and gain experience of many cutting edge and commercially relevant technologies.
+Other benefits include:
+
+Great opportunity for career advancement within a rapidly growing company
+Flexible hours of work, with a 37.5-hour week
+Work from home (office visit once a month)
+Great office space at Cheltenham, Gloucester and London:On-site parking (Gloucester office)
+Easy public transport access
+25 days holiday per annum
+Business casual dress code
+Gym membership discounts
+Life assurance
+Howden shareholder options
+Pension contributions
+Perkbox access
+& more…
+
+A-Plan group are an equal opportunities employer and welcome applications from all suitably qualified persons
+Job Types: Full-time, Permanent
+Salary: £35,000.00-£50,000.00 per year
+Benefits:
+
+Casual dress
+Company events
+Company pension
+Cycle to work scheme
+Employee discount
+Flexitime
+Free parking
+Gym membership
+On-site parking
+Profit sharing
+Referral programme
+Sick pay
+Store discount
+Work from home
+
+Schedule:
+
+Flexitime
+Monday to Friday
+No weekends
+
+Education:
+
+Bachelor's (preferred)
+
+Experience:
+
+C#: 1 year (required)
+
+Work Location: RemoteFlexitime

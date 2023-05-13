@@ -1,0 +1,53 @@
+
+Location: From M/CR office or remote working
+
+
+
+
+The Role
+
+ We are looking for a Full Stack Developer to produce scalable software solutions. You’ll be part of a cross-functional team that’s responsible for the full software development life cycle, from conception to deployment.
+ As a Full Stack Developer, you should be comfortable and follow industry best-practices around both front-end and back-end coding languages, development frameworks and third-party libraries. You should also be a friendly team player, willing to share your knowledge and learning with others.
+ You must be experienced in an Agile approach as our projects are delivered in sprints.
+
+Full Stack Developer duties include:
+
+Participating in the design and creation of scalable software
+Writing clean, functional code on the front- and back-end
+Testing and fixing bugs or other coding issues
+
+Some of the Full Stack Developer duties include:
+
+Work with development teams and product managers to create software solutions
+Design client-side and server-side architecture
+Develop and manage well-functioning databases and applications
+Write effective RESTful APIs
+Test software to ensure responsiveness and efficiency
+Troubleshoot, debug and upgrade software
+Create security and data protection settings
+Write technical documentation
+
+
+Essential Skills & Experience
+
+3+ years development in .NET, ASP.NET and MVC
+Strong knowledge of SQL Server (2012+)
+Development of RESTful APIs from scratch
+Can demonstrate good understanding of current technology stacks
+Strong front-end understanding of HTML/CSS and JavaScript, with Angular and Vue.Js experience a bonus.
+OOD, N-Tier architectures and software patterns and techniques
+Can demonstrate use of JavaScript testing frameworks
+Familiarity with UI/UX design
+Have applied SAST and DAST techniques to manage application security
+SSDT and SqlPackage or any Database DevOps tools and techniques would be a big plus
+Excellent communication and teamwork skills
+Great attention to detail
+Organisational skills
+An analytical mind
+
+Must Have
+
+3 years experience in .NET Technologies
+2 years experience using JavaScript
+1 year experience of working in a CI/CD environment
+

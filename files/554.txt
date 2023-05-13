@@ -1,0 +1,43 @@
+
+
+
+
+Job Description: Junior Web Developer 
+£25,000 - £30,000 Full Time Salary  General & Medical are a well-established company who specialise in Medical Insurance, keen to strengthen  the team with an additional Developer. Whilst working on a scheme of ongoing improvements, you will have  the opportunity to develop new skills and apply your knowledge across our systems. As part of the team you  will benefit from the wider experience available and improve your own capability so we can grow together.   Responsibilities for this position:  
+Develop and enhance our in-house CRM system written in C# and SQL Server.  
+Support business activities ensuring the integration of our websites and API with the CRM.  
+Support the Management as required, in accordance with identified priorities.  
+Work to deadlines in a fast paced development environment.  
+Program testing to ensure that developments are installed into the live system without causing  disruption to End Users.  
+Be able to work on multiple projects.  
+Contribute to team discussions and help identify areas where systems and processes could be improved.  
+Support staff with software related issues and assist in training on any new system designs.  
+Be familiar with company products and services.   Desirable Skills and Experience    
+Proven experience in .Net Development (ASP.Net & C#)  
+Sound grasp of object oriented programming  
+React / .NET Core / Razor Pages / Agile  
+Entity Framework  
+SQL Server (database design / stored procedures / optimisation)  
+Dev Ops  
+MVC  
+Familiarity with HTML5 / CSS3 / Bootstrap 4  
+Visual Studio  
+JavaScript & JQuery  
+Web Forms  
+Full project life cycle software development   What You Can Expect From Us   
+Attractive Full Time Salary dependant on experience (Junior Entrants with C# Considered)  
+Office based with Regular Monday to Friday hours  
+Access to Pension Scheme  
+Attendance Bonus  
+Great Annual Leave Benefit including additional family days  
+Free Worldwide Multi Trip Travel Cover and discounted rate for family members  
+Cash benefits linked to Personal Accident, Life Cover and Critical Illness  
+Monthly Employee Rewards Scheme  
+Commitment to Employee Learning and Development  
+Access to Wellbeing Services and Discount Platform  
+Free tea, coffee and fresh fruit  
+Friendly working environment in Peterborough – convenient location close to the A1   Our greatest strength is our people – professional, driven yet grounded and fun to work with. If our culture 
+sounds like a good fit for you and you want to be part of our exciting journey then please send a copy of 
+your CV to jobs@generalandmedical.com
+
+

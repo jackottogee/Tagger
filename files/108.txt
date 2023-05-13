@@ -1,0 +1,167 @@
+
+
+  End Date
+  Tuesday 30 May 2023
+ 
+
+   Salary Range
+  £52,912 - £85,982
+ 
+
+ Agile Working Options
+  Other Agile Working Arrangements / Open to Discussion
+ 
+
+   Job Description Summary
+  Aims to deliver the highest quality customer driven software whilst continually challenging, motivating, mentoring and supporting their engineering teams.
+ 
+
+   Job Description
+ 
+
+   As the UK's largest Digital, Retail and Commercial bank we realise that our data is a significant business differentiator and plays a pivotal role in achieving our sustainable growth ambitions.
+ 
+
+
+   We're looking to further adopt sophisticated approaches to how we utilise data to interact with and service our customers backed with a £3bn investment programme.
+ 
+
+
+   Our Mission:
+   We're on a mission to build the bank of the future, and we need your help to do it.
+   We're redefining what a bank is from the inside out. Our technology and our culture are changing to craft a true engineering-led organisation.
+ 
+
+
+   Become part of our diverse team, and you'll experience a rare opportunity to make a difference to the lives of millions through our brands like Halifax, Bank of Scotland, Lloyds, and Scottish Widows (among others).
+ 
+
+
+   Our flat teams will encourage and empower you to make decisions, build positive relationships, and deliver a meaningful difference to our customers, colleagues, and communities.
+ 
+
+
+   Our mentors will nurture your talent and encourage you to further develop yourself and your career.
+ 
+
+
+   Location: The role is based in Bristol, with some travel to London, or Manchester. Our approach to hybrid working is still emergent but you should expect to be in office up to three days per week with home-working available for the remaining days.
+ 
+
+
+   *** The base salary banding for this role is £61,911 - £68,790 depending on experience - plus benefits outlined below ***
+ 
+
+
+   About the role:
+   We're the team that looks after the customer data for the whole of Lloyds Banking Group. Our mission is to make this data available for the right purpose with the appropriate confidentiality and always ensuring a phenomenal engineering experience, performances, resilience, and integrity.
+ 
+
+
+   The systems we support, underpin almost everything we do as Lloyds Banking Group. We maintain these systems with the highest standard, with an ambition to take ownership of the operational support 24/7 using SRE principles and together we'll make it possible...
+ 
+
+ About you:
+   Generally, you're comfortable in a software development role, blending both solid experience and technical expertise.
+ 
+
+ We're looking for an outstanding collaborator that can drive a strategy and key initiatives forward, while being an advocate for excellence, culture, and sustainability.
+ 
+
+ You'll support the growth and mentor junior colleagues, while helping shape the culture of the team.
+ 
+
+
+   More specifically we’d like you to have much of the following, but it's ok if you don't check every box:
+ 
+
+
+
+     Hands on Software Engineering background with experience in building large scale applications in Java, using a fairly broad set of tools, techniques, and platforms, including cloud hosting.
+   
+
+
+     Experience working with Spring, Hibernate, REST APIs, JSON, Microservices
+   
+
+
+     Experience working with container environments in particular Docker, Kubernetes and Helm.
+   
+
+
+     Passionate about continuous integration, continuous delivery, and automation (Nexus, GIT, Jenkins)
+   
+
+
+     Awareness of security considerations and security tools used to integrate with the build pipeline covering OWASP top 10
+   
+
+
+     Some experience in Operations and support, ideally following SRE principles
+   
+
+
+     Able to listen, reflect and respect the views of others as well as being able to communicate your own opinion but you're not strongly tied to it
+   
+
+
+     A growth mindset, who encourages, mentors and motivates the teams around you
+   
+
+
+
+   What you'd get in return:
+ 
+
+   This is a fantastic area of the bank, full of down-to-earth people passionate about software engineering and sharing their expertise. As the engineering space underpins so many important initiatives, it's a key area to work with huge career potential.
+ 
+
+
+   We believe that a healthy work/ life balance is as important as the work we deliver, just let us know what might work for you...
+ 
+
+
+   We're also passionate about diversity and equal opportunity with industry recognition across gender, ethnicity, disability, LGBTQ+ and families. And, being disability positive, reasonable adjustments can be accommodated in our Recruitment process.
+ 
+
+
+   We’re simply committed to building an inclusive environment where all our colleagues can be themselves and succeed on merit.
+ 
+
+
+   You'll also receive a package that includes:
+ 
+
+
+
+     Competitive salary with discretionary annual performance bonus
+   
+
+
+     A Cash sum of 4% which you can exchange for a variety of benefits (or take as cash)
+   
+
+
+     Private Medical Insurance and a generous pension contribution of up to 15%
+   
+
+
+     Share plans, including free shares
+   
+
+
+     30 days holiday (plus bank holidays on top)
+   
+
+
+
+   So, if you have a desire to work in an exciting Java Software Engineering role, then please get in touch we’d love to hear from you!
+ 
+
+
+   At Lloyds Banking Group, we're driven by a clear purpose; to help Britain prosper. Across the Group, our colleagues are focused on making a difference to customers, businesses and communities. With us you'll have a key role to play in shaping the financial services of the future, whilst the scale and reach of our Group means you'll have many opportunities to learn, grow and develop.
+ 
+
+
+   We're focused on creating a values-led culture and are committed to building a workforce which reflects the diversity of the customers and communities we serve. Together we’re building a truly inclusive workplace where all of our colleagues have the opportunity to make a real difference.
+ 

@@ -1,0 +1,94 @@
+
+Back End Developer 
+
+
+Fully Remote – UK Wide
+
+ We are looking for a talented and ambitious Back End Developer to work for a small and dynamic product and services company to work on a broad variety of innovative customer platforms & systems within the security and defence sectors. You will work within a small development team and enjoy delivering innovative and engaging outcomes.
+ 
+
+The Role
+
+ We are looking for a talented Back End Developer to produce scalable software solutions within our small development team.
+ 
+ You’ll be part of a cross-functional team that’s responsible for the design of new products with your focus on the development life cycle, from conception to deployment.
+ 
+ As a Back End developer, you should be comfortable around back-end coding languages, development frameworks and third-party libraries. You should also be a team player with a knack for visual design and utility.
+ 
+ Successful candidates will have some recent and relevant commercial software development experience.
+ 
+
+WHAT WILL YOU BE DOING:
+
+ · Work with our engineering teams and product managers to ideate software solutions
+  · Design client-side and server-side architecture
+  · Build the front-end of applications through appealing visual design
+  · Develop and manage well-functioning databases and applications
+  · Write effective APIs
+  · Test software to ensure responsiveness and efficiency
+  · Troubleshoot, debug and upgrade software
+  · Create security and data protection settings
+  · Build features and applications with a mobile responsive design
+  · Write technical documentation
+  · Work with Engineering and Capability Delivery to improve software
+ 
+
+About You:
+
+ · Self-motivated with the ability to work independently with minimal supervision
+  · Take pride in producing and maintaining work to a high standard
+  · Be a creative thinker able to recognise and solve problems by thinking outside the box
+  · Willingness to adopt new techniques and technologies and stay up to date with industry best practices
+  · Understanding of Agile methodologies
+  · Minimum of three years’ recent experience with all of the skills below
+ 
+
+
+WHAT SKILLS AND EXPERIENCE WILL YOU NEED?
+
+ · 2+ years commercial experience as a Back End Developer / Full Stack Developer or similar role
+  · Experience of being part of a development team
+  · Experience developing desktop and mobile applications
+  · Knowledge and experience of Node.js
+  · Knowledge of code versioning tools such as GitHub and GitLab
+  · Excellent communication and teamwork skills
+  · Great attention to detail
+  · Organisational skills
+ 
+
+ Desirable Skills: 
+ 
+Python programming 
+Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery) 
+Experience of front-end frameworks such as React ( 
+Knowledge of multiple back-end languages in Python and JavaScript frameworks 
+Familiarity with databases (e.g. MySQL, MongoDB), web servers (e.g. Apache) and UI/UX design 
+Experience with cloud provisioning APIs 
+Knowledge of Node-Red 
+Experience of programming edge devices, specifically low powered ARM devices
+
+
+
+
+Culture
+
+
+Flexible, friendly and fun, but driven to making the business a success 
+Innovative and inquisitive thinking 
+Tech and process driven – we make tech, we love tech, and we use tech to make our lives easier where possible 
+
+
+Benefits
+
+
+Flexible working hours and home working options (the role can based fully remotely anywhere in UK but you will need to be prepared to spend the odd day in the office for company events) 
+24 Days annual leave (plus Bank Holidays) 
+On-going training where required 
+Perks: access to Perkbox 
+Competitive salary 
+Modern up to date tech (phones, laptop etc) 
+
+
+Additional Requirements
+
+ Due to the nature of products you will be working with, all applicants must be entitled to work in the UK and have been resident in the UK for 5 years or longer and be willing to undergo security vetting.

@@ -1,0 +1,28 @@
+
+Lead Software Developer / Engineer (Agile C# ASP.Net Core) London / WFH to £100k
+ Would you like to join a growing start-up that is viewed as a leading FinTech disruptor in a senior role that will allow you a great deal of influence and progression?
+ As a Lead Software Developer you'll architect and build highly performant and scalable solutions using the Microsoft tech stack and SOLID design principles, leading cross functional Agile project teams you'll be an advocate of coding best practice and ensure software is delivered to schedule. 
+You'll have exposure across the full development lifecycle, from collaborating with stakeholders to define requirements through to solution delivery using a range of technologies including C#, ASP.Net Core, AWS, Microservices, Octopus and TeamCity. 
+WFH Policy:
+ There's a hybrid policy, with two days in the brand new London offices and flexibility to work from home three days a week. 
+Requirements:
+
+ You have strong C# ASP.Net design and development experience, including .Net core
+ You have a good knowledge of SOLID design principles
+ You have experience with AWS and ideally have used such as Octopus Deploy and TeamCity
+ You're collaborative, keen to share knowledge and mentor, taking a lead role on projects
+ You have a good knowledge of microservices
+ You have strong analysis and problem solving skills alongside organisation and planning abilities
+
+ Salary & benefits:
+ As a Lead Software Developer / Engineer you will earn a competitive salary (to £100k) plus a host of perks and benefits including:
+
+ Bonus
+ Pension
+ 25 days holiday (increasing to 30)
+ Life Assurance
+ Employee Assistance Programme
+ Range of training, career development and supported learning 
+
+Apply now or call to find out more about this Lead Software Developer / Engineer (Agile C# .Net Core) opportunity. 
+At Client Server we believe in a diverse workplace that allows people to play to their strengths and continually learn. We're an equal opportunities employer whose people come from all walks of life and will never discriminate based on race, colour, religion, sex, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status. The clients we work with share our values.
