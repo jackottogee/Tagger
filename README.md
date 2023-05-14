@@ -22,7 +22,7 @@ tagged.py matches the tagged sentences back with the original document, generati
 
 ## training.py
 
-The actual training of the ML model. Currently, this version uses a Multinomial Naive Bayes classifier to for the task. In the future, I may implement other models / methodologies. This algorithm is currently 86% accurate (for tech roles found on indeed).
+The actual training of the ML model. Currently, this version uses a Multinomial Naive Bayes classifier for the task. In the future, I may implement other models / methodologies. This algorithm is currently 86% accurate (for tech roles found on Indeed).
 
 ## classify.py
 
